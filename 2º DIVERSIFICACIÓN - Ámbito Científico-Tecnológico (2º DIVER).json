@@ -1,0 +1,1148 @@
+{
+    "titulo": "2º DIVERSIFICACIÓN - Ámbito Científico-Tecnológico (2º DIVER)",
+    "referencia": "ACT.2",
+    "competencias_especificas": [
+        {
+            "codigo": "ACT.2.1",
+            "descripcion": "Reconocer situaciones susceptibles de ser abordadas en términos matemáticos, formular preguntas que conlleven al planteamiento de problemas y analizar las posibles soluciones usando diferentes saberes, representaciones técnicas y herramientas, para verificar su validez desde un punto de vista lógico y potenciar la adquisición de conceptos y estrategias matemáticas."
+        },
+        {
+            "codigo": "ACT.2.2",
+            "descripcion": "Reconocer y utilizar conexiones entre los diferentes elementos matemáticos, interconectando conceptos y procedimientos para desarrollar una visión de las matemáticas como un todo integrado."
+        },
+        {
+            "codigo": "ACT.2.3",
+            "descripcion": "Comprender cómo las ciencias se generan a partir de una construcción colectiva en continua evolución, interrelacionando conceptos y procedimientos para obtener resultados que repercutan en el avance tecnológico, económico, ambiental y social."
+        },
+        {
+            "codigo": "ACT.2.4",
+            "descripcion": "Desarrollar destrezas personales, identificando y gestionando emociones, poniendo en práctica estrategias de aceptación del error como parte del proceso de aprendizaje y adaptándose ante situaciones de incertidumbre, para mejorar la perseverancia en la consecución de objetivos y el disfrute en el aprendizaje de las ciencias."
+        },
+        {
+            "codigo": "ACT.2.5",
+            "descripcion": "Analizar los elementos de un paisaje concreto utilizando conocimientos sobre geología y ciencias de la Tierra para explicar la historia y la dinámica del relieve e identificar posibles riesgos naturales."
+        },
+        {
+            "codigo": "ACT.2.6",
+            "descripcion": "Interpretar y comprender problemas de la vida cotidiana y fenómenos fisicoquímicos del entorno, aplicando diferentes estrategias (como la modelización) y formas de razonamiento (basado en leyes y teorías científicas adecuadas), para obtener soluciones y aplicarlas a la mejora de la realidad cercana y la calidad de vida humana."
+        },
+        {
+            "codigo": "ACT.2.7",
+            "descripcion": "Planificar y desarrollar proyectos de investigación, siguiendo los pasos de la metodología científica (formulando preguntas, conjeturas e hipótesis, explicándolas a través de la experimentación, indagación o búsqueda de evidencias), cooperando y de forma autónoma, para desarrollar el razonamiento, el conocimiento y las destrezas científicas."
+        },
+        {
+            "codigo": "ACT.2.8",
+            "descripcion": "Utilizar el razonamiento y el pensamiento computacional, organizando datos, para resolver problemas o dar explicación a procesos de la vida cotidiana, analizando críticamente las respuestas y soluciones, así como reformulando el procedimiento, si fuera necesario."
+        },
+        {
+            "codigo": "ACT.2.9",
+            "descripcion": "Interpretar, argumentar, producir y comunicar información, datos científicos y argumentos matemáticos de forma individual y colectiva, utilizando diferentes formatos y la terminología apropiada para reconocer el carácter universal y transversal del lenguaje científico y la necesidad de una comunicación fiable en investigación y ciencia, manejando con soltura las reglas y normas básicas de la física y química en lo referente al lenguaje de la IUPAC, al lenguaje matemático, al empleo de unidades de medida correctas y al uso seguro del laboratorio."
+        },
+        {
+            "codigo": "ACT.2.10",
+            "descripcion": "Utilizar distintas plataformas digitales, analizando, seleccionando y representando información científica veraz para fomentar el desarrollo personal y resolver preguntas mediante la creación de materiales y su comunicación efectiva."
+        },
+        {
+            "codigo": "ACT.2.11",
+            "descripcion": "Utilizar las estrategias propias del trabajo colaborativo, desarrollando destrezas sociales que permitan potenciar el crecimiento entre iguales, reconociendo y respetando las emociones y experiencias de los demás, participando activa y reflexivamente en proyectos en grupos heterogéneos con roles asignados para construir una identidad positiva, como base emprendedora de una comunidad científica crítica, ética y eficiente, para comprender tanto la importancia de la ciencia en la mejora de la sociedad andaluza y global como las aplicaciones y repercusiones de los avances científicos que permitan analizar los efectos de determinadas acciones sobre el medioambiente y la salud, para promover y adoptar hábitos que sean compatibles con un desarrollo sostenible y permitan mantener y mejorar la salud individual y colectiva y que eviten o minimicen los impactos medioambientales negativos, todo ello teniendo como marco el entorno andaluz."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "ACT.2.1.1",
+            "descripcion": "Reconocer situaciones susceptibles de ser formuladas y resueltas mediante herramientas y estrategias matemáticas, planteando variantes, modificando alguno de sus datos o alguna condición del problema y proporcionando una representación matemática adecuada.",
+            "saberes_relacionados": [
+                "ACT.2.D.5.1.",
+                "ACT.2.D.5.2.",
+                "ACT.2.D.6.1."
+            ]
+        },
+        {
+            "referencia": "ACT.2.1.2",
+            "descripcion": "Comprobar la validez de las soluciones a un problema desde un punto de vista lógico-matemático, verbalizando de forma clara y concisa el procedimiento seguido, y elaborar las respuestas evaluando su alcance, repercusión y coherencia en su contexto.",
+            "saberes_relacionados": [
+                "ACT.2.A.1.1.",
+                "ACT.2.A.1.2.",
+                "ACT.2.D.4.4.",
+                "ACT.2.F.3.2."
+            ]
+        },
+        {
+            "referencia": "ACT.2.2.1",
+            "descripcion": "Reconocer y usar las relaciones entre los conocimientos y experiencias matemáticas formando un todo coherente, reconociendo y utilizando las conexiones entre ideas matemáticas en la resolución de problemas.",
+            "saberes_relacionados": [
+                "ACT.2.D.2.1.",
+                "ACT.2.D.2.2.",
+                "ACT.2.E.1.6.",
+                "ACT.2.J.1."
+            ]
+        },
+        {
+            "referencia": "ACT.2.2.2",
+            "descripcion": "Realizar conexiones entre diferentes procesos matemáticos aplicando conocimientos y experiencias, enlazando las nuevas ideas matemáticas con ideas previas.",
+            "saberes_relacionados": [
+                "ACT.2.D.3.",
+                "ACT.2.D.2.2.",
+                "ACT.2.E.3.5."
+            ]
+        },
+        {
+            "referencia": "ACT.2.3.1",
+            "descripcion": "Establecer conexiones entre el mundo real y las matemáticas usando los procesos inherentes a la investigación científica y matemática: inferir, medir, comunicar, clasificar y predecir, aplicando distintos procedimientos en la resolución de problemas en situaciones diversas.",
+            "saberes_relacionados": [
+                "ACT.2.E.1.2.",
+                "ACT.2.E.2.1.",
+                "ACT.2.E.3.4."
+            ]
+        },
+        {
+            "referencia": "ACT.2.3.2",
+            "descripcion": "Analizar conexiones coherentes en el entorno próximo, entre las necesidades tecnológicas, ambientales, económicas y sociales más importantes que demanda la sociedad para reconocer la capacidad de la ciencia para darle solución a situaciones de la vida cotidiana.",
+            "saberes_relacionados": [
+                "ACT.2.D.2.2.",
+                "ACT.2.D.4.1.",
+                "ACT.2.G.5.",
+                "ACT.2.G.6.",
+                "ACT.2.I.3."
+            ]
+        },
+        {
+            "referencia": "ACT.2.3.3",
+            "descripcion": "Reconocer en diferentes contextos (personal, escolar, social, científico y humanístico), cómo a lo largo de la historia, la ciencia ha mostrado un proceso constructivo permanente y su aportación al progreso de la humanidad debido a su interacción con la tecnología, la sociedad y el medioambiente.",
+            "saberes_relacionados": [
+                "ACT.2.A.1.2.",
+                "ACT.2.D.2.2.",
+                "ACT.2.D.4.1.",
+                "ACT.2.G.5.",
+                "ACT.2.G.6."
+            ]
+        },
+        {
+            "referencia": "ACT.2.4.1",
+            "descripcion": "Gestionar las emociones propias y desarrollar el autoconcepto matemático como herramienta, generando expectativas positivas ante nuevos retos, pensando de forma crítica y creativa, adaptándose ante la incertidumbre y reconociendo fuentes de estrés.",
+            "saberes_relacionados": [
+                "ACT.2.F.1.2."
+            ]
+        },
+        {
+            "referencia": "ACT.2.4.2",
+            "descripcion": "Mostrar una actitud positiva, proactiva y perseverante, aceptando la crítica razonada, el error y las conclusiones de las autoevaluaciones como elementos necesarios para hacer frente a las diferentes situaciones de aprendizaje de las matemáticas.",
+            "saberes_relacionados": [
+                "ACT.2.F.1.1.",
+                "ACT.2.F.1.3.",
+                "ACT.2.F.2.2."
+            ]
+        },
+        {
+            "referencia": "ACT.2.5.1",
+            "descripcion": "Interpretar el paisaje analizando el origen, relación y evolución integrada de sus elementos, entendiendo los procesos geológicos que lo han formado y los fundamentos que determinan su dinámica.",
+            "saberes_relacionados": [
+                "ACT.2.L.7.",
+                "ACT.2.L.8."
+            ]
+        },
+        {
+            "referencia": "ACT.2.5.2",
+            "descripcion": "Analizar los elementos del paisaje, determinando de forma crítica el valor de sus recursos, el impacto ambiental y los riesgos naturales derivados de determinadas acciones humanas pasadas, presentes y futuras.",
+            "saberes_relacionados": [
+                "ACT.2.G.3.",
+                "ACT.2.L.5.",
+                "ACT.2.L.6."
+            ]
+        },
+        {
+            "referencia": "ACT.2.6.1",
+            "descripcion": "Interpretar y comprender problemas matemáticos complejos de la vida cotidiana y fenómenos fisicoquímicos, organizando y analizando los datos dados, estableciendo relaciones entre ellos, comprendiendo las preguntas formuladas y explicarlos en términos básicos de los principios, teorías y leyes científicas.",
+            "saberes_relacionados": [
+                "ACT.2.E.1.1.",
+                "ACT.2.E.3.1.",
+                "ACT.2.E.3.2.",
+                "ACT.2.H.1.",
+                "ACT.2.H.2.",
+                "ACT.2.H.3.",
+                "ACT.2.K.2."
+            ]
+        },
+        {
+            "referencia": "ACT.2.6.2",
+            "descripcion": "Expresar problemas matemáticos complejos o fenómenos fisicoquímicos, con coherencia y corrección utilizando al menos dos soportes y dos medios de comunicación, elaborando representaciones matemáticas utilizando herramientas de interpretación y modelización como expresiones simbólicas o gráficas.",
+            "saberes_relacionados": [
+                "ACT.2.E.1.4.",
+                "ACT.2.E.1.5.",
+                "ACT.2.E.2.2.",
+                "ACT.2.H.1.",
+                "ACT.2.K.2.",
+                "ACT.1.G.5.",
+                "ACT.1.G.6."
+            ]
+        },
+        {
+            "referencia": "ACT.2.6.3",
+            "descripcion": "Reconocer y describir en el entorno inmediato situaciones problemáticas reales de índole científica de diversa complejidad y emprender iniciativas que puedan contribuir a su solución, aplicando herramientas y estrategias apropiadas de las matemáticas y las ciencias, buscando un impacto en la sociedad.",
+            "saberes_relacionados": [
+                "ACT.2.D.4.2.",
+                "ACT.2.E.3.3.",
+                "ACT.2.G.1.",
+                "ACT.2.I.2.",
+                "ACT.2.I.3."
+            ]
+        },
+        {
+            "referencia": "ACT.2.6.4",
+            "descripcion": "Resolver problemas matemáticos y fisicoquímicos de diversa complejidad movilizando los conocimientos necesarios, aplicando las teorías y leyes científicas, razonando los procedimientos, expresando adecuadamente los resultados y aceptando el error como parte del proceso.",
+            "saberes_relacionados": [
+                "ACT.2.E.1.7.",
+                "ACT.2.F.1.3.",
+                "ACT.2.G.4."
+            ]
+        },
+        {
+            "referencia": "ACT.2.7.1",
+            "descripcion": "Analizar preguntas e hipótesis que puedan ser respondidas o contrastadas, a través de la indagación, la deducción, el trabajo experimental y el razonamiento lógico-matemático, utilizando métodos científicos, intentando explicar fenómenos del entorno cercano, y realizar predicciones sobre estos.",
+            "saberes_relacionados": [
+                "ACT.2.I.1.",
+                "ACT.2.I.2.",
+                "ACT.2.I.5.",
+                "ACT.2.G.1.",
+                "ACT.2.G.2.",
+                "ACT.2.H.4.",
+                "ACT.2.K.1."
+            ]
+        },
+        {
+            "referencia": "ACT.2.7.2",
+            "descripcion": "Estructurar los procedimientos experimentales o deductivos, la toma de datos y el análisis de fenómenos del entorno cercano, seleccionando estrategias sencillas de indagación, para obtener conclusiones y respuestas aplicando las leyes y teoría científicas estudiadas, de modo que permitan responder a preguntas concretas y contrastar una hipótesis planteada.",
+            "saberes_relacionados": [
+                "ACT.2.E.2.3.",
+                "ACT.2.I.1.",
+                "ACT.2.I.2.",
+                "ACT.2.I.5.",
+                "ACT.2.K.3.",
+                "ACT.2.K.4."
+            ]
+        },
+        {
+            "referencia": "ACT.2.7.3",
+            "descripcion": "Reproducir experimentos, de manera autónoma, cooperativa e igualitaria y tomar datos cuantitativos o cualitativos, sobre fenómenos del entorno cercano, utilizando los instrumentos, herramientas o técnicas adecuadas en condiciones de seguridad.",
+            "saberes_relacionados": [
+                "ACT.2.G.3.",
+                "ACT.2.G.4.",
+                "ACT.2.I.4.",
+                "ACT.2.J.2."
+            ]
+        },
+        {
+            "referencia": "ACT.2.7.4",
+            "descripcion": "Analizar los resultados obtenidos en el proyecto de investigación utilizando, cuando sea necesario, herramientas matemáticas (tablas de datos, representaciones gráficas), tecnológicas (conversores, calculadoras, creadores gráficos) y el razonamiento inductivo para formular argumentos matemáticos, analizando patrones, propiedades y relaciones.",
+            "saberes_relacionados": [
+                "ACT.2.D.4.3.",
+                "ACT.2.D.5.5.",
+                "ACT.2.G.3."
+            ]
+        },
+        {
+            "referencia": "ACT.2.7.5",
+            "descripcion": "Cooperar dentro de un proyecto científico, asumiendo responsablemente una función concreta, respetando la diversidad y la igualdad de género, y favoreciendo la inclusión.",
+            "saberes_relacionados": [
+                "ACT.2.D.4.3.",
+                "ACT.2.D.5.5.",
+                "ACT.2.G.8.",
+                "ACT.2.I.3."
+            ]
+        },
+        {
+            "referencia": "ACT.2.7.6",
+            "descripcion": "Presentación de la información y las conclusiones obtenidas mediante la experimentación y observación de campo utilizando el formato adecuado (tablas, gráficos, informes, fotografías, pósters) y, cuando sea necesario, herramientas digitales (infografías, presentaciones, editores de vídeos y similares).",
+            "saberes_relacionados": [
+                "ACT.2.G.2."
+            ]
+        },
+        {
+            "referencia": "ACT.2.7.7",
+            "descripcion": "Exponer la contribución de la ciencia a la sociedad y la labor de personas dedicadas a ella, destacando el papel de la mujer, fomentando vocaciones científicas desde una perspectiva de género, y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución, reflexionando de forma argumentada acerca de aquellas pseudocientíficas que no admiten comprobación experimental.",
+            "saberes_relacionados": [
+                "ACT.2.G.7.",
+                "ACT.2.H.4.",
+                "ACT.2.I.5."
+            ]
+        },
+        {
+            "referencia": "ACT.2.8.1",
+            "descripcion": "Resolver problemas cotidianos complejos o dar explicación a procesos naturales, trabajando la abstracción para determinar los aspectos más relevantes, utilizando conocimientos, organizando datos e información aportados a través del razonamiento lógico, el pensamiento computacional o recursos digitales.",
+            "saberes_relacionados": [
+                "ACT.2.D.1.2.",
+                "ACT.2.D.2.1.",
+                "ACT.2.D.6.2.",
+                "ACT.2.D.6.3.",
+                "ACT.2.L.2.",
+                "ACT.2.L.9."
+            ]
+        },
+        {
+            "referencia": "ACT.2.8.2",
+            "descripcion": "Modelizar situaciones de la vida cotidiana y resolver problemas sencillos sobre fenómenos biológicos y geológicos, utilizando datos, algoritmos y fuentes contrastadas.",
+            "saberes_relacionados": [
+                "ACT.2.D.1.1.",
+                "ACT.2.D.2.1.",
+                "ACT.2.L.4."
+            ]
+        },
+        {
+            "referencia": "ACT.2.9.1",
+            "descripcion": "Analizar conceptos y procesos relacionados con los saberes de Biología y Geología, Física y Química y Matemáticas interpretando información en diferentes formatos (modelos, gráficos, tablas, diagramas, fórmulas, esquemas, símbolos, páginas web, etc.), manteniendo una actitud crítica, obteniendo conclusiones fundamentadas y usando adecuadamente los datos para la resolución de un problema.",
+            "saberes_relacionados": [
+                "ACT.2.D.3.",
+                "ACT.2.E.2.3.",
+                "ACT.2.G.4.",
+                "ACT.2.J.1.",
+                "ACT.2.L.1.",
+                "ACT.2.L.5."
+            ]
+        },
+        {
+            "referencia": "ACT.2.9.2",
+            "descripcion": "Facilitar la comprensión y análisis de información relacionada con los saberes de la materia de Biología y Geología, Física y Química y Matemáticas, transmitiéndola de forma clara utilizando la terminología, lenguaje y el formato adecuados (modelos, gráficos, tablas, vídeos, informes, diagramas, fórmulas, esquemas, símbolos, contenidos digitales, etc.).",
+            "saberes_relacionados": [
+                "ACT.2.D.5.3.",
+                "ACT.2.D.5.4.",
+                "ACT.2.G.4.",
+                "ACT.2.L.4."
+            ]
+        },
+        {
+            "referencia": "ACT.2.9.3",
+            "descripcion": "Analizar y explicar fenómenos biológicos y geológicos representándolos mediante modelos y diagramas y utilizando, cuando sea necesario, los pasos del diseño de ingeniería (identificación del problema, exploración, diseño, creación, evaluación y mejora), incluyendo el uso de unidades de medida, las herramientas matemáticas y las reglas de nomenclatura, para facilitar una comunicación efectiva con toda la comunidad científica.",
+            "saberes_relacionados": [
+                "ACT.2.H.5.",
+                "ACT.2.L.2.",
+                "ACT.2.L.3."
+            ]
+        },
+        {
+            "referencia": "ACT.2.9.4",
+            "descripcion": "Poner en práctica las normas de uso de los espacios específicos de la ciencia, como el laboratorio, como medio de asegurar la salud propia y colectiva, la conservación sostenible del medio ambiente y el respeto por las instalaciones.",
+            "saberes_relacionados": [
+                "ACT.2.G.2.",
+                "ACT.2.G.3."
+            ]
+        },
+        {
+            "referencia": "ACT.2.10.1",
+            "descripcion": "Utilizar recursos variados, tradicionales y digitales, para el correcto trabajo autónomo y cooperativo de saberes científicos, seleccionando, analizando críticamente y representando información, mediante el uso distintas fuentes, con respeto y reflexión de las aportaciones de cada participante.",
+            "saberes_relacionados": [
+                "ACT.2.E.1.3.",
+                "ACT.2.G.3.",
+                "ACT.2.L.6."
+            ]
+        },
+        {
+            "referencia": "ACT.2.10.2",
+            "descripcion": "Trabajar de forma adecuada y versátil con medios variados, tradicionales y digitales, la consulta de información y la creación de contenidos distinguiendo la que tiene un origen científico de las pseudociencias o bulos.",
+            "saberes_relacionados": [
+                "ACT.2.G.3.",
+                "ACT.2.G.5."
+            ]
+        },
+        {
+            "referencia": "ACT.2.11.1",
+            "descripcion": "Relacionar con fundamentos científicos la preservación de la biodiversidad, la conservación del medio ambiente, la protección de los seres vivos del entorno, el desarrollo sostenible y la calidad de vida, comprendiendo la repercusión global de actuaciones locales.",
+            "saberes_relacionados": [
+                "ACT.2.G.2.",
+                "ACT.2.G.3.",
+                "ACT.2.L.6."
+            ]
+        },
+        {
+            "referencia": "ACT.2.11.2",
+            "descripcion": "Proponer y adoptar hábitos sostenibles y saludables analizando de una manera crítica las actividades propias y ajenas, valorando su impacto global y basándose en los propios razonamientos, conocimientos adquiridos e información de diversas fuentes, precisa y fiable disponible, de manera que el alumnado pueda emprender, de forma guiada y de acuerdo a la metodología adecuada, proyectos científicos que lo involucren en la mejora de la sociedad, con actitud crítica, desterrando ideas preconcebidas y estereotipos sexistas a través de actividades de cooperación y del uso de las estrategias propias del trabajo colaborativo, como forma de construir un medio de trabajo eficiente en la ciencia.",
+            "saberes_relacionados": [
+                "ACT.2.G.1.",
+                "ACT.2.G.5.",
+                "ACT.2.I.3."
+            ]
+        },
+        {
+            "referencia": "ACT.2.11.3",
+            "descripcion": "Colaborar activamente y construir relaciones saludables en el trabajo en equipos heterogéneos, aportando valor, favoreciendo la inclusión, ejercitando la escucha activa, mostrando empatía por los demás, respetando diferentes opiniones, comunicándose de manera efectiva y empática, planificando e indagando con motivación y confianza en sus propias posibilidades, pensando de forma crítica y creativa y tomando decisiones y juicios informados, aportando valor al equipo.",
+            "saberes_relacionados": [
+                "ACT.2.F.2.1.",
+                "ACT.2.F.2.2.",
+                "ACT.2.F.3.1."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Sentido numérico.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACT.2.A.1.",
+            "descripcion": "Educación financiera.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACT.2.A.1.1.",
+            "descripcion": "Interpretación de la información numérica en contextos financieros sencillos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.1.2"
+            ]
+        },
+        {
+            "referencia": "ACT.2.A.1.2.",
+            "descripcion": "Métodos para la toma de decisiones de consumo responsable atendiendo a las relaciones entre calidad y precio, y a las relaciones entre valor y precio en contextos cotidianos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.1.2",
+                "ACT.2.3.3"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Sentido algebraico.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACT.2.D.1.",
+            "descripcion": "Patrones.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACT.2.D.1.1.",
+            "descripcion": "Identificación y comprensión, determinando la regla de formación de diversas estructuras en casos sencillos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.8.2"
+            ]
+        },
+        {
+            "referencia": "ACT.2.D.1.2.",
+            "descripcion": "Fórmulas y términos generales, obtención mediante la observación de pautas y regularidades sencillas y su generalización.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.8.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.D.2.",
+            "descripcion": "Modelo matemático.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACT.2.D.2.1.",
+            "descripcion": "Modelización de situaciones de la vida cotidiana usando representaciones matemáticas y el lenguaje algebraico.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.2.1",
+                "ACT.2.8.1",
+                "ACT.2.8.2"
+            ]
+        },
+        {
+            "referencia": "ACT.2.D.2.2.",
+            "descripcion": "Deducción de conclusiones razonables sobre una situación de la vida cotidiana una vez modelizada.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.2.1",
+                "ACT.2.2.2",
+                "ACT.2.3.2",
+                "ACT.2.3.3"
+            ]
+        },
+        {
+            "referencia": "ACT.2.D.3.",
+            "descripcion": "Variable. Comprensión del concepto de variable en sus diferentes naturalezas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.2.2",
+                "ACT.2.9.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.D.4.",
+            "descripcion": "Igualdad y desigualdad.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACT.2.D.4.1.",
+            "descripcion": "Uso del álgebra simbólica para representar relaciones lineales y cuadráticas en situaciones de la vida cotidiana.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.3.2",
+                "ACT.2.3.3"
+            ]
+        },
+        {
+            "referencia": "ACT.2.D.4.2.",
+            "descripcion": "Identificación y aplicación de la equivalencia de expresiones algebraicas en la resolución de problemas basados en relaciones lineales y cuadráticas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.6.3"
+            ]
+        },
+        {
+            "referencia": "ACT.2.D.4.3.",
+            "descripcion": "Búsqueda de soluciones en ecuaciones lineales y cuadráticas en situaciones de la vida cotidiana.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.7.4",
+                "ACT.2.7.5"
+            ]
+        },
+        {
+            "referencia": "ACT.2.D.4.4.",
+            "descripcion": "Resolución de ecuaciones mediante el uso de la tecnología.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.1.2"
+            ]
+        },
+        {
+            "referencia": "ACT.2.D.5.",
+            "descripcion": "Relaciones y funciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACT.2.D.5.1.",
+            "descripcion": "Aplicación y comparación de las diferentes formas de representación de una relación.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.1.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.D.5.2.",
+            "descripcion": "Identificación de funciones, lineales o no lineales y comparación de sus propiedades a partir de tablas, gráficas o expresiones algebraicas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.1.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.D.5.3.",
+            "descripcion": "Identificación de relaciones cuantitativas en situaciones de la vida cotidiana y determinación de la clase o clases de funciones que la modelizan.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.9.2"
+            ]
+        },
+        {
+            "referencia": "ACT.2.D.5.4.",
+            "descripcion": "Uso del álgebra simbólica para la representación y explicación de relaciones matemáticas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.9.2"
+            ]
+        },
+        {
+            "referencia": "ACT.2.D.5.5.",
+            "descripcion": "Deducción de la información relevante de una función mediante el uso de diferentes representaciones simbólicas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.7.4",
+                "ACT.2.7.5"
+            ]
+        },
+        {
+            "referencia": "ACT.2.D.6.",
+            "descripcion": "Pensamiento computacional.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACT.2.D.6.1.",
+            "descripcion": "Generalización y transferencia de procesos de resolución de problemas a otras situaciones.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.1.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.D.6.2.",
+            "descripcion": "Identificación de estrategias para la interpretación y modificación de algoritmos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.8.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.D.6.3.",
+            "descripcion": "Formulación de cuestiones susceptibles de ser analizadas utilizando programas y otras herramientas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.8.1"
+            ]
+        },
+        {
+            "referencia": "E.",
+            "descripcion": "Sentido estocástico.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACT.2.E.1.",
+            "descripcion": "Distribución.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACT.2.E.1.1.",
+            "descripcion": "Análisis e interpretación de tablas y gráficos estadísticos de variables cualitativas, cuantitativas discretas y cuantitativas continuas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.6.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.E.1.2.",
+            "descripcion": "Recogida y organización de datos de situaciones de la vida cotidiana que involucran una sola variable.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.3.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.E.1.3.",
+            "descripcion": "Generación de representaciones gráficas adecuadas mediante diferentes tecnologías (calculadora, hoja de cálculo, apps) para averiguar cómo se distribuyen los datos, interpretando esos datos y obteniendo conclusiones razonadas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.10.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.E.1.4.",
+            "descripcion": "Interpretación de las medidas de centralización y dispersión. Elección, en función de la situación objeto de estudio, y cálculo de la medida de centralización más adecuada.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.6.2"
+            ]
+        },
+        {
+            "referencia": "ACT.2.E.1.5.",
+            "descripcion": "Comparación de dos conjuntos de datos atendiendo a las medidas de centralización y dispersión.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.6.2"
+            ]
+        },
+        {
+            "referencia": "ACT.2.E.1.6.",
+            "descripcion": "Reconocimiento de que las medidas de dispersión describen la variabilidad de los datos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.2.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.E.1.7.",
+            "descripcion": "Cálculo con apoyo tecnológico, e interpretación de las medidas de centralización y dispersión en situaciones reales.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.6.4"
+            ]
+        },
+        {
+            "referencia": "ACT.2.E.2.",
+            "descripcion": "Inferencia.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACT.2.E.2.1.",
+            "descripcion": "Formulación de preguntas adecuadas para conocer las características de interés de una población.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.3.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.E.2.2.",
+            "descripcion": "Presentación de datos relevantes para dar respuesta a cuestiones planteadas en investigaciones estadísticas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.6.2"
+            ]
+        },
+        {
+            "referencia": "ACT.2.E.2.3.",
+            "descripcion": "Obtención de conclusiones razonables a partir de los resultados obtenidos con el fin de emitir juicios y tomar decisiones adecuadas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.7.2",
+                "ACT.2.9.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.E.3.",
+            "descripcion": "Predictibilidad e incertidumbre.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACT.2.E.3.1.",
+            "descripcion": "Identificación de fenómenos deterministas y aleatorios.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.6.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.E.3.2.",
+            "descripcion": "Interpretación de la probabilidad como medida asociada a la incertidumbre de experimentos aleatorios.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.6.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.E.3.3.",
+            "descripcion": "Cálculo de probabilidades mediante la regla de Laplace y técnicas simples de recuento.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.6.3"
+            ]
+        },
+        {
+            "referencia": "ACT.2.E.3.4.",
+            "descripcion": "Asignación de la probabilidad a partir de la experimentación y el concepto de frecuencia relativa.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.3.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.E.3.5.",
+            "descripcion": "Planificación y realización de experiencias sencillas para analizar el comportamiento de fenómenos aleatorios.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.2.2"
+            ]
+        },
+        {
+            "referencia": "F.",
+            "descripcion": "Sentido socioafectivo.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACT.2.F.1.",
+            "descripcion": "Creencias, actitudes y emociones.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACT.2.F.1.1.",
+            "descripcion": "Fomento de la curiosidad, la iniciativa, la perseverancia y la resiliencia hacia el aprendizaje de las matemáticas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.4.2"
+            ]
+        },
+        {
+            "referencia": "ACT.2.F.1.2.",
+            "descripcion": "Reconocimiento de las emociones que intervienen en el aprendizaje como la autoconciencia y la autorregulación.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.4.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.F.1.3.",
+            "descripcion": "Desarrollo de la flexibilidad cognitiva para aceptar un cambio de estrategia cuando sea necesario y transformar el error en una oportunidad de aprendizaje.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.4.2",
+                "ACT.2.6.4"
+            ]
+        },
+        {
+            "referencia": "ACT.2.F.2.",
+            "descripcion": "Trabajo en equipo y toma de decisiones.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACT.2.F.2.1.",
+            "descripcion": "Selección de técnicas cooperativas para optimizar el trabajo en equipo. Uso de conductas empáticas y estrategias para la gestión de conflictos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.11.3"
+            ]
+        },
+        {
+            "referencia": "ACT.2.F.2.2.",
+            "descripcion": "Métodos para la toma de decisiones adecuadas para resolver situaciones problemáticas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.4.2",
+                "ACT.2.11.3"
+            ]
+        },
+        {
+            "referencia": "ACT.2.F.3.",
+            "descripcion": "Inclusión, respeto y diversidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACT.2.F.3.1.",
+            "descripcion": "Promoción de actitudes inclusivas y aceptación de la diversidad presente en el aula y en la sociedad.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.11.3"
+            ]
+        },
+        {
+            "referencia": "ACT.2.F.3.2.",
+            "descripcion": "Reconocimiento de la contribución de las matemáticas al desarrollo de los distintos ámbitos del conocimiento humano desde una perspectiva de género.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ACT.2.1.2"
+            ]
+        },
+        {
+            "referencia": "G.",
+            "descripcion": "Las destrezas científicas básicas.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACT.2.G.1.",
+            "descripcion": "Utilización de metodologías propias de la investigación científica para la identificación y formulación de cuestiones, la elaboración de hipótesis y la comprobación experimental de las mismas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.6.3",
+                "ACT.2.7.1",
+                "ACT.2.11.2"
+            ]
+        },
+        {
+            "referencia": "ACT.2.G.2.",
+            "descripcion": "Realización de trabajo experimental y emprendimiento de proyectos de investigación para la resolución de problemas mediante el uso de la experimentación, la indagación, la deducción, la búsqueda de evidencias o el razonamiento lógicomatemático, reconociendo y utilizando fuentes veraces de información científica, para hacer inferencias válidas sobre la base de las observaciones y sacar conclusiones pertinentes y generales que vayan más allá de las condiciones experimentales para aplicarlas a nuevos escenarios.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.7.1",
+                "ACT.2.7.6",
+                "ACT.2.9.4",
+                "ACT.2.11.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.G.3.",
+            "descripcion": "Modelado para la representación y comprensión de procesos o elementos de la naturaleza y métodos de observación y de toma de datos de fenómenos naturales, así como métodos de análisis de resultados y diferenciación entre correlación y causalidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.5.2",
+                "ACT.2.7.3",
+                "ACT.2.7.4",
+                "ACT.2.9.4",
+                "ACT.2.10.1",
+                "ACT.2.10.2",
+                "ACT.2.11.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.G.4.",
+            "descripcion": "Empleo de diversos entornos y recursos de aprendizaje científico, como el laboratorio o los entornos virtuales, utilizando de forma correcta los materiales, sustancias y herramientas tecnológicas y atendiendo a las normas de uso de cada espacio para asegurar la conservación de la salud propia y comunitaria, la seguridad en redes y el respeto hacia el medioambiente.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.6.4",
+                "ACT.2.7.3",
+                "ACT.2.9.1",
+                "ACT.2.9.2"
+            ]
+        },
+        {
+            "referencia": "ACT.2.G.5.",
+            "descripcion": "Uso del lenguaje científico, incluyendo el manejo adecuado de sistemas de unidades y herramientas matemáticas, para conseguir una comunicación argumentada con diferentes entornos científicos y de aprendizaje.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.3.2",
+                "ACT.2.3.3",
+                "ACT.2.10.2",
+                "ACT.2.11.2"
+            ]
+        },
+        {
+            "referencia": "ACT.2.G.6.",
+            "descripcion": "Interpretación, producción y comunicación de información científica en diferentes formatos y a partir de diferentes medios para desarrollar un criterio propio basado en lo que el pensamiento científico aporta a la mejora de la sociedad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.3.2",
+                "ACT.2.3.3"
+            ]
+        },
+        {
+            "referencia": "ACT.2.G.7.",
+            "descripcion": "Valoración de la cultura científica y del papel de científicos y científicas en los principales hitos históricos y actuales de la ciencia para el avance y la mejora de la sociedad. La ciencia en Andalucía.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.7.7"
+            ]
+        },
+        {
+            "referencia": "ACT.2.G.8.",
+            "descripcion": "Estrategias de cooperación y funciones a desempeñar en proyectos científicos de ámbito académico y escolar. La importancia del respeto a la diversidad, igualdad de género e inclusión.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.7.5"
+            ]
+        },
+        {
+            "referencia": "H.",
+            "descripcion": "La materia.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACT.2.H.1.",
+            "descripcion": "Aplicación de la teoría cinético-molecular a observaciones sobre la materia para explicar sus propiedades, los estados de agregación y los cambios de estado, y la formación de mezclas y disoluciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.6.1",
+                "ACT.2.6.2"
+            ]
+        },
+        {
+            "referencia": "ACT.2.H.2.",
+            "descripcion": "Realización de experimentos relacionados con los sistemas materiales para conocer y describir sus propiedades, composición y clasificación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.6.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.H.3.",
+            "descripcion": "Aplicación de los conocimientos sobre la estructura atómica de la materia para entender la formación de iones, la existencia de isótopos y sus propiedades, el desarrollo histórico del modelo atómico y la ordenación de los elementos en la Tabla Periódica.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.6.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.H.4.",
+            "descripcion": "Valoración de las aplicaciones de los principales compuestos químicos, su formación y sus propiedades físicas y químicas, así como la cuantificación de la cantidad de materia.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.7.1",
+                "ACT.2.7.7"
+            ]
+        },
+        {
+            "referencia": "ACT.2.H.5.",
+            "descripcion": "Participación de un lenguaje científico común y universal a través de la formulación y nomenclatura de sustancias simples, iones monoatómicos y compuestos binarios mediante las reglas de nomenclatura de la IUPAC.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.9.3"
+            ]
+        },
+        {
+            "referencia": "I.",
+            "descripcion": "La energía.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACT.2.I.1.",
+            "descripcion": "Formulación y comprobación de hipótesis sobre las distintas formas de energía, y sus aplicaciones a partir de sus propiedades y del principio de conservación, como base para la experimentación y la resolución de problemas relacionados con la energía mecánica, con o sin fuerza de rozamiento, en situaciones cotidianas que les permita asumir el papel que esta juega en el avance de la investigación científica.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.7.1",
+                "ACT.2.7.2"
+            ]
+        },
+        {
+            "referencia": "ACT.2.I.2.",
+            "descripcion": "Diseño y comprobación experimental de hipótesis, relacionadas con el uso doméstico e industrial de la energía en sus distintas formas y las transformaciones entre ellas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.6.3",
+                "ACT.2.7.1",
+                "ACT.2.7.2"
+            ]
+        },
+        {
+            "referencia": "ACT.2.I.3.",
+            "descripcion": "Elaboración fundamentada de hipótesis sobre el medioambiente y la sostenibilidad a partir de las diferencias entre fuentes de energía renovables y no renovables. Energías renovables en Andalucía.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.3.2",
+                "ACT.2.6.3",
+                "ACT.2.7.5",
+                "ACT.2.11.2"
+            ]
+        },
+        {
+            "referencia": "ACT.2.I.4.",
+            "descripcion": "Aplicación de la Ley de Gravitación Universal en diferentes contextos, como la caída de los cuerpos y el movimiento orbital, para interpretar y explicar situaciones cotidianas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.7.3"
+            ]
+        },
+        {
+            "referencia": "ACT.2.I.5.",
+            "descripcion": "Consideración de la naturaleza eléctrica de la materia, circuitos eléctricos, y la obtención de energía eléctrica para desarrollar conciencia sobre la necesidad del ahorro energético y la conservación sostenible del medioambiente.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.7.1",
+                "ACT.2.7.2",
+                "ACT.2.7.7"
+            ]
+        },
+        {
+            "referencia": "J.",
+            "descripcion": "La interacción.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACT.2.J.1.",
+            "descripcion": "Relación de los efectos de las fuerzas, como agentes del cambio tanto en el estado de movimiento o el de reposo de un cuerpo, así como productoras de deformaciones, con los cambios que producen en los sistemas sobre los que actúan.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.2.1",
+                "ACT.2.9.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.J.2.",
+            "descripcion": "Aplicación de las leyes de Newton, descritas a partir de observaciones cotidianas y de laboratorio, para entender cómo se comportan los sistemas materiales ante la acción de las fuerzas y predecir los efectos de estas en situaciones cotidianas y de seguridad vial.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.7.3"
+            ]
+        },
+        {
+            "referencia": "K.",
+            "descripcion": "El cambio.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACT.2.K.1.",
+            "descripcion": "Análisis de los diferentes tipos de cambios que experimentan los sistemas materiales para relacionarlos con las causas que los producen y con las consecuencias que tienen.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.7.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.K.2.",
+            "descripcion": "Interpretación de las reacciones químicas a nivel macroscópico y microscópico para explicar las relaciones de la química con el medio ambiente, la tecnología y la sociedad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.6.1",
+                "ACT.2.6.2"
+            ]
+        },
+        {
+            "referencia": "ACT.2.K.3.",
+            "descripcion": "Aplicación de la ley de conservación de la masa y de la ley de las proporciones definidas, para utilizarlas como evidencias experimentales que permitan validar el modelo atómico-molecular de la materia.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.7.2"
+            ]
+        },
+        {
+            "referencia": "ACT.2.K.4.",
+            "descripcion": "Análisis de los factores que afectan a las reacciones químicas para predecir su evolución de forma cualitativa y entender su importancia en la resolución de problemas actuales por parte de la ciencia.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.7.2"
+            ]
+        },
+        {
+            "referencia": "L.",
+            "descripcion": "Geología.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACT.2.L.1.",
+            "descripcion": "Diferenciación entre el concepto de roca y mineral.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.9.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.L.2.",
+            "descripcion": "Estrategias de clasificación de las rocas sedimentarias, metamórficas e ígneas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.8.1",
+                "ACT.2.9.3"
+            ]
+        },
+        {
+            "referencia": "ACT.2.L.3.",
+            "descripcion": "Identificación de algunas rocas y minerales relevantes del entorno.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.9.3"
+            ]
+        },
+        {
+            "referencia": "ACT.2.L.4.",
+            "descripcion": "Valoración del uso de minerales y rocas como recurso básico en la elaboración de objetos cotidianos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.8.2",
+                "ACT.2.9.2"
+            ]
+        },
+        {
+            "referencia": "ACT.2.L.5.",
+            "descripcion": "Análisis de la estructura de la Geosfera, Atmósfera e Hidrosfera.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.5.2",
+                "ACT.2.9.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.L.6.",
+            "descripcion": "Reconocimiento de las características del planeta Tierra que permiten el desarrollo de la vida.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.5.2",
+                "ACT.2.10.1",
+                "ACT.2.11.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.L.7.",
+            "descripcion": "Diferenciación de los procesos geológicos internos. Manifestaciones de la energía interna de la Tierra.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.5.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.L.8.",
+            "descripcion": "Reconocimiento de los factores que condicionan el modelado terrestre. Acción de los agentes geológicos externos en relación con la meteorización, erosión, transporte y sedimentación en distintos ambientes.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.5.1"
+            ]
+        },
+        {
+            "referencia": "ACT.2.L.9.",
+            "descripcion": "Valoración de los riesgos geológicos en Andalucía. Origen y prevención.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACT.2.8.1"
+            ]
+        }
+    ]
+}

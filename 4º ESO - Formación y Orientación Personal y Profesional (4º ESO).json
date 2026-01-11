@@ -1,0 +1,318 @@
+{
+    "titulo": "4º ESO - Formación y Orientación Personal y Profesional (4º ESO)",
+    "referencia": "FOP.4",
+    "competencias_especificas": [
+        {
+            "codigo": "FOP.4.1",
+            "descripcion": "Comprender los procesos físicos y psicológicos implicados en la cognición, la motivación y el aprendizaje, analizando sus implicaciones en la conducta y desarrollando estrategias de gestión emocional y del propio proceso de aprendizaje, para mejorar el desempeño en el ámbito personal, social y académico y lograr mayor control sobre las acciones y sus consecuencias."
+        },
+        {
+            "codigo": "FOP.4.2",
+            "descripcion": "Comprender las principales características del desarrollo evolutivo de la persona, analizando aquellos elementos de la madurez que condicionan los comportamientos e identificando las cualidades personales y de relación social propias y de los demás, para potenciar las que favorecen la autonomía y permiten afrontar de forma eficaz los nuevos retos."
+        },
+        {
+            "codigo": "FOP.4.3",
+            "descripcion": "Conocer y comprender al ser humano, sus sociedades y culturas, atendiendo a la riqueza y diversidad cultural andaluza, analizando con empatía su diversidad y complejidad desde diferentes perspectivas, para fomentar el espíritu crítico sobre aspectos que dirigen el funcionamiento humano, social y cultural."
+        },
+        {
+            "codigo": "FOP.4.4",
+            "descripcion": "Conocer la dimensión social y antropológica del ser humano y desarrollar estrategias y habilidades sociales adecuadas a contextos cambiantes y a grupos diferentes, considerando los factores personales y socioculturales que intervienen en la configuración psicológica de la persona, para comprenderse a sí misma e interactuar con los demás desde el respeto a la diversidad personal, social y cultural."
+        },
+        {
+            "codigo": "FOP.4.5",
+            "descripcion": "Explorar las oportunidades académicas y profesionales que ofrece el entorno, descubriendo y priorizando las necesidades e intereses personales y vocacionales y desarrollando el espíritu de iniciativa y de superación, así como las destrezas necesarias en la toma de decisiones, para llevar a cabo un proyecto personal, académico y profesional propio y realizar una primera aproximación al diseño de un plan de búsqueda activa de empleo."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "FOP.4.1.1",
+            "descripcion": "Mejorar el desempeño personal, social y académico aplicando estrategias de aprendizaje y gestión emocional que permitan mayor control sobre las acciones y sus consecuencias.",
+            "saberes_relacionados": [
+                "FOP.4.A.2.",
+                "FOP.4.A.7."
+            ]
+        },
+        {
+            "referencia": "FOP.4.1.2",
+            "descripcion": "Identificar y aplicar los procesos que intervienen en el aprendizaje, analizando sus implicaciones y desarrollando estrategias que favorezcan la adquisición de conocimientos, destrezas y actitudes.",
+            "saberes_relacionados": [
+                "FOP.4.B.1."
+            ]
+        },
+        {
+            "referencia": "FOP.4.1.3",
+            "descripcion": "Analizar la importancia del componente emocional, tomando conciencia de su repercusión en el aprendizaje y desarrollando estrategias que lo mejoren.",
+            "saberes_relacionados": [
+                "FOP.4.B.2."
+            ]
+        },
+        {
+            "referencia": "FOP.4.1.4",
+            "descripcion": "Analizar la relación de la cognición, la motivación, el aprendizaje y la gestión emocional con la conducta, tanto propia como de los demás, a partir de las bases teóricas fundamentales de los procesos físicos y psicológicos que intervienen en ellos.",
+            "saberes_relacionados": [
+                "FOP.4.A.1."
+            ]
+        },
+        {
+            "referencia": "FOP.4.2.1",
+            "descripcion": "Afrontar nuevos retos, de forma eficaz y con progresiva autonomía, identificando las cualidades personales y sociales propias y de los demás y analizando los elementos que condicionan los comportamientos y actuaciones en el proceso de desarrollo evolutivo.",
+            "saberes_relacionados": [
+                "FOP.4.B.4.",
+                "FOP.4.B.8."
+            ]
+        },
+        {
+            "referencia": "FOP.4.2.2",
+            "descripcion": "Conocer el desarrollo evolutivo de las personas, analizando y comprendiendo las principales características de la madurez que van conformando a la persona en distintos planos: físico, cognitivo, social, emocional y sexual.",
+            "saberes_relacionados": [
+                "FOP.4.A.3.",
+                "FOP.4.A.5."
+            ]
+        },
+        {
+            "referencia": "FOP.4.2.3",
+            "descripcion": "Identificar las cualidades personales y las de los demás, reflexionando sobre la importancia de potenciar aquellas que permitan afrontar eficazmente los retos y faciliten el proceso de transición de la adolescencia a la edad adulta.",
+            "saberes_relacionados": [
+                "FOP.4.A.9.",
+                "FOP.4.B.7."
+            ]
+        },
+        {
+            "referencia": "FOP.4.3.1",
+            "descripcion": "Reflexionar de manera crítica sobre la condición humana, la sociedad y la cultura a partir del conocimiento que proporcionan las ciencias humanas y sociales, contemplando específicamente las particularidades de la sociedad y cultura andaluza.",
+            "saberes_relacionados": [
+                "FOP.4.A.4."
+            ]
+        },
+        {
+            "referencia": "FOP.4.3.2",
+            "descripcion": "Analizar la diversidad personal, social y cultural, atendiendo a las peculiaridades de la diversidad en Andalucía, desde distintas perspectivas, a partir de los conocimientos que proporcionan las ciencias humanas y sociales, mostrando actitudes de respeto y empatía por lo diferente y valorando la equidad y la no discriminación.",
+            "saberes_relacionados": [
+                "FOP.4.A.4.",
+                "FOP.4.A.5."
+            ]
+        },
+        {
+            "referencia": "FOP.4.4.1",
+            "descripcion": "Desarrollar estrategias y habilidades que faciliten la adaptación a nuevos grupos y contextos a partir del conocimiento social y antropológico del ser humano.",
+            "saberes_relacionados": [
+                "FOP.4.A.6.",
+                "FOP.4.B.3."
+            ]
+        },
+        {
+            "referencia": "FOP.4.4.2",
+            "descripcion": "Analizar los factores personales y socioculturales que intervienen en la configuración psicológica de la persona a partir del conocimiento comparado de la dimensión social y antropológica del ser humano.",
+            "saberes_relacionados": [
+                "FOP.4.A.4."
+            ]
+        },
+        {
+            "referencia": "FOP.4.4.3",
+            "descripcion": "Valorar la diversidad desde el respeto, la inclusión y la igualdad real y efectiva entre hombres y mujeres, considerándola un elemento enriquecedor a nivel personal, social y cultural.",
+            "saberes_relacionados": [
+                "FOP.4.A.8."
+            ]
+        },
+        {
+            "referencia": "FOP.4.5.1",
+            "descripcion": "Realizar un proyecto personal, académico y profesional propio y aproximarse al proceso de búsqueda activa de empleo, priorizando las necesidades y descubriendo los intereses personales y vocacionales mediante la exploración de las oportunidades académicas y profesionales que ofrece el entorno presencial y virtual, y desarrollando las destrezas necesarias en el proceso de toma de decisiones.",
+            "saberes_relacionados": [
+                "FOP.4.B.5.",
+                "FOP.4.B.6.",
+                "FOP.4.C.1."
+            ]
+        },
+        {
+            "referencia": "FOP.4.5.2",
+            "descripcion": "Explorar el entorno próximo identificando las oportunidades académicas y profesionales que ofrece, valorando aquellas que mejor se adaptan a las cualidades e intereses personales y potenciando el espíritu de iniciativa y superación.",
+            "saberes_relacionados": [
+                "FOP.4.C.2.",
+                "FOP.4.C.3."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "El ser humano y el conocimiento de uno mismo.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "FOP.4.A.1.",
+            "descripcion": "Visión y conocimiento del ser humano desde las perspectiva psicológica, antropológica y sociológica. Neurociencia, conducta y cognición. Sistema nervioso central y sistema nervioso periférico. Neuronas y estructura funcional del cerebro. Fundamentos biológicos de la conducta.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FOP.4.1.4"
+            ]
+        },
+        {
+            "referencia": "FOP.4.A.2.",
+            "descripcion": "Bienestar y hábitos saludables. Actitud crítica y preventiva ante el consumo de sustancias perjudiciales para la salud. Psicología. Circuitos de recompensa y su relación con las adicciones. Conocimiento de los factores de riesgo y de protección relacionados con el consumo de sustancias adictivas. Bienestar y hábitos saludables. Habilidades asertivas y para la toma de decisiones.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FOP.4.1.1"
+            ]
+        },
+        {
+            "referencia": "FOP.4.A.3.",
+            "descripcion": "La adolescencia desde el punto de vista psicológico. Desarrollo cognitivo. Desarrollo de la personalidad durante la adolescencia: características comunes de la personalidad adolescente. Dificultades psicológicas asociadas a los cambios en esta etapa. La adolescencia como transición evolutiva. Procesos de transición a la vida adulta en perspectiva comparada.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FOP.4.2.2"
+            ]
+        },
+        {
+            "referencia": "FOP.4.A.4.",
+            "descripcion": "Antropología. Visión y conocimiento del ser humano desde la perspectiva antropológica. El ser humano como ser cultural. Concepto antropológico de cultura. El ser humano como construcción cultural. Humanización y cultura. Diversidad cultural. Valoración de la diversidad cultural andaluza con un enfoque inclusivo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FOP.4.3.1",
+                "FOP.4.3.2",
+                "FOP.4.4.2"
+            ]
+        },
+        {
+            "referencia": "FOP.4.A.5.",
+            "descripcion": "Sociología. Visión y conocimiento del ser humano desde las perspectiva sociológica. El ser humano como ser social. Concepto de Sociedad. Estrategias de inclusión y cohesión social para mejorar la calidad de vida de las personas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FOP.4.2.2",
+                "FOP.4.3.2"
+            ]
+        },
+        {
+            "referencia": "FOP.4.A.6.",
+            "descripcion": "El adolescente y sus relaciones. Búsqueda de la autonomía y asunción progresiva de responsabilidades. Conductas prosociales y antisociales. Normas, roles y estereotipos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FOP.4.4.1"
+            ]
+        },
+        {
+            "referencia": "FOP.4.A.7.",
+            "descripcion": "Reconocimiento y control de las emociones. Desarrollo personal dentro del grupo. Influencia del grupo en el individuo. Diversidad y convivencia positiva dentro de los grupos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FOP.4.1.1"
+            ]
+        },
+        {
+            "referencia": "FOP.4.A.8.",
+            "descripcion": "Igualdad de género. Visibilidad de los estereotipos sexistas en el entorno inmediato. Conocimiento de modelos y relaciones de género igualitarios. Actitudes y conductas de respeto y solidaridad entre ambos sexos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FOP.4.4.3"
+            ]
+        },
+        {
+            "referencia": "FOP.4.A.9.",
+            "descripcion": "Procesos de transición a la vida adulta en perspectiva comparada. Características que influyen en la transición a la vida adulta y en el proceso de adquisición de autonomía de los jóvenes en la actualidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FOP.4.2.3"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Formación y orientación personal y profesional hacia la vida adulta.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "FOP.4.B.1.",
+            "descripcion": "Aprendizaje y ser humano. Procesos implicados en el aprendizaje: atención, motivación y memoria. Inteligencias múltiples e inteligencia ejecutiva. Metacognición. Inteligencia emocional e inteligencia ejecutiva. Componente emocional. Lo heredado y lo aprendido: biología y cultura. Proceso de socialización. Agentes de socialización. Estrategias de aprendizaje y estudio. Aprendizaje formal e informal.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FOP.4.1.2"
+            ]
+        },
+        {
+            "referencia": "FOP.4.B.2.",
+            "descripcion": "Construcción del sentido de competencia y logro. Autoconocimiento. Autonomía personal y autopercepción. Estilo atribucional. Capacidad autocrítica. Iniciativa personal. Pensamiento creativo. Confianza y seguridad en uno mismo. Perseverancia. Estrategias para enfrentarse al fracaso y a la frustración.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FOP.4.1.3"
+            ]
+        },
+        {
+            "referencia": "FOP.4.B.3.",
+            "descripcion": "Relaciones e interacciones con los demás. Habilidades sociales. Habilidades de comunicación. Barreras en la comunicación y estrategias para superarlas. Habilidades de organización y gestión. Comunicación y estrategias para superarlas. Habilidades de organización y gestión. Trabajo en equipo. Empatía. Dinamismo, iniciativa y liderazgo. Capacidad de negociación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FOP.4.4.1"
+            ]
+        },
+        {
+            "referencia": "FOP.4.B.4.",
+            "descripcion": "Conductas de abuso de tecnología en adolescentes: delimitación del concepto. Abuso de herramientas digitales en la interacción con los demás. Huella y reputación digital. Gestión de identidades digitales: personal y profesional.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FOP.4.2.1"
+            ]
+        },
+        {
+            "referencia": "FOP.4.B.5.",
+            "descripcion": "Orientación hacia la formación académica y profesional. Exploración del entorno profesional. Programas, oportunidades y ayudas para la formación. Conocimiento de los servicios de orientación académica y profesional en Andalucía.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FOP.4.5.1"
+            ]
+        },
+        {
+            "referencia": "FOP.4.B.6.",
+            "descripcion": "Exploración y descubrimiento del entorno de trabajo: las relaciones laborales. Tendencias laborales y demandas del mercado. Estructura del sistema educativo: opciones académicas al terminar la etapa de Educación Secundaria Obligatoria. Programas y oportunidades de formación. Ayudas para la formación. Becas nacionales e internacionales. Servicios de orientación académica y profesional. Retos de la revolución digital. Formación permanente a lo largo de la vida.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FOP.4.5.1"
+            ]
+        },
+        {
+            "referencia": "FOP.4.B.7.",
+            "descripcion": "Emprendimiento social. Participación social activa. Colaboración y voluntariado.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FOP.4.2.3"
+            ]
+        },
+        {
+            "referencia": "FOP.4.B.8.",
+            "descripcion": "Emprendimiento empresarial e intraemprendimiento. Estrategias de entrenamiento en hábitos saludables y prevención del riesgo. El ser humano como homo oeconomicus. Teorías críticas. Actitud creativa e innovadora.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FOP.4.2.1"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Proyecto personal, académico-profesional y aproximación a la búsqueda activa de empleo.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "FOP.4.C.1.",
+            "descripcion": "Planes de autoconocimiento y de formación académica y profesional. Cualidades personales. Conocimiento y valoración de las propias capacidades, motivaciones e intereses de una forma ajustada. Fortalezas y debilidades. La diversidad como elemento enriquecedor.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FOP.4.5.1"
+            ]
+        },
+        {
+            "referencia": "FOP.4.C.2.",
+            "descripcion": "Creación de un proyecto personal académico y profesional. Fases del plan: exploración, diagnóstico, perfiles académicos y profesionales, toma de decisiones. Aspiraciones y metas. Ayudas y recursos para superar carencias y afrontar retos personales y profesionales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FOP.4.5.2"
+            ]
+        },
+        {
+            "referencia": "FOP.4.C.3.",
+            "descripcion": "Aproximación a un plan de búsqueda activa de empleo con proyección hacia el futuro. Búsqueda de empleo: conocimiento del mundo del trabajo, las ocupaciones y los procesos que favorecen la transición, a la vida activa y la inserción laboral. Estrategias de búsqueda de empleo. Instrumentos de búsqueda de empleo. Las nuevas tecnologías en la búsqueda de empleo: conocimiento y uso de herramientas digitales. Estrategias de entrenamiento en hábitos saludables y prevención del riesgo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FOP.4.5.2"
+            ]
+        }
+    ]
+}

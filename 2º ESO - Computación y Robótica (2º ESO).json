@@ -1,0 +1,579 @@
+{
+    "titulo": "2º ESO - Computación y Robótica (2º ESO)",
+    "referencia": "CYR.2",
+    "competencias_especificas": [
+        {
+            "codigo": "CYR.2.1",
+            "descripcion": "Comprender el impacto que la computación y la robótica tienen en nuestra sociedad y desarrollar el pensamiento computacional para realizar proyectos de construcción de sistemas digitales de forma sostenible."
+        },
+        {
+            "codigo": "CYR.2.2",
+            "descripcion": "Producir programas informáticos, colaborando en un equipo de trabajo y creando aplicaciones sencillas, mediante lenguaje de bloques, utilizando las principales estructuras de un lenguaje de programación para solventar un problema determinado o exhibir un comportamiento deseado."
+        },
+        {
+            "codigo": "CYR.2.3",
+            "descripcion": "Diseñar y construir sistemas de computación físicos o robóticos sencillos, aplicando los conocimientos necesarios para desarrollar soluciones automatizadas a problemas planteados."
+        },
+        {
+            "codigo": "CYR.2.4",
+            "descripcion": "Recopilar, almacenar y procesar datos, identificando patrones y descubriendo conexiones para resolver problemas mediante la Inteligencia Artificial entendiendo cómo nos ayuda a mejorar nuestra comprensión del mundo."
+        },
+        {
+            "codigo": "CYR.2.5",
+            "descripcion": "Utilizar y crear aplicaciones informáticas y web sencillas, entendiendo su funcionamiento interno, de forma segura, responsable y respetuosa, protegiendo la identidad online y la privacidad."
+        },
+        {
+            "codigo": "CYR.2.6",
+            "descripcion": "Conocer y aplicar los principios de la ciberseguridad, adoptando hábitos y conductas de seguridad, para permitir la protección del individuo en su interacción en la red."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "CYR.2.1.1",
+            "descripcion": "Comprender el funcionamiento de los sistemas de computación física, sus componentes y principales características.",
+            "saberes_relacionados": [
+                "CYR.2.C.1.",
+                "CYR.2.B.1.",
+                "CYR.2.B.2.",
+                "CYR.2.B.3.",
+                "CYR.2.B.4."
+            ]
+        },
+        {
+            "referencia": "CYR.2.1.2",
+            "descripcion": "Reconocer el papel de la robótica en nuestra sociedad, conociendo las aplicaciones más comunes.",
+            "saberes_relacionados": [
+                "CYR.2.C.2."
+            ]
+        },
+        {
+            "referencia": "CYR.2.1.3",
+            "descripcion": "Entender cómo funciona un programa informático, la manera de elaborarlo y sus principales componentes.",
+            "saberes_relacionados": [
+                "CYR.2.A.1.",
+                "CYR.2.A.2.",
+                "CYR.2.A.3.",
+                "CYR.2.A.4.",
+                "CYR.2.A.5."
+            ]
+        },
+        {
+            "referencia": "CYR.2.1.4",
+            "descripcion": "Comprender los principios de ingeniería en los que se basan los robots, su funcionamiento, componentes y características.",
+            "saberes_relacionados": [
+                "CYR.2.C.1.",
+                "CYR.2.C.3.",
+                "CYR.2.C.4.",
+                "CYR.2.C.5."
+            ]
+        },
+        {
+            "referencia": "CYR.2.2.1",
+            "descripcion": "Conocer y resolver la variedad de problemas posibles, desarrollando un programa informático y generalizando las soluciones, tanto de forma individual como trabajando en equipo, colaborando y comunicándose de forma adecuada.",
+            "saberes_relacionados": [
+                "CYR.2.A.1.",
+                "CYR.2.A.2.",
+                "CYR.2.A.3.",
+                "CYR.2.A.4.",
+                "CYR.2.A.5."
+            ]
+        },
+        {
+            "referencia": "CYR.2.2.2",
+            "descripcion": "Entender el funcionamiento interno de las aplicaciones móviles y cómo se construyen, dando respuesta a las posibles demandas del escenario a resolver.",
+            "saberes_relacionados": [
+                "CYR.2.A.3.",
+                "CYR.2.A.4.",
+                "CYR.2.D.1.",
+                "CYR.2.D.2.",
+                "CYR.2.D.3."
+            ]
+        },
+        {
+            "referencia": "CYR.2.2.3",
+            "descripcion": "Conocer y resolver la variedad de problemas posibles desarrollando una aplicación móvil y generalizando las soluciones.",
+            "saberes_relacionados": [
+                "CYR.2.D.1.",
+                "CYR.2.D.2.",
+                "CYR.2.D.4.",
+                "CYR.2.D.5.",
+                "CYR.2.B.4."
+            ]
+        },
+        {
+            "referencia": "CYR.2.3.1",
+            "descripcion": "Ser capaz de construir un sistema de computación o robótico, promoviendo la interacción con el mundo físico en el contexto de un problema del mundo real, de forma sostenible.",
+            "saberes_relacionados": [
+                "CYR.2.F.1.",
+                "CYR.2.F.2.",
+                "CYR.2.F.3.",
+                "CYR.2.F.4."
+            ]
+        },
+        {
+            "referencia": "CYR.2.4.1",
+            "descripcion": "Conocer las aplicaciones actuales del Big Data, así como la naturaleza de los distintos tipos de datos y metadatos Generados, siendo capaces de analizarlos, visualizarlos y compararlos, empleando a su vez un espíritu crítico y científico.",
+            "saberes_relacionados": [
+                "CYR.2.G.1.",
+                "CYR.2.G.2.",
+                "CYR.2.G.3.",
+                "CYR.2.G.4."
+            ]
+        },
+        {
+            "referencia": "CYR.2.4.2",
+            "descripcion": "Comprender los principios básicos de funcionamiento de los agentes inteligentes y de las técnicas de aprendizaje automático, con objeto de aplicarlos para la resolución de situaciones mediante la Inteligencia Artificial de forma ética y responsable.",
+            "saberes_relacionados": [
+                "CYR.2.H.1.",
+                "CYR.2.H.2.",
+                "CYR.2.H.3.",
+                "CYR.2.H.4.",
+                "CYR.2.H.5."
+            ]
+        },
+        {
+            "referencia": "CYR.2.5.1",
+            "descripcion": "Conocer la construcción de aplicaciones informáticas y web, entendiendo su funcionamiento interno, de forma segura, responsable y respetuosa.",
+            "saberes_relacionados": [
+                "CYR.2.E.1.",
+                "CYR.2.E.2.",
+                "CYR.2.E.3."
+            ]
+        },
+        {
+            "referencia": "CYR.2.5.2",
+            "descripcion": "Conocer y resolver la variedad de problemas potencialmente presentes en el desarrollo de una aplicación web, tratando de generalizar posibles soluciones.",
+            "saberes_relacionados": [
+                "CYR.2.E.3.",
+                "CYR.2.E.4."
+            ]
+        },
+        {
+            "referencia": "CYR.2.6.1",
+            "descripcion": "Adoptar conductas y hábitos que permitan la protección activa del individuo en su interacción en la red.",
+            "saberes_relacionados": [
+                "CYR.2.I.1.",
+                "CYR.2.I.2."
+            ]
+        },
+        {
+            "referencia": "CYR.2.6.2",
+            "descripcion": "Acceder a servicios de intercambio y publicación de información digital aplicando criterios de seguridad y uso responsable.",
+            "saberes_relacionados": [
+                "CYR.2.I.4."
+            ]
+        },
+        {
+            "referencia": "CYR.2.6.3",
+            "descripcion": "Reconocer y comprender los derechos de los materiales alojados en la Internet.",
+            "saberes_relacionados": [
+                "CYR.2.I.5."
+            ]
+        },
+        {
+            "referencia": "CYR.2.6.4",
+            "descripcion": "Adoptar conductas de seguridad activa y pasiva en la protección de datos y en el intercambio de información.",
+            "saberes_relacionados": [
+                "CYR.2.I.2.",
+                "CYR.2.I.3."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Introducción a la Programación.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CYR.2.A.1.",
+            "descripcion": "Lenguajes de programación visuales: ventajas e inconvenientes.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.1.3",
+                "CYR.2.2.1"
+            ]
+        },
+        {
+            "referencia": "CYR.2.A.2.",
+            "descripcion": "Elementos de los programas con lenguaje de bloques.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.1.3",
+                "CYR.2.2.1"
+            ]
+        },
+        {
+            "referencia": "CYR.2.A.3.",
+            "descripcion": "Secuencia de instrucciones. Medios de expresión de algoritmos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.1.3",
+                "CYR.2.2.1",
+                "CYR.2.2.2"
+            ]
+        },
+        {
+            "referencia": "CYR.2.A.4.",
+            "descripcion": "Generación de tareas repetitivas y condicionales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.1.3",
+                "CYR.2.2.1",
+                "CYR.2.2.2"
+            ]
+        },
+        {
+            "referencia": "CYR.2.A.5.",
+            "descripcion": "Pantallas de interacción con el usuario.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.1.3",
+                "CYR.2.2.1"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Internet de las cosas.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CYR.2.B.1.",
+            "descripcion": "Clasificación de los sensores IoT.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.1.1"
+            ]
+        },
+        {
+            "referencia": "CYR.2.B.2.",
+            "descripcion": "Conexión dispositivo a dispositivos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.1.1"
+            ]
+        },
+        {
+            "referencia": "CYR.2.B.3.",
+            "descripcion": "Conexión BLE (Bluetooth Low Energy).",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.1.1"
+            ]
+        },
+        {
+            "referencia": "CYR.2.B.4.",
+            "descripcion": "Aplicaciones de IoT industrial.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.1.1",
+                "CYR.2.2.3"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Robótica.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CYR.2.C.1.",
+            "descripcion": "Clasificación de robots: industriales y de servicios.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.1.1",
+                "CYR.2.1.4"
+            ]
+        },
+        {
+            "referencia": "CYR.2.C.2.",
+            "descripcion": "Aplicaciones de los robots.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.1.2"
+            ]
+        },
+        {
+            "referencia": "CYR.2.C.3.",
+            "descripcion": "Componentes: Sensores, efectores y actuadores.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.1.4"
+            ]
+        },
+        {
+            "referencia": "CYR.2.C.4.",
+            "descripcion": "Robots móviles: aplicaciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.1.4"
+            ]
+        },
+        {
+            "referencia": "CYR.2.C.5.",
+            "descripcion": "Programación con lenguajes de bloques.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.1.4"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Desarrollo móvil.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CYR.2.D.1.",
+            "descripcion": "Ejemplos de IDEs de lenguajes de bloques para móviles.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.2.2",
+                "CYR.2.2.3"
+            ]
+        },
+        {
+            "referencia": "CYR.2.D.2.",
+            "descripcion": "Programación orientada a eventos: características, ventajas e inconvenientes.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.2.2",
+                "CYR.2.2.3"
+            ]
+        },
+        {
+            "referencia": "CYR.2.D.3.",
+            "descripcion": "Dependencia de eventos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.2.2"
+            ]
+        },
+        {
+            "referencia": "CYR.2.D.4.",
+            "descripcion": "Tipos de eventos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.2.3"
+            ]
+        },
+        {
+            "referencia": "CYR.2.D.5.",
+            "descripcion": "Descripción de eventos de E/S.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.2.3"
+            ]
+        },
+        {
+            "referencia": "E.",
+            "descripcion": "Desarrollo web.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CYR.2.E.1.",
+            "descripcion": "Estructura básica de una página web.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.5.1"
+            ]
+        },
+        {
+            "referencia": "CYR.2.E.2.",
+            "descripcion": "Servidores web: funcionamiento.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.5.1"
+            ]
+        },
+        {
+            "referencia": "CYR.2.E.3.",
+            "descripcion": "Lenguajes para la edición de páginas web: diferencias.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.5.1",
+                "CYR.2.5.2"
+            ]
+        },
+        {
+            "referencia": "CYR.2.E.4.",
+            "descripcion": "Tipos de animación web.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.5.2"
+            ]
+        },
+        {
+            "referencia": "F.",
+            "descripcion": "Fundamentos de la computación física.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CYR.2.F.1.",
+            "descripcion": "Sistemas de computación: tipologías.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.3.1"
+            ]
+        },
+        {
+            "referencia": "CYR.2.F.2.",
+            "descripcion": "Microcontroladores: historia.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.3.1"
+            ]
+        },
+        {
+            "referencia": "CYR.2.F.3.",
+            "descripcion": "Hardware: periféricos de entrada y salida. Software: de base y de aplicación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.3.1"
+            ]
+        },
+        {
+            "referencia": "CYR.2.F.4.",
+            "descripcion": "Seguridad eléctrica: sistemas de alimentación ininterrumpida (SAI).",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.3.1"
+            ]
+        },
+        {
+            "referencia": "G.",
+            "descripcion": "Datos masivos.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CYR.2.G.1.",
+            "descripcion": "Aplicaciones del Big data.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.4.1"
+            ]
+        },
+        {
+            "referencia": "CYR.2.G.2.",
+            "descripcion": "Datos cualitativos y cuantitativos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.4.1"
+            ]
+        },
+        {
+            "referencia": "CYR.2.G.3.",
+            "descripcion": "Distinción entre datos y metadatos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.4.1"
+            ]
+        },
+        {
+            "referencia": "CYR.2.G.4.",
+            "descripcion": "Ciclo de vida de los metadatos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.4.1"
+            ]
+        },
+        {
+            "referencia": "H.",
+            "descripcion": "Inteligencia Artificial.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CYR.2.H.1.",
+            "descripcion": "Historia de la Inteligencia Artificial.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.4.2"
+            ]
+        },
+        {
+            "referencia": "CYR.2.H.2.",
+            "descripcion": "Ética y responsabilidad social en el uso de IA: análisis.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.4.2"
+            ]
+        },
+        {
+            "referencia": "CYR.2.H.3.",
+            "descripcion": "Agentes inteligentes simples: tipologías.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.4.2"
+            ]
+        },
+        {
+            "referencia": "CYR.2.H.4.",
+            "descripcion": "Aprendizaje automático: usos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.4.2"
+            ]
+        },
+        {
+            "referencia": "CYR.2.H.5.",
+            "descripcion": "Aprendizaje supervisado y no supervisado: aplicaciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.4.2"
+            ]
+        },
+        {
+            "referencia": "I.",
+            "descripcion": "Ciberseguridad.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CYR.2.I.1.",
+            "descripcion": "Privacidad e identidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.6.1"
+            ]
+        },
+        {
+            "referencia": "CYR.2.I.2.",
+            "descripcion": "Tipología de los diferentes riesgos por la exposición de los usuarios.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.6.1",
+                "CYR.2.6.4"
+            ]
+        },
+        {
+            "referencia": "CYR.2.I.3.",
+            "descripcion": "Concepto de Malware y antimalware.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.6.4"
+            ]
+        },
+        {
+            "referencia": "CYR.2.I.4.",
+            "descripcion": "Interacción de plataformas virtuales: vulnerabilidades.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.6.2"
+            ]
+        },
+        {
+            "referencia": "CYR.2.I.5.",
+            "descripcion": "Protección de la propiedad intelectual.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.2.6.3"
+            ]
+        }
+    ]
+}

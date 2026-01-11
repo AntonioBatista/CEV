@@ -1,0 +1,535 @@
+{
+    "titulo": "3º ESO - Cultura Clásica (3º ESO)",
+    "referencia": "CCL.3",
+    "competencias_especificas": [
+        {
+            "codigo": "CCL.3.1",
+            "descripcion": "Tomar contacto con las civilizaciones griega y romana, siendo consciente de los espacios geográficos más relevantes en los que se desarrollaron dichas civilizaciones, utilizando diversidad de medios y soportes, reconociendo su localización e incidencia en Andalucía."
+        },
+        {
+            "codigo": "CCL.3.2",
+            "descripcion": "Distinguir a grandes rasgos el marco y el contexto histórico en el que ocurren los distintos momentos históricos de Grecia y Roma, identificando los principales episodios asociados a ellos, tomando conciencia de su repercusión en nuestra historia actual y situando las civilizaciones griega y romana en un marco histórico general."
+        },
+        {
+            "codigo": "CCL.3.3",
+            "descripcion": "Conocer los principales sistemas políticos de la antigüedad clásica, las distintas clases sociales y los modelos familiares, reflexionando sobre los papeles asignados a ellas y describiendo las principales formas de ocio relacionadas con estas."
+        },
+        {
+            "codigo": "CCL.3.4",
+            "descripcion": "Conocer los conceptos de dioses y héroes de la mitología grecolatina, identificando aspectos importantes de estos seres mitológicos y comparándolos con los actuales, siendo consciente de la presencia de los mismos en Andalucía y valorando el sentido clásico y moderno."
+        },
+        {
+            "codigo": "CCL.3.5",
+            "descripcion": "Reconocer en imágenes las características principales del arte clásico, señalando su presencia en las producciones artísticas de hoy día y relacionándolas con los modelos clásicos de Grecia y Roma, partiendo del análisis de los monumentos clásicos más importantes del patrimonio español y andaluz, particularmente, y mostrando respeto hacia el patrimonio artístico de otras civilizaciones y culturas."
+        },
+        {
+            "codigo": "CCL.3.6",
+            "descripcion": "Tomar conciencia del valor de las lenguas clásicas desde su perspectiva etimológica y como elemento transmisor de las civilizaciones griega y romana, identificando las lenguas romances y no romances a partir del latín, distinguiendo vocabulario técnico y científico clásico en nuestra lengua, conociendo y valorando la importancia de la literatura grecolatina en modelos posteriores."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "CCL.3.1.1",
+            "descripcion": "Ubicar en un mapa hitos geográficos y enclaves concretos relevantes para el conocimiento de las civilizaciones griega y romana, en conexión con culturas próximas, señalando lugares de relevancia histórica, artística o arqueológica, empleando diversidad de medios y soportes analógicos y digitales.",
+            "saberes_relacionados": [
+                "CCL.3.A.1.",
+                "CCL.3.A.3."
+            ]
+        },
+        {
+            "referencia": "CCL.3.1.2",
+            "descripcion": "Identificar y describir a grandes rasgos el marco geográfico en el que se desarrollan las civilizaciones griega y romana, reconociendo su incidencia y localización en Andalucía.",
+            "saberes_relacionados": [
+                "CCL.3.A.2.",
+                "CCL.3.A.4."
+            ]
+        },
+        {
+            "referencia": "CCL.3.1.3",
+            "descripcion": "Conocer el origen y la influencia grecorromanos de ciudades de la Hispania romana, sobre todo las andaluzas.",
+            "saberes_relacionados": [
+                "CCL.3.A.5."
+            ]
+        },
+        {
+            "referencia": "CCL.3.2.1",
+            "descripcion": "Reconocer y describir el marco histórico en el que se desarrolla la cultura de Grecia y Roma, estableciendo una cronología básica que permita situar, en lugar y tiempo, a personajes, pueblos y hechos de relevancia posterior.",
+            "saberes_relacionados": [
+                "CCL.3.A.6.",
+                "CCL.3.A.8."
+            ]
+        },
+        {
+            "referencia": "CCL.3.2.2",
+            "descripcion": "Identificar hitos esenciales en la historia de Grecia y Roma, tomando conciencia y valorando las repercusiones de su legado en nuestra historia actual.",
+            "saberes_relacionados": [
+                "CCL.3.A.7.",
+                "CCL.3.A.9."
+            ]
+        },
+        {
+            "referencia": "CCL.3.2.3",
+            "descripcion": "Conocer personajes célebres en la Antigua Roma procedentes de Hispania romana, con especial atención a los de la Bética, situándolos en un marco histórico general.",
+            "saberes_relacionados": [
+                "CCL.3.A.10."
+            ]
+        },
+        {
+            "referencia": "CCL.3.3.1",
+            "descripcion": "Conocer formas de política en Grecia y Roma y su correlato con las formas actuales, especialmente el nacimiento de la democracia.",
+            "saberes_relacionados": [
+                "CCL.3.B.1.",
+                "CCL.3.B.2."
+            ]
+        },
+        {
+            "referencia": "CCL.3.3.2",
+            "descripcion": "Reconocer el modelo de trabajo y empleo en el mundo grecorromano, las clases sociales y las formas de producción esclavistas, identificando y reflexionando sobre los modelos sociales que configuran.",
+            "saberes_relacionados": [
+                "CCL.3.B.3."
+            ]
+        },
+        {
+            "referencia": "CCL.3.3.3",
+            "descripcion": "Reconocer en el modo de organización familiar griego y romano a la actual familia, identificando semejanzas y diferencias entre los roles antiguos y los actuales.",
+            "saberes_relacionados": [
+                "CCL.3.B.4."
+            ]
+        },
+        {
+            "referencia": "CCL.3.3.4",
+            "descripcion": "Conocer el sentido del ocio público, como espectáculo vinculado al poder, en el mundo antiguo, describiendo sus características principales y reconociendo su aportación a la promoción de valores aún presentes en la actualidad.",
+            "saberes_relacionados": [
+                "CCL.3.B.5."
+            ]
+        },
+        {
+            "referencia": "CCL.3.3.5",
+            "descripcion": "Reconocer la presencia de modelos clásicos en la manera de hacer política, economía, familia, ocio y espectáculo.",
+            "saberes_relacionados": [
+                "CCL.3.B.6."
+            ]
+        },
+        {
+            "referencia": "CCL.3.4.1",
+            "descripcion": "Reflexionar sobre mitos y culturas, valorando el amplio sentido clásico y actual de los mitos, así como su legado.",
+            "saberes_relacionados": [
+                "CCL.3.C.1."
+            ]
+        },
+        {
+            "referencia": "CCL.3.4.2",
+            "descripcion": "Conocer los principales dioses de la mitología grecolatina, estableciendo semejanzas y diferencias entre mitos y héroes antiguos y actuales.",
+            "saberes_relacionados": [
+                "CCL.3.C.2."
+            ]
+        },
+        {
+            "referencia": "CCL.3.4.3",
+            "descripcion": "Conocer las características de la religiosidad y religión grecolatina, comparándolas con las actuales.",
+            "saberes_relacionados": [
+                "CCL.3.C.3."
+            ]
+        },
+        {
+            "referencia": "CCL.3.4.4",
+            "descripcion": "Reconocer en Andalucía la presencia del mito clásico en las leyendas sobre dioses, héroes, seres fabulosos y algunos pueblos.",
+            "saberes_relacionados": [
+                "CCL.3.C.4."
+            ]
+        },
+        {
+            "referencia": "CCL.3.5.1",
+            "descripcion": "Buscar y reconocer las características fundamentales del arte clásico, comprendiendo las artes como un espejo cultural y reconociendo su poder de expresión; relacionar manifestaciones artísticas actuales con los modelos clásicos de Grecia y Roma, identificando los monumentos clásicos más significativos.",
+            "saberes_relacionados": [
+                "CCL.3.D.1.",
+                "CCL.3.D.2."
+            ]
+        },
+        {
+            "referencia": "CCL.3.5.2",
+            "descripcion": "Entender las artes como espejo cultural, reconociendo su poder expresivo de crítica y legitimación.",
+            "saberes_relacionados": [
+                "CCL.3.D.3."
+            ]
+        },
+        {
+            "referencia": "CCL.3.5.3",
+            "descripcion": "Conocer y saber localizar los principales monumentos clásicos del patrimonio español y europeo, mostrando respeto hacia la herencia artística de otros pueblos.",
+            "saberes_relacionados": [
+                "CCL.3.D.4."
+            ]
+        },
+        {
+            "referencia": "CCL.3.5.4",
+            "descripcion": "Conocer y valorar monumentos clásicos representativos en Andalucía, en la Península Ibérica y en el Mediterráneo.",
+            "saberes_relacionados": [
+                "CCL.3.D.5."
+            ]
+        },
+        {
+            "referencia": "CCL.3.5.5",
+            "descripcion": "Exponer de forma oral, escrita o multimodal las conclusiones obtenidas a partir de la investigación, individual o colectiva, del legado artístico de la civilización romana y su pervivencia en el presente, sobre todo en monumentos del patrimonio andaluz, a través de soportes analógicos y digitales, seleccionando información, contrastándola y organizándola a partir de criterios de validez, calidad y fiabilidad.",
+            "saberes_relacionados": [
+                "CCL.3.D.6.",
+                "CCL.3.D.7."
+            ]
+        },
+        {
+            "referencia": "CCL.3.6.1",
+            "descripcion": "Distinguir distintos tipos de alfabetos usados en la actualidad, conociendo sus orígenes y sus soportes de escritura.",
+            "saberes_relacionados": [
+                "CCL.3.E.1.",
+                "CCL.3.E.2."
+            ]
+        },
+        {
+            "referencia": "CCL.3.6.2",
+            "descripcion": "Conocer el origen común de diferentes lenguas europeas.",
+            "saberes_relacionados": [
+                "CCL.3.E.3."
+            ]
+        },
+        {
+            "referencia": "CCL.3.6.3",
+            "descripcion": "Conocer y reflexionar sobre el origen de las lenguas romances a partir del latín.",
+            "saberes_relacionados": [
+                "CCL.3.E.4."
+            ]
+        },
+        {
+            "referencia": "CCL.3.6.4",
+            "descripcion": "Situar las lenguas romances y no romances de la Península Ibérica, localizándolas en un mapa.",
+            "saberes_relacionados": [
+                "CCL.3.E.5."
+            ]
+        },
+        {
+            "referencia": "CCL.3.6.5",
+            "descripcion": "Identificar el léxico técnico y científico de origen grecolatino en la propia lengua.",
+            "saberes_relacionados": [
+                "CCL.3.E.6."
+            ]
+        },
+        {
+            "referencia": "CCL.3.6.6",
+            "descripcion": "Conocer las principales características de los géneros literarios grecolatinos y su influencia en la literatura posterior.",
+            "saberes_relacionados": [
+                "CCL.3.E.7.",
+                "CCL.3.E.8."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Geografía e Historia.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCL.3.A.1.",
+            "descripcion": "Grecia y Roma entre Oriente y Occidente I: una geografía: la antigua Olimpia.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.1.1"
+            ]
+        },
+        {
+            "referencia": "CCL.3.A.2.",
+            "descripcion": "Grecia y Roma entre Oriente y Occidente II: una geografía: el circo Máximo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.1.2"
+            ]
+        },
+        {
+            "referencia": "CCL.3.A.3.",
+            "descripcion": "El viaje en la Antigüedad: las calzadas romanas más importantes en Hispania y la Baetica.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.1.1"
+            ]
+        },
+        {
+            "referencia": "CCL.3.A.4.",
+            "descripcion": "El viaje en la Antigüedad por los caminos de Europa: Importancia de las calzadas en la romanización de Hispania.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.1.2"
+            ]
+        },
+        {
+            "referencia": "CCL.3.A.5.",
+            "descripcion": "Grecia y Roma: fundamento de las ciudades de la Hispania romana, sobre todo andaluzas: la romanización de Hispania y la Baetica.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.1.3"
+            ]
+        },
+        {
+            "referencia": "CCL.3.A.6.",
+            "descripcion": "Etnografía y biografía histórica I: pueblos y personajes griegos y romanos importantes. Homero. Hyparquia de Moronea.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.2.1"
+            ]
+        },
+        {
+            "referencia": "CCL.3.A.7.",
+            "descripcion": "Etnografía y biografía histórica II: pueblos y personajes griegos y romanos importantes: Marco Tulio Cicerón. Hipatia.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.2.2"
+            ]
+        },
+        {
+            "referencia": "CCL.3.A.8.",
+            "descripcion": "Tiempo y ciudades de la cultura clásica I: Esparta y Atenas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.2.1"
+            ]
+        },
+        {
+            "referencia": "CCL.3.A.9.",
+            "descripcion": "Tiempo y ciudades de la cultura clásica II: Eneas y los orígenes del pueblo romano.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.2.2"
+            ]
+        },
+        {
+            "referencia": "CCL.3.A.10.",
+            "descripcion": "Personajes célebres en la Antigua Roma procedentes de la Hispania romana, prestando especial atención a los de la Bética. Marco Anneo Lucano.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.2.3"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Sociedad y vida cotidiana.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCL.3.B.1.",
+            "descripcion": "Ciudades de Roma y Atenas: la polis, la civitas y la urbs como organización política y social.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.3.1"
+            ]
+        },
+        {
+            "referencia": "CCL.3.B.2.",
+            "descripcion": "Formas de organización política en el mundo clásico. La oligarquía y tiranía en Grecia. El Imperio romano.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.3.1"
+            ]
+        },
+        {
+            "referencia": "CCL.3.B.3.",
+            "descripcion": "Clases sociales. Esclavos y hombres libres en Grecia y Roma. La división social entre patricios y plebeyos. Los clientes, esclavos y libertos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.3.2"
+            ]
+        },
+        {
+            "referencia": "CCL.3.B.4.",
+            "descripcion": "La familia y los roles familiares. La adopción.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.3.3"
+            ]
+        },
+        {
+            "referencia": "CCL.3.B.5.",
+            "descripcion": "El ocio cotidiano de griegos y romanos. Espectáculo de poder. El teatro romano.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.3.4"
+            ]
+        },
+        {
+            "referencia": "CCL.3.B.6.",
+            "descripcion": "Presencia de modelos clásicos en la manera de hacer política y economía en Andalucía.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.3.5"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Mitología y Religión.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCL.3.C.1.",
+            "descripcion": "El mito como base fundamental del desarrollo de personas y pueblos. La Iliada: cultura y sociedad micénicas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.4.1"
+            ]
+        },
+        {
+            "referencia": "CCL.3.C.2.",
+            "descripcion": "El mundo divino griego y romano. Los dioses griegos y romanos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.4.2"
+            ]
+        },
+        {
+            "referencia": "CCL.3.C.3.",
+            "descripcion": "Las festividades religiosas en Grecia y Roma. Deporte y juegos olímpicos. Origen histórico.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.4.3"
+            ]
+        },
+        {
+            "referencia": "CCL.3.C.4.",
+            "descripcion": "Valor y presencia de mitos clásicos y actuales en Andalucía. Bestiario sevillano.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.4.4"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Arte.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCL.3.D.1.",
+            "descripcion": "Las artes para gloria de dioses y humanos. Distintos dioses y héroes en la música y pintura de todos los tiempos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.5.1"
+            ]
+        },
+        {
+            "referencia": "CCL.3.D.2.",
+            "descripcion": "Formas, modelos y ejemplos grecorromanos más importantes.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.5.1"
+            ]
+        },
+        {
+            "referencia": "CCL.3.D.3.",
+            "descripcion": "Las artes y el poder.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.5.2"
+            ]
+        },
+        {
+            "referencia": "CCL.3.D.4.",
+            "descripcion": "Pervivencia del mundo clásico en España y Europa y su posición en la herencia artística de otros pueblos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.5.3"
+            ]
+        },
+        {
+            "referencia": "CCL.3.D.5.",
+            "descripcion": "El arte clásico y Andalucía en el marco de la Península Ibérica y el mundo mediterráneo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.5.4"
+            ]
+        },
+        {
+            "referencia": "CCL.3.D.6.",
+            "descripcion": "Herramientas analógicas y digitales para la compresión, producción y coproducción oral, escrita y multimodal.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.5.5"
+            ]
+        },
+        {
+            "referencia": "CCL.3.D.7.",
+            "descripcion": "Respeto de la propiedad intelectual y derechos de autor sobre las fuentes consultadas y los contenidos utilizados.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.5.5"
+            ]
+        },
+        {
+            "referencia": "E.",
+            "descripcion": "Lengua, léxico y literatura.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCL.3.E.1.",
+            "descripcion": "El nacimiento de nuestra escritura: Del alfabeto latino al alfabeto español.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.6.1"
+            ]
+        },
+        {
+            "referencia": "CCL.3.E.2.",
+            "descripcion": "Los soportes de escritura: arcilla, papiros y pergaminos. Tipos y evolución.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.6.1"
+            ]
+        },
+        {
+            "referencia": "CCL.3.E.3.",
+            "descripcion": "Un viaje al origen de nuestras lenguas I: del indoeuropeo a las lenguas históricas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.6.2"
+            ]
+        },
+        {
+            "referencia": "CCL.3.E.4.",
+            "descripcion": "Un viaje al origen de nuestras lenguas II: del latín a las lenguas romances. El análisis de elementos lingüísticos comunes de las mismas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.6.3"
+            ]
+        },
+        {
+            "referencia": "CCL.3.E.5.",
+            "descripcion": "Un viaje al origen de nuestras lenguas III: lenguas romances y no romances de la Península Ibérica. Análisis de elementos lingüísticos diferenciadores y comunes.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.6.4"
+            ]
+        },
+        {
+            "referencia": "CCL.3.E.6.",
+            "descripcion": "El análisis de formantes comunes en la terminología científico-técnica de origen grecolatino.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.6.5"
+            ]
+        },
+        {
+            "referencia": "CCL.3.E.7.",
+            "descripcion": "Grandes géneros y autores de la literatura grecolatina. Autores contemporáneos influidos por la literatura grecorromana. (III)",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.6.6"
+            ]
+        },
+        {
+            "referencia": "CCL.3.E.8.",
+            "descripcion": "Tópicos literarios heredados de Grecia y Roma. (III)",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCL.3.6.6"
+            ]
+        }
+    ]
+}

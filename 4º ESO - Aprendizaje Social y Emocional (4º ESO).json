@@ -1,0 +1,466 @@
+{
+    "titulo": "4º ESO - Aprendizaje Social y Emocional (4º ESO)",
+    "referencia": "ASE.4",
+    "competencias_especificas": [
+        {
+            "codigo": "ASE.4.1",
+            "descripcion": "Desarrollar destrezas personales, identificando las emociones, comprendiendo la importancia del autoconocimiento y la gestión emocional en el desarrollo personal e interpersonal, analizando sus implicaciones en la conducta, desarrollando estrategias para mejorar el desempeño en el ámbito personal y social, potenciando las cualidades personales y de relación social para desenvolverse con autonomía, y afrontar de forma proactiva los desafíos de la vida, ya sean privados, profesionales o sociales."
+        },
+        {
+            "codigo": "ASE.4.2",
+            "descripcion": "Establecer y mantener relaciones positivas escuchando activamente y respetando a los demás, practicando habilidades sociales, tomando decisiones responsables, desarrollando la iniciativa personal, practicando formas de aprendizaje colaborativo basadas en el respeto y la cooperación, asumiendo responsabilidades y reconociendo la importancia de la participación grupal para la consecución de los objetivos."
+        },
+        {
+            "codigo": "ASE.4.3",
+            "descripcion": "Actuar e interaccionar a partir del análisis y el respeto a lo diferente y lo diverso, promoviendo una convivencia pacífica, respetuosa y comprometida con el bien común, mostrando compromiso e implicación en la realización de acciones solidarias, investigando y seleccionando temáticas que permitan desarrollar la sensibilidad y la conciencia cultural andaluza, fomentando el espíritu crítico sobre cuestiones y aspectos que dirigen el funcionamiento humano, social y cultural."
+        },
+        {
+            "codigo": "ASE.4.4",
+            "descripcion": "Iniciar, planificar y desarrollar proyectos de investigación sobre problemáticas destacadas del mundo actual y de la sociedad andaluza, explorando las oportunidades profesionales que ofrece el entorno, por medio de la recopilación de información procedente de una pluralidad de fuentes, organizada, editada y presentada haciendo uso de tecnologías digitales, identificando las distintas etapas, recabando información para la detección de necesidades, resolviendo las dificultades, priorizando las necesidades e intereses personales, desarrollando la adaptabilidad, el espíritu de iniciativa y de superación y la resiliencia."
+        },
+        {
+            "codigo": "ASE.4.5",
+            "descripcion": "Implementar y difundir los proyectos de investigación, describiendo verbalmente y por escrito todas las etapas del proyecto, haciendo uso de tecnologías digitales, reflexionando sobre el aprendizaje realizado, sobre las habilidades sociales que han desarrollado y sobre los aspectos a mejorar en la gestión y organización."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "ASE.4.1.1",
+            "descripcion": "Mejorar el desempeño personal, identificando los puntos fuertes y los ámbitos que necesita mejorar, aplicando estrategias de gestión emocional y tomando conciencia de las propias emociones y las de los demás.",
+            "saberes_relacionados": [
+                "ASE.4.A.1.",
+                "ASE.4.A.2."
+            ]
+        },
+        {
+            "referencia": "ASE.4.1.2",
+            "descripcion": "Conocer los procesos implicados en el desarrollo de las emociones: la relación entre emoción, cognición y comportamiento y desarrollar estrategias de afrontamiento y para autogenerarse emociones positivas.",
+            "saberes_relacionados": [
+                "ASE.4.A.4.",
+                "ASE.4.A.5."
+            ]
+        },
+        {
+            "referencia": "ASE.4.1.3",
+            "descripcion": "Desarrollar autogestión personal y autoeficacia emocional, buena autoestima, actitud positiva ante la vida, responsabilidad, capacidad para analizar críticamente las normas sociales y capacidad para buscar ayuda y recursos.",
+            "saberes_relacionados": [
+                "ASE.4.A.3.",
+                "ASE.4.A.4."
+            ]
+        },
+        {
+            "referencia": "ASE.4.1.4",
+            "descripcion": "Mostrar resiliencia, transformar el error o las dificultades en nuevas oportunidades de aprendizaje, adoptar comportamientos responsables para afrontar los desafíos de la vida, ya sean privados, profesionales o sociales, así como las situaciones excepcionales que acontezcan.",
+            "saberes_relacionados": [
+                "ASE.4.A.5.",
+                "ASE.4.A.6."
+            ]
+        },
+        {
+            "referencia": "ASE.4.2.1",
+            "descripcion": "Desarrollar habilidades sociales y de aprendizaje colaborativo y reconocer los beneficios del trabajo en equipo.",
+            "saberes_relacionados": [
+                "ASE.4.B.2.",
+                "ASE.4.C.5."
+            ]
+        },
+        {
+            "referencia": "ASE.4.2.2",
+            "descripcion": "Participar en diálogos y debates manifestando una actitud de respeto y escucha activa hacia ideas diferentes a las propias y argumentando la posición personal defendida.",
+            "saberes_relacionados": [
+                "ASE.4.B.1.",
+                "ASE.4.C.3."
+            ]
+        },
+        {
+            "referencia": "ASE.4.2.3",
+            "descripcion": "Asumir la responsabilidad de la participación en el grupo, respetar y mostrar empatía por todos los miembros del grupo, escuchar activamente los distintos puntos de vista y las aportaciones de sus compañeros y compañeras.",
+            "saberes_relacionados": [
+                "ASE.4.B.2.",
+                "ASE.4.B.6."
+            ]
+        },
+        {
+            "referencia": "ASE.4.2.4",
+            "descripcion": "Identificar criterios que permitan evaluar, de forma crítica y reflexiva, la participación de todos los miembros del grupo.",
+            "saberes_relacionados": [
+                "ASE.4.B.6."
+            ]
+        },
+        {
+            "referencia": "ASE.4.3.1",
+            "descripcion": "Valorar la importancia de la participación en la vida política u otras formas de participación ciudadana, como la cooperación, el asociacionismo y el voluntariado en Andalucía.",
+            "saberes_relacionados": [
+                "ASE.4.C.1.",
+                "ASE.4.C.2.",
+                "ASE.4.C.4."
+            ]
+        },
+        {
+            "referencia": "ASE.4.3.2",
+            "descripcion": "Mostrar responsabilidad y compromiso con cuestiones de importancia local, nacional e internacional.",
+            "saberes_relacionados": [
+                "ASE.4.C.2.",
+                "ASE.4.C.6.",
+                "ASE.4.C.7.",
+                "ASE.4.C.8."
+            ]
+        },
+        {
+            "referencia": "ASE.4.3.3",
+            "descripcion": "Reconocerse miembros de una ciudadanía global. Mostrar respeto crítico por las costumbres y modos de vida de poblaciones distintas a la propia y manifestar comportamientos solidarios con las personas y colectivos desfavorecidos.",
+            "saberes_relacionados": [
+                "ASE.4.C.2.",
+                "ASE.4.C.3."
+            ]
+        },
+        {
+            "referencia": "ASE.4.3.4",
+            "descripcion": "Valorar la diversidad, especialmente la de la sociedad andaluza, desde el respeto y la inclusión, considerándola un elemento enriquecedor y de valor a nivel personal, social y cultural.",
+            "saberes_relacionados": [
+                "ASE.4.C.2.",
+                "ASE.4.C.9."
+            ]
+        },
+        {
+            "referencia": "ASE.4.4.1",
+            "descripcion": "Articular las etapas del proyecto, identificación del objetivo o propósito, preparación, acción, reflexión continua y demostración.",
+            "saberes_relacionados": [
+                "ASE.4.D.1."
+            ]
+        },
+        {
+            "referencia": "ASE.4.4.2",
+            "descripcion": "Afrontar de forma eficaz la organización, gestión y planificación de las tareas.",
+            "saberes_relacionados": [
+                "ASE.4.B.5.",
+                "ASE.4.D.2."
+            ]
+        },
+        {
+            "referencia": "ASE.4.4.3",
+            "descripcion": "Desarrollar un plan de acción coherente teniendo en cuenta la finalidad o el propósito, las actividades y los recursos.",
+            "saberes_relacionados": [
+                "ASE.4.D.1.",
+                "ASE.4.D.2."
+            ]
+        },
+        {
+            "referencia": "ASE.4.4.4",
+            "descripcion": "Mostrar iniciativa, hacer propuestas, participar, colaborar e interactuar a lo largo de todo el proyecto.",
+            "saberes_relacionados": [
+                "ASE.4.B.3.",
+                "ASE.4.B.4."
+            ]
+        },
+        {
+            "referencia": "ASE.4.4.5",
+            "descripcion": "Afrontar de forma eficaz las dificultades y los obstáculos, utilizando habilidades sociales, valorando la participación e integración de todos los miembros.",
+            "saberes_relacionados": [
+                "ASE.4.B.1.",
+                "ASE.4.B.2."
+            ]
+        },
+        {
+            "referencia": "ASE.4.4.6",
+            "descripcion": "Comunicarse de manera asertiva, reconociendo y valorando a todos los miembros del proyecto.",
+            "saberes_relacionados": [
+                "ASE.4.A.4.",
+                "ASE.4.A.5.",
+                "ASE.4.A.6."
+            ]
+        },
+        {
+            "referencia": "ASE.4.5.1",
+            "descripcion": "Desarrollar y ejecutar un proyecto de investigación.",
+            "saberes_relacionados": [
+                "ASE.4.D.1.",
+                "ASE.4.D.2.",
+                "ASE.4.D.3."
+            ]
+        },
+        {
+            "referencia": "ASE.4.5.2",
+            "descripcion": "Describir y difundir el desarrollo del proyecto haciendo uso de las tecnologías digitales.",
+            "saberes_relacionados": [
+                "ASE.4.D.5."
+            ]
+        },
+        {
+            "referencia": "ASE.4.5.3",
+            "descripcion": "Emplear herramientas digitales para exponer y compartir el proyecto de investigación.",
+            "saberes_relacionados": [
+                "ASE.4.D.4.",
+                "ASE.4.D.5."
+            ]
+        },
+        {
+            "referencia": "ASE.4.5.4",
+            "descripcion": "Utilizar estrategias diversas, incluidas las herramientas digitales, para recopilar y presentar información oralmente y por escrito, en un entorno de trabajo colaborativo.",
+            "saberes_relacionados": [
+                "ASE.4.B.1.",
+                "ASE.4.B.2.",
+                "ASE.4.B.5.",
+                "ASE.4.D.4.",
+                "ASE.4.D.5."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Autoconocimiento personal y regulación emocional.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ASE.4.A.1.",
+            "descripcion": "Conocimiento de uno mismo. Factores que influyen en el desarrollo del autoconcepto y la autopercepción.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.1.1"
+            ]
+        },
+        {
+            "referencia": "ASE.4.A.2.",
+            "descripcion": "Construcción de una memoria autobiográfica que incluya la compresión emocional de uno mismo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.1.1"
+            ]
+        },
+        {
+            "referencia": "ASE.4.A.3.",
+            "descripcion": "Conductas intrapersonales que impliquen el desarrollo de la independencia, la búsqueda de la autorrealización personal, y fomenten la equidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.1.3"
+            ]
+        },
+        {
+            "referencia": "ASE.4.A.4.",
+            "descripcion": "Regulación emocional: conocimiento de los estilos atribucionales e identificación de los propios. Capacidad autocrítica.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.1.2",
+                "ASE.4.1.3",
+                "ASE.4.4.6"
+            ]
+        },
+        {
+            "referencia": "ASE.4.A.5.",
+            "descripcion": "Desarrollo de estrategias para la autorregulación y de habilidades para generar emociones positivas en uno mismo y resiliencia, asertividad y resolución pacífica de conflictos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.1.2",
+                "ASE.4.1.4",
+                "ASE.4.4.6"
+            ]
+        },
+        {
+            "referencia": "ASE.4.A.6.",
+            "descripcion": "Habilidades emocionales, cognitivas y socioculturales para aumentar la capacidad de adaptación a situaciones adversas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.1.4",
+                "ASE.4.4.6"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Relaciones interpersonales y participación.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ASE.4.B.1.",
+            "descripcion": "Relaciones interpersonales: habilidades y estrategias para la mejora de las relaciones interpersonales y la comunicación: conocimiento del concepto de empatía y conductas que la promueven. Conocimiento de barreras en la comunicación y desarrollo de estrategias para superarlas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.2.2",
+                "ASE.4.4.5",
+                "ASE.4.5.4"
+            ]
+        },
+        {
+            "referencia": "ASE.4.B.2.",
+            "descripcion": "Conocimiento y desarrollo de habilidades sociales y asertividad. Conducta prosocial y cooperativa. Comunicación receptiva y expresiva.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.2.1",
+                "ASE.4.2.3",
+                "ASE.4.4.5",
+                "ASE.4.5.4"
+            ]
+        },
+        {
+            "referencia": "ASE.4.B.3.",
+            "descripcion": "Dinamismo, iniciativa y liderazgo: identificación del concepto de liderazgo y conocimiento de técnicas y habilidades de liderazgo y desarrollo de la capacidad de negociación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.4.4"
+            ]
+        },
+        {
+            "referencia": "ASE.4.B.4.",
+            "descripcion": "Capacidades para dinamizar y tomar la iniciativa en situaciones grupales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.4.4"
+            ]
+        },
+        {
+            "referencia": "ASE.4.B.5.",
+            "descripcion": "Componentes interpersonales: habilidades de organización y gestión del tiempo y planificación de tareas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.4.2",
+                "ASE.4.5.4"
+            ]
+        },
+        {
+            "referencia": "ASE.4.B.6.",
+            "descripcion": "Trabajo en equipo: conocimiento de técnicas cooperativas para optimizarlo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.2.3",
+                "ASE.4.2.4"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Reflexión ética y responsabilidad social.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ASE.4.C.1.",
+            "descripcion": "Reflexión ética y ciudadanía activa: concepto de ciudadanía activa y valoración.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.3.1"
+            ]
+        },
+        {
+            "referencia": "ASE.4.C.2.",
+            "descripcion": "Desarrollo de capacidades para participar en la sociedad andaluza con actitud crítica.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.3.1",
+                "ASE.4.3.2",
+                "ASE.4.3.3",
+                "ASE.4.3.4"
+            ]
+        },
+        {
+            "referencia": "ASE.4.C.3.",
+            "descripcion": "Responsabilidad social: conocimiento y adquisición de estrategias de resolución pacífica de los conflictos para el respeto mutuo y la cooperación entre iguales. La mediación como estrategia de resolución.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.2.2",
+                "ASE.4.3.3"
+            ]
+        },
+        {
+            "referencia": "ASE.4.C.4.",
+            "descripcion": "Implicación y compromiso social. Conocimiento e implicación con el asociacionismo andaluz, el voluntariado y el desarrollo de proyectos comunitarios. Conocimiento del papel y las funciones que desempeñan las asociaciones en la sociedad andaluza.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.3.1"
+            ]
+        },
+        {
+            "referencia": "ASE.4.C.5.",
+            "descripcion": "Desarrollo de actitudes de respeto mutuo y de conductas de cooperación entre iguales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.2.1"
+            ]
+        },
+        {
+            "referencia": "ASE.4.C.6.",
+            "descripcion": "Desigualdad económica: reflexión sobre las causas que originan la desigualdad económica y consecuencias. El comercio justo, la ética ambiental y la sostenibilidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.3.2"
+            ]
+        },
+        {
+            "referencia": "ASE.4.C.7.",
+            "descripcion": "Sostenibilidad y ética ambiental: objetivos del desarrollo sostenible. Sensibilización y concienciación sobre la necesidad de lograr un modelo de desarrollo y sociedad andaluza sostenible. Realización de acciones ambientalmente sostenibles: consumo responsable.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.3.2"
+            ]
+        },
+        {
+            "referencia": "ASE.4.C.8.",
+            "descripcion": "Lucha contra la pobreza: sensibilización ante la desigualdad en el reparto de la riqueza. Identificación y reflexión sobre posibles soluciones. Asunción de responsabilidades y compromiso en la lucha contra la pobreza y la desigualdad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.3.2"
+            ]
+        },
+        {
+            "referencia": "ASE.4.C.9.",
+            "descripcion": "Respeto por la diversidad étnico cultural. Conocimiento y valoración de la diversidad y riqueza étnica andaluza producto de la historia de nuestra Comunidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.3.4"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Proyecto de investigación.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ASE.4.D.1.",
+            "descripcion": "Creatividad, actividad y experiencias de servicio. Diseño de un proyecto CAS en el contexto de Andalucía.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.4.1",
+                "ASE.4.4.3",
+                "ASE.4.5.1"
+            ]
+        },
+        {
+            "referencia": "ASE.4.D.2.",
+            "descripcion": "Desarrollo de un proyecto CAS según la planificación de cada una de sus etapas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.4.2",
+                "ASE.4.4.3",
+                "ASE.4.5.1"
+            ]
+        },
+        {
+            "referencia": "ASE.4.D.3.",
+            "descripcion": "Implementación de un proyecto CAS según la planificación de cada una de sus etapas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.5.1"
+            ]
+        },
+        {
+            "referencia": "ASE.4.D.4.",
+            "descripcion": "Análisis y valoración de los resultados de un proyecto CAS, utilizando distintas herramientas digitales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.5.3",
+                "ASE.4.5.4"
+            ]
+        },
+        {
+            "referencia": "ASE.4.D.5.",
+            "descripcion": "Difusión de la puesta en práctica de un proyecto CAS, utilizando distintas herramientas digitales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ASE.4.5.2",
+                "ASE.4.5.3",
+                "ASE.4.5.4"
+            ]
+        }
+    ]
+}

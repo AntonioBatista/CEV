@@ -1,0 +1,366 @@
+{
+    "titulo": "3º ESO - Filosofía y Argumentación (3º ESO)",
+    "referencia": "FYA.3",
+    "competencias_especificas": [
+        {
+            "codigo": "FYA.3.1",
+            "descripcion": "Identificar problemas y formular preguntas acerca del fundamento, valor y sentido de la realidad y la existencia humana, a partir del análisis e interpretación de textos y otras formas de expresión filosófica y cultural, reconociendo la trascendencia de estas cuestiones, así como la necesidad de afrontarlos para desarrollar una vida reflexiva y consciente de sí."
+        },
+        {
+            "codigo": "FYA.3.2",
+            "descripcion": "Buscar, organizar, interpretar y transmitir información relativa a cuestiones filosóficas, aplicando procedimientos elementales de investigación y comunicación, usando con seguridad y rigurosidad diferentes fuentes de información, para generar y transmitir juicios y tesis personales, y desarrollar una actitud indagadora, con creciente autonomía, rigurosa y creativa en el ámbito de la reflexión filosófica."
+        },
+        {
+            "codigo": "FYA.3.3",
+            "descripcion": "Apreciar y producir discursos orales y escritos sobre objetos de estudio de la filosofía, estructurando adecuadamente los argumentos, para evitar los dogmatismos y las opiniones subjetivas sin fundamentación."
+        },
+        {
+            "codigo": "FYA.3.4",
+            "descripcion": "Participar de manera rigurosa, crítica, tolerante y empática en actividades grupales de diálogo y contraste de ideas, respetando las pautas éticas y formales que se requieren, con el fin de ser proactivo en el intercambio de ideas."
+        },
+        {
+            "codigo": "FYA.3.5",
+            "descripcion": "Adoptar y promover una actitud abierta, tolerante, y comprometida con la resolución racional y pacífica de los conflictos en torno al análisis crítico de las principales tesis filosóficas relativas a los problemas fundamentales que aborda el pensamiento filosófico para sentar las bases de una ciudadanía democrática."
+        },
+        {
+            "codigo": "FYA.3.6",
+            "descripcion": "Abordar el planteamiento de cuestiones fundamentales y de actualidad con una perspectiva global, transversal, integrando información e ideas de distintos ámbitos disciplinares, de forma estructurada y poder generar puntos de vista creativos y fundamentados."
+        },
+        {
+            "codigo": "FYA.3.7",
+            "descripcion": "Conocer y analizar dilemas morales mediante la exposición crítica y dialéctica de todas las posiciones pertinentes en la interpretación y la resolución de los mismos, para desarrollar el juicio propio y la autonomía moral."
+        },
+        {
+            "codigo": "FYA.3.8",
+            "descripcion": "Desarrollar la creatividad personal y la sensibilidad hacia diferentes manifestaciones artísticas u otras con valor estético, a partir del uso de imágenes y medios audiovisuales para la argumentación racional, comprendiendo los componentes emocionales y comunicativos implicados, así como su dimensión personal y social."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "FYA.3.1.1",
+            "descripcion": "Identificar y exponer las preguntas esenciales del interés del ser humano por conocerse a sí mismo y al mundo que lo rodea.",
+            "saberes_relacionados": [
+                "FYA.3.A.1.",
+                "FYA.3.A.2."
+            ]
+        },
+        {
+            "referencia": "FYA.3.1.2",
+            "descripcion": "Desarrollar una actitud reflexiva sobre las grandes preguntas filosóficas y la repercusión vital de las diferentes formas de alcanzar y afrontar sus respuestas.",
+            "saberes_relacionados": [
+                "FYA.3.A.1.",
+                "FYA.3.A.3."
+            ]
+        },
+        {
+            "referencia": "FYA.3.1.3",
+            "descripcion": "Definir y utilizar conceptos como lógica, epistemología, metafísica, ética, estética, antropología filosófica, filosofía del lenguaje, cálculo, algoritmo, argumento, deducción, inducción, falacia, paradoja, disertación y dilema moral.",
+            "saberes_relacionados": [
+                "FYA.3.A.2.",
+                "FYA.3.B.1.",
+                "FYA.3.B.3.",
+                "FYA.3.B.4."
+            ]
+        },
+        {
+            "referencia": "FYA.3.2.1",
+            "descripcion": "Aplicar con autonomía creciente procedimientos elementales en las tareas de búsqueda de información sobre los temas filosóficos y procedimientos de argumentación que se traten, identificando fuentes fiables y seguras.",
+            "saberes_relacionados": [
+                "FYA.3.A.3."
+            ]
+        },
+        {
+            "referencia": "FYA.3.2.2",
+            "descripcion": "Organizar eficientemente la información obtenida en las tareas de investigación o la proporcionada por el profesorado, demostrando eficacia en la capacidad de análisis y síntesis, produciendo tesis fiables.",
+            "saberes_relacionados": [
+                "FYA.3.A.3."
+            ]
+        },
+        {
+            "referencia": "FYA.3.2.3",
+            "descripcion": "Desarrollar una actitud indagadora, autónoma y activa en el ámbito de la reflexión filosófica mediante tareas y proyectos de investigación.",
+            "saberes_relacionados": [
+                "FYA.3.A.3.",
+                "FYA.3.C.1.",
+                "FYA.3.C.2.",
+                "FYA.3.C.3."
+            ]
+        },
+        {
+            "referencia": "FYA.3.3.1",
+            "descripcion": "Conocer y aplicar normas lógicas, retóricas y argumentativas básicas en la producción, valoración y defensa de disertaciones filosóficas y dilemas morales.",
+            "saberes_relacionados": [
+                "FYA.3.B.3.",
+                "FYA.3.C.1.",
+                "FYA.3.C.2."
+            ]
+        },
+        {
+            "referencia": "FYA.3.3.2",
+            "descripcion": "Detectar y evitar errores argumentativos o desarrollos dogmáticos, falaces y sesgados para sostener hipótesis sobre cuestiones o problemas filosóficos.",
+            "saberes_relacionados": [
+                "FYA.3.B.4."
+            ]
+        },
+        {
+            "referencia": "FYA.3.3.3",
+            "descripcion": "Aceptar el respeto a la pluralidad y observar el compromiso con la verdad, adoptando actitudes de rechazo ante cualquier actitud discriminatoria o arbitraria.",
+            "saberes_relacionados": [
+                "FYA.3.B.2.",
+                "FYA.3.B.4."
+            ]
+        },
+        {
+            "referencia": "FYA.3.4.1",
+            "descripcion": "Exponer con respeto las ideas propias aceptando la crítica y el debate como fuente de mejora personal y colectiva.",
+            "saberes_relacionados": [
+                "FYA.3.A.3.",
+                "FYA.3.C.1.",
+                "FYA.3.C.2.",
+                "FYA.3.C.3."
+            ]
+        },
+        {
+            "referencia": "FYA.3.4.2",
+            "descripcion": "Promover activamente el intercambio de ideas respetando pautas éticas y formales para un debate constructivo.",
+            "saberes_relacionados": [
+                "FYA.3.C.1.",
+                "FYA.3.C.2.",
+                "FYA.3.C.3."
+            ]
+        },
+        {
+            "referencia": "FYA.3.4.3",
+            "descripcion": "Participar de forma respetuosa en tareas colectivas que favorezcan el debate y la puesta en común de hipótesis y planteamientos diversos.",
+            "saberes_relacionados": [
+                "FYA.3.A.3.",
+                "FYA.3.C.1.",
+                "FYA.3.C.2.",
+                "FYA.3.C.3."
+            ]
+        },
+        {
+            "referencia": "FYA.3.5.1",
+            "descripcion": "Contrastar e intercambiar ideas en torno temas filosóficos de implicación social y política, entendiendo la necesidad de aceptar y pensar ideas opuestas como proceso dinámico y siempre abierto de elaboración de los propios conceptos.",
+            "saberes_relacionados": [
+                "FYA.3.A.3.",
+                "FYA.3.C.1.",
+                "FYA.3.C.2.",
+                "FYA.3.C.3."
+            ]
+        },
+        {
+            "referencia": "FYA.3.5.2",
+            "descripcion": "Aprender a comunicarse con asertividad como actitud básica en el intercambio de ideas, estimulando el diálogo y la participación con los demás, desarrollando la empatía en la escucha activa.",
+            "saberes_relacionados": [
+                "FYA.3.A.3.",
+                "FYA.3.C.1.",
+                "FYA.3.C.2.",
+                "FYA.3.C.3."
+            ]
+        },
+        {
+            "referencia": "FYA.3.6.1",
+            "descripcion": "Abordar las cuestiones fundamentales y actuales como temas complejos que requieren una aproximación sistemática desde múltiples perspectivas, desechando explicaciones unívocas, simplistas o falaces.",
+            "saberes_relacionados": [
+                "FYA.3.A.3.",
+                "FYA.3.B.3.",
+                "FYA.3.B.4."
+            ]
+        },
+        {
+            "referencia": "FYA.3.6.2",
+            "descripcion": "Demostrar la capacidad de aplicar distintos ámbitos del conocimiento al abordar cuestiones fundamentales y de actualidad, siendo capaces de elaborar respuestas como resultado de síntesis propias originales, y someterlas a discusión.",
+            "saberes_relacionados": [
+                "FYA.3.A.3.",
+                "FYA.3.C.1.",
+                "FYA.3.C.2.",
+                "FYA.3.C.3."
+            ]
+        },
+        {
+            "referencia": "FYA.3.7.1",
+            "descripcion": "Reconocer la necesidad de plantearse problemas éticos y políticos como medio para alcanzar la autonomía moral y una ciudadanía consciente y responsable.",
+            "saberes_relacionados": [
+                "FYA.3.A.3.",
+                "FYA.3.C.2."
+            ]
+        },
+        {
+            "referencia": "FYA.3.7.2",
+            "descripcion": "Identificar, analizar y resolver dilemas morales desde la argumentación racional y el intercambio de ideas.",
+            "saberes_relacionados": [
+                "FYA.3.A.3.",
+                "FYA.3.C.2."
+            ]
+        },
+        {
+            "referencia": "FYA.3.8.1",
+            "descripcion": "Conocer y valorar los distintos elementos del proceso creativo, desde la aproximación de diferentes manifestaciones artísticas y creativas.",
+            "saberes_relacionados": [
+                "FYA.3.C.3."
+            ]
+        },
+        {
+            "referencia": "FYA.3.8.2",
+            "descripcion": "Crear imágenes y productos audiovisuales para la argumentación racional.",
+            "saberes_relacionados": [
+                "FYA.3.B.3.",
+                "FYA.3.C.3."
+            ]
+        },
+        {
+            "referencia": "FYA.3.8.3",
+            "descripcion": "Valorar las manifestaciones artísticas como expresión social y riqueza cultural de los pueblos, especialmente el andaluz.",
+            "saberes_relacionados": [
+                "FYA.3.A.1.",
+                "FYA.3.C.3."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Los problemas de la Filosofía.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "FYA.3.A.1.",
+            "descripcion": "Los saberes racionales. Las concepciones históricas de la filosofía: la filosofía como teoría o interpretación conceptual y la filosofía como arte de vivir. La Práctica filosófica contemporánea.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYA.3.1.1",
+                "FYA.3.1.2",
+                "FYA.3.8.3"
+            ]
+        },
+        {
+            "referencia": "FYA.3.A.2.",
+            "descripcion": "Las dimensiones de la filosofía: metafísica, epistemología, lógica, filosofía del lenguaje, antropología filosófica (filosofía de la mente, ética, estética y filosofía de las artes, filosofía social, filosofía política, filosofía del derecho, filosofía de la historia, filosofía de la religión), metafilosofía…",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYA.3.1.1",
+                "FYA.3.1.3"
+            ]
+        },
+        {
+            "referencia": "FYA.3.A.3.",
+            "descripcion": "Selección y análisis de un problema filosófico: la naturaleza de las cosas, la identidad personal, la verdad, la justicia, la belleza, la libertad, la muerte y el sentido de la vida, la igualdad, los principios de la convivencia democrática, el bien y el mal, la felicidad, etc.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYA.3.1.2",
+                "FYA.3.2.1",
+                "FYA.3.2.2",
+                "FYA.3.2.3",
+                "FYA.3.4.1",
+                "FYA.3.4.3",
+                "FYA.3.5.1",
+                "FYA.3.5.2",
+                "FYA.3.6.1",
+                "FYA.3.6.2",
+                "FYA.3.7.1",
+                "FYA.3.7.2"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "El ámbito de la lógica.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "FYA.3.B.1.",
+            "descripcion": "La lógica como ciencia. Los principios de la lógica clásica. Lógica teórica y lógica aplicada.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYA.3.1.3"
+            ]
+        },
+        {
+            "referencia": "FYA.3.B.2.",
+            "descripcion": "El concepto de validez o corrección formal. Los cálculos lógicos. Los algoritmos lógicos: tablas de verdad. Verdad y posverdad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYA.3.3.3"
+            ]
+        },
+        {
+            "referencia": "FYA.3.B.3.",
+            "descripcion": "La filosofía como actividad argumentativa. La argumentación y sus tipos principales (por medio de ejemplos, por analogía, los argumentos de autoridad, los argumentos acerca de las causas, los argumentos inductivos y deductivos…). Composición, análisis y valoración de argumentos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYA.3.1.3",
+                "FYA.3.3.1",
+                "FYA.3.6.1",
+                "FYA.3.8.2"
+            ]
+        },
+        {
+            "referencia": "FYA.3.B.4.",
+            "descripcion": "Falacias y paradojas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYA.3.1.3",
+                "FYA.3.3.2",
+                "FYA.3.3.3",
+                "FYA.3.6.1"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "La argumentación filosófica.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "FYA.3.C.1.",
+            "descripcion": "La disertación filosófica. Epistemología y argumentación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYA.3.2.3",
+                "FYA.3.3.1",
+                "FYA.3.4.1",
+                "FYA.3.4.2",
+                "FYA.3.4.3",
+                "FYA.3.5.1",
+                "FYA.3.5.2",
+                "FYA.3.6.2"
+            ]
+        },
+        {
+            "referencia": "FYA.3.C.2.",
+            "descripcion": "Los dilemas morales. Ética y argumentación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYA.3.2.3",
+                "FYA.3.3.1",
+                "FYA.3.4.1",
+                "FYA.3.4.2",
+                "FYA.3.4.3",
+                "FYA.3.5.1",
+                "FYA.3.5.2",
+                "FYA.3.6.2",
+                "FYA.3.7.1",
+                "FYA.3.7.2"
+            ]
+        },
+        {
+            "referencia": "FYA.3.C.3.",
+            "descripcion": "La argumentación a través de imágenes y medios audiovisuales: dibujo, cómic, fotografía, vídeo… Estética y argumentación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYA.3.2.3",
+                "FYA.3.4.1",
+                "FYA.3.4.2",
+                "FYA.3.4.3",
+                "FYA.3.5.1",
+                "FYA.3.5.2",
+                "FYA.3.6.2",
+                "FYA.3.8.1",
+                "FYA.3.8.2",
+                "FYA.3.8.3"
+            ]
+        }
+    ]
+}

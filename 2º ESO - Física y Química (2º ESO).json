@@ -1,0 +1,478 @@
+{
+    "titulo": "2º ESO - Física y Química (2º ESO)",
+    "referencia": "FYQ.2",
+    "competencias_especificas": [
+        {
+            "codigo": "FYQ.2.1",
+            "descripcion": "Comprender y relacionar los motivos por los que ocurren los principales fenómenos fisicoquímicos del entorno, explicándolos en términos de las leyes y teorías científicas adecuadas, para resolver problemas con el fin de aplicarlas para mejorar la realidad cercana y la calidad de vida humana."
+        },
+        {
+            "codigo": "FYQ.2.2",
+            "descripcion": "Expresar las observaciones realizadas por el alumnado en forma de preguntas, formulando hipótesis, para explicarlas y demostrando dichas hipótesis a través de la experimentación científica, la indagación y la búsqueda de evidencias, para desarrollar los razonamientos propios del pensamiento científico y mejorar las destrezas en el uso de las metodologías científicas."
+        },
+        {
+            "codigo": "FYQ.2.3",
+            "descripcion": "Manejar con soltura las reglas y normas básicas de la física y la química en lo referente al lenguaje de la IUPAC, al lenguaje matemático, al empleo de unidades de medida correctas, al uso seguro del laboratorio y a la interpretación y producción de datos e información en diferentes formatos y fuentes (textos, enunciados, tablas, gráficas, informes, manuales, diagramas, fórmulas, esquemas, modelos, símbolos), para reconocer el carácter universal y transversal del lenguaje científico y la necesidad de una comunicación fiable en investigación y ciencia entre diferentes países y culturas."
+        },
+        {
+            "codigo": "FYQ.2.4",
+            "descripcion": "Utilizar de forma crítica, eficiente y segura plataformas digitales y recursos variados, tanto para el trabajo individual como en equipo, para fomentar la creatividad, el desarrollo personal y el aprendizaje individual y social, mediante la consulta de información, la creación de materiales y la comunicación efectiva en los diferentes entornos de aprendizaje."
+        },
+        {
+            "codigo": "FYQ.2.5",
+            "descripcion": "Utilizar las estrategias propias del trabajo colaborativo, potenciando el crecimiento entre iguales como base emprendedora de una comunidad científica crítica, ética y eficiente, para comprender la importancia de la ciencia en la mejora de la sociedad andaluza y global, las aplicaciones y repercusiones de los avances científicos, la preservación de la salud y la conservación sostenible del medioambiente."
+        },
+        {
+            "codigo": "FYQ.2.6",
+            "descripcion": "Comprender y valorar la ciencia como una construcción colectiva en continuo cambio y evolución, en la que no solo participan las personas dedicadas a la ciencia, sino que también requiere de una interacción con el resto de la sociedad, para obtener resultados que repercutan en el avance tecnológico, económico, ambiental y social."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "FYQ.2.1.1",
+            "descripcion": "Identificar, comprender y explicar, siguiendo las orientaciones del profesorado, en su entorno próximo, los fenómenos fisicoquímicos cotidianos más relevantes, explicarlos en términos básicos de los principios, teorías y leyes científicas estudiadas y expresarlos con coherencia y corrección, utilizando al menos dos soportes y dos medios de comunicación.",
+            "saberes_relacionados": [
+                "FYQ.2.A.5.",
+                "FYQ.2.B.1.",
+                "FYQ.2.C.1.",
+                "FYQ.2.D.1.",
+                "FYQ.2.D.2.",
+                "FYQ.2.E.2."
+            ]
+        },
+        {
+            "referencia": "FYQ.2.1.2",
+            "descripcion": "Resolver los problemas fisicoquímicos que se le proponen, en situaciones habituales de escasa complejidad, aplicando los aspectos básicos de las leyes y teorías científicas estudiadas, razonando los procedimientos utilizados para encontrar y comprobar la(s) solución(es) obtenidas y expresando adecuadamente los resultados.",
+            "saberes_relacionados": [
+                "FYQ.2.A.2.",
+                "FYQ.2.A.4.",
+                "FYQ.2.B.1.",
+                "FYQ.2.C.4.",
+                "FYQ.2.D.1.",
+                "FYQ.2.D.2.",
+                "FYQ.2.E.2."
+            ]
+        },
+        {
+            "referencia": "FYQ.2.1.3",
+            "descripcion": "Reconocer y describir en el entorno inmediato, siguiendo las orientaciones del profesorado, situaciones problemáticas reales de índole científica y emprender, de forma guiada, iniciativas en las que la ciencia, y en particular la física y la química, pueden contribuir a su solución, reflexionando de forma motivada acerca de su impacto en la sociedad.",
+            "saberes_relacionados": [
+                "FYQ.2.A.1.",
+                "FYQ.2.C.2.",
+                "FYQ.2.C.3.",
+                "FYQ.2.C.4.",
+                "FYQ.2.D.1.",
+                "FYQ.2.D.2.",
+                "FYQ.2.E.1.",
+                "FYQ.2.E.2."
+            ]
+        },
+        {
+            "referencia": "FYQ.2.2.1",
+            "descripcion": "Aplicar, de forma guiada, las metodologías propias de la ciencia para identificar y describir fenómenos que suceden en el entorno inmediato a partir de cuestiones a las que se pueda dar respuesta a través de la indagación, la deducción, el trabajo experimental y el razonamiento lógico-matemático, reflexionando de forma argumentada acerca de aquellas pseudocientíficas que no admiten comprobación experimental.",
+            "saberes_relacionados": [
+                "FYQ.2.B.2.",
+                "FYQ.2.C.1.",
+                "FYQ.2.C.2.",
+                "FYQ.2.C.3.",
+                "FYQ.2.D.1.",
+                "FYQ.2.D.2.",
+                "FYQ.2.E.1."
+            ]
+        },
+        {
+            "referencia": "FYQ.2.2.2",
+            "descripcion": "Seleccionar, de forma guiada, de acuerdo con la naturaleza de las cuestiones que se traten, una manera adecuada de comprobar o refutar las hipótesis formuladas, para diseñar estrategias sencillas de indagación y búsqueda de evidencias que permitan obtener conclusiones y respuestas ajustadas a la naturaleza de la pregunta formulada.",
+            "saberes_relacionados": [
+                "FYQ.2.A.2.",
+                "FYQ.2.B.2.",
+                "FYQ.2.C.1.",
+                "FYQ.2.C.2.",
+                "FYQ.2.C.3.",
+                "FYQ.2.D.1.",
+                "FYQ.2.D.2."
+            ]
+        },
+        {
+            "referencia": "FYQ.2.2.3",
+            "descripcion": "Aplicar, siguiendo las orientaciones del profesorado, las leyes y teorías científicas estudiadas para formular cuestiones e hipótesis, en situaciones habituales de la realidad, de manera razonada y coherente con el conocimiento científico existente y diseñar, de forma guiada, los procedimientos experimentales o deductivos necesarios para resolverlas.",
+            "saberes_relacionados": [
+                "FYQ.2.A.1.",
+                "FYQ.2.A.5.",
+                "FYQ.2.B.1.",
+                "FYQ.2.B.2.",
+                "FYQ.2.C.1.",
+                "FYQ.2.C.2.",
+                "FYQ.2.C.4.",
+                "FYQ.2.D.1.",
+                "FYQ.2.D.2.",
+                "FYQ.2.E.2."
+            ]
+        },
+        {
+            "referencia": "FYQ.2.3.1",
+            "descripcion": "Emplear datos a un nivel básico y en los formatos que se indiquen para interpretar y transmitir información relativa a un proceso fisicoquímico concreto, relacionando entre sí lo que cada uno de ellos contiene, y extrayendo en cada caso, siguiendo las orientaciones del profesorado, lo más relevante para la resolución de un problema.",
+            "saberes_relacionados": [
+                "FYQ.2.A.4.",
+                "FYQ.2.B.1.",
+                "FYQ.2.C.1.",
+                "FYQ.2.C.4.",
+                "FYQ.2.D.1.",
+                "FYQ.2.D.2."
+            ]
+        },
+        {
+            "referencia": "FYQ.2.3.2",
+            "descripcion": "Aplicar adecuadamente las reglas básicas de la física y la química, incluyendo el uso de unidades de medida, las herramientas básicas matemáticas y unas mínimas reglas de nomenclatura, para facilitar una comunicación efectiva con toda la comunidad científica.",
+            "saberes_relacionados": [
+                "FYQ.2.A.4.",
+                "FYQ.2.B.1.",
+                "FYQ.2.C.1.",
+                "FYQ.2.C.4.",
+                "FYQ.2.D.1.",
+                "FYQ.2.D.2."
+            ]
+        },
+        {
+            "referencia": "FYQ.2.3.3",
+            "descripcion": "Poner en práctica, de forma responsable y siguiendo las indicaciones del profesorado, las normas de uso de los espacios específicos de la ciencia, como el laboratorio de física y química, como forma de conocer y prevenir los riesgos y de asegurar la salud propia y colectiva, la conservación sostenible del medioambiente y el respeto por las instalaciones.",
+            "saberes_relacionados": [
+                "FYQ.2.A.2.",
+                "FYQ.2.A.3.",
+                "FYQ.2.B.2.",
+                "FYQ.2.C.2.",
+                "FYQ.2.D.1.",
+                "FYQ.2.D.2.",
+                "FYQ.2.E.2."
+            ]
+        },
+        {
+            "referencia": "FYQ.2.4.1",
+            "descripcion": "Utilizar al menos dos recursos tradicionales y dos digitales, para el aprendizaje y para participar y colaborar con otros miembros de la comunidad educativa, con respeto hacia docentes y estudiantes y reflexionando de forma argumentada acerca de las aportaciones de cada participante.",
+            "saberes_relacionados": [
+                "FYQ.2.A.3.",
+                "FYQ.2.B.1.",
+                "FYQ.2.C.2.",
+                "FYQ.2.C.3.",
+                "FYQ.2.D.1.",
+                "FYQ.2.D.2.",
+                "FYQ.2.E.2."
+            ]
+        },
+        {
+            "referencia": "FYQ.2.4.2",
+            "descripcion": "Trabajar de forma adecuada y versátil con al menos dos medios tradicionales y dos digitales, en la consulta de información y la elaboración de contenidos, seleccionando, siguiendo las orientaciones del profesorado y de forma argumentada, las fuentes más fiables y desechando las menos adecuadas para la mejora del aprendizaje propio y colectivo.",
+            "saberes_relacionados": [
+                "FYQ.2.A.3.",
+                "FYQ.2.A.5.",
+                "FYQ.2.B.2.",
+                "FYQ.2.C.2.",
+                "FYQ.2.C.3.",
+                "FYQ.2.D.1.",
+                "FYQ.2.D.2.",
+                "FYQ.2.E.1."
+            ]
+        },
+        {
+            "referencia": "FYQ.2.5.1",
+            "descripcion": "Participar en interacciones constructivas y coeducativas, a través de actividades previamente planificadas de cooperación y del uso de las estrategias propias del trabajo colaborativo, como forma de establecer un medio de trabajo eficiente en la ciencia.",
+            "saberes_relacionados": [
+                "FYQ.2.A.2.",
+                "FYQ.2.A.3.",
+                "FYQ.2.C.2.",
+                "FYQ.2.C.3.",
+                "FYQ.2.D.1.",
+                "FYQ.2.D.2.",
+                "FYQ.2.E.2."
+            ]
+        },
+        {
+            "referencia": "FYQ.2.5.2",
+            "descripcion": "Emprender, de forma guiada y de acuerdo a la metodología adecuada, proyectos científicos que involucren al alumnado en la mejora de la sociedad andaluza y global y que creen valor para el individuo y para la comunidad.",
+            "saberes_relacionados": [
+                "FYQ.2.A.1.",
+                "FYQ.2.A.5.",
+                "FYQ.2.C.2.",
+                "FYQ.2.D.1.",
+                "FYQ.2.D.2.",
+                "FYQ.2.E.2."
+            ]
+        },
+        {
+            "referencia": "FYQ.2.6.1",
+            "descripcion": "Conocer y apreciar a través del análisis histórico de los hombres y mujeres de ciencia y los avances científicos, que la ciencia es un proceso en permanente construcción y, reconocer las repercusiones mutuas de la ciencia actual con la tecnología, la sociedad y el medioambiente.",
+            "saberes_relacionados": [
+                "FYQ.2.A.6.",
+                "FYQ.2.C.2.",
+                "FYQ.2.C.3.",
+                "FYQ.2.D.1.",
+                "FYQ.2.D.2.",
+                "FYQ.2.E.2."
+            ]
+        },
+        {
+            "referencia": "FYQ.2.6.2",
+            "descripcion": "Identificar, de forma guiada, en el entorno próximo y en situaciones de actualidad las necesidades tecnológicas, ambientales, económicas y sociales más importantes que demanda la sociedad para reconocer la capacidad de la ciencia para darles solución sostenible a través de la implicación de todos los ciudadanos.",
+            "saberes_relacionados": [
+                "FYQ.2.A.5.",
+                "FYQ.2.A.6.",
+                "FYQ.2.C.2.",
+                "FYQ.2.C.3.",
+                "FYQ.2.D.1.",
+                "FYQ.2.D.2.",
+                "FYQ.2.E.1.",
+                "FYQ.2.E.2."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Las destrezas científicas básicas.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "FYQ.2.A.1.",
+            "descripcion": "Metodologías de la investigación científica: identificación y formulación de cuestiones, elaboración de hipótesis y comprobación experimental de las mismas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYQ.2.1.3",
+                "FYQ.2.2.3",
+                "FYQ.2.5.2"
+            ]
+        },
+        {
+            "referencia": "FYQ.2.A.2.",
+            "descripcion": "Trabajo experimental y proyectos de investigación: estrategias en la resolución de problemas y en el desarrollo de las investigaciones mediante la indagación, la deducción, la búsqueda de evidencias y el razonamiento lógico-matemático, haciendo inferencias válidas de las observaciones y obteniendo conclusiones.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYQ.2.1.2",
+                "FYQ.2.2.2",
+                "FYQ.2.3.3",
+                "FYQ.2.5.1"
+            ]
+        },
+        {
+            "referencia": "FYQ.2.A.3.",
+            "descripcion": "Diversos entornos y recursos de aprendizaje científico, como el laboratorio o los entornos virtuales: materiales, sustancias y herramientas tecnológicas, atendiendo a las normas de uso de cada espacio para asegurar la conservación de la salud propia y comunitaria, la seguridad en redes y el respeto hacia el medioambiente.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYQ.2.3.3",
+                "FYQ.2.4.1",
+                "FYQ.2.4.2",
+                "FYQ.2.5.1"
+            ]
+        },
+        {
+            "referencia": "FYQ.2.A.4.",
+            "descripcion": "Uso del lenguaje científico, incluyendo el manejo adecuado de sistemas de unidades, utilizando preferentemente el Sistema Internacional de Unidades y la notación científica para expresar los resultados, y herramientas matemáticas, para conseguir una comunicación argumentada con diferentes entornos científicos y de aprendizaje.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYQ.2.1.2",
+                "FYQ.2.3.1",
+                "FYQ.2.3.2"
+            ]
+        },
+        {
+            "referencia": "FYQ.2.A.5.",
+            "descripcion": "Interpretación y producción de información científica en diferentes formatos y a partir de diferentes medios para desarrollar un criterio propio basado en lo que el pensamiento científico aporta a la mejora de la sociedad para hacerla más justa, equitativa e igualitaria.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYQ.2.1.1",
+                "FYQ.2.2.3",
+                "FYQ.2.4.2",
+                "FYQ.2.5.2",
+                "FYQ.2.6.2"
+            ]
+        },
+        {
+            "referencia": "FYQ.2.A.6.",
+            "descripcion": "Valoración de la cultura científica y del papel de científicos y científicas en los principales hitos históricos y actuales de la física y la química para el avance y la mejora de la sociedad. La Ciencia en Andalucía.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYQ.2.6.1",
+                "FYQ.2.6.2"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "La materia.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "FYQ.2.B.1.",
+            "descripcion": "Teoría cinético-molecular: aplicación a observaciones sobre la materia para explicar sus propiedades, los estados de agregación y los cambios de estado, y la formación de mezclas y disoluciones, así como la concentración de las mismas y las leyes de los gases ideales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYQ.2.1.1",
+                "FYQ.2.1.2",
+                "FYQ.2.2.3",
+                "FYQ.2.3.1",
+                "FYQ.2.3.2",
+                "FYQ.2.4.1"
+            ]
+        },
+        {
+            "referencia": "FYQ.2.B.2.",
+            "descripcion": "Realización de experimentos relacionados con los sistemas materiales para conocer y describir sus propiedades; densidad, composición y clasificación, así como los métodos de separación de una mezcla.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYQ.2.2.1",
+                "FYQ.2.2.2",
+                "FYQ.2.2.3",
+                "FYQ.2.3.3",
+                "FYQ.2.4.2"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "La energía.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "FYQ.2.C.1.",
+            "descripcion": "Formulación de cuestiones e hipótesis sobre la energía, el calor y el equilibrio térmico, sus manifestaciones y sus propiedades, y explicación del concepto de temperatura en términos del modelo cinético-molecular, para describirla como la causa de todos los procesos de cambio.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYQ.2.1.1",
+                "FYQ.2.2.1",
+                "FYQ.2.2.2",
+                "FYQ.2.2.3",
+                "FYQ.2.3.1",
+                "FYQ.2.3.2"
+            ]
+        },
+        {
+            "referencia": "FYQ.2.C.2.",
+            "descripcion": "Diseño y comprobación experimental de hipótesis, relacionadas con el uso doméstico e industrial de la energía en sus distintas formas y las transformaciones entre ellas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYQ.2.1.3",
+                "FYQ.2.2.1",
+                "FYQ.2.2.2",
+                "FYQ.2.2.3",
+                "FYQ.2.3.3",
+                "FYQ.2.4.1",
+                "FYQ.2.4.2",
+                "FYQ.2.5.1",
+                "FYQ.2.5.2",
+                "FYQ.2.6.1",
+                "FYQ.2.6.2"
+            ]
+        },
+        {
+            "referencia": "FYQ.2.C.3.",
+            "descripcion": "Elaboración fundamentada de hipótesis sobre el medioambiente y la sostenibilidad a partir de las diferencias entre fuentes de energía renovables y no renovables. Energías renovables en Andalucía.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYQ.2.1.3",
+                "FYQ.2.2.1",
+                "FYQ.2.2.2",
+                "FYQ.2.4.1",
+                "FYQ.2.4.2",
+                "FYQ.2.5.1",
+                "FYQ.2.6.1",
+                "FYQ.2.6.2"
+            ]
+        },
+        {
+            "referencia": "FYQ.2.C.4.",
+            "descripcion": "Análisis y aplicación de los efectos del calor sobre la materia para aplicarlos en situaciones cotidianas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYQ.2.1.2",
+                "FYQ.2.1.3",
+                "FYQ.2.2.3",
+                "FYQ.2.3.1",
+                "FYQ.2.3.2"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "La interacción.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "FYQ.2.D.1.",
+            "descripcion": "Identificación de magnitudes que caracterizan un movimiento: posición, trayectoria, desplazamiento y distancia recorrida. Valoración de la importancia de la identificación de un sistema de referencia. Predicción de movimientos sencillos a partir de los conceptos de la cinemática posición, velocidad y aceleración, para formular hipótesis comprobables sobre valores futuros de estas magnitudes, y validación de dichas hipótesis a través del cálculo numérico, la interpretación de gráficas o el trabajo experimental.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYQ.2.1.1",
+                "FYQ.2.1.2",
+                "FYQ.2.1.3",
+                "FYQ.2.2.1",
+                "FYQ.2.2.2",
+                "FYQ.2.2.3",
+                "FYQ.2.3.1",
+                "FYQ.2.3.2",
+                "FYQ.2.3.3",
+                "FYQ.2.4.1",
+                "FYQ.2.4.2",
+                "FYQ.2.5.1",
+                "FYQ.2.5.2",
+                "FYQ.2.6.1",
+                "FYQ.2.6.2"
+            ]
+        },
+        {
+            "referencia": "FYQ.2.D.2.",
+            "descripcion": "Aproximación al concepto de fuerza. Las fuerzas como agentes de cambio: relación de los efectos de las fuerzas, tanto en el estado de movimiento o de reposo de un cuerpo como produciendo deformaciones en los sistemas sobre los que actúan. Máquinas simples.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYQ.2.1.1",
+                "FYQ.2.1.2",
+                "FYQ.2.1.3",
+                "FYQ.2.2.1",
+                "FYQ.2.2.2",
+                "FYQ.2.2.3",
+                "FYQ.2.3.1",
+                "FYQ.2.3.2",
+                "FYQ.2.3.3",
+                "FYQ.2.4.1",
+                "FYQ.2.4.2",
+                "FYQ.2.5.1",
+                "FYQ.2.5.2",
+                "FYQ.2.6.1",
+                "FYQ.2.6.2"
+            ]
+        },
+        {
+            "referencia": "E.",
+            "descripcion": "El cambio.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "FYQ.2.E.1.",
+            "descripcion": "Análisis de los diferentes tipos de cambios que experimentan los sistemas materiales para relacionarlos con las causas que los producen y con las consecuencias que tienen.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYQ.2.1.3",
+                "FYQ.2.2.1",
+                "FYQ.2.4.2",
+                "FYQ.2.6.2"
+            ]
+        },
+        {
+            "referencia": "FYQ.2.E.2.",
+            "descripcion": "Interpretación de las reacciones químicas a nivel macroscópico y microscópico, en términos del modelo atómico-molecular de la materia y de la teoría de colisiones, para explicar las relaciones de la química con el medioambiente, la tecnología y la sociedad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYQ.2.1.1",
+                "FYQ.2.1.2",
+                "FYQ.2.1.3",
+                "FYQ.2.2.3",
+                "FYQ.2.3.3",
+                "FYQ.2.4.1",
+                "FYQ.2.5.1",
+                "FYQ.2.5.2",
+                "FYQ.2.6.1",
+                "FYQ.2.6.2"
+            ]
+        }
+    ]
+}

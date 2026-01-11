@@ -1,0 +1,666 @@
+{
+    "titulo": "4º ESO - Educación Física (4º ESO)",
+    "referencia": "EFI.4",
+    "competencias_especificas": [
+        {
+            "codigo": "EFI.4.1",
+            "descripcion": "Adoptar un estilo de vida activo y saludable, seleccionando e incorporando intencionalmente actividades físicas y deportivas en las rutinas diarias, a partir de un análisis crítico de los modelos corporales y del rechazo de las prácticas que carezcan de base científica, para hacer un uso saludable y autónomo de su tiempo libre y así mejorar la calidad de vida."
+        },
+        {
+            "codigo": "EFI.4.2",
+            "descripcion": "Adaptar, con progresiva autonomía en su ejecución, las capacidades físicas, perceptivo-motrices y coordinativas, así como las habilidades y destrezas motrices, aplicando procesos de percepción, decisión y ejecución adecuados a la lógica interna y a los objetivos de diferentes situaciones con dificultad variable, para resolver situaciones de carácter motor vinculadas con distintas actividades físicas funcionales, deportivas, expresivas y recreativas, y para consolidar actitudes de superación, crecimiento y resiliencia al enfrentarse a desafíos físicos."
+        },
+        {
+            "codigo": "EFI.4.3",
+            "descripcion": "Compartir espacios de práctica físico-deportiva con independencia de las diferencias culturales, sociales, de género y de habilidad, priorizando el respeto entre participantes y a las reglas sobre los resultados, adoptando una actitud crítica ante comportamientos antideportivos o contrarios a la convivencia y desarrollando procesos de autorregulación emocional que canalicen el fracaso y el éxito en estas situaciones, para contribuir con progresiva autonomía al entendimiento social y al compromiso ético en los diferentes espacios en los que se participa."
+        },
+        {
+            "codigo": "EFI.4.4",
+            "descripcion": "Practicar, analizar y valorar distintas manifestaciones de la cultura motriz, aprovechando las posibilidades y recursos expresivos que ofrecen el cuerpo y el movimiento y profundizando en las consecuencias del deporte como fenómeno social, analizando críticamente sus manifestaciones desde la perspectiva de género y desde los intereses económico-políticos que lo rodean, para alcanzar una visión más realista, contextualizada y justa de la motricidad en el marco de las sociedades actuales y, en particular, la andaluza."
+        },
+        {
+            "codigo": "EFI.4.5",
+            "descripcion": "Adoptar un estilo de vida sostenible y ecosocialmente responsable aplicando medidas de seguridad individuales y colectivas en la práctica físico-deportiva según el entorno y desarrollando colaborativa y cooperativamente acciones de servicio a la comunidad vinculadas a la actividad física y al deporte, para contribuir activamente a la conservación del medio natural y urbano, reconociendo la importancia de preservar el entorno natural de Andalucía."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "EFI.4.1.1",
+            "descripcion": "Planificar y autorregular la práctica de actividad física orientada al concepto integral de salud y al estilo de vida activo, haciendo uso de diferentes sistemas de entrenamiento y aplicando de manera autónoma diversas herramientas informáticas que permitan la autoevaluación y el seguimiento de la evolución de la mejora motriz, según las necesidades e intereses individuales y respetando, aceptando y valorando la propia realidad e identidad corporal y la de los demás, en diferentes manifestaciones motrices y contextos.",
+            "saberes_relacionados": [
+                "EFI.4.A.1.1.",
+                "EFI.4.A.1.2.",
+                "EFI.4.B.4."
+            ]
+        },
+        {
+            "referencia": "EFI.4.1.2",
+            "descripcion": "Incorporar de forma autónoma los procesos de activación corporal, autorregulación y dosificación del esfuerzo, alimentación saludable, educación postural, respiración, relajación, seguridad e higiene durante la práctica de actividades motrices, interiorizando y asumiendo como propias las rutinas de una práctica motriz saludable y responsable.",
+            "saberes_relacionados": [
+                "EFI.4.A.1.2.",
+                "EFI.4.A.1.3.",
+                "EFI.4.A.1.4.",
+                "EFI.4.A.1.5.",
+                "EFI.4.B.2."
+            ]
+        },
+        {
+            "referencia": "EFI.4.1.3",
+            "descripcion": "Adoptar de manera responsable y autónoma medidas específicas para la prevención de lesiones antes, durante y después de la práctica de actividad física, en diferentes contextos y situaciones motrices, identificando y valorando situaciones de riesgo y actuando de manera preventiva en su caso.",
+            "saberes_relacionados": [
+                "EFI.4.B.7.",
+                "EFI.4.B.8."
+            ]
+        },
+        {
+            "referencia": "EFI.4.1.4",
+            "descripcion": "Actuar de acuerdo a los protocolos de intervención ante situaciones de emergencia o accidentes, valorando diferentes contextos y tipos de lesiones para aplicar de manera autónoma medidas específicas de primeros auxilios.",
+            "saberes_relacionados": [
+                "EFI.4.B.9.",
+                "EFI.4.B.10."
+            ]
+        },
+        {
+            "referencia": "EFI.4.1.5",
+            "descripcion": "Adoptar actitudes comprometidas y transformadoras que rechacen los estereotipos sociales asociados al ámbito de lo corporal, al género y a la diversidad sexual, y los comportamientos que pongan en riesgo la salud, contrastando con autonomía e independencia cualquier información en base a criterios científicos de validez, fiabilidad y objetividad, en diferentes contextos y situaciones, haciendo uso para ello de herramientas informáticas.",
+            "saberes_relacionados": [
+                "EFI.4.A.2.",
+                "EFI.4.A.3.",
+                "EFI.4.B.4.",
+                "EFI.4.B.5.",
+                "EFI.4.D.2.3."
+            ]
+        },
+        {
+            "referencia": "EFI.4.1.6",
+            "descripcion": "Explorar diferentes recursos y aplicaciones digitales reconociendo su potencial, así como sus riesgos para su uso en el ámbito de la actividad física y el deporte.",
+            "saberes_relacionados": [
+                "EFI.4.B.4.",
+                "EFI.4.B.5.",
+                "EFI.4.B.6."
+            ]
+        },
+        {
+            "referencia": "EFI.4.2.1",
+            "descripcion": "Desarrollar proyectos motores de carácter individual, cooperativo o colaborativo, estableciendo mecanismos para reconducir los procesos de trabajo y asegurar una participación equilibrada, incluyendo estrategias de autoevaluación y coevaluación tanto del proceso como del resultado, consolidando actitudes de superación, crecimiento y resiliencia.",
+            "saberes_relacionados": [
+                "EFI.4.B.1.",
+                "EFI.4.B.3.",
+                "EFI.4.C.1.1.",
+                "EFI.4.C.1.2.",
+                "EFI.4.C.6.",
+                "EFI.4.D.1."
+            ]
+        },
+        {
+            "referencia": "EFI.4.2.2",
+            "descripcion": "Mostrar habilidades para la adaptación y la actuación ante situaciones con una elevada incertidumbre, aprovechando eficientemente las propias capacidades y aplicando de manera automática procesos de percepción, decisión y ejecución en contextos reales o simulados de actuación, reflexionando sobre las soluciones y resultados obtenidos.",
+            "saberes_relacionados": [
+                "EFI.4.C.1.1.",
+                "EFI.4.C.1.3.",
+                "EFI.4.C.1.4.",
+                "EFI.4.C.1.5.",
+                "EFI.4.C.4.",
+                "EFI.4.C.5."
+            ]
+        },
+        {
+            "referencia": "EFI.4.2.3",
+            "descripcion": "Evidenciar control y dominio corporal al emplear los componentes cualitativos y cuantitativos de la motricidad de manera eficiente y creativa, resolviendo problemas de forma autónoma en todo tipo de situaciones motrices transferibles a su espacio vivencial con autonomía.",
+            "saberes_relacionados": [
+                "EFI.4.C.1.1.",
+                "EFI.4.C.2.",
+                "EFI.4.C.3.",
+                "EFI.4.C.4."
+            ]
+        },
+        {
+            "referencia": "EFI.4.3.1",
+            "descripcion": "Practicar y participar activamente asumiendo responsabilidades en la organización de una gran variedad de actividades motrices, valorando las implicaciones éticas de las prácticas antideportivas, gestionando positivamente la competitividad y actuando con deportividad al asumir los roles de público, participante u otros.",
+            "saberes_relacionados": [
+                "EFI.4.D.1.",
+                "EFI.4.D.2.",
+                "EFI.4.E.4."
+            ]
+        },
+        {
+            "referencia": "EFI.4.3.2",
+            "descripcion": "Cooperar o colaborar en la práctica de diferentes producciones motrices y proyectos para alcanzar el logro individual y grupal, participando con autonomía en la toma de decisiones vinculadas a la asignación de roles, la gestión del tiempo de práctica y la optimización del resultado final, valorando el proceso.",
+            "saberes_relacionados": [
+                "EFI.4.D.2.1."
+            ]
+        },
+        {
+            "referencia": "EFI.4.3.3",
+            "descripcion": "Relacionarse y entenderse con el resto de participantes durante el desarrollo de diversas prácticas motrices con autonomía y haciendo uso efectivo de habilidades sociales de diálogo en la resolución de conflictos y respeto ante la diversidad, ya sea de género, afectivosexual, de origen nacional, étnica, socio-económica o de competencia motriz, y posicionándose activamente frente a los estereotipos, las actuaciones discriminatorias y la violencia.",
+            "saberes_relacionados": [
+                "EFI.4.D.1.",
+                "EFI.4.D.2."
+            ]
+        },
+        {
+            "referencia": "EFI.4.4.1",
+            "descripcion": "Contextualizar la influencia social del deporte en las sociedades actuales, valorando sus orígenes, evolución, distintas manifestaciones e intereses económico-políticos, practicando diversas modalidades relacionadas con Andalucía o las procedentes de otros lugares del mundo.",
+            "saberes_relacionados": [
+                "EFI.4.E.1.",
+                "EFI.4.E.5.",
+                "EFI.4.E.6.1.",
+                "EFI.4.E.6.2."
+            ]
+        },
+        {
+            "referencia": "EFI.4.4.2",
+            "descripcion": "Adoptar actitudes comprometidas y conscientes acerca de los distintos estereotipos de género y comportamientos sexistas que se siguen produciendo en algunos contextos de la motricidad, identificando los factores que contribuyen a su mantenimiento ayudando a difundir referentes de ambos géneros en el ámbito físico-deportivo y ayudando a difundir referentes de ambos géneros en el ámbito físico-deportivo.",
+            "saberes_relacionados": [
+                "EFI.4.E.4."
+            ]
+        },
+        {
+            "referencia": "EFI.4.4.3",
+            "descripcion": "Crear y representar composiciones individuales o colectivas con y sin base musical y de manera coordinada, utilizando intencionadamente y con autonomía el cuerpo y el movimiento como herramienta de expresión y comunicación a través de diversas técnicas expresivas específicas, y ayudando a difundir y compartir dichas prácticas culturales entre compañeros y compañeras u otros miembros de la comunidad, desde una pedagogía crítica y creativa.",
+            "saberes_relacionados": [
+                "EFI.4.C.2.",
+                "EFI.4.C.5.",
+                "EFI.4.E.2.",
+                "EFI.4.E.3."
+            ]
+        },
+        {
+            "referencia": "EFI.4.5.1",
+            "descripcion": "Participar en actividades físico-deportivas en entornos naturales andaluces, terrestres o acuáticos, disfrutando del entorno de manera sostenible, minimizando de forma autónoma el impacto ambiental que estas puedan producir, siendo conscientes de su huella ecológica y desarrollando colaborativa y/o cooperativamente actuaciones intencionadas dirigidas a la conservación y mejora de las condiciones de los espacios en los que se desarrollen.",
+            "saberes_relacionados": [
+                "EFI.4.F.3.",
+                "EFI.4.F.4."
+            ]
+        },
+        {
+            "referencia": "EFI.4.5.2",
+            "descripcion": "Diseñar y organizar actividades físico-deportivas en el medio natural y urbano andaluz, asumiendo responsabilidades y aplicando normas de seguridad individuales y colectivas con autonomía.",
+            "saberes_relacionados": [
+                "EFI.4.B.8.",
+                "EFI.4.F.1.",
+                "EFI.4.F.2.",
+                "EFI.4.F.4."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Vida activa y saludable.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EFI.4.A.1.",
+            "descripcion": "Salud física.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EFI.4.A.1.1.",
+            "descripcion": "Control de resultados y variables fisiológicas básicas como consecuencia del ejercicio físico.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "EFI.4.1.1"
+            ]
+        },
+        {
+            "referencia": "EFI.4.A.1.2.",
+            "descripcion": "Autorregulación y planificación del entrenamiento.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "EFI.4.1.1",
+                "EFI.4.1.2"
+            ]
+        },
+        {
+            "referencia": "EFI.4.A.1.3.",
+            "descripcion": "Pautas para tratar el dolor muscular de origen retardado.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "EFI.4.1.2"
+            ]
+        },
+        {
+            "referencia": "EFI.4.A.1.4.",
+            "descripcion": "Cuidado del cuerpo: calentamiento específico autónomo.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "EFI.4.1.2"
+            ]
+        },
+        {
+            "referencia": "EFI.4.A.1.5.",
+            "descripcion": "Prácticas peligrosas, mitos y falsas creencias en torno al cuerpo y a la actividad física.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "EFI.4.1.2"
+            ]
+        },
+        {
+            "referencia": "EFI.4.A.2.",
+            "descripcion": "Salud social.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.1.5"
+            ]
+        },
+        {
+            "referencia": "EFI.4.A.2.1.",
+            "descripcion": "Suplementación y dopaje en el deporte.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EFI.4.A.2.2.",
+            "descripcion": "Riesgos y condicionantes éticos.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EFI.4.A.3.",
+            "descripcion": "Salud mental.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.1.5"
+            ]
+        },
+        {
+            "referencia": "EFI.4.A.3.1.",
+            "descripcion": "Exigencias y presiones de la competición.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EFI.4.A.3.2.",
+            "descripcion": "Tipologías corporales predominantes en la sociedad y análisis crítico de su presencia en los medios de comunicación.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EFI.4.A.3.3.",
+            "descripcion": "Efectos negativos de los modelos estéticos predominantes y trastornos vinculados al culto insano al cuerpo (vigorexia, anorexia, bulimia y otros).",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EFI.4.A.3.4.",
+            "descripcion": "Creación de una identidad corporal definida y consolidada alejada de estereotipos sexistas.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Organización y gestión de la actividad física.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EFI.4.B.1.",
+            "descripcion": "Elección de la práctica física: gestión y enfoque de los diferentes usos y finalidades de la actividad física y del deporte en función del contexto, actividad y compañeros y compañeras de realización.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.2.1"
+            ]
+        },
+        {
+            "referencia": "EFI.4.B.2.",
+            "descripcion": "Preparación de la práctica motriz: mantenimiento y reparación de material deportivo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.1.2"
+            ]
+        },
+        {
+            "referencia": "EFI.4.B.3.",
+            "descripcion": "Planificación y autorregulación de proyectos motores: establecimiento de mecanismos para registrar y controlar las aportaciones realizadas por los integrantes del grupo a lo largo de un proyecto.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.2.1"
+            ]
+        },
+        {
+            "referencia": "EFI.4.B.4.",
+            "descripcion": "Herramientas digitales para la gestión de la actividad física.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.1.1",
+                "EFI.4.1.5",
+                "EFI.4.1.6"
+            ]
+        },
+        {
+            "referencia": "EFI.4.B.5.",
+            "descripcion": "Uso de internet y de diversas herramientas informáticas: búsqueda, selección y elaboración de información relacionada con la actividad físico-deportiva y presentación de la misma.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.1.5",
+                "EFI.4.1.6"
+            ]
+        },
+        {
+            "referencia": "EFI.4.B.6.",
+            "descripcion": "Riesgos de internet y uso crítico y responsable de las herramientas y/o plataformas digitales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.1.6"
+            ]
+        },
+        {
+            "referencia": "EFI.4.B.7.",
+            "descripcion": "Prevención de accidentes en las prácticas motrices.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.1.3"
+            ]
+        },
+        {
+            "referencia": "EFI.4.B.8.",
+            "descripcion": "Gestión del riesgo propio y del de los demás. Medidas colectivas de seguridad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.1.3",
+                "EFI.4.5.2"
+            ]
+        },
+        {
+            "referencia": "EFI.4.B.9.",
+            "descripcion": "Actuaciones críticas ante accidentes.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.1.4"
+            ]
+        },
+        {
+            "referencia": "EFI.4.B.10.",
+            "descripcion": "Reanimación mediante desfibrilador automático (DEA) o semiautomático (DESA). Soporte vital básico (SVB).",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.1.4"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Resolución de problemas en situaciones motrices.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EFI.4.C.1.",
+            "descripcion": "Toma de decisiones.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EFI.4.C.1.1.",
+            "descripcion": "Búsqueda de adaptaciones motrices para resolver eficientemente tareas de cierta complejidad en situaciones motrices individuales.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "EFI.4.2.1",
+                "EFI.4.2.2",
+                "EFI.4.2.3"
+            ]
+        },
+        {
+            "referencia": "EFI.4.C.1.2.",
+            "descripcion": "Coordinación de las acciones motrices para la resolución de la acción/tarea en situaciones cooperativas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "EFI.4.2.1"
+            ]
+        },
+        {
+            "referencia": "EFI.4.C.1.3.",
+            "descripcion": "Búsqueda de la acción más óptima en función de la acción y ubicación del rival, así como del lugar en el que se encuentre el móvil y/o resultado en situaciones motrices de persecución y de interacción con un móvil.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "EFI.4.2.2"
+            ]
+        },
+        {
+            "referencia": "EFI.4.C.1.4.",
+            "descripcion": "Organización anticipada de los movimientos y acciones individuales en función de las características del contrario en situaciones de oposición de contacto.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "EFI.4.2.2"
+            ]
+        },
+        {
+            "referencia": "EFI.4.C.1.5.",
+            "descripcion": "Delimitación de estrategias previas de ataque y defensa en función de las características de los integrantes del equipo y del equipo rival en situaciones motrices de colaboración-oposición de persecución y de interacción con un móvil.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "EFI.4.2.2"
+            ]
+        },
+        {
+            "referencia": "EFI.4.C.2.",
+            "descripcion": "Esquema corporal: toma de decisiones previas a la realización de una actividad motriz acerca de los mecanismos coordinativos, espaciales y temporales para resolverla adecuadamente.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.2.3",
+                "EFI.4.4.3"
+            ]
+        },
+        {
+            "referencia": "EFI.4.C.3.",
+            "descripcion": "Capacidades condicionales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.2.3"
+            ]
+        },
+        {
+            "referencia": "EFI.4.C.3.1.",
+            "descripcion": "Desarrollo de las capacidades físicas básicas orientadas a la salud.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EFI.4.C.3.2.",
+            "descripcion": "Planificación para el desarrollo de las capacidades físicas básicas: fuerza y resistencia.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EFI.4.C.3.3.",
+            "descripcion": "Sistemas de entrenamiento.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EFI.4.C.4.",
+            "descripcion": "Habilidades motrices específicas asociadas a la técnica en actividades físico-deportivas: profundización, identificación y corrección de errores comunes.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.2.2",
+                "EFI.4.2.3"
+            ]
+        },
+        {
+            "referencia": "EFI.4.C.5.",
+            "descripcion": "Creatividad motriz: creación de retos y situaciones-problema con resolución posible de acuerdo a los recursos disponibles.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.2.2",
+                "EFI.4.4.3"
+            ]
+        },
+        {
+            "referencia": "EFI.4.C.6.",
+            "descripcion": "Barreras arquitectónicas y obstáculos del entorno que impidan o dificulten la actividad física autónoma y saludable en el espacio público y vial.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.2.1"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Autorregulación emocional e interacción social en situaciones motrices.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EFI.4.D.1.",
+            "descripcion": "Autorregulación emocional.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.2.1",
+                "EFI.4.3.1",
+                "EFI.4.3.3"
+            ]
+        },
+        {
+            "referencia": "EFI.4.D.1.1.",
+            "descripcion": "Control de estados de ánimo y estrategias de gestión del fracaso en situaciones motrices.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EFI.4.D.1.2.",
+            "descripcion": "Habilidades volitivas y capacidad de superación.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EFI.4.D.2.",
+            "descripcion": "Habilidades sociales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.3.1",
+                "EFI.4.3.3"
+            ]
+        },
+        {
+            "referencia": "EFI.4.D.2.1.",
+            "descripcion": "Estrategias de negociación y mediación en contextos motrices.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "EFI.4.3.2"
+            ]
+        },
+        {
+            "referencia": "EFI.4.D.2.2.",
+            "descripcion": "Respeto a las reglas: juego limpio en los distintos niveles de deporte y actividad física.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EFI.4.D.2.3.",
+            "descripcion": "Identificación y rechazo de conductas contrarias a la convivencia en situaciones motrices (comportamientos violentos, discriminación por cuestiones de género, competencia motriz, actitudes xenófobas, racistas, LGTBIfóbicas o sexistas). Asertividad y autocuidado.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "EFI.4.1.5"
+            ]
+        },
+        {
+            "referencia": "E.",
+            "descripcion": "Manifestaciones de la cultura motriz.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EFI.4.E.1.",
+            "descripcion": "Aportaciones de la cultura motriz a la herencia cultural. Los deportes como seña de identidad cultural.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.4.1"
+            ]
+        },
+        {
+            "referencia": "EFI.4.E.2.",
+            "descripcion": "Práctica de actividades rítmico-musicales con carácter artístico-expresivo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.4.3"
+            ]
+        },
+        {
+            "referencia": "EFI.4.E.3.",
+            "descripcion": "Organización de espectáculos y eventos artístico-expresivos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.4.3"
+            ]
+        },
+        {
+            "referencia": "EFI.4.E.4.",
+            "descripcion": "Deporte y perspectiva de género. Ejemplos de referentes de ambos sexos, edades y otros parámetros de referencia.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.3.1",
+                "EFI.4.4.2"
+            ]
+        },
+        {
+            "referencia": "EFI.4.E.5.",
+            "descripcion": "Influencia del deporte en la cultura actual: deporte e intereses políticos y económicos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.4.1"
+            ]
+        },
+        {
+            "referencia": "EFI.4.E.6.",
+            "descripcion": "Los Juegos Olímpicos.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EFI.4.E.6.1.",
+            "descripcion": "Repercusión cultural, económica y política de los juegos olímpicos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "EFI.4.4.1"
+            ]
+        },
+        {
+            "referencia": "EFI.4.E.6.2.",
+            "descripcion": "Los juegos olímpicos desde la perspectiva de género.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "EFI.4.4.1"
+            ]
+        },
+        {
+            "referencia": "F.",
+            "descripcion": "Interacción eficiente y sostenible con el entorno.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EFI.4.F.1.",
+            "descripcion": "Análisis y gestión del riesgo propio y de los demás en las prácticas físico-deportivas en el medio natural y urbano. Medidas colectivas de seguridad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.5.2"
+            ]
+        },
+        {
+            "referencia": "EFI.4.F.2.",
+            "descripcion": "Diseño y organización de actividades físicas en el medio natural y urbano.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.5.2"
+            ]
+        },
+        {
+            "referencia": "EFI.4.F.3.",
+            "descripcion": "Cuidado del entorno próximo, como servicio a la comunidad, durante la práctica de actividad física en entornos urbanos y naturales de la red de espacios protegidos andaluces.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.5.1"
+            ]
+        },
+        {
+            "referencia": "EFI.4.F.4.",
+            "descripcion": "La práctica de la bicicleta como medio de transporte habitual.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EFI.4.5.1",
+                "EFI.4.5.2"
+            ]
+        }
+    ]
+}

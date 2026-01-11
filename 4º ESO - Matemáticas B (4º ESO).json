@@ -1,0 +1,787 @@
+{
+    "titulo": "4º ESO - Matemáticas B (4º ESO)",
+    "referencia": "MAB.4",
+    "competencias_especificas": [
+        {
+            "codigo": "MAB.4.1",
+            "descripcion": "Interpretar, modelizar y resolver problemas de la vida cotidiana y propios de las matemáticas, aplicando diferentes estrategias y formas de razonamiento, para explorar distintas maneras de proceder y obtener posibles soluciones."
+        },
+        {
+            "codigo": "MAB.4.2",
+            "descripcion": "Analizar las soluciones de un problema usando diferentes técnicas y herramientas, evaluando las respuestas obtenidas, para verificar su validez e idoneidad desde un punto de vista matemático y su repercusión global."
+        },
+        {
+            "codigo": "MAB.4.3",
+            "descripcion": "Formular y comprobar conjeturas sencillas o plantear problemas de forma autónoma, reconociendo el valor del razonamiento y la argumentación, para generar nuevo conocimiento."
+        },
+        {
+            "codigo": "MAB.4.4",
+            "descripcion": "Utilizar los principios del pensamiento computacional organizando datos, descomponiendo en partes, reconociendo patrones, interpretando, modificando y creando algoritmos para modelizar situaciones y resolver problemas de forma eficaz."
+        },
+        {
+            "codigo": "MAB.4.5",
+            "descripcion": "Reconocer y utilizar conexiones entre los diferentes elementos matemáticos, interconectando conceptos y procedimientos para desarrollar una visión de las matemáticas como un todo integrado."
+        },
+        {
+            "codigo": "MAB.4.6",
+            "descripcion": "Identificar las matemáticas implicadas en otras materias, en situaciones reales y en el entorno, susceptibles de ser abordadas en términos matemáticos, interrelacionando conceptos y procedimientos, para aplicarlos en situaciones diversas."
+        },
+        {
+            "codigo": "MAB.4.7",
+            "descripcion": "Representar, de forma individual y colectiva, conceptos, procedimientos, información y resultados matemáticos, usando diferentes tecnologías, para visualizar ideas y estructurar procesos matemáticos."
+        },
+        {
+            "codigo": "MAB.4.8",
+            "descripcion": "Comunicar de forma individual y colectiva conceptos, procedimientos y argumentos matemáticos, usando lenguaje oral, escrito o gráfico, utilizando la terminología matemática apropiada, para dar significado y coherencia a las ideas matemáticas."
+        },
+        {
+            "codigo": "MAB.4.9",
+            "descripcion": "Desarrollar destrezas personales, identificando y gestionando emociones, poniendo en práctica estrategias de aceptación del error como parte del proceso de aprendizaje y adaptándose ante situaciones de incertidumbre, para mejorar la perseverancia en la consecución de objetivos y el disfrute en el aprendizaje de las matemáticas."
+        },
+        {
+            "codigo": "MAB.4.10",
+            "descripcion": "Desarrollar destrezas sociales, reconociendo y respetando las emociones y experiencias de los demás, participando activa y reflexivamente en proyectos en equipos heterogéneos con roles asignados, para construir una identidad positiva como estudiante de matemáticas, para fomentar el bienestar personal y grupal y para crear relaciones saludables."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "MAB.4.1.1",
+            "descripcion": "Reformular de forma verbal y gráfica problemas matemáticos, interpretando los datos, las relaciones entre ellos y las preguntas planteadas.",
+            "saberes_relacionados": [
+                "MAB.4.A.1.3.",
+                "MAB.4.A.4.",
+                "MAB.4.B.1.",
+                "MAB.4.E.1.2."
+            ]
+        },
+        {
+            "referencia": "MAB.4.1.2",
+            "descripcion": "Analizar y seleccionar diferentes herramientas y estrategias elaboradas en la resolución de un mismo problema, valorando su eficiencia.",
+            "saberes_relacionados": [
+                "MAB.4.D.3.1.",
+                "MAB.4.D.3.2.",
+                "MAB.4.D.4.2.",
+                "MAB.4.E.2.2."
+            ]
+        },
+        {
+            "referencia": "MAB.4.1.3",
+            "descripcion": "Obtener todas las posibles soluciones matemáticas de un problema, movilizando los conocimientos necesarios, analizando los resultados y reconociendo el error como parte del proceso. Utilizando para ello las herramientas tecnológicas adecuadas.",
+            "saberes_relacionados": [
+                "MAB.4.A.1.1.",
+                "MAB.4.A.2.1.",
+                "MAB.4.A.2.2.",
+                "MAB.4.F.1.3."
+            ]
+        },
+        {
+            "referencia": "MAB.4.2.1",
+            "descripcion": "Comprobar la corrección matemática de las soluciones de un problema.",
+            "saberes_relacionados": [
+                "MAB.4.A.3.2."
+            ]
+        },
+        {
+            "referencia": "MAB.4.2.2",
+            "descripcion": "Justificar las soluciones óptimas de un problema, evaluándolas desde diferentes perspectivas (matemática, de género, de sostenibilidad, de consumo responsable, etc.).",
+            "saberes_relacionados": [
+                "MAB.4.E.3.3.",
+                "MAB.4.F.3.1.",
+                "MAB.4.F.3.2."
+            ]
+        },
+        {
+            "referencia": "MAB.4.3.1",
+            "descripcion": "Formular, comprobar e investigar conjeturas de forma guiada.",
+            "saberes_relacionados": [
+                "MAB.4.C.2.2."
+            ]
+        },
+        {
+            "referencia": "MAB.4.3.2",
+            "descripcion": "Plantear variantes de un problema dado que lleven a una generalización.",
+            "saberes_relacionados": [
+                "MAB.4.D.6.1."
+            ]
+        },
+        {
+            "referencia": "MAB.4.3.3",
+            "descripcion": "Emplear herramientas tecnológicas adecuadas en la investigación y comprobación de conjeturas o problemas.",
+            "saberes_relacionados": [
+                "MAB.4.B.2.",
+                "MAB.4.C.1.",
+                "MAB.4.C.2.1.",
+                "MAB.4.D.4.3."
+            ]
+        },
+        {
+            "referencia": "MAB.4.4.1",
+            "descripcion": "Generalizar patrones de situaciones problematizadas, proporcionando una representación computacional.",
+            "saberes_relacionados": [
+                "MAB.4.D.1.",
+                "MAB.4.D.6.2.",
+                "MAB.4.D.6.3."
+            ]
+        },
+        {
+            "referencia": "MAB.4.4.2",
+            "descripcion": "Modelizar situaciones y resolver problemas de forma eficaz, interpretando, modificando, generalizando y creando algoritmos.",
+            "saberes_relacionados": [
+                "MAB.4.C.4.2.",
+                "MAB.4.D.2.1.",
+                "MAB.4.D.4.4.",
+                "MAB.4.E.1.5."
+            ]
+        },
+        {
+            "referencia": "MAB.4.5.1",
+            "descripcion": "Deducir relaciones entre los conocimientos y experiencias matemáticas, formando un todo coherente.",
+            "saberes_relacionados": [
+                "MAB.4.C.4.1."
+            ]
+        },
+        {
+            "referencia": "MAB.4.5.2",
+            "descripcion": "Analizar y poner en práctica conexiones entre diferentes procesos matemáticos aplicando conocimientos y experiencias previas.",
+            "saberes_relacionados": [
+                "MAB.4.C.3.",
+                "MAB.4.D.5.1."
+            ]
+        },
+        {
+            "referencia": "MAB.4.6.1",
+            "descripcion": "Proponer situaciones susceptibles de ser formuladas y resueltas mediante herramientas y estrategias matemáticas, estableciendo y aplicando conexiones entre el mundo real y las matemáticas, y usando los procesos inherentes a la investigación científica y matemática como inferir, medir, comunicar, clasificar y predecir.",
+            "saberes_relacionados": [
+                "MAB.4.E.1.1.",
+                "MAB.4.E.2.1.",
+                "MAB.4.E.3.1."
+            ]
+        },
+        {
+            "referencia": "MAB.4.6.2",
+            "descripcion": "Analizar y aplicar conexiones coherentes entre las matemáticas y otras materias realizando un análisis crítico.",
+            "saberes_relacionados": [
+                "MAB.4.D.2.2.",
+                "MAB.4.D.4.1."
+            ]
+        },
+        {
+            "referencia": "MAB.4.6.3",
+            "descripcion": "Valorar la aportación de las matemáticas al progreso de la humanidad y su contribución a la superación de los retos que demanda la sociedad actual, identificando algunas aportaciones hechas desde nuestra comunidad.",
+            "saberes_relacionados": [
+                "MAB.4.C.4.3.",
+                "MAB.4.F.3.2.",
+                "MAB.4.F.3.3."
+            ]
+        },
+        {
+            "referencia": "MAB.4.7.1",
+            "descripcion": "Representar matemáticamente la información más relevante de un problema, conceptos, procedimientos y resultados matemáticos, usando diferentes herramientas visualizando ideas y estructurar procesos matemáticos.",
+            "saberes_relacionados": [
+                "MAB.4.A.3.1.",
+                "MAB.4.D.5.2.",
+                "MAB.4.E.1.3."
+            ]
+        },
+        {
+            "referencia": "MAB.4.7.2",
+            "descripcion": "Seleccionar y entre diferentes herramientas, incluidas las digitales, y formas de representación pictórica, gráfica, verbal o simbólica, valorando su utilidad para compartir información.",
+            "saberes_relacionados": [
+                "MAB.4.E.1.4."
+            ]
+        },
+        {
+            "referencia": "MAB.4.8.1",
+            "descripcion": "Comunicar ideas, procedimientos, conclusiones, conjeturas y razonamientos matemáticos, utilizando diferentes medios, incluidos los digitales, empleando la terminología apropiada con coherencia y claridad.",
+            "saberes_relacionados": [
+                "MAB.4.E.3.2."
+            ]
+        },
+        {
+            "referencia": "MAB.4.8.2",
+            "descripcion": "Reconocer y emplear el lenguaje matemático presente en la vida cotidiana y en diversos contextos comunicando mensajes con contenido matemático con precisión y rigor.",
+            "saberes_relacionados": [
+                "MAB.4.A.1.2.",
+                "MAB.4.A.2.3.",
+                "MAB.4.D.5.3."
+            ]
+        },
+        {
+            "referencia": "MAB.4.9.1",
+            "descripcion": "Identificar y gestionar las emociones propias y desarrollar el autoconcepto matemático, generando expectativas positivas ante nuevos retos matemáticos.",
+            "saberes_relacionados": [
+                "MAB.4.F.1.1."
+            ]
+        },
+        {
+            "referencia": "MAB.4.9.2",
+            "descripcion": "Mostrar una actitud positiva y perseverante, aceptando la crítica razonada al hacer frente a las diferentes situaciones de aprendizaje de las matemáticas.",
+            "saberes_relacionados": [
+                "MAB.4.F.1.2.",
+                "MAB.4.F.1.3."
+            ]
+        },
+        {
+            "referencia": "MAB.4.10.1",
+            "descripcion": "Colaborar activamente y construir relaciones trabajando con las matemáticas en equipos heterogéneos, respetando diferentes opiniones, comunicándose de manera efectiva, pensando de forma crítica y creativa, tomando decisiones y realizando juicios informados.",
+            "saberes_relacionados": [
+                "MAB.4.F.2.1.",
+                "MAB.4.F.2.2."
+            ]
+        },
+        {
+            "referencia": "MAB.4.10.2",
+            "descripcion": "Gestionar el reparto de tareas en el trabajo en equipo, aportando valor, favoreciendo la inclusión, la escucha activa, responsabilizándose del rol asignado y de la propia contribución al equipo.",
+            "saberes_relacionados": [
+                "MAB.4.F.2.1.",
+                "MAB.4.F.3.1."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Sentido numérico.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MAB.4.A.1.",
+            "descripcion": "Cantidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MAB.4.A.1.1.",
+            "descripcion": "Realización de estimaciones en diversos contextos analizando y acotando el error cometido.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.1.3"
+            ]
+        },
+        {
+            "referencia": "MAB.4.A.1.2.",
+            "descripcion": "Expresión de cantidades mediante números reales con la precisión requerida.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.8.2"
+            ]
+        },
+        {
+            "referencia": "MAB.4.A.1.3.",
+            "descripcion": "Diferentes representaciones de una misma cantidad.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.1.1"
+            ]
+        },
+        {
+            "referencia": "MAB.4.A.2.",
+            "descripcion": "Sentido de las operaciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MAB.4.A.2.1.",
+            "descripcion": "Operaciones con números reales en la resolución de situaciones contextualizadas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.1.3"
+            ]
+        },
+        {
+            "referencia": "MAB.4.A.2.2.",
+            "descripcion": "Propiedades y relaciones inversas de las operaciones (adición y sustracción; multiplicación y división; elevar al cuadrado y extraer la raíz cuadrada): cálculos con números reales, incluyendo herramientas digitales.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.1.3"
+            ]
+        },
+        {
+            "referencia": "MAB.4.A.2.3.",
+            "descripcion": "Reconocimiento de algunos números irracionales como el número pi, el número de oro o el número cordobés en situaciones de la vida cotidiana y su uso en la historia, el arte y la cultura andaluza.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.8.2"
+            ]
+        },
+        {
+            "referencia": "MAB.4.A.3.",
+            "descripcion": "Relaciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MAB.4.A.3.1.",
+            "descripcion": "Los conjuntos numéricos (naturales, enteros, racionales y reales): relaciones entre ellos y propiedades.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.7.1"
+            ]
+        },
+        {
+            "referencia": "MAB.4.A.3.2.",
+            "descripcion": "Orden en la recta numérica. Intervalos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.2.1"
+            ]
+        },
+        {
+            "referencia": "MAB.4.A.4.",
+            "descripcion": "Razonamiento proporcional. Situaciones de proporcionalidad directa e inversa en diferentes contextos: desarrollo y análisis de métodos para la resolución de problemas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "MAB.4.1.1"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Sentido de la medida",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MAB.4.B.1.",
+            "descripcion": "Medición. Razones trigonométricas de un ángulo agudo y sus relaciones: aplicación a la resolución de problemas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "MAB.4.1.1"
+            ]
+        },
+        {
+            "referencia": "MAB.4.B.2.",
+            "descripcion": "Cambio. Estudio gráfico del crecimiento y decrecimiento de funciones en contextos de la vida cotidiana con el apoyo de herramientas tecnológicas: tasas de variación absoluta, relativa y media.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "MAB.4.3.3"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Sentido espacial",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MAB.4.C.1.",
+            "descripcion": "Figuras geométricas de dos y tres dimensiones. Propiedades geométricas de objetos matemáticos y de la vida cotidiana, como la proporción áurea y cordobesa: investigación con programas de geometría dinámica.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "MAB.4.3.3"
+            ]
+        },
+        {
+            "referencia": "MAB.4.C.2.",
+            "descripcion": "Localización y sistemas de representación.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MAB.4.C.2.1.",
+            "descripcion": "Figuras y objetos geométricos de dos dimensiones: representación y análisis de sus propiedades utilizando la geometría analítica.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.3.3"
+            ]
+        },
+        {
+            "referencia": "MAB.4.C.2.2.",
+            "descripcion": "Expresiones algebraicas de una recta: selección de la más adecuada en función de la situación a resolver.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.3.1"
+            ]
+        },
+        {
+            "referencia": "MAB.4.C.3.",
+            "descripcion": "Movimientos y transformaciones. Transformaciones elementales en la vida cotidiana presentes en la vida cotidiana, en el arte y la arquitectura andaluza: investigación con herramientas tecnológicas como programas de geometría dinámica, realidad aumentada.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "MAB.4.5.2"
+            ]
+        },
+        {
+            "referencia": "MAB.4.C.4.",
+            "descripcion": "Visualización, razonamiento y modelización geométrica.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MAB.4.C.4.1.",
+            "descripcion": "Modelos geométricos: representación y explicación de relaciones numéricas y algebraicas en situaciones diversas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.5.1"
+            ]
+        },
+        {
+            "referencia": "MAB.4.C.4.2.",
+            "descripcion": "Modelización de elementos geométricos con herramientas tecnológicas como programas de geometría dinámica, realidad aumentada, etc.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.4.2"
+            ]
+        },
+        {
+            "referencia": "MAB.4.C.4.3.",
+            "descripcion": "Elaboración y comprobación de conjeturas sobre propiedades geométricas mediante programas de geometría dinámica u otras herramientas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.6.3"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Sentido algebraico",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MAB.4.D.1.",
+            "descripcion": "Patrones, pautas y regularidades: observación, generalización y término general en casos sencillos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "MAB.4.4.1"
+            ]
+        },
+        {
+            "referencia": "MAB.4.D.2.",
+            "descripcion": "Modelo matemático.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MAB.4.D.2.1.",
+            "descripcion": "Modelización y resolución de problemas de la vida cotidiana mediante representaciones matemáticas y lenguaje algebraico, haciendo uso de distintos tipos de funciones.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.4.2"
+            ]
+        },
+        {
+            "referencia": "MAB.4.D.2.2.",
+            "descripcion": "Estrategias de deducción y análisis de conclusiones razonables de una situación de la vida cotidiana a partir de un modelo.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.6.2"
+            ]
+        },
+        {
+            "referencia": "MAB.4.D.3.",
+            "descripcion": "Variable.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MAB.4.D.3.1.",
+            "descripcion": "Variables: asociación de expresiones simbólicas al contexto del problema y diferentes usos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.1.2"
+            ]
+        },
+        {
+            "referencia": "MAB.4.D.3.2.",
+            "descripcion": "Relaciones entre cantidades y sus tasas de cambio.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.1.2"
+            ]
+        },
+        {
+            "referencia": "MAB.4.D.4.",
+            "descripcion": "Igualdad y desigualdad.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MAB.4.D.4.1.",
+            "descripcion": "Álgebra simbólica: representación de relaciones funcionales en contextos diversos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.6.2"
+            ]
+        },
+        {
+            "referencia": "MAB.4.D.4.2.",
+            "descripcion": "Formas equivalentes de expresiones algebraicas en la resolución de ecuaciones, sistemas de ecuaciones e inecuaciones lineales y no lineales sencillas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.1.2"
+            ]
+        },
+        {
+            "referencia": "MAB.4.D.4.3.",
+            "descripcion": "Estrategias de discusión y búsqueda de soluciones en ecuaciones lineales y no lineales sencillas en situaciones de la vida cotidiana.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.3.3"
+            ]
+        },
+        {
+            "referencia": "MAB.4.D.4.4.",
+            "descripcion": "Ecuaciones, sistemas e inecuaciones: mediante el uso de la tecnología.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.4.2"
+            ]
+        },
+        {
+            "referencia": "MAB.4.D.5.",
+            "descripcion": "Relaciones y funciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MAB.4.D.5.1.",
+            "descripcion": "Relaciones cuantitativas en situaciones de la vida cotidiana y las clases de funciones que las modelizan.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.5.2"
+            ]
+        },
+        {
+            "referencia": "MAB.4.D.5.2.",
+            "descripcion": "Relaciones lineales y no lineales: identificación y comparación de diferentes modos de representación, tablas, gráficas o expresiones algebraicas, y sus propiedades a partir de ellas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.7.1"
+            ]
+        },
+        {
+            "referencia": "MAB.4.D.5.3.",
+            "descripcion": "Representación de funciones: interpretación de sus propiedades en situaciones de la vida cotidiana y otros contextos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.8.2"
+            ]
+        },
+        {
+            "referencia": "MAB.4.D.6.",
+            "descripcion": "Pensamiento computacional.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MAB.4.D.6.1.",
+            "descripcion": "Resolución de problemas mediante la descomposición en partes, la automatización y el pensamiento algorítmico.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.3.2"
+            ]
+        },
+        {
+            "referencia": "MAB.4.D.6.2.",
+            "descripcion": "Estrategias en la interpretación, modificación y creación de algoritmos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.4.1"
+            ]
+        },
+        {
+            "referencia": "MAB.4.D.6.3.",
+            "descripcion": "Formulación y análisis de problemas de la vida cotidiana mediante programas y otras herramientas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.4.1"
+            ]
+        },
+        {
+            "referencia": "E.",
+            "descripcion": "Sentido estocástico.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MAB.4.E.1.",
+            "descripcion": "Organización y análisis de datos.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MAB.4.E.1.1.",
+            "descripcion": "Estrategias de recogida y organización de datos de una situación de la vida cotidiana que involucren una variable estadística bidimensional. Tablas de contingencia.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.6.1"
+            ]
+        },
+        {
+            "referencia": "MAB.4.E.1.2.",
+            "descripcion": "Análisis e interpretación de tablas y gráficos estadísticos de una y variables cualitativas, cuantitativas discretas y cuantitativas continuas en contextos reales.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.1.1"
+            ]
+        },
+        {
+            "referencia": "MAB.4.E.1.3.",
+            "descripcion": "Medidas de localización y dispersión: interpretación y análisis de la variabilidad.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.7.1"
+            ]
+        },
+        {
+            "referencia": "MAB.4.E.1.4.",
+            "descripcion": "Gráficos estadísticos de una y dos variables: representación mediante diferentes tecnologías (calculadora, hoja de cálculo, aplicaciones...), análisis, interpretación y obtención de conclusiones razonadas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.7.2"
+            ]
+        },
+        {
+            "referencia": "MAB.4.E.1.5.",
+            "descripcion": "Interpretación de la relación entre dos variables, valorando gráficamente con herramientas tecnológicas la pertinencia de realizar una regresión lineal. Ajuste lineal con herramientas tecnológicas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.4.2"
+            ]
+        },
+        {
+            "referencia": "MAB.4.E.2.",
+            "descripcion": "Incertidumbre.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MAB.4.E.2.1.",
+            "descripcion": "Experimentos compuestos: planificación, realización y análisis de la incertidumbre asociada.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.6.1"
+            ]
+        },
+        {
+            "referencia": "MAB.4.E.2.2.",
+            "descripcion": "Probabilidad: cálculo aplicando la regla de Laplace y técnicas de recuento en experimentos simples y compuestos (mediante diagramas de árbol, tablas…) y aplicación a la toma de decisiones fundamentadas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.1.2"
+            ]
+        },
+        {
+            "referencia": "MAB.4.E.3.",
+            "descripcion": "Inferencia.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MAB.4.E.3.1.",
+            "descripcion": "Diferentes etapas del diseño de estudios estadísticos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.6.1"
+            ]
+        },
+        {
+            "referencia": "MAB.4.E.3.2.",
+            "descripcion": "Estrategias y herramientas de presentación e interpretación de datos relevantes en investigaciones estadísticas mediante herramientas digitales adecuadas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.8.1"
+            ]
+        },
+        {
+            "referencia": "MAB.4.E.3.3.",
+            "descripcion": "Análisis del alcance de las conclusiones de un estudio estadístico valorando la representatividad de la muestra.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.2.2"
+            ]
+        },
+        {
+            "referencia": "F.",
+            "descripcion": "Sentido socioafectivo.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MAB.4.F.1.",
+            "descripcion": "Creencias, actitudes y emociones.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MAB.4.F.1.1.",
+            "descripcion": "Gestión emocional: emociones que intervienen en el aprendizaje de las matemáticas. Autoconciencia y autorregulación.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.9.1"
+            ]
+        },
+        {
+            "referencia": "MAB.4.F.1.2.",
+            "descripcion": "Estrategias de fomento de la curiosidad, la iniciativa, la perseverancia y la resiliencia en el aprendizaje de las matemáticas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.9.2"
+            ]
+        },
+        {
+            "referencia": "MAB.4.F.1.3.",
+            "descripcion": "Estrategias de fomento de la flexibilidad cognitiva: apertura a cambios de estrategia y transformación del error en oportunidad de aprendizaje.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.1.3",
+                "MAB.4.9.2"
+            ]
+        },
+        {
+            "referencia": "MAB.4.F.2.",
+            "descripcion": "Trabajo en equipo y toma de decisiones.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MAB.4.F.2.1.",
+            "descripcion": "Asunción de responsabilidades y participación activa, optimizando el trabajo en equipo. Estrategias de gestión de conflictos: pedir, dar y gestionar ayuda.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.10.1",
+                "MAB.4.10.2"
+            ]
+        },
+        {
+            "referencia": "MAB.4.F.2.2.",
+            "descripcion": "Métodos para la gestión y la toma de decisiones adecuadas en la resolución de situaciones propias del quehacer matemático en el trabajo en equipo.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.10.1"
+            ]
+        },
+        {
+            "referencia": "MAB.4.F.3.",
+            "descripcion": "Inclusión, respeto y diversidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MAB.4.F.3.1.",
+            "descripcion": "Actitudes inclusivas y aceptación de la diversidad presente en el aula y en la sociedad.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.2.2",
+                "MAB.4.10.2"
+            ]
+        },
+        {
+            "referencia": "MAB.4.F.3.2.",
+            "descripcion": "La contribución de las matemáticas al desarrollo de los distintos ámbitos del conocimiento humano desde una perspectiva de género.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.2.2",
+                "MAB.4.6.3"
+            ]
+        },
+        {
+            "referencia": "MAB.4.F.3.3.",
+            "descripcion": "Valoración de la contribución de la ciencia andaluza, en los diferentes periodos históricos y en particular del andalusí, al desarrollo de las matemáticas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MAB.4.6.3"
+            ]
+        }
+    ]
+}

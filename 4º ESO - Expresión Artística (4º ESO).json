@@ -1,0 +1,302 @@
+{
+    "titulo": "4º ESO - Expresión Artística (4º ESO)",
+    "referencia": "EAR.4",
+    "competencias_especificas": [
+        {
+            "codigo": "EAR.4.1",
+            "descripcion": "Analizar manifestaciones artísticas, contextualizándolas, describiendo sus aspectos esenciales y valorando el proceso de creación y el resultado final, para educar la mirada, alimentar el imaginario, reforzar la confianza y ampliar las posibilidades de disfrute del patrimonio cultural y artístico."
+        },
+        {
+            "codigo": "EAR.4.2",
+            "descripcion": "Explorar las posibilidades expresivas de diferentes técnicas gráfico-plásticas, empleando distintos medios, soportes, herramientas y lenguajes, para incorporarlas al repertorio personal de recursos y desarrollar el criterio de selección de las más adecuadas a cada necesidad o intención."
+        },
+        {
+            "codigo": "EAR.4.3",
+            "descripcion": "Explorar las posibilidades expresivas de diferentes medios, técnicas y formatos audiovisuales, decodificando sus lenguajes, identificando las herramientas y distinguiendo sus fines, para incorporarlos al repertorio personal de recursos y desarrollar el criterio de selección de los más adecuados a cada necesidad o intención."
+        },
+        {
+            "codigo": "EAR.4.4",
+            "descripcion": "Crear producciones artísticas, individuales o grupales, realizadas con diferentes técnicas y herramientas, incluido el propio cuerpo, a partir de un motivo o intención previos, adaptando el diseño y el proceso a las necesidades e indicaciones de realización y teniendo en cuenta las características del público destinatario, para compartirlas y valorar las oportunidades de desarrollo personal, social, académico o profesional que pueden derivarse de esta actividad."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "EAR.4.1.1",
+            "descripcion": "Analizar manifestaciones artísticas de diferentes épocas y culturas, contextualizándolas, describiendo sus aspectos esenciales, valorando el proceso de creación y el resultado final, y evidenciando una actitud de apertura, interés y respeto en su recepción.",
+            "saberes_relacionados": [
+                "EAR.4.A.1.",
+                "EAR.4.A.9.",
+                "EAR.4.B.1.",
+                "EAR.4.B.2.",
+                "EAR.4.B.7."
+            ]
+        },
+        {
+            "referencia": "EAR.4.1.2",
+            "descripcion": "Valorar críticamente los hábitos, los gustos y los referentes artísticos de diferentes épocas y culturas, reflexionando sobre su evolución y sobre su relación con los del presente.",
+            "saberes_relacionados": [
+                "EAR.4.A.1.",
+                "EAR.4.A.9.",
+                "EAR.4.B.1.",
+                "EAR.4.B.2.",
+                "EAR.4.B.7."
+            ]
+        },
+        {
+            "referencia": "EAR.4.2.1",
+            "descripcion": "Participar, con iniciativa, confianza y creatividad, en la exploración de diferentes técnicas gráfico-plásticas, empleando herramientas, medios, soportes y lenguajes.",
+            "saberes_relacionados": [
+                "EAR.4.A.2.",
+                "EAR.4.A.3.",
+                "EAR.4.A.6."
+            ]
+        },
+        {
+            "referencia": "EAR.4.2.2",
+            "descripcion": "Elaborar producciones gráfico-plásticas de forma creativa, determinando las intenciones expresivas y seleccionando con corrección las herramientas, medios, soportes y lenguajes más adecuados de entre los que conforman el repertorio personal de recursos.",
+            "saberes_relacionados": [
+                "EAR.4.A.4.",
+                "EAR.4.A.5.",
+                "EAR.4.A.8."
+            ]
+        },
+        {
+            "referencia": "EAR.4.3.1",
+            "descripcion": "Participar, con iniciativa, confianza y creatividad, en la exploración de diferentes medios, técnicas y formatos audiovisuales, decodificando sus lenguajes, identificando las herramientas y distinguiendo sus fines.",
+            "saberes_relacionados": [
+                "EAR.4.B.3.",
+                "EAR.4.B.4.",
+                "EAR.4.B.6.",
+                "EAR.4.B.8.",
+                "EAR.4.B.9."
+            ]
+        },
+        {
+            "referencia": "EAR.4.3.2",
+            "descripcion": "Realizar producciones audiovisuales, individuales o colaborativas, asumiendo diferentes funciones; incorporando el uso de las tecnologías digitales con una intención expresiva; buscando un resultado final ajustado al proyecto preparado previamente; y seleccionando y empleando, con corrección y de forma creativa, las herramientas y medios disponibles más adecuados.",
+            "saberes_relacionados": [
+                "EAR.4.B.3.",
+                "EAR.4.B.4.",
+                "EAR.4.B.5.",
+                "EAR.4.B.6.",
+                "EAR.4.B.8.",
+                "EAR.4.B.10.",
+                "EAR.4.B.11."
+            ]
+        },
+        {
+            "referencia": "EAR.4.4.1",
+            "descripcion": "Crear un producto artístico individual o grupal, de forma colaborativa y abierta, diseñando las fases del proceso y seleccionando las técnicas y herramientas más adecuadas para conseguir un resultado adaptado a una intención y a un público determinados.",
+            "saberes_relacionados": [
+                "EAR.4.B.7.",
+                "EAR.4.B.8."
+            ]
+        },
+        {
+            "referencia": "EAR.4.4.2",
+            "descripcion": "Exponer el resultado final de la creación de un producto artístico, individual o grupal, poniendo en común y valorando críticamente el desarrollo de su elaboración, las dificultades encontradas, los progresos realizados y los logros alcanzados.",
+            "saberes_relacionados": [
+                "EAR.4.B.7.",
+                "EAR.4.B.8.",
+                "EAR.4.B.9."
+            ]
+        },
+        {
+            "referencia": "EAR.4.4.3",
+            "descripcion": "Identificar oportunidades de desarrollo personal, social, académico o profesional relacionadas con el ámbito artístico, comprendiendo su valor añadido y expresando la opinión personal de forma razonada y respetuosa.",
+            "saberes_relacionados": [
+                "EAR.4.A.7.",
+                "EAR.4.B.9."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Técnicas gráfico-plásticas.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EAR.4.A.1.",
+            "descripcion": "Los efectos del gesto y del instrumento: herramientas, medios y soportes. Cualidades plásticas y efectos visuales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EAR.4.1.1",
+                "EAR.4.1.2"
+            ]
+        },
+        {
+            "referencia": "EAR.4.A.2.",
+            "descripcion": "Técnicas de dibujo, ilustración y pintura: técnicas secas y húmedas. Selección del soporte adecuado en función de la técnica empleada.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EAR.4.2.1"
+            ]
+        },
+        {
+            "referencia": "EAR.4.A.3.",
+            "descripcion": "Técnicas mixtas y alternativas de las vanguardias artísticas. Posibilidades expresivas y contexto histórico.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EAR.4.2.1"
+            ]
+        },
+        {
+            "referencia": "EAR.4.A.4.",
+            "descripcion": "Técnicas de estampación. Procedimientos directos, aditivos, sustractivos y mixtos. El grabado, contexto histórico: Durero, Mantegna y Rembrant (s.XVI), Piranesi y Goya (s.XVIII), Toulouse-Lautrec (s.XIX), Matisse, Picasso y Joan Miró (s.XX).",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EAR.4.2.2"
+            ]
+        },
+        {
+            "referencia": "EAR.4.A.5.",
+            "descripcion": "Grafiti y pintura mural.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EAR.4.2.2"
+            ]
+        },
+        {
+            "referencia": "EAR.4.A.6.",
+            "descripcion": "Técnicas básicas de creación de volúmenes. Generar un volumen por adición o sustracción de material. El molde y el vaciado. Modelado a mano. El torno.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EAR.4.2.1"
+            ]
+        },
+        {
+            "referencia": "EAR.4.A.7.",
+            "descripcion": "El arte del reciclaje. Consumo responsable. Productos ecológicos, sostenibles e innovadores en la práctica artística. Arte y naturaleza.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EAR.4.4.3"
+            ]
+        },
+        {
+            "referencia": "EAR.4.A.8.",
+            "descripcion": "Seguridad, toxicidad e impacto medioambiental de los diferentes materiales artísticos. Prevención y gestión responsable de los residuos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EAR.4.2.2"
+            ]
+        },
+        {
+            "referencia": "EAR.4.A.9.",
+            "descripcion": "Ejemplos de aplicación de técnicas gráfico-plásticas en diferentes manifestaciones artísticas y en el ámbito del diseño.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EAR.4.1.1",
+                "EAR.4.1.2"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Fotografía, lenguaje visual, audiovisual y multimedia.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EAR.4.B.1.",
+            "descripcion": "Elementos y principios básicos del lenguaje visual y de la percepción. Color y composición.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EAR.4.1.1",
+                "EAR.4.1.2"
+            ]
+        },
+        {
+            "referencia": "EAR.4.B.2.",
+            "descripcion": "Narrativa de la imagen fija: encuadre y planificación, puntos de vista y angulación. La imagen secuenciada.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EAR.4.1.1",
+                "EAR.4.1.2"
+            ]
+        },
+        {
+            "referencia": "EAR.4.B.3.",
+            "descripcion": "Fotografía analógica: cámara oscura. Fotografía sin cámara (fotogramas). Técnicas fotográficas experimentales: cianotipia o antotipia.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EAR.4.3.1",
+                "EAR.4.3.2"
+            ]
+        },
+        {
+            "referencia": "EAR.4.B.4.",
+            "descripcion": "Fotografía digital. El fotomontaje digital y tradicional. La imagen secuenciada.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EAR.4.3.1",
+                "EAR.4.3.2"
+            ]
+        },
+        {
+            "referencia": "EAR.4.B.5.",
+            "descripcion": "Seguridad, toxicidad e impacto medioambiental de los diferentes materiales artísticos. Prevención y gestión responsable de los residuos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EAR.4.3.2"
+            ]
+        },
+        {
+            "referencia": "EAR.4.B.6.",
+            "descripcion": "Narrativa audiovisual: fotograma, secuencia, escena, toma, plano y montaje. El guion y el storyboard.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EAR.4.3.1",
+                "EAR.4.3.2"
+            ]
+        },
+        {
+            "referencia": "EAR.4.B.7.",
+            "descripcion": "El proceso de creación. Realización y seguimiento: guion o proyecto, presentación final y evaluación (autorreflexión, autoevaluación y evaluación colectiva).",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EAR.4.1.1",
+                "EAR.4.1.2",
+                "EAR.4.4.1",
+                "EAR.4.4.2"
+            ]
+        },
+        {
+            "referencia": "EAR.4.B.8.",
+            "descripcion": "Publicidad: recursos formales, lingüísticos y persuasivos. Estereotipos y sociedad de consumo. El sexismo y los cánones corporales y sexuales en los medios de comunicación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EAR.4.3.1",
+                "EAR.4.3.2",
+                "EAR.4.4.1",
+                "EAR.4.4.2"
+            ]
+        },
+        {
+            "referencia": "EAR.4.B.9.",
+            "descripcion": "Campos y ramas del diseño: gráfico, de producto, de moda, de interiores, escenografía.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EAR.4.3.1",
+                "EAR.4.4.2",
+                "EAR.4.4.3"
+            ]
+        },
+        {
+            "referencia": "EAR.4.B.10.",
+            "descripcion": "Técnicas básicas de animación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EAR.4.3.2"
+            ]
+        },
+        {
+            "referencia": "EAR.4.B.11.",
+            "descripcion": "Recursos digitales para la creación de proyectos de vídeo-arte.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EAR.4.3.2"
+            ]
+        }
+    ]
+}

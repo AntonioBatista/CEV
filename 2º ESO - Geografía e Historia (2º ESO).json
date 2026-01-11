@@ -1,0 +1,648 @@
+{
+    "titulo": "2º ESO - Geografía e Historia (2º ESO)",
+    "referencia": "GEH.2",
+    "competencias_especificas": [
+        {
+            "codigo": "GEH.2.1",
+            "descripcion": "Buscar, seleccionar, tratar y organizar información sobre temas relevantes del presente y del pasado, usando críticamente fuentes históricas y geográficas, para adquirir conocimientos, elaborar y expresar contenidos en varios formatos."
+        },
+        {
+            "codigo": "GEH.2.2",
+            "descripcion": "Indagar, argumentar y elaborar productos propios sobre problemas geográficos, históricos y sociales que resulten relevantes en la actualidad, desde lo local a lo global, para desarrollar un pensamiento crítico, respetuoso con las diferencias, que contribuya a la construcción de la propia identidad y a enriquecer el acervo común."
+        },
+        {
+            "codigo": "GEH.2.3",
+            "descripcion": "Conocer los principales desafíos a los que se han enfrentado distintas sociedades a lo largo del tiempo, identificando las causas y consecuencias de los cambios producidos y los problemas a los que se enfrentan en la actualidad, mediante el desarrollo de proyectos de investigación y el uso de fuentes fiables, para realizar propuestas que contribuyan al desarrollo sostenible."
+        },
+        {
+            "codigo": "GEH.2.4",
+            "descripcion": "Identificar y analizar los elementos del paisaje y su articulación en sistemas complejos naturales, rurales y urbanos, así como su evolución en el tiempo, interpretando las causas de las transformaciones y valorando el grado de equilibrio existente en los distintos ecosistemas, para promover su conservación, mejora y uso sostenible."
+        },
+        {
+            "codigo": "GEH.2.5",
+            "descripcion": "Analizar de forma crítica planteamientos históricos y geográficos, explicando la construcción de los sistemas democráticos y los principios constitucionales que rigen la vida en comunidad, así como asumiendo los deberes y derechos propios de nuestro marco de convivencia, para promover la participación ciudadana y la cohesión social."
+        },
+        {
+            "codigo": "GEH.2.6",
+            "descripcion": "Comprender los procesos geográficos, históricos y culturales que han conformado la realidad multicultural en la que vivimos, conociendo y difundiendo la historia y cultura de las minorías étnicas presentes en nuestro país, y valorando la aportación de los movimientos en defensa de la igualdad y la inclusión, para reducir estereotipos, evitar cualquier tipo de discriminación y violencia, y reconocer la riqueza de la diversidad."
+        },
+        {
+            "codigo": "GEH.2.7",
+            "descripcion": "Identificar los fundamentos que sostienen las diversas identidades propias y las ajenas, a través del conocimiento y puesta en valor del patrimonio material e inmaterial que compartimos para conservarlo y respetar los sentimientos de pertenencia, así como para favorecer procesos que contribuyan a la cohesión y solidaridad territorial en orden a los valores del europeísmo y de la Declaración Universal de los Derechos Humanos."
+        },
+        {
+            "codigo": "GEH.2.8",
+            "descripcion": "Tomar conciencia del papel de los ciclos demográficos, el ciclo vital, las formas de vida y las relaciones intergeneracionales y de dependencia en la sociedad actual y su evolución a lo largo del tiempo, analizándolas de forma crítica, para promover alternativas saludables, sostenibles, enriquecedoras y respetuosas con la dignidad humana y el compromiso con la sociedad y el entorno."
+        },
+        {
+            "codigo": "GEH.2.9",
+            "descripcion": "Conocer y valorar la importancia de la seguridad integral ciudadana en la cultura de la convivencia internacional, de nuestro país y de Andalucía, destacando la contribución del Estado, sus instituciones y otras entidades sociales a la paz, a la cooperación internacional y al desarrollo sostenible, para promover la consecución de un mundo más seguro, solidario, sostenible y justo."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "GEH.2.1.1",
+            "descripcion": "Elaborar, expresar y presentar contenidos propios en forma de esquemas, tablas informativas y otros formatos mediante el desarrollo de estrategias de búsqueda, selección y tratamiento de información relativas a procesos y acontecimientos relevantes del presente y del pasado.",
+            "saberes_relacionados": [
+                "GEH.2.A.1.",
+                "GEH.2.A.2."
+            ]
+        },
+        {
+            "referencia": "GEH.2.1.2",
+            "descripcion": "Contrastar y argumentar sobre temas y acontecimientos de la Prehistoria, la Edad Antigua, la Edad Media y la Edad Moderna, localizando y analizando de forma crítica fuentes primarias y secundarias como pruebas históricas.",
+            "saberes_relacionados": [
+                "GEH.2.B.1.",
+                "GEH.2.B.2."
+            ]
+        },
+        {
+            "referencia": "GEH.2.2.1",
+            "descripcion": "Identificar, valorar y mostrar interés por los principales problemas que afectan a la sociedad, adoptando una posición crítica y proactiva hacia los mismos.",
+            "saberes_relacionados": [
+                "GEH.2.C.4.",
+                "GEH.2.C.5.",
+                "GEH.2.C.6."
+            ]
+        },
+        {
+            "referencia": "GEH.2.2.2",
+            "descripcion": "Argumentar de forma crítica sobre problemas de actualidad a través de conocimientos geográficos e históricos, contrastando y valorando fuentes diversas.",
+            "saberes_relacionados": [
+                "GEH.2.B.1.",
+                "GEH.2.B.2.",
+                "GEH.2.C.4."
+            ]
+        },
+        {
+            "referencia": "GEH.2.2.3",
+            "descripcion": "Incorporar y utilizar adecuadamente términos, conceptos y acontecimientos relacionados con la geografía, la historia y otras disciplinas de las ciencias sociales, a través de intervenciones orales, textos escritos y otros productos, mostrando planteamientos originales y propuestas creativas.",
+            "saberes_relacionados": [
+                "GEH.2.A.3.",
+                "GEH.2.C.9."
+            ]
+        },
+        {
+            "referencia": "GEH.2.2.4",
+            "descripcion": "Elaborar juicios argumentados, respetando las opiniones de los demás y enriqueciendo el acervo común en el contexto del mundo actual, de sus retos y sus conflictos, y desde una perspectiva sistémica y global, a través de la elaboración de juicios propios, críticos y argumentados, y el respeto a las opiniones de los demás.",
+            "saberes_relacionados": [
+                "GEH.2.A.9.",
+                "GEH.2.C.2."
+            ]
+        },
+        {
+            "referencia": "GEH.2.3.1",
+            "descripcion": "Adquirir y construir conocimiento relevante del mundo actual y de la historia, a través de procesos inductivos, de la investigación y del trabajo por proyectos, retos o problemas, mediante la elaboración de productos que reflejen la comprensión de los fenómenos y problemas abordados.",
+            "saberes_relacionados": [
+                "GEH.2.A.3.",
+                "GEH.2.B.1."
+            ]
+        },
+        {
+            "referencia": "GEH.2.3.2",
+            "descripcion": "Identificar los principales problemas, retos y desafíos a los que se ha enfrentado la humanidad a lo largo de la historia, los cambios producidos, sus causas y consecuencias, así como los que, en la actualidad, debemos plantear y resolver en torno a los Objetivos de Desarrollo Sostenible.",
+            "saberes_relacionados": [
+                "GEH.2.A.9."
+            ]
+        },
+        {
+            "referencia": "GEH.2.3.3",
+            "descripcion": "Representar adecuadamente información geográfica e histórica a través de diversas formas de representación gráfica, cartográfica y visual.",
+            "saberes_relacionados": [
+                "GEH.2.A.1."
+            ]
+        },
+        {
+            "referencia": "GEH.2.3.4",
+            "descripcion": "Utilizar una secuencia cronológica con objeto de examinar la relación entre hechos y procesos en diferentes períodos y lugares históricos (simultaneidad y duración), utilizando términos y conceptos apropiados.",
+            "saberes_relacionados": [
+                "GEH.2.A.3.",
+                "GEH.2.B.3."
+            ]
+        },
+        {
+            "referencia": "GEH.2.3.5",
+            "descripcion": "Analizar procesos de cambio histórico de relevancia a través del uso de diferentes fuentes de información, teniendo en cuenta las continuidades y permanencias en diferentes periodos y lugares.",
+            "saberes_relacionados": [
+                "GEH.2.B.2."
+            ]
+        },
+        {
+            "referencia": "GEH.2.4.1",
+            "descripcion": "Interpretar el entorno desde una perspectiva sistémica e integradora, a través del concepto de paisaje, identificando sus principales elementos y las interrelaciones existentes.",
+            "saberes_relacionados": [
+                "GEH.2.A.5.",
+                "GEH.2.B.10."
+            ]
+        },
+        {
+            "referencia": "GEH.2.4.2",
+            "descripcion": "Valorar el grado de sostenibilidad y de equilibrio de los diferentes espacios y desde distintas escalas y analizar su transformación y degradación a través del tiempo por la acción humana en la explotación de los recursos, su relación con la evolución de la población y las estrategias desarrolladas para su control y dominio y los conflictos que ha provocado.",
+            "saberes_relacionados": [
+                "GEH.2.A.4.",
+                "GEH.2.A.6.",
+                "GEH.2.B.4."
+            ]
+        },
+        {
+            "referencia": "GEH.2.4.3",
+            "descripcion": "Argumentar la necesidad de acciones de defensa, protección, conservación y mejora del entorno (natural, rural y urbano) a través de propuestas e iniciativas que reflejen compromisos y conductas en favor de la sostenibilidad y del reparto justo y solidario de los recursos.",
+            "saberes_relacionados": [
+                "GEH.2.A.5.",
+                "GEH.2.A.7.",
+                "GEH.2.C.4.",
+                "GEH.2.C.8."
+            ]
+        },
+        {
+            "referencia": "GEH.2.5.1",
+            "descripcion": "Identificar, interpretar y analizar los mecanismos que han regulado la convivencia y la vida en común a lo largo de la historia, desde el origen de la sociedad a las distintas civilizaciones que se han ido sucediendo, señalando los principales modelos de organización social, política, económica y religiosa que se han ido gestando.",
+            "saberes_relacionados": [
+                "GEH.2.B.5.",
+                "GEH.2.B.6.",
+                "GEH.2.B.7.",
+                "GEH.2.B.8.",
+                "GEH.2.B.9.",
+                "GEH.2.B.11."
+            ]
+        },
+        {
+            "referencia": "GEH.2.5.2",
+            "descripcion": "Señalar y explicar aquellas experiencias históricas más destacables, y anteriores a la época contemporánea, en las que se logró establecer sistemas políticos que favorecieron el ejercicio de derechos y libertades de los individuos y de la colectividad, considerándolas como antecedentes de las posteriores conquistas democráticas y referentes históricos de las libertades actuales.",
+            "saberes_relacionados": [
+                "GEH.2.B.7.",
+                "GEH.2.C.12."
+            ]
+        },
+        {
+            "referencia": "GEH.2.5.3",
+            "descripcion": "Mostrar actitudes pacíficas y respetuosas y asumir las normas como marco necesario para la convivencia, demostrando capacidad crítica e identificando y respondiendo de manera asertiva ante las situaciones de injusticia y desigualdad.",
+            "saberes_relacionados": [
+                "GEH.2.C.1.",
+                "GEH.2.C.2.",
+                "GEH.2.C.6.",
+                "GEH.2.C.11."
+            ]
+        },
+        {
+            "referencia": "GEH.2.6.1",
+            "descripcion": "Situar el nacimiento y desarrollo de distintas civilizaciones y ubicarlas en el espacio y en el tiempo, integrando los elementos históricos, culturales, institucionales y religiosos que las han conformado, explicando la realidad multicultural generada a lo largo del tiempo e identificando sus aportaciones más relevantes a la cultura universal.",
+            "saberes_relacionados": [
+                "GEH.2.B.3.",
+                "GEH.2.B.8.",
+                "GEH.2.B.12.",
+                "GEH.2.B.15.",
+                "GEH.2.B.16."
+            ]
+        },
+        {
+            "referencia": "GEH.2.6.2",
+            "descripcion": "Reconocer las desigualdades sociales existentes en épocas pasadas y los mecanismos de dominación y control que se han aplicado, identificando aquellos grupos que se han visto sometidos y silenciados, destacando la presencia de mujeres y de personajes pertenecientes a otros colectivos discriminados.",
+            "saberes_relacionados": [
+                "GEH.2.B.6.",
+                "GEH.2.B.14."
+            ]
+        },
+        {
+            "referencia": "GEH.2.6.3",
+            "descripcion": "Valorar la diversidad social y cultural, argumentando e interviniendo en favor de la inclusión, así como rechazando y actuando en contra de cualquier actitud o comportamiento discriminatorio o basado en estereotipos.",
+            "saberes_relacionados": [
+                "GEH.2.C.1.",
+                "GEH.2.C.2."
+            ]
+        },
+        {
+            "referencia": "GEH.2.6.4",
+            "descripcion": "Argumentar e intervenir acerca de la igualdad real de hombres y mujeres actuando en contra de cualquier actitud y comportamiento discriminatorio por razón de género.",
+            "saberes_relacionados": [
+                "GEH.2.A.8.",
+                "GEH.2.C.3."
+            ]
+        },
+        {
+            "referencia": "GEH.2.7.1",
+            "descripcion": "Relacionar las culturas y civilizaciones que se han desarrollado a lo largo de la historia antigua, medieval y moderna con las diversas identidades colectivas que se han ido construyendo hasta la actualidad, reflexionando sobre los múltiples significados que adoptan y sus aportaciones a la cultura humana universal.",
+            "saberes_relacionados": [
+                "GEH.2.B.16."
+            ]
+        },
+        {
+            "referencia": "GEH.2.7.2",
+            "descripcion": "Identificar el origen histórico de distintas identidades colectivas que se han desarrollado en España, interpretando el uso que se ha hecho de las mismas y mostrando una actitud de respeto y tolerancia hacia los diferentes sentidos de pertenencia, promoviendo la solidaridad y la cohesión social.",
+            "saberes_relacionados": [
+                "GEH.2.B.13."
+            ]
+        },
+        {
+            "referencia": "GEH.2.7.3",
+            "descripcion": "Señalar los fundamentos de la idea de Europa a través de las diferentes experiencias históricas del pasado e identificar el legado histórico, institucional, artístico y cultural como patrimonio común de la ciudadanía europea.",
+            "saberes_relacionados": [
+                "GEH.2.B.16.",
+                "GEH.2.C.12."
+            ]
+        },
+        {
+            "referencia": "GEH.2.7.4",
+            "descripcion": "Valorar, proteger y conservar el patrimonio artístico, histórico y cultural como fundamento de la identidad colectiva local, autonómica, nacional, europea y universal, considerándolo un bien para el disfrute recreativo y cultural y un recurso para el desarrollo de los pueblos.",
+            "saberes_relacionados": [
+                "GEH.2.B.10.",
+                "GEH.2.B.15.",
+                "GEH.2.C.7."
+            ]
+        },
+        {
+            "referencia": "GEH.2.8.1",
+            "descripcion": "Conocer e interpretar los comportamientos demográficos de la población, los cambios que ha experimentado y sus ciclos, identificando y analizando los principales problemas y retos a los que nos enfrentamos en el mundo, en España y en Andalucía.",
+            "saberes_relacionados": [
+                "GEH.2.A.4."
+            ]
+        },
+        {
+            "referencia": "GEH.2.8.2",
+            "descripcion": "Tomar conciencia del ciclo vital y analizar cómo han cambiado sus características, necesidades y obligaciones en distintos momentos históricos, así como las raíces de la distribución por motivos de género del trabajo doméstico, asumiendo las responsabilidades y compromisos propios de la edad en el ámbito familiar, en el entorno escolar y en la comunidad, y valorando la riqueza que aportan las relaciones intergeneracionales.",
+            "saberes_relacionados": [
+                "GEH.2.A.8.",
+                "GEH.2.C.10."
+            ]
+        },
+        {
+            "referencia": "GEH.2.8.3",
+            "descripcion": "Relacionar los cambios en los hábitos de vida actuales respecto a los tradicionales y contrastarlos con los que son saludables y sostenibles en el entorno, a través de comportamientos respetuosos con la salud propia, con la de los demás y con otros seres vivos, tomando conciencia de la importancia de promover el propio desarrollo personal.",
+            "saberes_relacionados": [
+                "GEH.2.C.10.",
+                "GEH.2.C.13."
+            ]
+        },
+        {
+            "referencia": "GEH.2.9.1",
+            "descripcion": "Identificar e interpretar la conexión de España y Andalucía con los grandes procesos históricos (de las épocas antigua, medieval y moderna), valorando lo que han supuesto para su evolución y señalando las aportaciones de sus habitantes a lo largo de la historia.",
+            "saberes_relacionados": [
+                "GEH.2.B.13."
+            ]
+        },
+        {
+            "referencia": "GEH.2.9.2",
+            "descripcion": "Interpretar desde la perspectiva del desarrollo sostenible y la ciudadanía global los principales desafíos del mundo actual, y ser conscientes de la importancia de implicarse en la búsqueda de soluciones y en el modo de concretarlos desde su capacidad de acción tanto local como global, valorando la contribución del Estado, sus instituciones y las asociaciones civiles en programas y misiones dirigidos por organismos nacionales e internacionales para el logro de la paz, la seguridad integral, la convivencia social y la cooperación entre los pueblos.",
+            "saberes_relacionados": [
+                "GEH.2.A.9.",
+                "GEH.2.C.4.",
+                "GEH.2.C.12."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Retos del mundo actual.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "GEH.2.A.1.",
+            "descripcion": "Ubicación espacial: representación del espacio, orientación y escalas. Utilización de recursos digitales e interpretación y elaboración de mapas, esquemas, imágenes y representaciones gráficas. Tecnologías de la Información Geográfica (TIG).",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.1.1",
+                "GEH.2.3.3"
+            ]
+        },
+        {
+            "referencia": "GEH.2.A.2.",
+            "descripcion": "Tecnologías de la información. Manejo y utilización de dispositivos, aplicaciones informáticas y plataformas digitales. Búsqueda, tratamiento de la información y elaboración de conocimiento. Uso seguro de las redes de comunicación. Lectura crítica de la información.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.1.1"
+            ]
+        },
+        {
+            "referencia": "GEH.2.A.3.",
+            "descripcion": "Sociedad del conocimiento. Introducción a los objetivos y estrategias de las Ciencias Sociales y al uso de sus procedimientos, términos y conceptos. Uso de plataformas digitales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.2.3",
+                "GEH.2.3.1",
+                "GEH.2.3.4"
+            ]
+        },
+        {
+            "referencia": "GEH.2.A.4.",
+            "descripcion": "Desafíos demográficos en el mundo actual. Distribución de la población y dinámicas a escala mundial. Causalidad y comparación en el estudio de la diversidad social y cultural y de las estructuras demográficas en distintas escalas (local, regional, nacional, europea y planetaria). Las pirámides de población. Distribución, dinámica y estructura de la población española y andaluza.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.4.2",
+                "GEH.2.8.1"
+            ]
+        },
+        {
+            "referencia": "GEH.2.A.5.",
+            "descripcion": "Aglomeraciones urbanas y ruralidad. La despoblación y el sostenimiento del mundo rural. La despoblación de la España rural y nuevas propuestas en el espacio rural andaluz. El espacio urbano: funciones, estructura y morfología urbanas. Un mundo de ciudades. El sistema español de ciudades. Las ciudades de Andalucía. El desarrollo urbano sostenible: la ciudad, espacio de convivencia. Modos y estilos de vida en el contexto de la globalización.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.4.1",
+                "GEH.2.4.3"
+            ]
+        },
+        {
+            "referencia": "GEH.2.A.6.",
+            "descripcion": "Competencia y conflicto por los recursos y el territorio. Mercados regionales, políticas comerciales y movimientos migratorios. Tensiones internacionales, choques y alianzas entre civilizaciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.4.2"
+            ]
+        },
+        {
+            "referencia": "GEH.2.A.7.",
+            "descripcion": "Concentración y distribución de la riqueza. Formas y modos de percibir y representar la desigualdad. Líneas de acción para un reparto justo. La cuestión del mínimo vital.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.4.3"
+            ]
+        },
+        {
+            "referencia": "GEH.2.A.8.",
+            "descripcion": "Igualdad. Situaciones discriminatorias de las niñas y de las mujeres en el mundo. Roles de género y su manifestación en todos los ámbitos de la sociedad y la cultura.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.6.4",
+                "GEH.2.8.2"
+            ]
+        },
+        {
+            "referencia": "GEH.2.A.9.",
+            "descripcion": "Objetivos de Desarrollo Sostenible. La visión de los dilemas del mundo actual, punto de partida para el pensamiento crítico y el desarrollo de juicios propios.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.2.4",
+                "GEH.2.3.2",
+                "GEH.2.9.2"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Sociedades y territorios.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "GEH.2.B.1.",
+            "descripcion": "Métodos básicos de investigación para la construcción del conocimiento de la Geografía y la Historia. Metodologías del pensamiento geográfico y del pensamiento histórico.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.1.2",
+                "GEH.2.2.2",
+                "GEH.2.3.1"
+            ]
+        },
+        {
+            "referencia": "GEH.2.B.2.",
+            "descripcion": "Las fuentes históricas y arqueológicas como base para la construcción del conocimiento histórico. Objetos y artefactos como fuente para la historia y el legado inmaterial. El significado de los archivos, bibliotecas y museos y del legado histórico y cultural como patrimonio colectivo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.1.2",
+                "GEH.2.2.2",
+                "GEH.2.3.5"
+            ]
+        },
+        {
+            "referencia": "GEH.2.B.3.",
+            "descripcion": "Tiempo histórico: construcción e interpretación de líneas del tiempo a través de la linealidad, cronología, simultaneidad y duración.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.3.4",
+                "GEH.2.6.1"
+            ]
+        },
+        {
+            "referencia": "GEH.2.B.4.",
+            "descripcion": "Las grandes rutas comerciales y las estrategias por el control de los recursos: talasocracias e imperios, conquista y colonización. Del imperio bizantino al imperio español. La conquista y colonización de América.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.4.2"
+            ]
+        },
+        {
+            "referencia": "GEH.2.B.5.",
+            "descripcion": "Violencia y conflictos armados. El crecimiento de los ejércitos y la evolución del armamento desde os ejércitos medievales a los tercios. Los civiles durante las guerras.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.5.1"
+            ]
+        },
+        {
+            "referencia": "GEH.2.B.6.",
+            "descripcion": "Complejidad social: los estamentos. Desigualdad social y disputa por el poder durante la Edad Media y la Edad Moderna. Formación de oligarquías, la imagen del poder y la evolución de la aristocracia.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.5.1",
+                "GEH.2.6.2"
+            ]
+        },
+        {
+            "referencia": "GEH.2.B.7.",
+            "descripcion": "La organización política del ser humano y las formulaciones estatales en el mundo medieval y moderno: democracias, repúblicas, imperios y reinos. Evolución de la teoría del poder. El imperio bizantino. El Islam. La Europa feudal. La aparición del Estado moderno. El absolutismo y el parlamentarismo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.5.1",
+                "GEH.2.5.2"
+            ]
+        },
+        {
+            "referencia": "GEH.2.B.8.",
+            "descripcion": "El papel de la religión en la organización social, la legitimación del poder y la formación de identidades: Origen y expansión del Islam. El Islam en la península. El poder de la Iglesia en la Europa feudal. Las cruzadas. Herejías, persecuciones y guerras de religión. El judaísmo, presencia en la península y expulsión. Conversos y moriscos. Reforma y contrarreforma.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.5.1",
+                "GEH.2.6.1"
+            ]
+        },
+        {
+            "referencia": "GEH.2.B.9.",
+            "descripcion": "La transformación humana del territorio y la distribución desigual de los recursos y del trabajo. Evolución de los sistemas económicos, de los ciclos demográficos, los modos de vida y de los modelos de organización social: del feudalismo a la aparición del capitalismo. La lucha por la supervivencia y el estatus social en la Edad Media y la Edad Moderna.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.5.1"
+            ]
+        },
+        {
+            "referencia": "GEH.2.B.10.",
+            "descripcion": "Interpretación del territorio y del paisaje. La ciudad y el mundo rural a lo largo de la historia: ciudades, villas y aldeas. La ciudad islámica. El feudo. El renacer de las ciudades. La huella humana y la protección del patrimonio ambiental, histórico, artístico y cultural.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.4.1",
+                "GEH.2.7.4"
+            ]
+        },
+        {
+            "referencia": "GEH.2.B.11.",
+            "descripcion": "Viajes, descubrimientos y sistemas de intercambio en la formación de una economía mundial. La disputa por la hegemonía y la geopolítica en el nacimiento y evolución de la Modernidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.5.1"
+            ]
+        },
+        {
+            "referencia": "GEH.2.B.12.",
+            "descripcion": "Ciencia, medicina y avances tecnológicos. La lucha contra epidemias y pandemias. Racionalismo y empirismo en la explicación de la realidad frente a las supersticiones. La revolución científica del siglo XVII.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.6.1"
+            ]
+        },
+        {
+            "referencia": "GEH.2.B.13.",
+            "descripcion": "España y Andalucía en el tiempo y su conexión con los grandes procesos de la historia de la humanidad. La península ibérica en la Edad Media: la expansión del Islam y la formación de Al-Ándalus. Los reinos cristianos y su expansión. La repoblación. La Edad Moderna: la formación del Estado moderno, la monarquía de los Reyes Católicos. La hegemonía española. La crisis del siglo XVII. El legado histórico y el acervo cultural en la formación de las identidades colectivas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.7.2",
+                "GEH.2.9.1"
+            ]
+        },
+        {
+            "referencia": "GEH.2.B.14.",
+            "descripcion": "Las personas invisibilizadas de la historia. Mujeres, esclavos y extranjeros. Marginación, segregación, control y sumisión en la historia medieval y moderna. La resistencia a la opresión. Personajes femeninos en la historia medieval y moderna.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.6.2"
+            ]
+        },
+        {
+            "referencia": "GEH.2.B.15.",
+            "descripcion": "Significado y función de las expresiones artísticas y culturales en las distintas civilizaciones. El arte islámico. Cultura y arte andalusíes. El arte románico. El arte gótico. Legado artístico en los reinos cristianos peninsulares. El Renacimiento. El Barroco. Diversidad y riqueza cultural. Respeto y conservación del patrimonio material e inmaterial. El patrimonio andaluz.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.6.1",
+                "GEH.2.7.4"
+            ]
+        },
+        {
+            "referencia": "GEH.2.B.16.",
+            "descripcion": "Las raíces de la cultura occidental. La construcción de las identidades culturales, de la idea de Europa, y del eurocentrismo, a través del pensamiento y del arte. La influencia de las civilizaciones judía e islámica en la cultura europea. La presencia islámica en Andalucía.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.6.1",
+                "GEH.2.7.1",
+                "GEH.2.7.3"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Compromiso cívico.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "GEH.2.C.1.",
+            "descripcion": "Dignidad humana y derechos universales. Convención sobre los Derechos del Niño.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.5.3",
+                "GEH.2.6.3"
+            ]
+        },
+        {
+            "referencia": "GEH.2.C.2.",
+            "descripcion": "Alteridad: respeto y aceptación «del otro». Comportamientos no discriminatorios y contrarios a cualquier actitud diferenciadora y segregadora.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.2.4",
+                "GEH.2.5.3",
+                "GEH.2.6.3"
+            ]
+        },
+        {
+            "referencia": "GEH.2.C.3.",
+            "descripcion": "Igualdad de género. Manifestaciones y conductas no sexistas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.6.4"
+            ]
+        },
+        {
+            "referencia": "GEH.2.C.4.",
+            "descripcion": "Interés ante los retos y problemas de actualidad en el entorno local y global.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.2.1",
+                "GEH.2.2.2",
+                "GEH.2.4.3",
+                "GEH.2.9.2"
+            ]
+        },
+        {
+            "referencia": "GEH.2.C.5.",
+            "descripcion": "Las redes sociales. Seguridad y prevención ante los riesgos y peligros del uso de las tecnologías de la información y de la comunicación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.2.1"
+            ]
+        },
+        {
+            "referencia": "GEH.2.C.6.",
+            "descripcion": "Convivencia cívica y cultura democrática. Incorporación e implicación de la sociedad civil en procesos democráticos. Participación en proyectos comunitarios.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.2.1",
+                "GEH.2.5.3"
+            ]
+        },
+        {
+            "referencia": "GEH.2.C.7.",
+            "descripcion": "Conservación y defensa del patrimonio histórico, artístico y cultural. El patrimonio andaluz. El andalucismo histórico. Blas Infante. Los símbolos de Andalucía y sus instituciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.7.4"
+            ]
+        },
+        {
+            "referencia": "GEH.2.C.8.",
+            "descripcion": "Solidaridad, empatía y acciones de apoyo a colectivos en situaciones de pobreza, vulnerabilidad y exclusión social.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.4.3"
+            ]
+        },
+        {
+            "referencia": "GEH.2.C.9.",
+            "descripcion": "Identificación y gestión de las emociones y su repercusión en comportamientos individuales y colectivos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.2.3"
+            ]
+        },
+        {
+            "referencia": "GEH.2.C.10.",
+            "descripcion": "Ciclos vitales, uso del tiempo libre y hábitos de consumo. Diferencias y cambios en las formas de vida en las sociedades actuales y en las del pasado.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.8.2",
+                "GEH.2.8.3"
+            ]
+        },
+        {
+            "referencia": "GEH.2.C.11.",
+            "descripcion": "La contribución del estado y sus instituciones a la paz, a la seguridad integral ciudadana y a la convivencia social.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.5.3"
+            ]
+        },
+        {
+            "referencia": "GEH.2.C.12.",
+            "descripcion": "Ciudadanía europea. Ideas y actitudes en el proyecto de construcción de una identidad común. La seguridad y la cooperación internacional.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.5.2",
+                "GEH.2.7.3",
+                "GEH.2.9.2"
+            ]
+        },
+        {
+            "referencia": "GEH.2.C.13.",
+            "descripcion": "Seguridad vial y movilidad segura, sostenible y saludable. El espacio público.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEH.2.8.3"
+            ]
+        }
+    ]
+}

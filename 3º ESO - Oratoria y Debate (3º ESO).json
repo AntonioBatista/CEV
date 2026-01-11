@@ -1,0 +1,389 @@
+{
+    "titulo": "3º ESO - Oratoria y Debate (3º ESO)",
+    "referencia": "OYD.3",
+    "competencias_especificas": [
+        {
+            "codigo": "OYD.3.1",
+            "descripcion": "Adquirir y conocer con solidez y actitud crítica los conceptos básicos del discurso persuasivo y argumentativo, identificando las principales características de los diferentes tipos de discurso y sus diversas posibilidades de representación, así como sus intenciones comunicativas, potenciando y valorando el uso de la argumentación a través del conocimiento y empleo de estrategias necesarias para el desarrollo de la expresión oral en público, y analizando las diversas manifestaciones, estilos y expresiones discursivas de su entorno sociocultural."
+        },
+        {
+            "codigo": "OYD.3.2",
+            "descripcion": "Conocer y utilizar las diferentes técnicas que faciliten la elaboración del discurso argumentativo y persuasivo, adaptándolo a las necesidades argumentativas, mediante el uso de diferentes técnicas de documentación e investigación, atendiendo a la corrección lingüística, así como a la coherencia y cohesión del mismo y al uso adecuado de figuras retóricas propias de la disciplina."
+        },
+        {
+            "codigo": "OYD.3.3",
+            "descripcion": "Desarrollar las habilidades, capacidades y destrezas para facilitar la recreación y presentación de las diferentes producciones argumentativas, tanto desde el punto de vista comunicativo como gestual, a través del empleo adecuado de diversas herramientas y soportes técnicos propios de la comunicación corporal y manejo del espacio escénico."
+        },
+        {
+            "codigo": "OYD.3.4",
+            "descripcion": "Estimular y desarrollar las capacidades expresivas, creativas y comunicativas propias de la oratoria en las producciones argumentativas propias y ajenas, a través del trabajo individual y en equipo, conociendo las intenciones comunicativas y utilizando lenguajes y códigos de carácter comunicativo y gestual, así como estrategias que garanticen la construcción de un discurso veraz, fomentando la autoconfianza, la asertividad y la empatía para promover la participación del alumnado de manera respetuosa en la vida democrática."
+        },
+        {
+            "codigo": "OYD.3.5",
+            "descripcion": "Participar y valorar la intervención en debates académicos, reconociendo adecuadamente los distintos tipos y gestionando las reglas de interacción, los espacios y los tiempos, así como los diversos roles propios del debate educativo para valorarlo y disfrutarlo como una manifestación argumentativa y persuasiva que forma parte del acervo cultural y social de los pueblos, participando activamente en su mantenimiento, desarrollo y proyección."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "OYD.3.1.1",
+            "descripcion": "Leer, comprender y escuchar discursos persuasivos sencillos de distinto tipo, identificando sus principales características, así como sus intenciones comunicativas y estilos.",
+            "saberes_relacionados": [
+                "OYD.3.A.1."
+            ]
+        },
+        {
+            "referencia": "OYD.3.1.2",
+            "descripcion": "Identificar, valorar y utilizar los diferentes estilos argumentativos y producciones argumentativas, utilizando un vocabulario específico y adecuado.",
+            "saberes_relacionados": [
+                "OYD.3.A.2.",
+                "OYD.3.A.3."
+            ]
+        },
+        {
+            "referencia": "OYD.3.1.3",
+            "descripcion": "Valorar y utilizar los elementos propios de la puesta en escena de los discursos persuasivos orales, adaptándose a la finalidad específica del discurso.",
+            "saberes_relacionados": [
+                "OYD.3.A.3.",
+                "OYD.3.A.4."
+            ]
+        },
+        {
+            "referencia": "OYD.3.2.1",
+            "descripcion": "Elaborar un mensaje breve y claro que funcione como núcleo del discurso, la tesis, así como sus ideas secundarias.",
+            "saberes_relacionados": [
+                "OYD.3.B.1."
+            ]
+        },
+        {
+            "referencia": "OYD.3.2.2",
+            "descripcion": "Adaptar, crear y diseñar las características del discurso al contexto comunicativo dotando de coherencia al conjunto del discurso.",
+            "saberes_relacionados": [
+                "OYD.3.B.2."
+            ]
+        },
+        {
+            "referencia": "OYD.3.2.3",
+            "descripcion": "Conocer y utilizar las diferentes estrategias para captar la atención de la audiencia y adaptar el discurso al contexto en el que se desarrolla la argumentación y al tiempo disponible para su ejecución.",
+            "saberes_relacionados": [
+                "OYD.3.A.3.",
+                "OYD.3.B.3."
+            ]
+        },
+        {
+            "referencia": "OYD.3.2.4",
+            "descripcion": "Identificar y utilizar adecuadamente las técnicas de documentación e investigación para plantear el discurso argumentativo.",
+            "saberes_relacionados": [
+                "OYD.3.B.3."
+            ]
+        },
+        {
+            "referencia": "OYD.3.2.5",
+            "descripcion": "Seleccionar las ideas más adecuadas y organizadas en una estructura ordenada y eficaz, conociendo las diferentes opciones que proporcionan las estructuras textuales argumentativas y sus figuras retóricas propias.",
+            "saberes_relacionados": [
+                "OYD.3.B.2.",
+                "OYD.3.B.4."
+            ]
+        },
+        {
+            "referencia": "OYD.3.2.6",
+            "descripcion": "Realizar la argumentación del discurso, empleando los recursos propios de la argumentación con corrección lingüística, atendiendo a la coherencia y cohesión del mismo y utilizando de forma adecuada y con propiedad las figuras retóricas propias de la disciplina como analogías y metáforas.",
+            "saberes_relacionados": [
+                "OYD.3.B.5."
+            ]
+        },
+        {
+            "referencia": "OYD.3.3.1",
+            "descripcion": "Desarrollar estrategias mnemotécnicas en el discurso persuasivo, memorizando los elementos clave, dejando espacio para la improvisación y la espontaneidad.",
+            "saberes_relacionados": [
+                "OYD.3.B.5.",
+                "OYD.3.C.1."
+            ]
+        },
+        {
+            "referencia": "OYD.3.3.2",
+            "descripcion": "Gestionar las emociones positivas y negativas para la exposición de las ideas y opiniones en público.",
+            "saberes_relacionados": [
+                "OYD.3.B.2.",
+                "OYD.3.C.2."
+            ]
+        },
+        {
+            "referencia": "OYD.3.3.3",
+            "descripcion": "Pronunciar el discurso con corrección, claridad y expresividad, comprendiendo y empleando el lenguaje corporal para la puesta en escena como un código comunicativo.",
+            "saberes_relacionados": [
+                "OYD.3.C.3.",
+                "OYD.3.C.4."
+            ]
+        },
+        {
+            "referencia": "OYD.3.3.4",
+            "descripcion": "Usar de manera adecuada soportes técnicos para apoyar el discurso y mantener la atención del interlocutor.",
+            "saberes_relacionados": [
+                "OYD.3.B.2.",
+                "OYD.3.C.5."
+            ]
+        },
+        {
+            "referencia": "OYD.3.4.1",
+            "descripcion": "Usar la oratoria como instrumento ético para la construcción o aproximación a la verdad.",
+            "saberes_relacionados": [
+                "OYD.3.D.1."
+            ]
+        },
+        {
+            "referencia": "OYD.3.4.2",
+            "descripcion": "Elaborar textos relacionados con diversos ámbitos de participación social, respetando las normas de convivencia y la búsqueda de la resolución pacífica de los conflictos, relacionando estos con una forma de vida democrática.",
+            "saberes_relacionados": [
+                "OYD.3.B.2.",
+                "OYD.3.D.2."
+            ]
+        },
+        {
+            "referencia": "OYD.3.4.3",
+            "descripcion": "Desenvolverse en las relaciones interpersonales gracias al uso cívico de la palabra.",
+            "saberes_relacionados": [
+                "OYD.3.D.3."
+            ]
+        },
+        {
+            "referencia": "OYD.3.4.4",
+            "descripcion": "Utilizar de manera adecuada los elementos propios del lenguaje gestual que garanticen la atención del interlocutor.",
+            "saberes_relacionados": [
+                "OYD.3.D.4."
+            ]
+        },
+        {
+            "referencia": "OYD.3.5.1",
+            "descripcion": "Participar activamente en debates escolares, identificando los diferentes tipos, conociendo, valorando y respetando las reglas de interacción, intervención y cortesía, manifestando sus opiniones y respetando las opiniones de los demás.",
+            "saberes_relacionados": [
+                "OYD.3.D.4.",
+                "OYD.3.E.1."
+            ]
+        },
+        {
+            "referencia": "OYD.3.5.2",
+            "descripcion": "Gestionar de manera apropiada los tiempos y espacios del debate académico, identificando los diferentes roles propios de este.",
+            "saberes_relacionados": [
+                "OYD.3.E.2."
+            ]
+        },
+        {
+            "referencia": "OYD.3.5.3",
+            "descripcion": "Conocer, valorar y disfrutar el debate como manifestación cultural y social de los pueblos.",
+            "saberes_relacionados": [
+                "OYD.3.E.3.",
+                "OYD.3.D.2."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "El discurso persuasivo y argumentativo.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "OYD.3.A.1.",
+            "descripcion": "Los tipos de discurso persuasivo y argumentativo: orales y escritos en situaciones formales e informales. Características y estructura. La intención comunicativa.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "OYD.3.1.1"
+            ]
+        },
+        {
+            "referencia": "OYD.3.A.2.",
+            "descripcion": "Procedimientos retóricos y características estilísticas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "OYD.3.1.2"
+            ]
+        },
+        {
+            "referencia": "OYD.3.A.3.",
+            "descripcion": "Conocimiento, uso y aplicación de las estrategias necesarias para hablar en público tales como planificación del discurso y prácticas orales formales e informales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "OYD.3.1.2",
+                "OYD.3.1.3",
+                "OYD.3.2.3"
+            ]
+        },
+        {
+            "referencia": "OYD.3.A.4.",
+            "descripcion": "Aspectos relacionados con la puesta en escena de los discursos persuasivos orales como pronunciación, voz, mirada, lenguaje corporal y presencia escénica.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "OYD.3.1.3"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Elaboración del discurso persuasivo y argumentativo.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "OYD.3.B.1.",
+            "descripcion": "Concreción de un mensaje persuasivo y argumentativo. Características del mensaje persuasivo y argumentativo. Claridad y brevedad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "OYD.3.2.1"
+            ]
+        },
+        {
+            "referencia": "OYD.3.B.2.",
+            "descripcion": "Adaptación del discurso al contexto. Estrategias para captar la atención y el interés de la audiencia. Adaptación del discurso al modelo textual o género elegido. Adaptación del discurso al tiempo y al canal de comunicación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "OYD.3.2.2",
+                "OYD.3.2.5",
+                "OYD.3.3.2",
+                "OYD.3.3.4",
+                "OYD.3.4.2"
+            ]
+        },
+        {
+            "referencia": "OYD.3.B.3.",
+            "descripcion": "Documentación e investigación. Alfabetización mediática. Tipos de fuentes documentales. Criterios de selección. Estrategias de búsqueda. Lucha activa contra las noticias falsas y bulos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "OYD.3.2.3",
+                "OYD.3.2.4"
+            ]
+        },
+        {
+            "referencia": "OYD.3.B.4.",
+            "descripcion": "Gestión de la información. Selección de ideas. Tipos de contenidos: lógicos (datos, teorías, citas) y emocionales (anécdotas, imágenes, vídeos).",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "OYD.3.2.5"
+            ]
+        },
+        {
+            "referencia": "OYD.3.B.5.",
+            "descripcion": "Recursos argumentativos, premisas, tesis y silogismos. Estructura del discurso tales como introducción, desarrollo y conclusión. Disposición de las ideas. Textualización del discurso. Coherencia y cohesión. Corrección lingüística. Proceso de revisión. Uso de correctores. Figuras retóricas como paralelismos, metáforas, antítesis, interrogación retórica.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "OYD.3.2.6",
+                "OYD.3.3.1"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "La presentación del discurso persuasivo y argumentativo.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "OYD.3.C.1.",
+            "descripcion": "Memorización del discurso. Reglas mnemotécnicas. Interiorización del discurso.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "OYD.3.3.1"
+            ]
+        },
+        {
+            "referencia": "OYD.3.C.2.",
+            "descripcion": "Gestión emocional para hablar en público (autoconfianza, seguridad, entusiasmo). Gestión de las emociones negativas. Naturalidad frente a artificiosidad. Conocer y detectar los errores más comunes al presentar un discurso en público.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "OYD.3.3.2"
+            ]
+        },
+        {
+            "referencia": "OYD.3.C.3.",
+            "descripcion": "Uso de aspectos relacionados con la dicción como pronunciación, ritmo, volumen, intensidad, pausas y silencios.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "OYD.3.3.3"
+            ]
+        },
+        {
+            "referencia": "OYD.3.C.4.",
+            "descripcion": "Comunicación corporal y gestión del espacio escénico.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "OYD.3.3.3"
+            ]
+        },
+        {
+            "referencia": "OYD.3.C.5.",
+            "descripcion": "Uso de Soportes audiovisuales e informáticos de apoyo al discurso.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "OYD.3.3.4"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Oratoria, valores y educación emocional.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "OYD.3.D.1.",
+            "descripcion": "Oratoria para la construcción de la veracidad del discurso.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "OYD.3.4.1"
+            ]
+        },
+        {
+            "referencia": "OYD.3.D.2.",
+            "descripcion": "Oratoria para la participación activa en la democracia.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "OYD.3.4.2",
+                "OYD.3.5.3"
+            ]
+        },
+        {
+            "referencia": "OYD.3.D.3.",
+            "descripcion": "Representación de las habilidades personales y sociales del discurso. Autoconfianza, empatía y asertividad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "OYD.3.4.3"
+            ]
+        },
+        {
+            "referencia": "OYD.3.D.4.",
+            "descripcion": "Discursos persuasivos y argumentativos orales en situaciones informales y formales (debates y presentaciones). Los tipos de discurso persuasivo y argumentativo. Características y estructura. La intención comunicativa. Procedimientos retóricos y características estilísticas. Aspectos relacionados con la puesta en escena de los discursos persuasivos orales tales como pronunciación, voz, mirada, lenguaje corporal y presencia escénica.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "OYD.3.4.4",
+                "OYD.3.5.1"
+            ]
+        },
+        {
+            "referencia": "E.",
+            "descripcion": "El debate.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "OYD.3.E.1.",
+            "descripcion": "El debate y sus tipos. El debate académico y sus reglas. Normas de estilo y utilización de espacios y tiempos en el debate académico. Equipos y roles.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "OYD.3.5.1"
+            ]
+        },
+        {
+            "referencia": "OYD.3.E.2.",
+            "descripcion": "Observación, reflexión, comprensión y valoración del sentido global del debate, de la intención comunicativa de cada interlocutor, así como de la aplicación de las normas básicas que los regulan.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "OYD.3.5.2"
+            ]
+        },
+        {
+            "referencia": "OYD.3.E.3.",
+            "descripcion": "Participación en debates, observando y respetando las normas básicas de interacción, intervención y cortesía que regulan estas prácticas orales. Organización y defensa del discurso, claridad expositiva y búsqueda de acuerdo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "OYD.3.5.3"
+            ]
+        }
+    ]
+}

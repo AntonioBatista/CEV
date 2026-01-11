@@ -1,0 +1,430 @@
+{
+    "titulo": "4º ESO - Cultura Científica (4º ESO)",
+    "referencia": "CCI.4",
+    "competencias_especificas": [
+        {
+            "codigo": "CCI.4.1",
+            "descripcion": "Comprender y utilizar las estrategias y los conceptos básicos de la Ciencia y la Tecnología para interpretar los problemas medioambientales a nivel mundial, español y andaluz, así como para analizar y valorar las repercusiones del desarrollo científico en general y sus aplicaciones."
+        },
+        {
+            "codigo": "CCI.4.2",
+            "descripcion": "Utilizar con solvencia y responsabilidad diversas fuentes, incluidas las tecnologías de la información y la comunicación, desarrollando las destrezas básicas para la selección y utilización de la información de carácter científico proveniente de las mismas."
+        },
+        {
+            "codigo": "CCI.4.3",
+            "descripcion": "Conocer y valorar de forma crítica la contribución de la ciencia y la tecnología en el cambio de las condiciones de vida actuales, desarrollando actitudes y hábitos de salud personal, afianzando el respeto hacia el medio ambiente y el desarrollo sostenible."
+        },
+        {
+            "codigo": "CCI.4.4",
+            "descripcion": "Desarrollar hábitos de trabajo en equipo, de debate y evaluación sobre propuestas y aplicaciones de los últimos avances científicos, en relación con el estudio del Universo, que aparecen en los medios de comunicación, y los realizados en la Comunidad Autónoma Andaluza."
+        },
+        {
+            "codigo": "CCI.4.5",
+            "descripcion": "Conocer y valorar los elementos y procedimientos fundamentales de la investigación y de los métodos científicos, reconociendo las aportaciones del conocimiento científico al descubrimiento y uso de materiales, y cómo esto ha influenciado en la sociedad humana, a lo largo de la historia."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "CCI.4.1.1",
+            "descripcion": "Identificar los principales problemas medioambientales, universales y andaluces, las causas que los provocan y los factores que los intensifican, así como predecir sus consecuencias y proponer soluciones a los mismos.",
+            "saberes_relacionados": [
+                "CCI.4.A.1.",
+                "CCI.4.A.2."
+            ]
+        },
+        {
+            "referencia": "CCI.4.1.2",
+            "descripcion": "Valorar las graves implicaciones sociales, tanto en la actualidad como en el futuro, de la sobreexplotación de recursos naturales a nivel global y a nivel local.",
+            "saberes_relacionados": [
+                "CCI.4.A.5."
+            ]
+        },
+        {
+            "referencia": "CCI.4.1.3",
+            "descripcion": "Justificar la necesidad de buscar nuevas fuentes de energía no contaminantes y económicamente viables, para mantener el estado de bienestar de la sociedad actual.",
+            "saberes_relacionados": [
+                "CCI.4.A.3."
+            ]
+        },
+        {
+            "referencia": "CCI.4.1.4",
+            "descripcion": "Comparar el estado de desarrollo de las energías renovables en Andalucía con respecto al resto de España y del mundo.",
+            "saberes_relacionados": [
+                "CCI.4.A.3.",
+                "CCI.4.A.4."
+            ]
+        },
+        {
+            "referencia": "CCI.4.2.1",
+            "descripcion": "Obtener, seleccionar y valorar informaciones relacionadas con temas científicos de la actualidad.",
+            "saberes_relacionados": [
+                "CCI.4.B.1.",
+                "CCI.4.B.2."
+            ]
+        },
+        {
+            "referencia": "CCI.4.2.2",
+            "descripcion": "Valorar la importancia que tiene la investigación y el desarrollo tecnológico en la actividad cotidiana.",
+            "saberes_relacionados": [
+                "CCI.4.B.1.",
+                "CCI.4.B.2.",
+                "CCI.4.B.4."
+            ]
+        },
+        {
+            "referencia": "CCI.4.2.3",
+            "descripcion": "Comunicar conclusiones e ideas en distintos soportes a públicos diversos, utilizando eficazmente las tecnologías de la información y comunicación para transmitir conclusiones propias argumentadas.",
+            "saberes_relacionados": [
+                "CCI.4.B.2.",
+                "CCI.4.B.3."
+            ]
+        },
+        {
+            "referencia": "CCI.4.3.1",
+            "descripcion": "Reconocer que la salud no es solamente la ausencia de afecciones.",
+            "saberes_relacionados": [
+                "CCI.4.C.1."
+            ]
+        },
+        {
+            "referencia": "CCI.4.3.2",
+            "descripcion": "Diferenciar los tipos de enfermedades más frecuentes, identificando algunos indicadores, causas y tratamientos más comunes.",
+            "saberes_relacionados": [
+                "CCI.4.C.2."
+            ]
+        },
+        {
+            "referencia": "CCI.4.3.3",
+            "descripcion": "Conocer las principales características del cáncer, diabetes, enfermedades cardiovasculares y enfermedades mentales, entre otras, así como los principales tratamientos y la importancia de las revisiones preventivas.",
+            "saberes_relacionados": [
+                "CCI.4.C.2.",
+                "CCI.4.C.3."
+            ]
+        },
+        {
+            "referencia": "CCI.4.3.4",
+            "descripcion": "Valorar la importancia de adoptar medidas preventivas que eviten los contagios y prioricen los controles médicos periódicos y los estilos de vida saludables.",
+            "saberes_relacionados": [
+                "CCI.4.C.4."
+            ]
+        },
+        {
+            "referencia": "CCI.4.3.5",
+            "descripcion": "Argumentar sobre la necesidad de una gestión sostenible de los recursos que proporciona la Tierra.",
+            "saberes_relacionados": [
+                "CCI.4.A.1.",
+                "CCI.4.A.2.",
+                "CCI.4.A.5."
+            ]
+        },
+        {
+            "referencia": "CCI.4.3.6",
+            "descripcion": "Conocer el sistema de salud de Andalucía valorando su importancia para el bienestar de la sociedad andaluza.",
+            "saberes_relacionados": [
+                "CCI.4.C.5."
+            ]
+        },
+        {
+            "referencia": "CCI.4.3.7",
+            "descripcion": "Conocer y valorar el trabajo de investigación biomédica que se desarrolla en Andalucía.",
+            "saberes_relacionados": [
+                "CCI.4.C.6."
+            ]
+        },
+        {
+            "referencia": "CCI.4.4.1",
+            "descripcion": "Conocer, mediante búsquedas por la web, las teorías que han surgido sobre el origen del Universo (Big Bang).",
+            "saberes_relacionados": [
+                "CCI.4.D.1."
+            ]
+        },
+        {
+            "referencia": "CCI.4.4.2",
+            "descripcion": "Señalar qué observaciones ponen de manifiesto la existencia de un agujero negro, y cuáles son sus características.",
+            "saberes_relacionados": [
+                "CCI.4.D.2."
+            ]
+        },
+        {
+            "referencia": "CCI.4.4.3",
+            "descripcion": "Describir la organización del Universo y cómo se agrupan las estrellas y los planetas.",
+            "saberes_relacionados": [
+                "CCI.4.D.3.",
+                "CCI.4.D.4."
+            ]
+        },
+        {
+            "referencia": "CCI.4.4.4",
+            "descripcion": "Conocer y valorar las aportaciones de los centros de investigación y observatorios astronómicos en Andalucía.",
+            "saberes_relacionados": [
+                "CCI.4.D.5."
+            ]
+        },
+        {
+            "referencia": "CCI.4.5.1",
+            "descripcion": "Realizar estudios sencillos y presentar conclusiones sobre aspectos relacionados con los materiales y su influencia en el desarrollo de la Humanidad.",
+            "saberes_relacionados": [
+                "CCI.4.E.1.",
+                "CCI.4.B.1.",
+                "CCI.4.B.2."
+            ]
+        },
+        {
+            "referencia": "CCI.4.5.2",
+            "descripcion": "Conocer los principales métodos de obtención de materias primas y sus posibles repercusiones sociales y medioambientales.",
+            "saberes_relacionados": [
+                "CCI.4.E.2."
+            ]
+        },
+        {
+            "referencia": "CCI.4.5.3",
+            "descripcion": "Conocer las aplicaciones de los nuevos materiales en campos tales como la electricidad y la electrónica, entre otros.",
+            "saberes_relacionados": [
+                "CCI.4.E.3."
+            ]
+        },
+        {
+            "referencia": "CCI.4.5.4",
+            "descripcion": "Conocer las principales zonas de explotación de recursos materiales en Andalucía, y comprender su impacto medioambiental y su proceso de reconversión a modelos de producción más sostenibles.",
+            "saberes_relacionados": [
+                "CCI.4.E.1.",
+                "CCI.4.E.4."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Avances tecnológicos e impacto ambiental.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCI.4.A.1.",
+            "descripcion": "Valoración de los problemas ambientales actuales en el mundo y Andalucía y su relación con su desarrollo científico-tecnológico.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.1.1",
+                "CCI.4.3.5"
+            ]
+        },
+        {
+            "referencia": "CCI.4.A.2.",
+            "descripcion": "Determinación de la influencia de los impactos ambientales de la sociedad actual y futura.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.1.1",
+                "CCI.4.3.5"
+            ]
+        },
+        {
+            "referencia": "CCI.4.A.3.",
+            "descripcion": "Análisis de la utilización de energías limpias y renovables, como la pila de combustible.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.1.3",
+                "CCI.4.1.4"
+            ]
+        },
+        {
+            "referencia": "CCI.4.A.4.",
+            "descripcion": "Reflexión del estado de desarrollo en Andalucía de las energías renovables.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.1.4"
+            ]
+        },
+        {
+            "referencia": "CCI.4.A.5.",
+            "descripcion": "Gestión sostenible de los recursos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.1.2",
+                "CCI.4.3.5"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Información científica y uso de herramientas TIC.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCI.4.B.1.",
+            "descripcion": "Estrategias para la búsqueda, comprensión y selección de información científica relevante de diferentes fuentes.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.2.1",
+                "CCI.4.2.2",
+                "CCI.4.5.1"
+            ]
+        },
+        {
+            "referencia": "CCI.4.B.2.",
+            "descripcion": "Uso de las herramientas TIC para transmitir y recibir información.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.2.1",
+                "CCI.4.2.2",
+                "CCI.4.2.3",
+                "CCI.4.5.1"
+            ]
+        },
+        {
+            "referencia": "CCI.4.B.3.",
+            "descripcion": "El debate como medio de intercambio de información y de argumentación de opiniones personales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.2.3"
+            ]
+        },
+        {
+            "referencia": "CCI.4.B.4.",
+            "descripcion": "Aplicaciones tecnológicas en la vida cotidiana.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.2.2"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Calidad de vida.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCI.4.C.1.",
+            "descripcion": "Determinación del concepto de Salud.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.3.1"
+            ]
+        },
+        {
+            "referencia": "CCI.4.C.2.",
+            "descripcion": "Caracterización de las enfermedades más frecuentes, sus síntomas y tratamiento.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.3.2",
+                "CCI.4.3.3"
+            ]
+        },
+        {
+            "referencia": "CCI.4.C.3.",
+            "descripcion": "Reconocimiento de la medicina preventiva y su importancia en las enfermedades cardiovasculares, mentales, cáncer y diabetes.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.3.3"
+            ]
+        },
+        {
+            "referencia": "CCI.4.C.4.",
+            "descripcion": "Reconocimiento de los estilos de vida saludables, controles médicos periódicos y medidas preventivas frente a enfermedades infecciosas en nuestra sociedad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.3.4"
+            ]
+        },
+        {
+            "referencia": "CCI.4.C.5.",
+            "descripcion": "Sistema Andaluz de Salud y asistencia sanitaria.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.3.6"
+            ]
+        },
+        {
+            "referencia": "CCI.4.C.6.",
+            "descripcion": "La investigación Biomédica en Andalucía.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.3.7"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "El Universo.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCI.4.D.1.",
+            "descripcion": "Evaluación de las teorías más actualizadas y creencias no científicas sobre el origen del Universo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.4.1"
+            ]
+        },
+        {
+            "referencia": "CCI.4.D.2.",
+            "descripcion": "Aproximación al estudio de los agujeros negros y su importancia en el estudio del Universo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.4.2"
+            ]
+        },
+        {
+            "referencia": "CCI.4.D.3.",
+            "descripcion": "Apreciación de la exploración del Universo desde Andalucía.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.4.3"
+            ]
+        },
+        {
+            "referencia": "CCI.4.D.4.",
+            "descripcion": "La organización del Universo, agrupaciones de estrellas y planetas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.4.3"
+            ]
+        },
+        {
+            "referencia": "CCI.4.D.5.",
+            "descripcion": "Centros de investigación y observatorios astronómicos en Andalucía.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.4.4"
+            ]
+        },
+        {
+            "referencia": "E.",
+            "descripcion": "Materiales.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCI.4.E.1.",
+            "descripcion": "El uso de los materiales y la evolución de la Humanidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.5.1",
+                "CCI.4.5.4"
+            ]
+        },
+        {
+            "referencia": "CCI.4.E.2.",
+            "descripcion": "La obtención de materias primas y sus repercusiones sociales y medioambientales. Impactos en Andalucía.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.5.2"
+            ]
+        },
+        {
+            "referencia": "CCI.4.E.3.",
+            "descripcion": "El descubrimiento de nuevos materiales y el desarrollo futuro de la sociedad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.5.3"
+            ]
+        },
+        {
+            "referencia": "CCI.4.E.4.",
+            "descripcion": "Zonas de explotación de los recursos materiales en Andalucía.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCI.4.5.4"
+            ]
+        }
+    ]
+}

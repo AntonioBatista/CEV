@@ -1,0 +1,291 @@
+{
+    "titulo": "3º ESO - Cultura del Flamenco (3º ESO)",
+    "referencia": "CF.3",
+    "competencias_especificas": [
+        {
+            "codigo": "CF.3.1",
+            "descripcion": "Reconocer las características más relevantes de diferentes propuestas del repertorio flamenco, identificando todos sus elementos, para valorar el patrimonio musical y dancístico andaluz como manera de favorecer procesos creativos y oportunidades de desarrollo personal, así como el disfrute de una expresión artística con raíces en nuestra comunidad."
+        },
+        {
+            "codigo": "CF.3.2",
+            "descripcion": "Conocer y explicar la función e importancia del Flamenco a lo largo de sus distintas etapas históricas, entendiendo su paso por situaciones y contextos diversos, para valorarlo como fruto de nuestra propia identidad y como medio para el enriquecimiento cultural entre iguales, la superación de barreras y estereotipos sociales, culturales o sexistas."
+        },
+        {
+            "codigo": "CF.3.3",
+            "descripcion": "Realizar proyectos musicales y de danza relacionados con el repertorio flamenco, empleando diversas estrategias y técnicas vocales, corporales o instrumentales e incorporando la improvisación, para vivenciar todas las posibilidades expresivas de este arte."
+        },
+        {
+            "codigo": "CF.3.4",
+            "descripcion": "Valorar y disfrutar del Flamenco como una manifestación artística que forma parte de la riqueza cultural andaluza, participando activamente en su mantenimiento, desarrollo y proyección, para reconocer especialmente su valor actual al ser designado por la UNESCO como Patrimonio Cultural Inmaterial de la Humanidad."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "CF.3.1.1",
+            "descripcion": "Identificar las principales características musicales y coreográficas de los palos más representativos del Flamenco.",
+            "saberes_relacionados": [
+                "CF.3.A.1.",
+                "CF.3.A.2.",
+                "CF.3.A.3.",
+                "CF.3.A.4.",
+                "CF.3.C.1.",
+                "CF.3.C.2.",
+                "CF.3.C.3.",
+                "CF.3.C.4."
+            ]
+        },
+        {
+            "referencia": "CF.3.1.2",
+            "descripcion": "Desarrollar un pensamiento crítico, reflexivo y una actitud de respeto en la escucha o el visionado de las piezas del repertorio flamenco.",
+            "saberes_relacionados": [
+                "CF.3.A.5.",
+                "CF.3.A.6.",
+                "CF.3.C.5."
+            ]
+        },
+        {
+            "referencia": "CF.3.2.1",
+            "descripcion": "Identificar los factores históricos, sociales y culturales que han influido en el desarrollo de las etapas del flamenco, a través del análisis de distintos ejemplos, con una actitud abierta y respetuosa hacia la diversidad y favoreciendo la inclusión.",
+            "saberes_relacionados": [
+                "CF.3.A.3.",
+                "CF.3.C.1.",
+                "CF.3.C.3.",
+                "CF.3.C.5."
+            ]
+        },
+        {
+            "referencia": "CF.3.2.2",
+            "descripcion": "Valorar críticamente la evolución de cantes, bailes y toques, relacionándolas con las aportaciones de diferentes artistas, desde sus formas primitivas hasta las actuales y como fruto de su contexto histórico, social y cultural.",
+            "saberes_relacionados": [
+                "CF.3.C.2.",
+                "CF.3.C.4."
+            ]
+        },
+        {
+            "referencia": "CF.3.3.1",
+            "descripcion": "Crear propuestas flamencas de forma individual o grupal, en las que se empleen la voz, el cuerpo, instrumentos musicales o herramientas tecnológicas, potenciando la creatividad de forma abierta y colaborativa.",
+            "saberes_relacionados": [
+                "CF.3.B.1.",
+                "CF.3.B.3.",
+                "CF.3.B.4."
+            ]
+        },
+        {
+            "referencia": "CF.3.3.2",
+            "descripcion": "Elaborar piezas musicales o coreográficas de carácter flamenco estructuradas, a partir de actividades de improvisación, sirviendo de vehículo de expresión de emociones, sentimientos e ideas.",
+            "saberes_relacionados": [
+                "CF.3.B.2.",
+                "CF.3.B.4."
+            ]
+        },
+        {
+            "referencia": "CF.3.3.3",
+            "descripcion": "Participar como intérprete en actuaciones y manifestaciones flamencas, dentro y fuera del aula, mostrando iniciativa y liderazgo en los procesos creativos e interpretativos.",
+            "saberes_relacionados": [
+                "CF.3.B.3.",
+                "CF.3.B.4.",
+                "CF.3.B.5."
+            ]
+        },
+        {
+            "referencia": "CF.3.4.1",
+            "descripcion": "Conocer la importancia de la conservación y la transmisión del Flamenco, a partir de la recepción y análisis de diferentes propuestas, comprendiendo la importancia de la libertad de expresión, la tolerancia y la igualdad.",
+            "saberes_relacionados": [
+                "CF.3.C.6.",
+                "CF.3.C.7."
+            ]
+        },
+        {
+            "referencia": "CF.3.4.2",
+            "descripcion": "Elaborar proyectos que posibiliten conocer los diferentes mecanismos, profesiones e instituciones que intervienen en la conservación y difusión del Flamenco desde la perspectiva de género y la diversidad cultural empleando estrategias cooperativas.",
+            "saberes_relacionados": [
+                "CF.3.B.5.",
+                "CF.3.C.7.",
+                "CF.3.C.8."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Percepción auditiva y visual.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CF.3.A.1.",
+            "descripcion": "Los pilares del Flamenco: cante, toque y baile.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CF.3.1.1"
+            ]
+        },
+        {
+            "referencia": "CF.3.A.2.",
+            "descripcion": "Elementos del lenguaje musical Flamenco (métrica, armonía, melodía, forma y texto).",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CF.3.1.1"
+            ]
+        },
+        {
+            "referencia": "CF.3.A.3.",
+            "descripcion": "Principales palos flamencos: análisis, descripción y valoración de sus características básicas, atendiendo a sus aspectos sintácticos y sonoros y visuales. Diferentes clasificaciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CF.3.1.1",
+                "CF.3.2.1"
+            ]
+        },
+        {
+            "referencia": "CF.3.A.4.",
+            "descripcion": "Tipos de voces flamencas. La guitarra como instrumento solista. El acompañamiento musical del Flamenco: palmas, guitarra, cajón…. Novedades tímbricas en el Flamenco actual.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CF.3.1.1"
+            ]
+        },
+        {
+            "referencia": "CF.3.A.5.",
+            "descripcion": "Conciertos, actuaciones musicales y otras manifestaciones en vivo y grabadas en distintos tipos de soportes.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CF.3.1.2"
+            ]
+        },
+        {
+            "referencia": "CF.3.A.6.",
+            "descripcion": "Estereotipos y roles de género transmitidos a través del Flamenco.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CF.3.1.2"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Interpretación e improvisación.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CF.3.B.1.",
+            "descripcion": "Interpretaciones de obras vocales, instrumentales y/o coreográficas, individuales o en grupo, relacionadas con el Flamenco.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CF.3.3.1"
+            ]
+        },
+        {
+            "referencia": "CF.3.B.2.",
+            "descripcion": "Estrategias y técnicas de improvisación sobre esquemas rítmico-melódicos y armónicos establecidos o libres, de carácter Flamenco.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CF.3.3.2"
+            ]
+        },
+        {
+            "referencia": "CF.3.B.3.",
+            "descripcion": "Integración de recursos digitales para la creación de producciones musicales y audiovisuales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CF.3.3.1",
+                "CF.3.3.3"
+            ]
+        },
+        {
+            "referencia": "CF.3.B.4.",
+            "descripcion": "Utilización de medios audiovisuales e informáticos para favorecer la interpretación y la escucha de las producciones propias para mejorar la autocrítica a través de grabaciones en diferentes soportes.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CF.3.3.1",
+                "CF.3.3.2",
+                "CF.3.3.3"
+            ]
+        },
+        {
+            "referencia": "CF.3.B.5.",
+            "descripcion": "Elaboración de proyectos escénicos cooperativos de contenido Flamenco, valorando y respetando las aportaciones y experiencias de todos los integrantes del grupo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CF.3.3.3",
+                "CF.3.4.2"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Contextos e investigación.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CF.3.C.1.",
+            "descripcion": "El Flamenco como manifestación artística del pueblo andaluz. Origen y evolución en etapas históricas. Aportaciones del pueblo gitano y de minorías olvidadas y marginadas a lo largo de la historia (mudéjar, morisca, judía, etc.). Análisis sociológico.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CF.3.1.1",
+                "CF.3.2.1"
+            ]
+        },
+        {
+            "referencia": "CF.3.C.2.",
+            "descripcion": "Principales corrientes, escuelas, artistas y concursos flamencos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CF.3.1.1",
+                "CF.3.2.2"
+            ]
+        },
+        {
+            "referencia": "CF.3.C.3.",
+            "descripcion": "Compositores, bailarines, poetas y otros artistas influidos por el Flamenco.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CF.3.1.1",
+                "CF.3.2.1"
+            ]
+        },
+        {
+            "referencia": "CF.3.C.4.",
+            "descripcion": "El Flamenco en la actualidad, nueva estética y estilos fusión. Sensibilización ante las nuevas propuestas, valorando sus elementos creativos e innovadores.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CF.3.1.1",
+                "CF.3.2.2"
+            ]
+        },
+        {
+            "referencia": "CF.3.C.5.",
+            "descripcion": "La propiedad intelectual y cultural en el Flamenco. Hábitos de consumo musical responsable.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CF.3.1.2",
+                "CF.3.2.1"
+            ]
+        },
+        {
+            "referencia": "CF.3.C.6.",
+            "descripcion": "El registro discográfico y en imágenes como base de la conservación de nuestro patrimonio: evolución del Flamenco a través del desarrollo de los medios de grabación sonora y audiovisual.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CF.3.4.1"
+            ]
+        },
+        {
+            "referencia": "CF.3.C.7.",
+            "descripcion": "El Flamenco como Bien de Interés Cultural (BIC). Interés por conocer, respetar y difundir el patrimonio musical y dancístico andaluz. Reconocimiento de la labor de las instituciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CF.3.4.1",
+                "CF.3.4.2"
+            ]
+        },
+        {
+            "referencia": "CF.3.C.8.",
+            "descripcion": "Colaboraciones en proyectos que fomenten la difusión del Flamenco como elemento integrador de sectores desfavorecidos, así como potenciador de la cohesión social, la solidaridad, el respeto a la diversidad y el derecho de las minorías.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CF.3.4.2"
+            ]
+        }
+    ]
+}
