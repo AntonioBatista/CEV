@@ -1,0 +1,460 @@
+{
+    "titulo": "1º BACHILLERATO - Tecnología e Ingeniería (1º BACH)",
+    "referencia": "TECI.1",
+    "competencias_especificas": [
+        {
+            "codigo": "TECI.1.1",
+            "descripcion": "Coordinar y desarrollar proyectos de investigación con una actitud crítica y emprendedora, implementando estrategias y técnicas eficientes de resolución de problemas y comunicando los resultados de manera adecuada, para crear y mejorar productos y sistemas de manera continua."
+        },
+        {
+            "codigo": "TECI.1.2",
+            "descripcion": "Seleccionar materiales y elaborar estudios de impacto, aplicando criterios técnicos y de sostenibilidad para fabricar productos de calidad que den respuesta a problemas y tareas planteados, desde un enfoque responsable y ético."
+        },
+        {
+            "codigo": "TECI.1.3",
+            "descripcion": "Utilizar las herramientas digitales adecuadas, analizando sus posibilidades, configurándolas de acuerdo a sus necesidades y aplicando conocimientos interdisciplinares, para resolver tareas, así como para realizar la presentación de los resultados de una manera óptima."
+        },
+        {
+            "codigo": "TECI.1.4",
+            "descripcion": "Generar conocimientos y mejorar destrezas técnicas, transfiriendo y aplicando saberes de otras disciplinas científicas con actitud creativa, para calcular y resolver problemas o dar respuesta a necesidades de los distintos ámbitos de la ingeniería."
+        },
+        {
+            "codigo": "TECI.1.5",
+            "descripcion": "Diseñar, crear y evaluar sistemas tecnológicos, aplicando conocimientos de programación informática, regulación automática y control, así como las posibilidades que ofrecen las tecnologías emergentes, para estudiar, controlar y automatizar tareas en sistemas tecnológicos y robóticos."
+        },
+        {
+            "codigo": "TECI.1.6",
+            "descripcion": "Analizar y comprender sistemas tecnológicos de los distintos ámbitos de la ingeniería, estudiando sus características, consumo y eficiencia energética, para evaluar el uso responsable y sostenible que se hace de la tecnología."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "TECI.1.1.1",
+            "descripcion": "Investigar y diseñar proyectos que muestren de forma gráfica la creación y mejora de un producto, seleccionando, referenciando e interpretando información relacionada.",
+            "saberes_relacionados": [
+                "TECI.1.A.1.",
+                "TECI.1.A.2.",
+                "TECI.1.A.3."
+            ]
+        },
+        {
+            "referencia": "TECI.1.1.2",
+            "descripcion": "Participar en el desarrollo, gestión y coordinación de proyectos de creación y mejora continua de productos viables y socialmente responsables, identificando mejoras y creando prototipos mediante un proceso iterativo, con actitud crítica, creativa y emprendedora.",
+            "saberes_relacionados": [
+                "TECI.1.A.1.",
+                "TECI.1.A.2.",
+                "TECI.1.A.4.",
+                "TECI.1.A.5."
+            ]
+        },
+        {
+            "referencia": "TECI.1.1.3",
+            "descripcion": "Colaborar en tareas tecnológicas, escuchando el razonamiento de los demás, aportando al equipo a través del rol asignado y fomentando el bienestar grupal y las relaciones saludables e inclusivas.",
+            "saberes_relacionados": [
+                "TECI.1.A.1.",
+                "TECI.1.A.4.",
+                "TECI.1.A.5."
+            ]
+        },
+        {
+            "referencia": "TECI.1.1.4",
+            "descripcion": "Elaborar documentación técnica con precisión y rigor, generando diagramas funcionales y utilizando medios manuales y aplicaciones digitales, empleando el soporte, la terminología y el rigor apropiados.",
+            "saberes_relacionados": [
+                "TECI.1.A.3.",
+                "TECI.1.A.6."
+            ]
+        },
+        {
+            "referencia": "TECI.1.1.5",
+            "descripcion": "Comunicar de manera eficaz y organizada las ideas y soluciones tecnológicas.",
+            "saberes_relacionados": [
+                "TECI.1.A.3.",
+                "TECI.1.A.6."
+            ]
+        },
+        {
+            "referencia": "TECI.1.2.1",
+            "descripcion": "Determinar el ciclo de vida de un producto, planificando y aplicando medidas de control de calidad en sus distintas etapas, desde el diseño a la comercialización, teniendo en consideración estrategias de mejora continua.",
+            "saberes_relacionados": [
+                "TECI.1.A.1.",
+                "TECI.1.A.2."
+            ]
+        },
+        {
+            "referencia": "TECI.1.2.2",
+            "descripcion": "Seleccionar los materiales, tradicionales o de nueva generación, adecuados para la fabricación de productos de calidad, basándose en sus características técnicas y atendiendo a criterios de sostenibilidad de manera responsable y ética.",
+            "saberes_relacionados": [
+                "TECI.1.A.2.",
+                "TECI.1.B.1.",
+                "TECI.1.B.2."
+            ]
+        },
+        {
+            "referencia": "TECI.1.2.3",
+            "descripcion": "Fabricar modelos o prototipos empleando las técnicas de fabricación más adecuadas y aplicando los criterios técnicos y de sostenibilidad necesarios.",
+            "saberes_relacionados": [
+                "TECI.1.A.3.",
+                "TECI.1.B.2.",
+                "TECI.1.B.3.",
+                "TECI.1.C.1.",
+                "TECI.1.D.1."
+            ]
+        },
+        {
+            "referencia": "TECI.1.3.1",
+            "descripcion": "Resolver tareas propuestas y funciones asignadas, mediante el uso y configuración de diferentes herramientas digitales de manera óptima y autónoma.",
+            "saberes_relacionados": [
+                "TECI.1.A.3.",
+                "TECI.1.B.2.",
+                "TECI.1.E.2.",
+                "TECI.1.E.3.",
+                "TECI.1.E.4."
+            ]
+        },
+        {
+            "referencia": "TECI.1.3.2",
+            "descripcion": "Realizar la presentación de proyectos empleando herramientas digitales adecuadas.",
+            "saberes_relacionados": [
+                "TECI.1.A.3.",
+                "TECI.1.A.6."
+            ]
+        },
+        {
+            "referencia": "TECI.1.4.1",
+            "descripcion": "Resolver problemas asociados a sistemas e instalaciones mecánicas, aplicando fundamentos de mecanismos de transmisión y transformación de movimientos, soporte y unión al desarrollo de montajes o simulaciones.",
+            "saberes_relacionados": [
+                "TECI.1.B.1.",
+                "TECI.1.C.1."
+            ]
+        },
+        {
+            "referencia": "TECI.1.4.2",
+            "descripcion": "Resolver problemas asociados a sistemas e instalaciones eléctricas y electrónicas, aplicando fundamentos de corriente continua y máquinas eléctricas al desarrollo de montajes o simulaciones.",
+            "saberes_relacionados": [
+                "TECI.1.B.1.",
+                "TECI.1.B.3.",
+                "TECI.1.D.1."
+            ]
+        },
+        {
+            "referencia": "TECI.1.5.1",
+            "descripcion": "Controlar el funcionamiento de sistemas tecnológicos y robóticos, utilizando lenguajes de programación informática, estructurados o no, y aplicando las posibilidades que ofrecen las tecnologías emergentes, tales como inteligencia artificial, internet de las cosas, big data, etc.",
+            "saberes_relacionados": [
+                "TECI.1.E.1.",
+                "TECI.1.E.2.",
+                "TECI.1.E.3.",
+                "TECI.1.E.4.",
+                "TECI.1.F.5."
+            ]
+        },
+        {
+            "referencia": "TECI.1.5.2",
+            "descripcion": "Automatizar, programar y evaluar movimientos de robots, mediante la modelización, la aplicación de algoritmos sencillos y el uso de herramientas informáticas.",
+            "saberes_relacionados": [
+                "TECI.1.C.1.",
+                "TECI.1.D.1.",
+                "TECI.1.E.1.",
+                "TECI.1.F.1.",
+                "TECI.1.F.2.",
+                "TECI.1.F.3.",
+                "TECI.1.F.4."
+            ]
+        },
+        {
+            "referencia": "TECI.1.5.3",
+            "descripcion": "Conocer y comprender conceptos básicos de programación textual, mostrando el progreso paso a paso de la ejecución de un programa a partir de un estado inicial y prediciendo su estado final tras la ejecución.",
+            "saberes_relacionados": [
+                "TECI.1.C.1.",
+                "TECI.1.D.1.",
+                "TECI.1.E.1."
+            ]
+        },
+        {
+            "referencia": "TECI.1.6.1",
+            "descripcion": "Evaluar los distintos sistemas de generación de energía eléctrica y mercados energéticos, estudiando sus características, calculando sus magnitudes y valorando su eficiencia.",
+            "saberes_relacionados": [
+                "TECI.1.F.1.",
+                "TECI.1.G.4."
+            ]
+        },
+        {
+            "referencia": "TECI.1.6.2",
+            "descripcion": "Analizar las diferentes instalaciones de una vivienda desde el punto de vista de su eficiencia energética, buscando aquellas opciones más comprometidas con la sostenibilidad y fomentando un uso responsable de las mismas.",
+            "saberes_relacionados": [
+                "TECI.1.G.1.",
+                "TECI.1.G.2.",
+                "TECI.1.G.3.",
+                "TECI.1.G.4."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Proyectos de investigación y desarrollo.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TECI.1.A.1.",
+            "descripcion": "Estrategias de gestión y desarrollo de proyectos: diagramas de Gantt, metodologías Agile. Técnicas de investigación e ideación: Design Thinking. Técnicas de trabajo en equipo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.1.1",
+                "TECI.1.1.2",
+                "TECI.1.1.3",
+                "TECI.1.2.1"
+            ]
+        },
+        {
+            "referencia": "TECI.1.A.2.",
+            "descripcion": "Productos: Ciclo de vida. Estrategias de mejora continua. Planificación y desarrollo de diseño y comercialización. Logística, transporte y distribución. Metrología y normalización. Control de calidad. Estrategias de mejora continua: ciclo de Deming y planes de mejora.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.1.1",
+                "TECI.1.1.2",
+                "TECI.1.2.1",
+                "TECI.1.2.2"
+            ]
+        },
+        {
+            "referencia": "TECI.1.A.3.",
+            "descripcion": "Expresión gráfica para la planificación y desarrollo de proyectos: Aplicaciones CAD (Computer Aided Design)-CAE (Computer Aided Engineering)-CAM (Computer Aided Manufacturing): funciones y utilidades de estas aplicaciones en los procesos de diseño de la geometría, en el análisis del funcionamiento y en la definición y control de los procesos de fabricación del producto. Diagramas funcionales, diagramas de flujo, esquemas y croquis.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.1.1",
+                "TECI.1.1.4",
+                "TECI.1.1.5",
+                "TECI.1.2.3",
+                "TECI.1.3.1",
+                "TECI.1.3.2"
+            ]
+        },
+        {
+            "referencia": "TECI.1.A.4.",
+            "descripcion": "Emprendimiento, resiliencia, perseverancia y creatividad para abordar problemas desde una perspectiva interdisciplinar.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.1.2",
+                "TECI.1.1.3"
+            ]
+        },
+        {
+            "referencia": "TECI.1.A.5.",
+            "descripcion": "Autoconfianza e iniciativa. Identificación y gestión de emociones. El error y la reevaluación como parte del proceso de aprendizaje.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.1.2",
+                "TECI.1.1.3"
+            ]
+        },
+        {
+            "referencia": "TECI.1.A.6.",
+            "descripcion": "Difusión y comunicación de documentación técnica. Elaboración, referenciación y presentación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.1.4",
+                "TECI.1.1.5",
+                "TECI.1.3.2"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Materiales y fabricación.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TECI.1.B.1.",
+            "descripcion": "Propiedades de los materiales: físicas, químicas y mecánicas. Materiales técnicos: metálicos, cerámicos, moleculares, poliméricos e híbridos, entre otros, nuevos materiales (grafeno, estaneno, shrilk, entre otros) y nuevos tratamientos (PVD (Physical Vapor Deposition), CVD (Chemical Vapor Deposition), entre otros). Materiales técnicos y nuevos materiales. Propiedades, clasificación y criterios de sostenibilidad. Selección y aplicaciones características.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.2.2",
+                "TECI.1.4.1",
+                "TECI.1.4.2"
+            ]
+        },
+        {
+            "referencia": "TECI.1.B.2.",
+            "descripcion": "Técnicas y procedimientos de fabricación: Prototipado rápido y bajo demanda. Fabricación digital aplicada a proyectos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.2.2",
+                "TECI.1.2.3",
+                "TECI.1.3.1"
+            ]
+        },
+        {
+            "referencia": "TECI.1.B.3.",
+            "descripcion": "Normas de seguridad e higiene en el trabajo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.2.3",
+                "TECI.1.4.2"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Sistemas mecánicos.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TECI.1.C.1.",
+            "descripcion": "Máquinas y sistemas mecánicos. Mecanismos de transmisión y transformación de movimientos. Elementos de transmisión: engranajes, poleas y correas, cadenas de rodillos, cigüeñal, caja de cambios. Soportes y unión de elementos mecánicos. Acoplamientos rígidos y flexibles. Junta Cardan. Diseño, cálculo, montaje y experimentación física o simulada de sistemas mecánicos. Aplicación práctica a proyectos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.2.3",
+                "TECI.1.4.1",
+                "TECI.1.5.2",
+                "TECI.1.5.3"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Sistemas eléctricos y electrónicos.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TECI.1.D.1.",
+            "descripcion": "Circuitos eléctricos y electrónicos y máquinas eléctricas de corriente continua. Interpretación y representación esquematizada de circuitos. Diseño, cálculo, montaje y experimentación física o simulada. Aplicación a proyectos. Motores eléctricos de corriente continua: características y funcionamiento. Aplicación a proyectos. Componentes y circuitos electrónicos. Interpretación de circuitos básicos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.2.3",
+                "TECI.1.4.2",
+                "TECI.1.5.2",
+                "TECI.1.5.3"
+            ]
+        },
+        {
+            "referencia": "E.",
+            "descripcion": "Sistemas informáticos. Programación.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TECI.1.E.1.",
+            "descripcion": "Fundamentos de la programación textual. Características, elementos y lenguajes: Tipos de datos, constantes y variables. Estructura de un programa: instrucciones, comandos y sintaxis. Operaciones básicas con variables. Bucles, expresiones condicionales y estructuras de datos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.5.1",
+                "TECI.1.5.2",
+                "TECI.1.5.3"
+            ]
+        },
+        {
+            "referencia": "TECI.1.E.2.",
+            "descripcion": "Proceso de desarrollo: edición, compilación o interpretación, ejecución, pruebas y depuración. Creación de programas para la resolución de problemas. Modularización.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.3.1",
+                "TECI.1.5.1"
+            ]
+        },
+        {
+            "referencia": "TECI.1.E.3.",
+            "descripcion": "Tecnologías emergentes: internet de las cosas. Aplicación a proyectos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.3.1",
+                "TECI.1.5.1"
+            ]
+        },
+        {
+            "referencia": "TECI.1.E.4.",
+            "descripcion": "Protocolos de comunicación de redes de dispositivos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.3.1",
+                "TECI.1.5.1"
+            ]
+        },
+        {
+            "referencia": "F.",
+            "descripcion": "Sistemas automáticos.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TECI.1.F.1.",
+            "descripcion": "Sistemas de control. Conceptos y elementos. Modelización de sistemas sencillos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.5.2",
+                "TECI.1.6.1"
+            ]
+        },
+        {
+            "referencia": "TECI.1.F.2.",
+            "descripcion": "Automatización programada de procesos. Diseño, programación, construcción y simulación o montaje.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.5.2"
+            ]
+        },
+        {
+            "referencia": "TECI.1.F.3.",
+            "descripcion": "Sistemas de supervisión (SCADA): definición, características y ventajas. Telemetría y monitorización.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.5.2"
+            ]
+        },
+        {
+            "referencia": "TECI.1.F.4.",
+            "descripcion": "Aplicación de las tecnologías emergentes a los sistemas de control.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.5.2"
+            ]
+        },
+        {
+            "referencia": "TECI.1.F.5.",
+            "descripcion": "Robótica: sensores, actuadores, y hardware y software de control. Modelización de movimientos y acciones mecánicas. Inteligencia artificial aplicada a los sistemas de control.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.5.1"
+            ]
+        },
+        {
+            "referencia": "G.",
+            "descripcion": "Tecnología sostenible.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TECI.1.G.1.",
+            "descripcion": "Obtención, transformación y distribución de las principales fuentes de energía. Sistemas y mercados energéticos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.6.2"
+            ]
+        },
+        {
+            "referencia": "TECI.1.G.2.",
+            "descripcion": "Consumo energético sostenible, técnicas y criterios de ahorro. Suministros domésticos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.6.2"
+            ]
+        },
+        {
+            "referencia": "TECI.1.G.3.",
+            "descripcion": "Instalaciones en viviendas: eléctricas, de agua y climatización, de comunicación y domóticas. Arquitectura sostenible: bio-construcción y ecoarquitectura. Uso eficiente de los sistemas de climatización de la vivienda.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.6.2"
+            ]
+        },
+        {
+            "referencia": "TECI.1.G.4.",
+            "descripcion": "Energías renovables, eficiencia energética, certificación energética y sostenibilidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TECI.1.6.1",
+                "TECI.1.6.2"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,557 @@
+{
+    "titulo": "1º BACHILLERATO - Dibujo Artístico (1º BACH)",
+    "referencia": "DIBA.1",
+    "competencias_especificas": [
+        {
+            "codigo": "DIBA.1.1",
+            "descripcion": "Comprender el dibujo como forma de conocimiento, comunicación y expresión, comparando el uso que se hace de él en manifestaciones culturales y artísticas de diferentes épocas, lugares y ámbitos disciplinares, y valorando la diversidad de significados que origina, para apreciar la importancia de la diversidad cultural y la relevancia de la conservación y la promoción del patrimonio, en especial el de Andalucía."
+        },
+        {
+            "codigo": "DIBA.1.2",
+            "descripcion": "Analizar, con actitud crítica y reflexiva, producciones plásticas de distintas épocas y estilos, reconociendo el lenguaje, las técnicas y procedimientos, la función significativa y la expresividad presentes en ellas, para desarrollar la conciencia visual y el criterio estético y ampliar las posibilidades de disfrute del arte."
+        },
+        {
+            "codigo": "DIBA.1.3",
+            "descripcion": "Analizar, interpretar y representar la realidad, utilizando los recursos elementales y la sintaxis del dibujo, para ofrecer una visión propia de esa realidad, potenciar la sensibilidad y favorecer el desarrollo personal y artístico."
+        },
+        {
+            "codigo": "DIBA.1.4",
+            "descripcion": "Experimentar con diferentes materiales, técnicas y soportes, incluido el propio cuerpo, analizando la importancia del mismo en las propuestas artísticas contemporáneas, para descubrir el gesto del dibujo y la apropiación del espacio como medios de autoexpresión y aceptación personal."
+        },
+        {
+            "codigo": "DIBA.1.5",
+            "descripcion": "Utilizar la práctica del dibujo como medio de expresión de ideas, opiniones, sentimientos y emociones, investigando los referentes culturales de las nuevas creaciones como parte inherente a las mismas, para ampliar el repertorio artístico y enriquecer las producciones propias."
+        },
+        {
+            "codigo": "DIBA.1.6",
+            "descripcion": "Realizar producciones gráficas expresivas y creativas, valorando la importancia de los elementos del lenguaje gráfico y su organización en la definición de un estilo personal, para progresar en la ejecución técnica y en las cualidades comunicativas y expresivas de las producciones propias."
+        },
+        {
+            "codigo": "DIBA.1.7",
+            "descripcion": "Experimentar con las técnicas propias del dibujo, identificando las herramientas, medios y soportes necesarios y analizando su posible impacto ambiental, para integrarlas de forma creativa y responsable en la realización de producciones gráficas."
+        },
+        {
+            "codigo": "DIBA.1.8",
+            "descripcion": "Adaptar los conocimientos y destrezas adquiridos, desarrollando la retentiva y la memoria visual, para responder con creatividad y eficacia a nuevos desafíos de representación gráfica."
+        },
+        {
+            "codigo": "DIBA.1.9",
+            "descripcion": "Crear proyectos gráficos colaborativos, contribuyendo de forma creativa a su planificación y realización y adaptando el diseño y el proceso a las características propias de un ámbito disciplinar, para descubrir posibilidades de desarrollo académico y profesional y apreciar el enriquecimiento que suponen las propuestas compartidas."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "DIBA.1.1.1",
+            "descripcion": "Identificar el dibujo como forma de conocimiento, comunicación y expresión, reflexionando con iniciativa sobre su presencia en distintas manifestaciones culturales y artísticas y comparando de forma autónoma su uso en las mismas.",
+            "saberes_relacionados": [
+                "DIBA.1.A.1.",
+                "DIBA.1.A.2.",
+                "DIBA.1.A.3."
+            ]
+        },
+        {
+            "referencia": "DIBA.1.1.2",
+            "descripcion": "Comparar las múltiples funciones del dibujo a través del análisis autónomo de su uso en producciones de distintos ámbitos disciplinares.",
+            "saberes_relacionados": [
+                "DIBA.1.A.1.",
+                "DIBA.1.A.2.",
+                "DIBA.1.A.3."
+            ]
+        },
+        {
+            "referencia": "DIBA.1.1.3",
+            "descripcion": "Relacionar la pluralidad cultural y artística con la libertad de expresión, argumentando la opinión propia de forma activa, comprometida y respetuosa, y analizando los usos del dibujo en diversas manifestaciones artísticas.",
+            "saberes_relacionados": [
+                "DIBA.1.A.1.",
+                "DIBA.1.A.2.",
+                "DIBA.1.A.3."
+            ]
+        },
+        {
+            "referencia": "DIBA.1.2.1",
+            "descripcion": "Analizar el lenguaje, las técnicas y procedimientos del dibujo en diferentes propuestas plásticas, entendiendo los cambios que se han producido en las tendencias a lo largo de la historia y utilizando la terminología específica más adecuada.",
+            "saberes_relacionados": [
+                "DIBA.1.A.2.",
+                "DIBA.1.B.7."
+            ]
+        },
+        {
+            "referencia": "DIBA.1.2.2",
+            "descripcion": "Analizar distintas manifestaciones culturales y artísticas, comprendiendo la función que desempeña el dibujo en las mismas y valorando el enriquecimiento que suponen para la sociedad los retos creativos y estéticos.",
+            "saberes_relacionados": [
+                "DIBA.1.A.1.",
+                "DIBA.1.A.2.",
+                "DIBA.1.A.3."
+            ]
+        },
+        {
+            "referencia": "DIBA.1.3.1",
+            "descripcion": "Experimentar con sensibilidad las posibilidades expresivas de los recursos elementales del dibujo (punto, línea, forma) y de su sintaxis, mejorando el proceso de creación gráfica.",
+            "saberes_relacionados": [
+                "DIBA.1.B.2.",
+                "DIBA.1.B.3.",
+                "DIBA.1.B.4."
+            ]
+        },
+        {
+            "referencia": "DIBA.1.3.2",
+            "descripcion": "Analizar, interpretar y representar gráficamente la realidad mediante bocetos y esbozos, utilizando las herramientas adecuadas y desarrollando una expresión propia, espontánea y creativa.",
+            "saberes_relacionados": [
+                "DIBA.1.B.6.",
+                "DIBA.1.B.8."
+            ]
+        },
+        {
+            "referencia": "DIBA.1.4.1",
+            "descripcion": "Aportar una huella y un gesto propios a la realización de dibujos, combinando el uso tradicional de materiales, técnicas y soportes con la manipulación personal.",
+            "saberes_relacionados": [
+                "DIBA.1.B.7.",
+                "DIBA.1.B.8.",
+                "DIBA.1.C.4."
+            ]
+        },
+        {
+            "referencia": "DIBA.1.4.2",
+            "descripcion": "Realizar composiciones bidimensionales, figurativas o abstractas, explorando la percepción y ordenación del espacio e indagando sobre la representación del cuerpo humano y su posible utilización como soporte o como herramienta gráfica.",
+            "saberes_relacionados": [
+                "DIBA.1.B.6.",
+                "DIBA.1.B.7.",
+                "DIBA.1.C.5.",
+                "DIBA.1.C.6."
+            ]
+        },
+        {
+            "referencia": "DIBA.1.5.1",
+            "descripcion": "Identificar los referentes artísticos de una obra determinada, describiendo la influencia que ejercen y las conexiones que se establecen.",
+            "saberes_relacionados": [
+                "DIBA.1.A.3.",
+                "DIBA.1.B.1.",
+                "DIBA.1.B.7."
+            ]
+        },
+        {
+            "referencia": "DIBA.1.5.2",
+            "descripcion": "Expresar ideas, opiniones, sentimientos y emociones a través de creaciones gráficas y dibujos propios, incorporando, de forma guiada, procedimientos o técnicas utilizados en referentes artísticos de interés para el alumnado.",
+            "saberes_relacionados": [
+                "DIBA.1.C.1.",
+                "DIBA.1.C.4."
+            ]
+        },
+        {
+            "referencia": "DIBA.1.6.1",
+            "descripcion": "Emplear con intenciones comunicativas o expresivas los mecanismos de la percepción visual, sus leyes y principios, así como la composición y la ordenación de elementos en el espacio, mostrando interés en sus aplicaciones.",
+            "saberes_relacionados": [
+                "DIBA.1.C.2.",
+                "DIBA.1.C.3."
+            ]
+        },
+        {
+            "referencia": "DIBA.1.6.2",
+            "descripcion": "Expresar a través del trazo y el gesto del dibujo una visión propia de la realidad o del mundo interior, experimentando con los elementos del lenguaje gráfico, sus formas, signos, posibilidades expresivas y efectos visuales.",
+            "saberes_relacionados": [
+                "DIBA.1.B.6.",
+                "DIBA.1.C.4.",
+                "DIBA.1.C.5."
+            ]
+        },
+        {
+            "referencia": "DIBA.1.7.1",
+            "descripcion": "Proponer distintas soluciones gráficas a una misma propuesta visual, utilizando diferentes niveles de iconicidad, identificando las herramientas, medios y soportes necesarios y justificando razonada y respetuosamente la elección realizada.",
+            "saberes_relacionados": [
+                "DIBA.1.B.5.",
+                "DIBA.1.C.4."
+            ]
+        },
+        {
+            "referencia": "DIBA.1.7.2",
+            "descripcion": "Seleccionar y utilizar con destreza las herramientas, medios y soportes más adecuados a la intención creativa, empleando los valores expresivos del claroscuro y del color en una interpretación gráfica personal de la realidad.",
+            "saberes_relacionados": [
+                "DIBA.1.B.8.",
+                "DIBA.1.D.1.",
+                "DIBA.1.D.2.",
+                "DIBA.1.D.3.",
+                "DIBA.1.D.4.",
+                "DIBA.1.D.5."
+            ]
+        },
+        {
+            "referencia": "DIBA.1.7.3",
+            "descripcion": "Investigar de forma activa y abierta sobre la presencia de tecnologías digitales en referentes artísticos contemporáneos, integrándolas en el proceso creativo y expresivo propio.",
+            "saberes_relacionados": [
+                "DIBA.1.E.1.",
+                "DIBA.1.E.2.",
+                "DIBA.1.E.3."
+            ]
+        },
+        {
+            "referencia": "DIBA.1.8.1",
+            "descripcion": "Representar gráficamente el modelo elegido, seleccionando y abstrayendo sus características más representativas, a partir del estudio y análisis del mismo.",
+            "saberes_relacionados": [
+                "DIBA.1.B.1.",
+                "DIBA.1.B.2.",
+                "DIBA.1.B.3.",
+                "DIBA.1.B.4.",
+                "DIBA.1.B.5.",
+                "DIBA.1.B.6."
+            ]
+        },
+        {
+            "referencia": "DIBA.1.8.2",
+            "descripcion": "Utilizar el encuadre, el encaje y la perspectiva en la resolución de problemas de representación gráfica, analizando tanto los diferentes volúmenes como el espacio que completa el conjunto.",
+            "saberes_relacionados": [
+                "DIBA.1.A.3.",
+                "DIBA.1.F.3."
+            ]
+        },
+        {
+            "referencia": "DIBA.1.9.1",
+            "descripcion": "Planificar proyectos gráficos colaborativos sencillos, identificando el ámbito disciplinar en que se desarrollarán, y organizando y distribuyendo las tareas de manera adecuada.",
+            "saberes_relacionados": [
+                "DIBA.1.A.3.",
+                "DIBA.1.F.1.",
+                "DIBA.1.F.2."
+            ]
+        },
+        {
+            "referencia": "DIBA.1.9.2",
+            "descripcion": "Realizar proyectos gráficos colaborativos enmarcados en un ámbito disciplinar concreto, utilizando con interés los valores expresivos del Dibujo Artístico y sus recursos.",
+            "saberes_relacionados": [
+                "DIBA.1.B.7.",
+                "DIBA.1.B.8.",
+                "DIBA.1.E.2.",
+                "DIBA.1.E.3.",
+                "DIBA.1.F.1.",
+                "DIBA.1.F.2.",
+                "DIBA.1.F.4."
+            ]
+        },
+        {
+            "referencia": "DIBA.1.9.3",
+            "descripcion": "Analizar las dificultades surgidas en la planificación y realización de proyectos gráficos compartidos, entendiendo este proceso como un instrumento de mejora del resultado final.",
+            "saberes_relacionados": [
+                "DIBA.1.B.1.",
+                "DIBA.1.B.8.",
+                "DIBA.1.C.1.",
+                "DIBA.1.C.5."
+            ]
+        },
+        {
+            "referencia": "DIBA.1.9.4",
+            "descripcion": "Identificar posibilidades de desarrollo académico y profesional relacionadas con el dibujo artístico, comprendiendo las oportunidades que ofrece y el valor añadido de la creatividad en los estudios y en el trabajo, expresando la opinión propia de forma razonada y respetuosa.",
+            "saberes_relacionados": [
+                "DIBA.1.A.3."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Concepto e historia del dibujo.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "DIBA.1.A.1.",
+            "descripcion": "El dibujo como proceso interactivo de observación, reflexión, imaginación, representación y comunicación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.1.1",
+                "DIBA.1.1.2",
+                "DIBA.1.1.3",
+                "DIBA.1.2.2"
+            ]
+        },
+        {
+            "referencia": "DIBA.1.A.2.",
+            "descripcion": "El dibujo en el arte: desde la Antigüedad hasta el Romanticismo. Origen de la expresión gráfica: pinturas rupestres, jeroglíficos en la escritura egipcia, representaciones en la cerámica griega. El dibujo como instrumento de trabajo, primeros planos arquitectónicos y de obra civil. Cuadernos de notas y de viaje. Herbarios y estudios de la naturaleza a través del dibujo (s. XIV y XV). Las Academias. El coleccionismo (s. XVII y XVIII). Obras más representativas de diferentes creadores y creadoras: Giotto, Gentile da Fabriano, Pisanello, Piero della Francesca, Paolo Uccello, Leonardo da Vinci, Miguel Ángel, Tiziano, Rafael, J.E. Liotard, Rosalba Carriera, J.M.W. Turner, G.B. Piranesi, F. Goya, entre otros.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.1.1",
+                "DIBA.1.1.2",
+                "DIBA.1.1.3",
+                "DIBA.1.2.1",
+                "DIBA.1.2.2"
+            ]
+        },
+        {
+            "referencia": "DIBA.1.A.3.",
+            "descripcion": "El dibujo como parte de múltiples procesos artísticos. Ámbitos disciplinares: artes plásticas y visuales, diseño, arquitectura, ciencia y literatura. Valor añadido y salidas profesionales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.1.1",
+                "DIBA.1.1.2",
+                "DIBA.1.1.3",
+                "DIBA.1.2.2",
+                "DIBA.1.5.1",
+                "DIBA.1.8.2",
+                "DIBA.1.9.1",
+                "DIBA.1.9.4"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "La expresión gráfica y sus recursos elementales.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "DIBA.1.B.1.",
+            "descripcion": "Terminología y materiales del dibujo. Soportes y técnicas, relación entre ambos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.5.1",
+                "DIBA.1.8.1",
+                "DIBA.1.9.3"
+            ]
+        },
+        {
+            "referencia": "DIBA.1.B.2.",
+            "descripcion": "El punto y sus posibilidades plásticas y expresivas. El puntillismo. Georges Seurat. El punto en las obras de diferentes artistas. Van Gogh, Kandinsky, R. Liechtenstein, Malevich, entre otros.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.3.1",
+                "DIBA.1.8.1"
+            ]
+        },
+        {
+            "referencia": "DIBA.1.B.3.",
+            "descripcion": "La línea: trazo y grafismo. La línea y la percepción de los bordes. La línea como configuradora de relieve. La línea objetual. Piet Mondrian. Las tramas. La trama en el grabado y en la pintura. La serigrafía y el pop art.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.3.1",
+                "DIBA.1.8.1"
+            ]
+        },
+        {
+            "referencia": "DIBA.1.B.4.",
+            "descripcion": "La forma: tipología, aplicaciones y combinaciones. Representación analítica y sintética de las formas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.3.1",
+                "DIBA.1.8.1"
+            ]
+        },
+        {
+            "referencia": "DIBA.1.B.5.",
+            "descripcion": "Niveles de iconicidad de la imagen.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.7.1",
+                "DIBA.1.8.1"
+            ]
+        },
+        {
+            "referencia": "DIBA.1.B.6.",
+            "descripcion": "El boceto o esbozo. Introducción al encaje. Cuadernos de bocetos de artistas: Leonardo da Vinci, Goya, Van Gogh, Picasso, Andy Warhol, Frida Kahlo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.3.2",
+                "DIBA.1.4.2",
+                "DIBA.1.6.2",
+                "DIBA.1.8.1"
+            ]
+        },
+        {
+            "referencia": "DIBA.1.B.7.",
+            "descripcion": "Técnicas gráfico-plásticas, secas y húmedas: carboncillo, lápiz negro, grafito, conté, sanguina, clarión, pastel, tinta china, acuarela, gouache, rotuladores, entre otras.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.2.1",
+                "DIBA.1.4.1",
+                "DIBA.1.4.2",
+                "DIBA.1.5.1",
+                "DIBA.1.9.2"
+            ]
+        },
+        {
+            "referencia": "DIBA.1.B.8.",
+            "descripcion": "Materiales gráfico-plásticos. Seguridad, toxicidad, impacto ambiental y sostenibilidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.3.2",
+                "DIBA.1.4.1",
+                "DIBA.1.7.2",
+                "DIBA.1.9.2",
+                "DIBA.1.9.3"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Percepción y ordenación del espacio.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "DIBA.1.C.1.",
+            "descripcion": "Fundamentos de la percepción visual.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.5.2",
+                "DIBA.1.9.3"
+            ]
+        },
+        {
+            "referencia": "DIBA.1.C.2.",
+            "descripcion": "Principios de la Psicología de la Gestalt.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.6.1"
+            ]
+        },
+        {
+            "referencia": "DIBA.1.C.3.",
+            "descripcion": "Ilusiones ópticas. A lo largo de la historia: G. Arcimbolo, A. Mantegna, Allan Gilbert, M.C. Escher, Salvador Dalí, M. Duchamp. Formas volumétricas sencillas. Partes vistas y ocultas. Secciones y cortes. Análisis geométrico de figuras. La superposición y la relatividad del tamaño.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.6.1"
+            ]
+        },
+        {
+            "referencia": "DIBA.1.C.4.",
+            "descripcion": "La composición como método. El equilibrio compositivo. Centros de interés. Reglas de los impares. Direcciones visuales. Ley de la mirada. Limitación del enfoque. El contraste. Ley del horizonte. Aplicaciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.4.1",
+                "DIBA.1.5.2",
+                "DIBA.1.6.2",
+                "DIBA.1.7.1"
+            ]
+        },
+        {
+            "referencia": "DIBA.1.C.5.",
+            "descripcion": "Sistemas de ordenación en la sintaxis visual. Aplicaciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.4.2",
+                "DIBA.1.6.2",
+                "DIBA.1.9.3"
+            ]
+        },
+        {
+            "referencia": "DIBA.1.C.6.",
+            "descripcion": "Introducción a la representación del espacio mediante la perspectiva.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.4.2"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "La luz, el claroscuro y el color.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "DIBA.1.D.1.",
+            "descripcion": "La luz y el volumen.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.7.2"
+            ]
+        },
+        {
+            "referencia": "DIBA.1.D.2.",
+            "descripcion": "Tipos de luz y de iluminación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.7.2"
+            ]
+        },
+        {
+            "referencia": "DIBA.1.D.3.",
+            "descripcion": "Valoración tonal y claroscuro. Síntesis aditiva y síntesis sustractiva. Color luz-color pigmento.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.7.2"
+            ]
+        },
+        {
+            "referencia": "DIBA.1.D.4.",
+            "descripcion": "Naturaleza, percepción, psicología y simbología del color.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.7.2"
+            ]
+        },
+        {
+            "referencia": "DIBA.1.D.5.",
+            "descripcion": "Monocromía, bicromía y tricromía. Aplicaciones básicas del color en el dibujo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.7.2"
+            ]
+        },
+        {
+            "referencia": "E.",
+            "descripcion": "Tecnologías y herramientas digitales.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "DIBA.1.E.1.",
+            "descripcion": "Dibujo vectorial. Introducción al dibujo en movimiento.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.7.3"
+            ]
+        },
+        {
+            "referencia": "DIBA.1.E.2.",
+            "descripcion": "Herramientas de edición de imágenes para la expresión artística.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.7.3",
+                "DIBA.1.9.2"
+            ]
+        },
+        {
+            "referencia": "DIBA.1.E.3.",
+            "descripcion": "Programas de pintura y dibujo digital.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.7.3",
+                "DIBA.1.9.2"
+            ]
+        },
+        {
+            "referencia": "F.",
+            "descripcion": "Proyectos gráficos colaborativos.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "DIBA.1.F.1.",
+            "descripcion": "La distribución de tareas en los proyectos gráficos colaborativos: criterios de selección a partir de las habilidades requeridas y de las necesidades del proyecto. Asignación de roles en el trabajo en grupo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.9.1",
+                "DIBA.1.9.2"
+            ]
+        },
+        {
+            "referencia": "DIBA.1.F.2.",
+            "descripcion": "Fases de los proyectos gráficos: definición del objetivo e idea principal, trabajos previos y de planificación (selección de herramientas, técnicas y soportes, recopilación de información), elaboración y desarrollo (bocetos y maquetas), creación de producto, evaluación del resultado final.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.9.1",
+                "DIBA.1.9.2"
+            ]
+        },
+        {
+            "referencia": "DIBA.1.F.3.",
+            "descripcion": "Estrategias de selección de técnicas, herramientas, medios y soportes del dibujo adecuados a distintas disciplinas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.8.2"
+            ]
+        },
+        {
+            "referencia": "DIBA.1.F.4.",
+            "descripcion": "Estrategias de evaluación de las fases y los resultados de proyectos gráficos. El error como oportunidad de mejora y aprendizaje.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "DIBA.1.9.2"
+            ]
+        }
+    ]
+}

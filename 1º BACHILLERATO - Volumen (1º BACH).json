@@ -1,0 +1,445 @@
+{
+    "titulo": "1º BACHILLERATO - Volumen (1º BACH)",
+    "referencia": "VOLU.1",
+    "competencias_especificas": [
+        {
+            "codigo": "VOLU.1.1",
+            "descripcion": "Identificar los fundamentos compositivos del lenguaje tridimensional en obras de diferentes épocas y culturas, analizando sus aspectos formales y estructurales, así como los cánones de proporción y elementos compositivos empleados, para aplicarlos a producciones volumétricas propias equilibradas y creativas."
+        },
+        {
+            "codigo": "VOLU.1.2",
+            "descripcion": "Explorar las posibilidades plásticas y expresivas del lenguaje tridimensional, partiendo del análisis de objetos y obras de diferentes artistas en las que se establezca una relación coherente entre la imagen y su contenido, para elaborar producciones tridimensionales con diferentes funciones comunicativas y respetuosas de la propiedad intelectual."
+        },
+        {
+            "codigo": "VOLU.1.3",
+            "descripcion": "Realizar propuestas de composiciones tridimensionales, seleccionando las técnicas, las herramientas y los materiales de realización más adecuados, para resolver problemas de configuración espacial y apreciar las cualidades expresivas del lenguaje tridimensional."
+        },
+        {
+            "codigo": "VOLU.1.4",
+            "descripcion": "Elaborar proyectos individuales o colectivos, adecuando los materiales y procedimientos a la finalidad estética y funcional de los objetos que se pretenden crear y aportando soluciones diversas y creativas a los retos planteados durante la ejecución, para valorar la metodología proyectual como forma de desarrollar el pensamiento divergente en la resolución creativa de problemas."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "VOLU.1.1.1",
+            "descripcion": "Analizar los elementos formales y estructurales de obras volumétricas de diferentes épocas y culturas, identificando las técnicas, los materiales y los elementos compositivos empleados, incorporando, cuando proceda, las perspectivas de género e intercultural.",
+            "saberes_relacionados": [
+                "VOLU.1.A.1.",
+                "VOLU.1.A.2.",
+                "VOLU.1.B.1.",
+                "VOLU.1.B.3.",
+                "VOLU.1.C.1.",
+                "VOLU.1.C.2.",
+                "VOLU.1.C.8.",
+                "VOLU.1.D.1.",
+                "VOLU.1.D.8."
+            ]
+        },
+        {
+            "referencia": "VOLU.1.1.2",
+            "descripcion": "Explicar los cánones de proporción y los elementos compositivos de piezas tridimensionales de diferentes periodos artísticos dentro de su contexto histórico, diferenciando los aspectos decorativos de los estructurales.",
+            "saberes_relacionados": [
+                "VOLU.1.B.1.",
+                "VOLU.1.B.2.",
+                "VOLU.1.B.4.",
+                "VOLU.1.C.4.",
+                "VOLU.1.D.1."
+            ]
+        },
+        {
+            "referencia": "VOLU.1.1.3",
+            "descripcion": "Describir formas, estructuras, técnicas, materiales, proporciones y elementos compositivos tridimensionales, aplicando la terminología específica de la materia.",
+            "saberes_relacionados": [
+                "VOLU.1.A.1.",
+                "VOLU.1.A.2.",
+                "VOLU.1.B.2.",
+                "VOLU.1.B.3.",
+                "VOLU.1.C.5.",
+                "VOLU.1.D.7."
+            ]
+        },
+        {
+            "referencia": "VOLU.1.2.1",
+            "descripcion": "Analizar los aspectos más notables de la configuración de obras tridimensionales, identificando las diferencias entre lo estructural y lo accesorio y describiendo la relación entre su función comunicativa y su nivel icónico.",
+            "saberes_relacionados": [
+                "VOLU.1.A.1.",
+                "VOLU.1.A.3.",
+                "VOLU.1.B.1.",
+                "VOLU.1.B.2.",
+                "VOLU.1.B.3.",
+                "VOLU.1.C.4."
+            ]
+        },
+        {
+            "referencia": "VOLU.1.2.2",
+            "descripcion": "Explicar las funciones comunicativas del lenguaje tridimensional en obras significativas de diferentes artistas, justificando de manera argumentada la relación establecida entre la imagen y el contenido.",
+            "saberes_relacionados": [
+                "VOLU.1.B.6.",
+                "VOLU.1.B.7.",
+                "VOLU.1.C.1.",
+                "VOLU.1.D.8."
+            ]
+        },
+        {
+            "referencia": "VOLU.1.2.3",
+            "descripcion": "Elaborar producciones volumétricas con una función comunicativa concreta, atendiendo a la relación entre imagen y contenido, así como entre forma, estructura y función comunicativa, con distintos niveles de iconicidad.",
+            "saberes_relacionados": [
+                "VOLU.1.C.4.",
+                "VOLU.1.C.5.",
+                "VOLU.1.C.6."
+            ]
+        },
+        {
+            "referencia": "VOLU.1.3.1",
+            "descripcion": "Resolver de forma creativa problemas de configuración espacial a través de composiciones tridimensionales, seleccionando las técnicas, las herramientas y los materiales de realización más adecuados en función de los requisitos formales, funcionales, estéticos y expresivos.",
+            "saberes_relacionados": [
+                "VOLU.1.B.6.",
+                "VOLU.1.D.1.",
+                "VOLU.1.D.7."
+            ]
+        },
+        {
+            "referencia": "VOLU.1.3.2",
+            "descripcion": "Explicar las cualidades expresivas del lenguaje tridimensional en las composiciones tridimensionales propuestas, justificando la selección de las técnicas, las herramientas y los materiales de realización más adecuados.",
+            "saberes_relacionados": [
+                "VOLU.1.D.2.",
+                "VOLU.1.D.3.",
+                "VOLU.1.D.4.",
+                "VOLU.1.B.7."
+            ]
+        },
+        {
+            "referencia": "VOLU.1.4.1",
+            "descripcion": "Planificar proyectos tridimensionales, organizando correctamente sus fases, distribuyendo de manera razonada las tareas, evaluando su viabilidad y sostenibilidad, y seleccionando las técnicas, las herramientas y los materiales más adecuados a las intenciones expresivas, funcionales y comunicativas.",
+            "saberes_relacionados": [
+                "VOLU.1.C.2.",
+                "VOLU.1.C.8.",
+                "VOLU.1.D.2.",
+                "VOLU.1.D.3.",
+                "VOLU.1.D.4.",
+                "VOLU.1.D.5.",
+                "VOLU.1.D.6."
+            ]
+        },
+        {
+            "referencia": "VOLU.1.4.2",
+            "descripcion": "Participar activamente en la realización de proyectos artísticos, asumiendo diferentes funciones, valorando y respetando las aportaciones y experiencias de los demás e identificando las oportunidades de desarrollo personal, social, académico y profesional que ofrece.",
+            "saberes_relacionados": [
+                "VOLU.1.C.3.",
+                "VOLU.1.C.6.",
+                "VOLU.1.C.7.",
+                "VOLU.1.D.5.",
+                "VOLU.1.D.6.",
+                "VOLU.1.D.8.",
+                "VOLU.1.D.9."
+            ]
+        },
+        {
+            "referencia": "VOLU.1.4.3",
+            "descripcion": "Realizar proyectos individuales o colaborativos, adecuando materiales y procedimientos a la finalidad estética y funcional de los objetos que se pretenden crear, y aportando soluciones diversas y creativas a los retos planteados durante la ejecución.",
+            "saberes_relacionados": [
+                "VOLU.1.B.5.",
+                "VOLU.1.C.3.",
+                "VOLU.1.C.7.",
+                "VOLU.1.C.8.",
+                "VOLU.1.D.3.",
+                "VOLU.1.D.5.",
+                "VOLU.1.D.6.",
+                "VOLU.1.D.7.",
+                "VOLU.1.D.9."
+            ]
+        },
+        {
+            "referencia": "VOLU.1.4.4",
+            "descripcion": "Evaluar y presentar los resultados de proyectos tridimensionales, analizando la relación entre los objetivos planteados y el producto final obtenido, y explicando las posibles diferencias entre ellos.",
+            "saberes_relacionados": [
+                "VOLU.1.C.2.",
+                "VOLU.1.C.7.",
+                "VOLU.1.D.3.",
+                "VOLU.1.D.8."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Técnicas y materiales de configuración.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "VOLU.1.A.1.",
+            "descripcion": "Materiales y herramientas de configuración tridimensional. Materiales sostenibles, naturales, efímeros e innovadores. Características técnicas, comunicativas, funcionales y expresivas. Terminología específica.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.1.1",
+                "VOLU.1.1.3",
+                "VOLU.1.2.1"
+            ]
+        },
+        {
+            "referencia": "VOLU.1.A.2.",
+            "descripcion": "Procedimientos de configuración: técnicas aditivas -modelado, escayola directa, y otras-, sustractivas (talla), constructivas, estructuras e instalaciones, y de reproducción: moldeado y vaciado, sacado de puntos, pantógrafo e impresoras 3D.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.1.1",
+                "VOLU.1.1.3"
+            ]
+        },
+        {
+            "referencia": "VOLU.1.A.3.",
+            "descripcion": "Cualidades emotivas y expresivas de los medios gráfico-plásticos en cuerpos volumétricos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.2.1"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Elementos de configuración formal y espacial.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "VOLU.1.B.1.",
+            "descripcion": "Las formas tridimensionales y su lenguaje. Elementos estructurales de la forma: línea, plano, arista, vértice, superficie, volumen, texturas (visuales y táctiles), concavidades, convexidades, vacío, espacio, masa, escala, color.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.1.1",
+                "VOLU.1.1.2",
+                "VOLU.1.2.1"
+            ]
+        },
+        {
+            "referencia": "VOLU.1.B.2.",
+            "descripcion": "Composición espacial (campos de fuerza, equilibrio, dinamismo, etc.) y relación entre forma, escala y proporción.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.1.2",
+                "VOLU.1.1.3",
+                "VOLU.1.2.1"
+            ]
+        },
+        {
+            "referencia": "VOLU.1.B.3.",
+            "descripcion": "Relación entre forma y estructura. La forma externa como proyección ordenada de fuerzas internas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.1.1",
+                "VOLU.1.1.3",
+                "VOLU.1.2.1"
+            ]
+        },
+        {
+            "referencia": "VOLU.1.B.4.",
+            "descripcion": "Elemento de relación: dirección, posición, espacio y gravedad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.1.2"
+            ]
+        },
+        {
+            "referencia": "VOLU.1.B.5.",
+            "descripcion": "El movimiento en el volumen. Representación en la escultura. Elementos móviles en la obra tridimensional.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.4.3"
+            ]
+        },
+        {
+            "referencia": "VOLU.1.B.6.",
+            "descripcion": "La luz como elemento generador y modelador de formas y espacios.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.2.2",
+                "VOLU.1.3.1"
+            ]
+        },
+        {
+            "referencia": "VOLU.1.B.7.",
+            "descripcion": "Cualidades emotivas y expresivas de los medios gráfico-plásticos en cuerpos volumétricos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.2.2",
+                "VOLU.1.3.2"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Análisis de la representación tridimensional.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "VOLU.1.C.1.",
+            "descripcion": "Escultura y obras de arte tridimensionales en el patrimonio artístico y cultural, haciendo especial hincapié en las referencias artísticas de Andalucía. Contexto histórico y principales características, técnicas, formales, estéticas y comunicativas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.1.1",
+                "VOLU.1.2.2"
+            ]
+        },
+        {
+            "referencia": "VOLU.1.C.2.",
+            "descripcion": "La perspectiva de género y la perspectiva intercultural.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.1.1",
+                "VOLU.1.4.1",
+                "VOLU.1.4.4"
+            ]
+        },
+        {
+            "referencia": "VOLU.1.C.3.",
+            "descripcion": "Arte objetual y conceptual. La instalación artística.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.4.2",
+                "VOLU.1.4.3"
+            ]
+        },
+        {
+            "referencia": "VOLU.1.C.4.",
+            "descripcion": "Grados de iconicidad en las representaciones escultóricas. Hiperrealismo y efectos especiales, realismo, abstracción, síntesis, estilización. Relieve y escultura exenta.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.1.2",
+                "VOLU.1.2.1",
+                "VOLU.1.2.3"
+            ]
+        },
+        {
+            "referencia": "VOLU.1.C.5.",
+            "descripcion": "Las posibilidades plásticas y expresivas del lenguaje tridimensional y su uso creativo en la ideación y realización de obra original.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.1.3",
+                "VOLU.1.2.3"
+            ]
+        },
+        {
+            "referencia": "VOLU.1.C.6.",
+            "descripcion": "Técnicas de transmisión de emociones, estudio del gesto, ideas, acciones y situaciones en la producción y recepción de obras de arte volumétricas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.2.3",
+                "VOLU.1.4.2"
+            ]
+        },
+        {
+            "referencia": "VOLU.1.C.7.",
+            "descripcion": "El respeto de la propiedad intelectual. Tradición, inspiración, plagio, apropiación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.4.2",
+                "VOLU.1.4.3",
+                "VOLU.1.4.4"
+            ]
+        },
+        {
+            "referencia": "VOLU.1.C.8.",
+            "descripcion": "Fuentes bibliográficas y digitales de acceso a obras volumétricas de diferentes épocas y culturas: sitios web, acceso digital a museos, bibliotecas o colecciones digitales, etc.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.1.1",
+                "VOLU.1.4.1",
+                "VOLU.1.4.3"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "El volumen en proyectos tridimensionales.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "VOLU.1.D.1.",
+            "descripcion": "Principios y fundamentos del diseño tridimensional.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.1.1",
+                "VOLU.1.1.2",
+                "VOLU.1.3.1"
+            ]
+        },
+        {
+            "referencia": "VOLU.1.D.2.",
+            "descripcion": "Tipología de formas volumétricas adaptadas al diseño de objetos elementales de uso común como medio de estudio y de análisis.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.3.2",
+                "VOLU.1.4.1"
+            ]
+        },
+        {
+            "referencia": "VOLU.1.D.3.",
+            "descripcion": "Metodología proyectual aplicada al diseño de formas y estructuras tridimensionales. Generación y selección de propuestas. Planificación, gestión y evaluación de proyectos. Difusión de resultados.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.3.2",
+                "VOLU.1.4.1",
+                "VOLU.1.4.3",
+                "VOLU.1.4.4"
+            ]
+        },
+        {
+            "referencia": "VOLU.1.D.4.",
+            "descripcion": "Proyectos de estructuras tridimensionales: modularidad, repetición, gradación y ritmo en el espacio.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.3.2",
+                "VOLU.1.4.1"
+            ]
+        },
+        {
+            "referencia": "VOLU.1.D.5.",
+            "descripcion": "Proyectos de producciones artísticas volumétricas: secuenciación, fases y trabajo en equipo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.4.1",
+                "VOLU.1.4.2",
+                "VOLU.1.4.3"
+            ]
+        },
+        {
+            "referencia": "VOLU.1.D.6.",
+            "descripcion": "Estrategias de trabajo en equipo. Distribución de tareas y liderazgo compartido. Resolución de conflictos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.4.1",
+                "VOLU.1.4.2",
+                "VOLU.1.4.3"
+            ]
+        },
+        {
+            "referencia": "VOLU.1.D.7.",
+            "descripcion": "Piezas volumétricas sencillas en función del tipo de producto propuesto. Diseño sostenible e inclusivo. Sostenibilidad e impacto de los proyectos artísticos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.1.3",
+                "VOLU.1.3.1",
+                "VOLU.1.4.3"
+            ]
+        },
+        {
+            "referencia": "VOLU.1.D.8.",
+            "descripcion": "Oportunidades de desarrollo personal, social, académico y profesional vinculadas con la materia.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.1.1",
+                "VOLU.1.2.2",
+                "VOLU.1.4.2",
+                "VOLU.1.4.4"
+            ]
+        },
+        {
+            "referencia": "VOLU.1.D.9.",
+            "descripcion": "La propiedad intelectual: la protección de la creatividad personal.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "VOLU.1.4.2",
+                "VOLU.1.4.3"
+            ]
+        }
+    ]
+}

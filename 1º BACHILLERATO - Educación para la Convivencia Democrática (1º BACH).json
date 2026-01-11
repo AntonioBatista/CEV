@@ -1,0 +1,275 @@
+{
+    "titulo": "1º BACHILLERATO - Educación para la Convivencia Democrática (1º BACH)",
+    "referencia": "EPCD.1",
+    "competencias_especificas": [
+        {
+            "codigo": "EPCD.1.1",
+            "descripcion": "Entender el diálogo como un ejercicio de rigor, espíritu crítico, tolerancia y empatía, a través de la resolución de cuestiones de manera dialógica y respetuosa con las opiniones contrarias de las cuestiones que atañen a la vida en común y a los problemas derivados de esta para la práctica de una ciudadanía activa y democrática."
+        },
+        {
+            "codigo": "EPCD.1.2",
+            "descripcion": "Comprender la necesidad de las normas, así como distinguir, en el ejercicio del poder del Estado, las acciones que garanticen y promuevan la consecución de los valores de libertad, igualdad y justicia, partiendo de su vida escolar y trascendiendo al resto de contextos vitales, para guiar nuestra acción ética y política de manera responsable, crítica y comprometida con la convivencia pacífica y con el bien común."
+        },
+        {
+            "codigo": "EPCD.1.3",
+            "descripcion": "Analizar problemas éticos y políticos fundamentales, derivados de cuestiones de actualidad como la manipulación y el control a través de los medios de comunicación e internet, la igualdad de género y el papel del ser humano en la destrucción del medioambiente y la pandemia, mediante la exposición crítica y dialéctica de distintas posiciones filosóficas pertinentes en la interpretación y resolución de los mismos, para desarrollar el juicio propio y la autonomía moral."
+        },
+        {
+            "codigo": "EPCD.1.4",
+            "descripcion": "Adquirir una perspectiva global, sistémica y transdisciplinar en el planteamiento de cuestiones fundamentales y de actualidad, integrando información e ideas de distintos ámbitos disciplinares a través de la perspectiva que otorga el conocimiento de los conceptos y corrientes filosóficas en juego, para tratar problemas complejos de modo crítico, creativo y transformador."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "EPCD.1.1.1",
+            "descripcion": "Entender el diálogo de manera rigurosa, racional, respetuosa, abierta, constructiva y comprometida con la verdad, abordando los temas que se le plantean en forma de cuestión relevante para la vida en común y la consecución de valores como libertad, igualdad y justicia.",
+            "saberes_relacionados": [
+                "EPCD.1.A.1.3.",
+                "EPCD.1.A.2.1.",
+                "EPCD.1.A.3.4."
+            ]
+        },
+        {
+            "referencia": "EPCD.1.1.2",
+            "descripcion": "Producir y evaluar discursos orales acerca de cuestiones éticas y políticas, usando la argumentación de manera correcta, así como detectando y evitando modos dogmáticos y sesgados de sostener opiniones e hipótesis.",
+            "saberes_relacionados": [
+                "EPCD.1.A.1.",
+                "EPCD.1.A.2.",
+                "EPCD.1.A.3.",
+                "EPCD.1.B.1.",
+                "EPCD.1.B.2.",
+                "EPCD.1.B.3."
+            ]
+        },
+        {
+            "referencia": "EPCD.1.2.1",
+            "descripcion": "Comprender críticamente los conceptos de ley, poder, justicia, Estado, democracia, igualdad económica, así como igualdad ante la ley y de oportunidades, violencia y desobediencia a la ley, a través de la toma razonada y dialogante de posición en torno a cuestiones éticas y políticas de actualidad que atañen al papel del Estado ante asuntos relativos a la igualdad, las libertades y los derechos.",
+            "saberes_relacionados": [
+                "EPCD.1.A.1.",
+                "EPCD.1.A.3."
+            ]
+        },
+        {
+            "referencia": "EPCD.1.2.2",
+            "descripcion": "Generar un compromiso activo con el bien común, tomando conciencia de su papel relevante frente a problemas éticos presentes en la convivencia social, partiendo de su vida escolar y trascendiendo al resto de contextos vitales.",
+            "saberes_relacionados": [
+                "EPCD.1.A.2."
+            ]
+        },
+        {
+            "referencia": "EPCD.1.3.1",
+            "descripcion": "Analizar problemas éticos y políticos fundamentales y de actualidad, como los derivados de las nuevas tecnologías de la comunicación o de nuestra relación con el medio ambiente.",
+            "saberes_relacionados": [
+                "EPCD.1.B.3."
+            ]
+        },
+        {
+            "referencia": "EPCD.1.3.2",
+            "descripcion": "Tomar consciencia de la lucha por una efectiva igualdad de género, a través del análisis de las teorías en torno a la cuestión del género como una creación social, y de la comprensión de los conceptos más importantes del feminismo, para la consecución de una actitud igualitaria ante las distintas discriminaciones practicadas sobre la mujer.",
+            "saberes_relacionados": [
+                "EPCD.1.B.1.",
+                "EPCD.1.B.2."
+            ]
+        },
+        {
+            "referencia": "EPCD.1.4.1",
+            "descripcion": "Utilizar conceptos e ideas provenientes de distintos campos del saber, afrontando temas complejos como el ejercicio del poder, el uso y recepción de las nuevas tecnologías de la información, las relaciones de género o el papel del ser humano ante catástrofes medioambientales o sociales analizándolos desde una perspectiva global, sistémica y transdisciplinar.",
+            "saberes_relacionados": [
+                "EPCD.1.B.1.",
+                "EPCD.1.B.2.",
+                "EPCD.1.B.3."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "El poder. Relación con la libertad, igualdad y justicia.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.1.A.1.",
+            "descripcion": "El concepto de poder y su relación con la libertad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPCD.1.1.2",
+                "EPCD.1.2.1"
+            ]
+        },
+        {
+            "referencia": "EPCD.1.A.1.1.",
+            "descripcion": "Conceptos de poder, Estado, democracia y sociedad civil. Concepto normativo de Estado de derecho. Derechos fundamentales del ciudadano.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.1.A.1.2.",
+            "descripcion": "Los distintos modelos de Estado. Separación de poderes.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.1.A.1.3.",
+            "descripcion": "La Unión Europea como unidad supranacional. El proyecto europeo y sus implicaciones sobre la soberanía de los Estados miembros.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "EPCD.1.1.1"
+            ]
+        },
+        {
+            "referencia": "EPCD.1.A.2.",
+            "descripcion": "Igualdad. Aspiración social.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPCD.1.1.2",
+                "EPCD.1.2.2"
+            ]
+        },
+        {
+            "referencia": "EPCD.1.A.2.1.",
+            "descripcion": "La igualdad económica o social y el concepto de propiedad. Teorías clásicas y actuales sobre la distribución justa de la riqueza.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "EPCD.1.1.1"
+            ]
+        },
+        {
+            "referencia": "EPCD.1.A.2.2.",
+            "descripcion": "El papel del Estado como garante de la igualdad ante la ley. “La Constitución española de 1978”.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.1.A.2.3.",
+            "descripcion": "El Estado del bienestar y la igualdad. La seguridad social y la protección de los derechos sociales, laborales y culturales. Gestión de cuentas públicas.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.1.A.3.",
+            "descripcion": "Justicia social.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPCD.1.1.2",
+                "EPCD.1.2.1"
+            ]
+        },
+        {
+            "referencia": "EPCD.1.A.3.1.",
+            "descripcion": "El pensamiento ilustrado y las teorías del contrato social.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.1.A.3.2.",
+            "descripcion": "El marxismo como movimiento social y de cambio. El materialismo histórico.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.1.A.3.3.",
+            "descripcion": "La justicia social de Rawls y las concepciones de Thoreau, Tolstoi y Gandhi como precursoras del activismo social.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.1.A.3.4.",
+            "descripcion": "La violencia y los fanatismos como enemigos de la libertad.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "EPCD.1.1.1"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Retos y problemas de la actualidad.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.1.B.1.",
+            "descripcion": "Tecnologías de la información y medios de comunicación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPCD.1.1.2",
+                "EPCD.1.3.2",
+                "EPCD.1.4.1"
+            ]
+        },
+        {
+            "referencia": "EPCD.1.B.1.1.",
+            "descripcion": "La función social del arte a través de los medios. La función social de la cultura de masas. La sociedad del espectáculo. Guy Debord.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.1.B.1.2.",
+            "descripcion": "Responsabilidad y límites éticos en las redes.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.1.B.1.3.",
+            "descripcion": "El papel de las tecnologías en la participación efectiva en los asuntos públicos.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.1.B.2.",
+            "descripcion": "Cuestiones de género.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPCD.1.1.2",
+                "EPCD.1.3.2",
+                "EPCD.1.4.1"
+            ]
+        },
+        {
+            "referencia": "EPCD.1.B.2.1.",
+            "descripcion": "La distinción entre sexo y género. Simone de Beauvoir y El segundo sexo.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.1.B.2.2.",
+            "descripcion": "La construcción de la identidad femenina. Enfoques actuales del feminismo.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.1.B.3.",
+            "descripcion": "Reflexión filosófica acerca de la historia, problemas medioambientales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPCD.1.1.2",
+                "EPCD.1.3.1",
+                "EPCD.1.4.1"
+            ]
+        },
+        {
+            "referencia": "EPCD.1.B.3.1.",
+            "descripcion": "El cambio de visión de la historia y la aparición de las teorías críticas. Desde el optimismo ilustrado al pesimismo de la primera generación de la escuela de Frankfurt (Benjamín, Adorno y Horkheimer).",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.1.B.3.2.",
+            "descripcion": "Un antecedente en la Filosofía: el debate entre Voltaire y Rousseau sobre el terremoto de Lisboa de 1789. Cambios a nivel filosófico y social.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.1.B.3.3.",
+            "descripcion": "Papel del ser humano en la destrucción del medio ambiente, la pérdida de biodiversidad, el cambio climático y la pandemia.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.1.B.3.4.",
+            "descripcion": "Organizaciones, asociaciones y colectivos implicados en la lucha contra el cambio climático y la defensa del medioambiente.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        }
+    ]
+}

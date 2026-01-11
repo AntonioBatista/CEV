@@ -1,0 +1,381 @@
+{
+    "titulo": "1º BACHILLERATO - Artes Escénicas (1º BACH)",
+    "referencia": "ARES.1",
+    "competencias_especificas": [
+        {
+            "codigo": "ARES.1.1",
+            "descripcion": "Analizar manifestaciones escénicas de diferentes épocas y tradiciones, describiendo sus características, estableciendo relaciones con su contexto e identificando posibles influencias y proyecciones, para valorar el patrimonio y enriquecer el imaginario propio."
+        },
+        {
+            "codigo": "ARES.1.2",
+            "descripcion": "Explorar las posibilidades expresivas de diferentes sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico, para incorporar su uso al repertorio personal de recursos y desarrollar el criterio de selección de los más adecuados a la intención comunicativa."
+        },
+        {
+            "codigo": "ARES.1.3",
+            "descripcion": "Abordar la recreación y representación de la acción dramática, a partir de la construcción colectiva de escenas que muestren todo tipo de personajes y conflictos, para desarrollar habilidades de comunicación y negociación y reforzar el autoconocimiento, la creatividad, la empatía, la imaginación y el espíritu emprendedor en diversas situaciones y contextos."
+        },
+        {
+            "codigo": "ARES.1.4",
+            "descripcion": "Realizar proyectos de creación y difusión escénica, planificando sus fases, seleccionando y estructurando los elementos de significación y asumiendo diferentes funciones con iniciativa y responsabilidad, para expresar una intención comunicativa, enriquecer el entorno cultural e identificar oportunidades de desarrollo personal, social, académico o profesional."
+        },
+        {
+            "codigo": "ARES.1.5",
+            "descripcion": "Valorar críticamente manifestaciones escénicas, identificando el público al que se dirigen y analizando sus características y sus presupuestos artísticos, para desarrollar el criterio estético, difundir el patrimonio y ampliar las posibilidades de disfrute de las Artes Escénicas."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "ARES.1.1.1",
+            "descripcion": "Identificar, con un vocabulario adecuado, las principales características de manifestaciones escénicas de diferentes épocas y tradiciones, tanto occidentales como no occidentales, con especial atención al patrimonio escénico andaluz y a su elemento más singular, el Flamenco, estableciendo relaciones con su contexto y evidenciando una actitud de apertura, interés y respeto en la recepción activa de las mismas.",
+            "saberes_relacionados": [
+                "ARES.1.A.1.",
+                "ARES.1.A.4.",
+                "ARES.1.D.1."
+            ]
+        },
+        {
+            "referencia": "ARES.1.1.2",
+            "descripcion": "Establecer conexiones entre manifestaciones escénicas de diferentes épocas y tradiciones, valorando su influencia sobre las Artes Escénicas actuales.",
+            "saberes_relacionados": [
+                "ARES.1.A.2.",
+                "ARES.1.D.2."
+            ]
+        },
+        {
+            "referencia": "ARES.1.2.1",
+            "descripcion": "Participar, con iniciativa, confianza y creatividad, en la exploración de sistemas, medios y códigos de significación escénica, a través de actividades de carácter práctico.",
+            "saberes_relacionados": [
+                "ARES.1.A.3.",
+                "ARES.1.B.1.",
+                "ARES.1.B.2.",
+                "ARES.1.B.3."
+            ]
+        },
+        {
+            "referencia": "ARES.1.2.2",
+            "descripcion": "Recrear la acción dramática, el diseño de personajes y la configuración de situaciones y escenas, seleccionando las técnicas más adecuadas de entre las que conforman el repertorio personal de recursos.",
+            "saberes_relacionados": [
+                "ARES.1.B.4.",
+                "ARES.1.B.5.",
+                "ARES.1.B.6.",
+                "ARES.1.C.2.",
+                "ARES.1.C.4."
+            ]
+        },
+        {
+            "referencia": "ARES.1.3.1",
+            "descripcion": "Emplear técnicas elementales de interpretación individual o colectiva, aplicando estrategias de memorización y valorando los ensayos como espacios de escucha, diálogo y aprendizaje.",
+            "saberes_relacionados": [
+                "ARES.1.C.1.",
+                "ARES.1.C.2.",
+                "ARES.1.C.3.",
+                "ARES.1.C.5.",
+                "ARES.1.D.4."
+            ]
+        },
+        {
+            "referencia": "ARES.1.3.2",
+            "descripcion": "Recrear y representar la acción dramática, demostrando eficacia, siguiendo las indicaciones de la dirección, manteniendo la concentración y gestionando de forma guiada la ansiedad y el miedo escénico.",
+            "saberes_relacionados": [
+                "ARES.1.B.6.",
+                "ARES.1.C.4.",
+                "ARES.1.C.6.",
+                "ARES.1.D.6.",
+                "ARES.1.E.4."
+            ]
+        },
+        {
+            "referencia": "ARES.1.4.1",
+            "descripcion": "Participar activamente en la planificación y realización de proyectos colectivos de creación y difusión escénica, asumiendo diferentes funciones con iniciativa y responsabilidad, y valorando y respetando las aportaciones y experiencias del resto de integrantes del grupo.",
+            "saberes_relacionados": [
+                "ARES.1.D.3.",
+                "ARES.1.D.4.",
+                "ARES.1.D.5.",
+                "ARES.1.D.6.",
+                "ARES.1.E.4."
+            ]
+        },
+        {
+            "referencia": "ARES.1.4.2",
+            "descripcion": "Evaluar y presentar los resultados de la planificación y la participación en proyectos de creación y difusión escénica, analizando la relación entre los objetivos planteados y el producto final obtenido, y explicando de forma argumentada las posibles diferencias entre ellos.",
+            "saberes_relacionados": [
+                "ARES.1.D.7.",
+                "ARES.1.E.3."
+            ]
+        },
+        {
+            "referencia": "ARES.1.5.1",
+            "descripcion": "Identificar el tipo de público al que se dirige un espectáculo determinado, basando los argumentos en el análisis de la obra y en las reacciones del público.",
+            "saberes_relacionados": [
+                "ARES.1.E.1.",
+                "ARES.1.E.2."
+            ]
+        },
+        {
+            "referencia": "ARES.1.5.2",
+            "descripcion": "Comentar manifestaciones escénicas, con especial atención a las producciones del patrimonio escénico andaluz, empleando la terminología adecuada, reelaborando información a partir de fuentes fiables, y reflexionando críticamente sobre sus características y presupuestos artísticos.",
+            "saberes_relacionados": [
+                "ARES.1.D.7.",
+                "ARES.1.E.3.",
+                "ARES.1.E.4."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Patrimonio escénico.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ARES.1.A.1.",
+            "descripcion": "Artes escénicas: concepto, tipologías y tradiciones. El teatro, la ópera, el ballet y la danza, el musical, la performance y el circo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.1.1"
+            ]
+        },
+        {
+            "referencia": "ARES.1.A.2.",
+            "descripcion": "Las Artes Escénicas y su historia: cambios y transformaciones. La representación escénica en la Edad antigua: Grecia y Roma. La representación escénica en la Edad Media europea: espectáculos litúrgicos y profanos. La representación escénica en el Renacimiento y el Barroco: Comedia del arte. La representación en Inglaterra, España y Francia en los siglos XVI y XVII. La representación escénica en los siglos XVIII y XIX en Europa. Primeras sistematizaciones sobre el arte de la interpretación: Diderot. Evolución de las Artes Escénicas en la Comunidad Andaluza.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.1.2"
+            ]
+        },
+        {
+            "referencia": "ARES.1.A.3.",
+            "descripcion": "Dramaticidad, teatralidad y performatividad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.2.1"
+            ]
+        },
+        {
+            "referencia": "ARES.1.A.4.",
+            "descripcion": "El patrimonio inmaterial, prestando especial atención al andaluz.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.1.1"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Expresión y comunicación escénica.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ARES.1.B.1.",
+            "descripcion": "Códigos de significación escénica: naturaleza, descripción y clasificación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.2.1"
+            ]
+        },
+        {
+            "referencia": "ARES.1.B.2.",
+            "descripcion": "El espacio escénico como generador de significado. La convención teatral.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.2.1"
+            ]
+        },
+        {
+            "referencia": "ARES.1.B.3.",
+            "descripcion": "Recursos plásticos: escenografía volumétrica y virtual, caracterización, iluminación y espacio sonoro. Recursos literarios y otros materiales. El texto dramático: trabajo de mesa, análisis, adaptación y memorización.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.2.1"
+            ]
+        },
+        {
+            "referencia": "ARES.1.B.4.",
+            "descripcion": "El conflicto dramático: personaje, situación y acción dramática.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.2.2"
+            ]
+        },
+        {
+            "referencia": "ARES.1.B.5.",
+            "descripcion": "El personaje dramático: análisis, caracterización y construcción.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.2.2"
+            ]
+        },
+        {
+            "referencia": "ARES.1.B.6.",
+            "descripcion": "Juego dramático, improvisación, dramatización y creación colectiva.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.2.2",
+                "ARES.1.3.2"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Interpretación.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ARES.1.C.1.",
+            "descripcion": "Preparación física y preparación pre-expresiva. El cuidado del cuerpo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.3.1"
+            ]
+        },
+        {
+            "referencia": "ARES.1.C.2.",
+            "descripcion": "Métodos y técnicas de interpretación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.2.2",
+                "ARES.1.3.1"
+            ]
+        },
+        {
+            "referencia": "ARES.1.C.3.",
+            "descripcion": "Los instrumentos del intérprete: expresión corporal, gestual, oral y rítmico-musical. La conciencia emocional y corporal. El sentido cinestésico.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.3.1"
+            ]
+        },
+        {
+            "referencia": "ARES.1.C.4.",
+            "descripcion": "El personaje dramático: grados de representación, objetivos y funciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.2.2",
+                "ARES.1.3.2"
+            ]
+        },
+        {
+            "referencia": "ARES.1.C.5.",
+            "descripcion": "La expresión corporal: la dramatización, el mimo y la danza.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.3.1"
+            ]
+        },
+        {
+            "referencia": "ARES.1.C.6.",
+            "descripcion": "La partitura interpretativa y su ejecución. Memorización y práctica de instrucciones escénicas precisas establecidas por el director o por el propio intérprete.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.3.2"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Representación y escenificación.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ARES.1.D.1.",
+            "descripcion": "El espectáculo escénico: concepto y características.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.1.1"
+            ]
+        },
+        {
+            "referencia": "ARES.1.D.2.",
+            "descripcion": "Tipologías básicas del espectáculo: clásico, de vanguardia, corporal, occidental, oriental, de objetos, musical, dancístico, de interior, de calle. Otras formas de presentación escénica: happening, performance, vídeoteatro o teatro-danza.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.1.2"
+            ]
+        },
+        {
+            "referencia": "ARES.1.D.3.",
+            "descripcion": "El diseño de un espectáculo: equipos, fases y áreas de trabajo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.4.1"
+            ]
+        },
+        {
+            "referencia": "ARES.1.D.4.",
+            "descripcion": "Los ensayos: tipología, finalidades y organización.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.3.1",
+                "ARES.1.4.1"
+            ]
+        },
+        {
+            "referencia": "ARES.1.D.5.",
+            "descripcion": "Representación de espectáculos escénicos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.4.1"
+            ]
+        },
+        {
+            "referencia": "ARES.1.D.6.",
+            "descripcion": "Estrategias de trabajo en equipo. Resolución de conflictos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.3.2",
+                "ARES.1.4.1"
+            ]
+        },
+        {
+            "referencia": "ARES.1.D.7.",
+            "descripcion": "Utilización de medios audiovisuales e informáticos en las producciones propias para favorecer la autocrítica a través de grabaciones en diferentes soportes.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.4.2",
+                "ARES.1.5.2"
+            ]
+        },
+        {
+            "referencia": "E.",
+            "descripcion": "Recepción en las Artes Escénicas.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ARES.1.E.1.",
+            "descripcion": "El público: concepto y tipologías.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.5.1"
+            ]
+        },
+        {
+            "referencia": "ARES.1.E.2.",
+            "descripcion": "La recepción escénica clásica. La cuarta pared.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.5.1"
+            ]
+        },
+        {
+            "referencia": "ARES.1.E.3.",
+            "descripcion": "Estrategias y técnicas de análisis y de crítica de manifestaciones escénicas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.4.2",
+                "ARES.1.5.2"
+            ]
+        },
+        {
+            "referencia": "ARES.1.E.4.",
+            "descripcion": "El respeto de la propiedad intelectual. La protección de la creatividad personal.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ARES.1.3.2",
+                "ARES.1.4.1",
+                "ARES.1.5.2"
+            ]
+        }
+    ]
+}

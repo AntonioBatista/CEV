@@ -1,0 +1,316 @@
+{
+    "titulo": "1º BACHILLERATO - Lenguaje y Práctica Musical (1º BACH)",
+    "referencia": "LYPM.1",
+    "competencias_especificas": [
+        {
+            "codigo": "LYPM.1.1",
+            "descripcion": "Cultivar la escucha activa, desarrollando estrategias de atención, para reconocer y describir con un vocabulario adecuado los elementos que forman parte de una obra y para reflexionar sobre aspectos subjetivos y emocionales inherentes a la percepción musical."
+        },
+        {
+            "codigo": "LYPM.1.2",
+            "descripcion": "Identificar los elementos musicales de obras de diferentes estilos y épocas, analizando y comparando partituras con diversas grafías, para describir sus características y reflexionar sobre los factores que afectan a la evolución de la notación musical."
+        },
+        {
+            "codigo": "LYPM.1.3",
+            "descripcion": "Aplicar estrategias de interpretación musical, utilizando la lectura como medio de aproximación a la obra y adquiriendo de forma progresiva habilidades de decodificación e integración del lenguaje musical, para ejecutar con autonomía propuestas musicales sencillas o realizar improvisaciones."
+        },
+        {
+            "codigo": "LYPM.1.4",
+            "descripcion": "Realizar proyectos musicales colaborativos, planificando e implementando sus fases y asumiendo funciones diversas dentro del grupo, para favorecer procesos creativos e identificar oportunidades de desarrollo personal, social, académico y profesional."
+        },
+        {
+            "codigo": "LYPM.1.5",
+            "descripcion": "Emplear las posibilidades que ofrecen las tecnologías digitales en el ámbito musical, utilizando herramientas de procesamiento del sonido, de producción audiovisual y de edición de partituras, para desarrollar procesos de escritura, creación y difusión musical."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "LYPM.1.1.1",
+            "descripcion": "Reconocer y describir los diferentes parámetros y elementos musicales de una obra, prestando especial atención a las expresiones musicales cercanas a la realidad social del alumnado, como el Flamenco, aplicando estrategias de escucha activa y utilizando un vocabulario específico adecuado.",
+            "saberes_relacionados": [
+                "LYPM.1.A.1.",
+                "LYPM.1.A.5.",
+                "LYPM.1.B.1."
+            ]
+        },
+        {
+            "referencia": "LYPM.1.1.2",
+            "descripcion": "Relacionar las sensaciones que genera la música con las características de la obra, identificando la intención comunicativa y expresiva de la audición.",
+            "saberes_relacionados": [
+                "LYPM.1.B.1."
+            ]
+        },
+        {
+            "referencia": "LYPM.1.1.3",
+            "descripcion": "Anotar por escrito fragmentos musicales sencillos a una voz, adaptados al nivel de dificultad, limitándose a aspectos rítmicos o melódicos, o bien tratándolos conjuntamente.",
+            "saberes_relacionados": [
+                "LYPM.1.A.1.",
+                "LYPM.1.A.2.",
+                "LYPM.1.B.2."
+            ]
+        },
+        {
+            "referencia": "LYPM.1.2.1",
+            "descripcion": "Describir las principales características de los elementos musicales: melodía, ritmo, armonía, timbre y otros, presentes en partituras con grafía convencional y no convencional de obras de distintos estilos y épocas, identificando y analizando sus elementos.",
+            "saberes_relacionados": [
+                "LYPM.1.A.2.",
+                "LYPM.1.A.3.",
+                "LYPM.1.A.4.",
+                "LYPM.1.A.6."
+            ]
+        },
+        {
+            "referencia": "LYPM.1.2.2",
+            "descripcion": "Comparar la representación de los elementos musicales en partituras con diferente grafía, reflexionando sobre los factores que inciden en la evolución de la notación musical.",
+            "saberes_relacionados": [
+                "LYPM.1.A.7.",
+                "LYPM.1.A.8."
+            ]
+        },
+        {
+            "referencia": "LYPM.1.3.1",
+            "descripcion": "Leer, con autonomía, partituras sencillas, con o sin apoyo de la audición, prestando especial atención a obras pertenecientes al ámbito cultural andaluz.",
+            "saberes_relacionados": [
+                "LYPM.1.A.1.",
+                "LYPM.1.B.4.",
+                "LYPM.1.B.5."
+            ]
+        },
+        {
+            "referencia": "LYPM.1.3.2",
+            "descripcion": "Ejecutar fragmentos musicales sencillos, de forma individual o colectiva, a través de la voz, del cuerpo o de instrumentos musicales, atendiendo a las indicaciones de la partitura.",
+            "saberes_relacionados": [
+                "LYPM.1.A.1.",
+                "LYPM.1.B.3.",
+                "LYPM.1.B.5.",
+                "LYPM.1.B.9."
+            ]
+        },
+        {
+            "referencia": "LYPM.1.3.3",
+            "descripcion": "Desarrollar habilidades técnicas para la interpretación vocal, instrumental y coreográfica, utilizando los ensayos como espacios de escucha y de aprendizaje y aplicando estrategias de memorización musical.",
+            "saberes_relacionados": [
+                "LYPM.1.B.4.",
+                "LYPM.1.B.9."
+            ]
+        },
+        {
+            "referencia": "LYPM.1.3.4",
+            "descripcion": "Generar ideas musicales o coreográficas sencillas, utilizando diferentes instrumentos, la voz o el cuerpo, en improvisaciones libres o dirigidas.",
+            "saberes_relacionados": [
+                "LYPM.1.B.4.",
+                "LYPM.1.B.5.",
+                "LYPM.1.B.9.",
+                "LYPM.1.B.10."
+            ]
+        },
+        {
+            "referencia": "LYPM.1.4.1",
+            "descripcion": "Planificar y desarrollar proyectos musicales colaborativos, prestando especial atención a obras pertenecientes al patrimonio musical andaluz, seleccionando materiales musicales trabajados o creando otros nuevos a partir de la aplicación de los aprendizajes propios de la materia.",
+            "saberes_relacionados": [
+                "LYPM.1.B.8.",
+                "LYPM.1.B.10."
+            ]
+        },
+        {
+            "referencia": "LYPM.1.4.2",
+            "descripcion": "Asumir diferentes funciones en la planificación y desarrollo de proyectos musicales colaborativos, participando activamente en su ejecución, valorando las aportaciones del resto de integrantes del grupo y descubriendo oportunidades de desarrollo personal, social, académico y profesional.",
+            "saberes_relacionados": [
+                "LYPM.1.B.8.",
+                "LYPM.1.B.9."
+            ]
+        },
+        {
+            "referencia": "LYPM.1.5.1",
+            "descripcion": "Desarrollar proyectos musicales, poniendo en práctica los aprendizajes adquiridos y utilizando herramientas de edición de partituras, de procesamiento del sonido y de producción audiovisual.",
+            "saberes_relacionados": [
+                "LYPM.1.B.6.",
+                "LYPM.1.B.10."
+            ]
+        },
+        {
+            "referencia": "LYPM.1.5.2",
+            "descripcion": "Difundir producciones musicales y audiovisuales a través de plataformas digitales, utilizando entornos seguros y respetando la propiedad intelectual y los derechos de autor.",
+            "saberes_relacionados": [
+                "LYPM.1.B.6.",
+                "LYPM.1.B.7.",
+                "LYPM.1.B.8."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Lenguaje musical.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LYPM.1.A.1.",
+            "descripcion": "Representación musical de los parámetros del sonido: elementos del lenguaje musical relacionados con la altura, la duración, la intensidad y el timbre.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LYPM.1.1.1",
+                "LYPM.1.1.3",
+                "LYPM.1.3.1",
+                "LYPM.1.3.2"
+            ]
+        },
+        {
+            "referencia": "LYPM.1.A.2.",
+            "descripcion": "La melodía: intervalos y tipos de escalas. Registro, ámbito, diseño melódico, motivo, frase y periodo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LYPM.1.1.3",
+                "LYPM.1.2.1"
+            ]
+        },
+        {
+            "referencia": "LYPM.1.A.3.",
+            "descripcion": "El ritmo: compases simples, complejos y de amalgama; ritmos irregulares y libres; polirritmias y polimetrías, grupos de valoración especial. La modalidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LYPM.1.2.1"
+            ]
+        },
+        {
+            "referencia": "LYPM.1.A.4.",
+            "descripcion": "La armonía: el fenómeno físico armónico; círculo de quintas; principales funciones armónicas en la tonalidad; acordes (triadas, de 7ª y 9ª); enlaces y cadencias (perfecta, semicadencia, etc.); modulaciones y progresiones tonales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LYPM.1.2.1"
+            ]
+        },
+        {
+            "referencia": "LYPM.1.A.5.",
+            "descripcion": "Los principios generadores de la forma musical: repetición, variación, desarrollo y contraste. Unidades estructurales. Formas simples y complejas; formas vocales e instrumentales; forma estrófica, binaria, ternaria, tema y variaciones, rondó y forma sonata; formas libres.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LYPM.1.1.1"
+            ]
+        },
+        {
+            "referencia": "LYPM.1.A.6.",
+            "descripcion": "Elementos expresivos de la música: dinámica, agógica y articulación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LYPM.1.2.1"
+            ]
+        },
+        {
+            "referencia": "LYPM.1.A.7.",
+            "descripcion": "Los elementos musicales en la tradición musical occidental, en el flamenco, en el folclore y en las músicas populares urbanas. Células rítmicas, parones rítmico-melódico-armónicos, ostinatos, escalas especiales, texturas, agrupaciones tímbricas…",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LYPM.1.2.2"
+            ]
+        },
+        {
+            "referencia": "LYPM.1.A.8.",
+            "descripcion": "Notación convencional -grafía tradicional- y notación no convencional. Introducción a la notación de la música contemporánea.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LYPM.1.2.2"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Práctica musical.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LYPM.1.B.1.",
+            "descripcion": "Estrategias de escucha o visionado de obras o fragmentos musicales, incidiendo principalmente en producciones propias del patrimonio musical andaluz.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LYPM.1.1.1",
+                "LYPM.1.1.2"
+            ]
+        },
+        {
+            "referencia": "LYPM.1.B.2.",
+            "descripcion": "Técnicas de realización escrita de dictados sencillos a una voz: solos rítmicos, melódicos o una combinación de ambos adaptados al nivel.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LYPM.1.1.3"
+            ]
+        },
+        {
+            "referencia": "LYPM.1.B.3.",
+            "descripcion": "Técnicas de interpretación a través de la voz, del cuerpo o de instrumentos musicales, con o sin acompañamiento.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LYPM.1.3.2"
+            ]
+        },
+        {
+            "referencia": "LYPM.1.B.4.",
+            "descripcion": "Lectura, interiorización y memorización de estructuras musicales sencillas. Práctica auditiva o interpretativa de estructuras tonales y modales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LYPM.1.3.1",
+                "LYPM.1.3.3",
+                "LYPM.1.3.4"
+            ]
+        },
+        {
+            "referencia": "LYPM.1.B.5.",
+            "descripcion": "Estrategias y técnicas de improvisación sobre esquemas rítmico-melódicos y armónicos establecidos o libres adaptados al nivel.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LYPM.1.3.1",
+                "LYPM.1.3.2",
+                "LYPM.1.3.4"
+            ]
+        },
+        {
+            "referencia": "LYPM.1.B.6.",
+            "descripcion": "Técnicas y aplicaciones informáticas de edición musical de partituras y de audio. Funcionalidades propias de las aplicaciones y programas informáticos de licencia libre.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LYPM.1.5.1",
+                "LYPM.1.5.2"
+            ]
+        },
+        {
+            "referencia": "LYPM.1.B.7.",
+            "descripcion": "Difusión musical: protección de datos, propiedad intelectual y derechos de autoría.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LYPM.1.5.2"
+            ]
+        },
+        {
+            "referencia": "LYPM.1.B.8.",
+            "descripcion": "Utilización de medios audiovisuales e informáticos en las producciones propias para favorecer la autocrítica a través de grabaciones en diferentes soportes.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LYPM.1.4.1",
+                "LYPM.1.4.2",
+                "LYPM.1.5.2"
+            ]
+        },
+        {
+            "referencia": "LYPM.1.B.9.",
+            "descripcion": "Adquisición y desarrollo de habilidades y destrezas expresivas en las interpretaciones individuales y grupales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LYPM.1.3.2",
+                "LYPM.1.3.3",
+                "LYPM.1.3.4",
+                "LYPM.1.4.2"
+            ]
+        },
+        {
+            "referencia": "LYPM.1.B.10.",
+            "descripcion": "Interpretaciones de obras vocales, instrumentales o coreográficas, individuales o en grupo, prestando especial atención al patrimonio musical andaluz. La música como forma de expresión.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LYPM.1.3.4",
+                "LYPM.1.4.1",
+                "LYPM.1.5.1"
+            ]
+        }
+    ]
+}

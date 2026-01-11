@@ -1,0 +1,696 @@
+{
+    "titulo": "1º BACHILLERATO - Tecnologías de la Información y Comunicación (1º BACH)",
+    "referencia": "TICO.1",
+    "competencias_especificas": [
+        {
+            "codigo": "TICO.1.1",
+            "descripcion": "Reconocer el proceso de transformación como agente de cambio, analizando aspectos positivos y negativos de dicho proceso para entender el papel principal de las tecnologías de la información y la comunicación en la sociedad actual, su impacto en los ámbitos social, económico y cultural, y su importancia en la innovación y el empleo."
+        },
+        {
+            "codigo": "TICO.1.2",
+            "descripcion": "Configurar ordenadores y equipos informáticos, utilizando de forma segura, responsable y respetuosa dichos dispositivos, para comprender el funcionamiento de los componentes hardware y software que conforman ordenadores y equipos digitales."
+        },
+        {
+            "codigo": "TICO.1.3",
+            "descripcion": "Usar, seleccionar y combinar múltiples aplicaciones informáticas, atendiendo a cuestiones de diseño, usabilidad y accesibilidad, incluyendo la creación de un proyecto web, para crear producciones digitales que cumplan unos objetivos determinados."
+        },
+        {
+            "codigo": "TICO.1.4",
+            "descripcion": "Comprender el funcionamiento de Internet y de las tecnologías de búsqueda, analizando de forma crítica los contenidos publicados y fomentando un uso compartido de la información, para permitir la producción colaborativa y la difusión de conocimiento."
+        },
+        {
+            "codigo": "TICO.1.5",
+            "descripcion": "Comprender qué es un algoritmo y cómo son implementados en forma de programa, analizando y aplicando los principios de la ingeniería del software, para desarrollar y depurar aplicaciones informáticas y resolver problemas."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "TICO.1.1.1",
+            "descripcion": "Analizar y valorar el impacto de las tecnologías de la información y la comunicación en la transformación de la sociedad actual.",
+            "saberes_relacionados": [
+                "TICO.1.A.1."
+            ]
+        },
+        {
+            "referencia": "TICO.1.1.2",
+            "descripcion": "Explicar cómo se representa digitalmente la información en forma de secuencias binarias y describir los mecanismos de abstracción empleados.",
+            "saberes_relacionados": [
+                "TICO.1.A.2."
+            ]
+        },
+        {
+            "referencia": "TICO.1.2.1",
+            "descripcion": "Describir el funcionamiento de ordenadores y equipos informáticos, identificando los subsistemas que los componen, explicando sus características y relacionando cada elemento con las prestaciones del conjunto.",
+            "saberes_relacionados": [
+                "TICO.1.B.1."
+            ]
+        },
+        {
+            "referencia": "TICO.1.2.2",
+            "descripcion": "Configurar, utilizar y administrar sistemas operativos de forma básica, monitorizando y optimizando el sistema para su uso.",
+            "saberes_relacionados": [
+                "TICO.1.B.2."
+            ]
+        },
+        {
+            "referencia": "TICO.1.3.1",
+            "descripcion": "Seleccionar y utilizar de manera combinada aplicaciones informáticas para la creación de contenidos digitales y la resolución de problemas específicos.",
+            "saberes_relacionados": [
+                "TICO.1.C.1."
+            ]
+        },
+        {
+            "referencia": "TICO.1.3.2",
+            "descripcion": "Utilizar aplicaciones de procesamiento de texto de manera avanzada, dados unos requisitos de usuario y unos objetivos complejos.",
+            "saberes_relacionados": [
+                "TICO.1.C.2."
+            ]
+        },
+        {
+            "referencia": "TICO.1.3.3",
+            "descripcion": "Utilizar aplicaciones de hojas de cálculo de manera avanzada, dados unos requisitos de usuario y unos objetivos complejos.",
+            "saberes_relacionados": [
+                "TICO.1.C.3."
+            ]
+        },
+        {
+            "referencia": "TICO.1.3.4",
+            "descripcion": "Diseñar, crear y manipular una base de datos relacional sencilla, utilizando comandos de SQL.",
+            "saberes_relacionados": [
+                "TICO.1.C.4."
+            ]
+        },
+        {
+            "referencia": "TICO.1.4.1",
+            "descripcion": "Explicar el funcionamiento de Internet, conociendo su arquitectura, principales componentes y los protocolos de comunicación empleados.",
+            "saberes_relacionados": [
+                "TICO.1.D.1."
+            ]
+        },
+        {
+            "referencia": "TICO.1.4.2",
+            "descripcion": "Buscar recursos digitales en Internet, entendiendo cómo se seleccionan y organizan los resultados, evaluando de forma crítica los contenidos y recursos disponibles en la red.",
+            "saberes_relacionados": [
+                "TICO.1.D.2."
+            ]
+        },
+        {
+            "referencia": "TICO.1.5.1",
+            "descripcion": "Conocer y comprender la sintaxis y la semántica de un lenguaje de programación, analizar la estructura de programas sencillos y desarrollar pequeñas aplicaciones.",
+            "saberes_relacionados": [
+                "TICO.1.E.1."
+            ]
+        },
+        {
+            "referencia": "TICO.1.5.2",
+            "descripcion": "Analizar y resolver problemas de tratamiento de la información, dividiéndolos en subproblemas y definiendo algoritmos que los resuelvan.",
+            "saberes_relacionados": [
+                "TICO.1.E.2."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "La sociedad de la información y el ordenador.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.A.1.",
+            "descripcion": "Impacto de la informática.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TICO.1.1.1"
+            ]
+        },
+        {
+            "referencia": "TICO.1.A.1.1.",
+            "descripcion": "La sociedad de la información y la sociedad del conocimiento.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.A.1.2.",
+            "descripcion": "Ejemplos y exponentes: las redes sociales, el comercio electrónico, la publicidad en Internet, la creatividad digital, protección de datos, etc.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.A.1.3.",
+            "descripcion": "Nuevos sectores laborales.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.A.1.4.",
+            "descripcion": "Big Data, Internet de las cosas, Inteligencia artificial y robótica.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.A.1.5.",
+            "descripcion": "Aspectos positivos y negativos. Amenazas.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.A.1.6.",
+            "descripcion": "Sostenibilidad.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.A.2.",
+            "descripcion": "Información digital.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TICO.1.1.2"
+            ]
+        },
+        {
+            "referencia": "TICO.1.A.2.1.",
+            "descripcion": "Almacenamiento, transmisión y tratamiento básico de la información en binario.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.A.2.2.",
+            "descripcion": "Unidades de información.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.A.2.3.",
+            "descripcion": "Representación de números y texto.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.A.2.4.",
+            "descripcion": "Representación de imágenes, audio y vídeo.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.A.2.5.",
+            "descripcion": "Sistema hexadecimal.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.A.2.6.",
+            "descripcion": "Compresión.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.A.2.7.",
+            "descripcion": "Archivos.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Arquitectura de ordenadores y sistemas operativos.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.B.1.",
+            "descripcion": "Arquitectura de ordenadores.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TICO.1.2.1"
+            ]
+        },
+        {
+            "referencia": "TICO.1.B.1.1.",
+            "descripcion": "Hardware y Software. Sistemas propietarios y libres.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.B.1.2.",
+            "descripcion": "Arquitectura: concepto clásico y ley de Moore.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.B.1.3.",
+            "descripcion": "Unidad Central de Proceso. Unidad de control. Unidad aritmético-lógica.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.B.1.4.",
+            "descripcion": "Memoria principal y almacenamiento secundario: estructura física y lógica. Dispositivos. Fiabilidad.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.B.1.5.",
+            "descripcion": "Sistemas de entrada/salida: Periféricos. Clasificación. Periféricos de nueva generación.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.B.1.6.",
+            "descripcion": "Buses de comunicación: datos, control y direcciones.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.B.2.",
+            "descripcion": "Sistemas operativos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TICO.1.2.2"
+            ]
+        },
+        {
+            "referencia": "TICO.1.B.2.1.",
+            "descripcion": "Arquitecturas y funciones. Licencias. Interfaces de usuario.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.B.2.2.",
+            "descripcion": "Gestión de procesos.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.B.2.3.",
+            "descripcion": "Sistema de archivos.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.B.2.4.",
+            "descripcion": "Gestión de usuarios.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.B.2.5.",
+            "descripcion": "Gestión de dispositivos.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.B.2.6.",
+            "descripcion": "Monitorización y Rendimiento.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.B.2.7.",
+            "descripcion": "Instalación y configuración. Requisitos y procedimiento.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Software de aplicación para sistemas informáticos.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.1.",
+            "descripcion": "Software.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TICO.1.3.1"
+            ]
+        },
+        {
+            "referencia": "TICO.1.C.1.1.",
+            "descripcion": "Clasificaciones. Tipologías.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.1.2.",
+            "descripcion": "Aplicaciones de propósito general y específico.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.1.3.",
+            "descripcion": "Aplicaciones de escritorio y aplicaciones web.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.1.4.",
+            "descripcion": "Requisitos e instalación de software.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.1.5.",
+            "descripcion": "El software y la resolución de problemas.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.1.6.",
+            "descripcion": "Software colaborativo.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.2.",
+            "descripcion": "Procesadores de texto.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TICO.1.3.2"
+            ]
+        },
+        {
+            "referencia": "TICO.1.C.2.1.",
+            "descripcion": "Formatos de página, párrafo y carácter.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.2.2.",
+            "descripcion": "Imágenes y tablas.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.2.3.",
+            "descripcion": "Columnas y secciones.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.2.4.",
+            "descripcion": "Estilos e Índices.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.2.5.",
+            "descripcion": "Plantillas.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.2.6.",
+            "descripcion": "Exportación e importación.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.2.7.",
+            "descripcion": "Comentarios.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.3.",
+            "descripcion": "Hojas de cálculo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TICO.1.3.3"
+            ]
+        },
+        {
+            "referencia": "TICO.1.C.3.1.",
+            "descripcion": "Filas, columnas, celdas y rangos. Formatos.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.3.2.",
+            "descripcion": "Referencias.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.3.3.",
+            "descripcion": "Operaciones. Funciones lógicas, matemáticas, de texto y estadísticas.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.3.4.",
+            "descripcion": "Ordenación y filtrado.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.3.5.",
+            "descripcion": "Gráficos.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.3.6.",
+            "descripcion": "Exportación e importación. Protección.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.4.",
+            "descripcion": "Bases de datos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TICO.1.3.4"
+            ]
+        },
+        {
+            "referencia": "TICO.1.C.4.1.",
+            "descripcion": "Sistemas gestores de bases de datos relacionales.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.4.2.",
+            "descripcion": "Tablas, registros y campos. Tipos de datos.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.4.3.",
+            "descripcion": "Claves y relaciones.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.4.4.",
+            "descripcion": "Lenguajes de definición y manipulación de datos. Comandos básicos en SQL.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.4.5.",
+            "descripcion": "Vistas, informes y formularios.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.C.4.6.",
+            "descripcion": "Exportación e importación. Datos masivos. NoSQL.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Internet y redes de ordenadores.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.D.1.",
+            "descripcion": "Internet.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TICO.1.4.1"
+            ]
+        },
+        {
+            "referencia": "TICO.1.D.1.1.",
+            "descripcion": "Servicios, arquitectura TCP/IP y modelo cliente/servidor.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.D.1.2.",
+            "descripcion": "Nivel físico y de enlace de red. Redes cableadas, inalámbricas y dispositivos de interconexión.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.D.1.3.",
+            "descripcion": "El protocolo de Internet (IP). Enrutadores y direccionamiento público y privado.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.D.1.4.",
+            "descripcion": "El protocolo de control de la transmisión (TCP).",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.D.1.5.",
+            "descripcion": "Protocolos de Transferencia de Hipertexto (HTTP y HTTPS).",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.D.1.6.",
+            "descripcion": "Sistema de Nombres de Dominio (DNS).",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.D.1.7.",
+            "descripcion": "Configuración básica de ordenadores y dispositivos en red.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.D.2.",
+            "descripcion": "Buscadores.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TICO.1.4.2"
+            ]
+        },
+        {
+            "referencia": "TICO.1.D.2.1.",
+            "descripcion": "Búsquedas avanzadas.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.D.2.2.",
+            "descripcion": "Posicionamiento.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.D.2.3.",
+            "descripcion": "Fuentes de Información.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.D.2.4.",
+            "descripcion": "Propiedad intelectual y licencias.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.D.2.5.",
+            "descripcion": "Publicidad online.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.D.2.6.",
+            "descripcion": "Privacidad.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "E.",
+            "descripcion": "Programación.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.E.1.",
+            "descripcion": "Fundamentos de programación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TICO.1.5.1"
+            ]
+        },
+        {
+            "referencia": "TICO.1.E.1.1.",
+            "descripcion": "Lenguajes de programación. Tipos. Paradigmas.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.E.1.2.",
+            "descripcion": "Estructura de un programa informático y elementos básicos del lenguaje.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.E.1.3.",
+            "descripcion": "Tipos básicos de datos. Constantes y variables. Operadores y expresiones. Facilidades para la entrada y salida de datos de usuario. Comentarios.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.E.1.4.",
+            "descripcion": "Estructuras de control condicionales e iterativas.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.E.1.5.",
+            "descripcion": "Estructuras de control y de datos.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.E.1.6.",
+            "descripcion": "Funciones y bibliotecas de funciones.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.E.2.",
+            "descripcion": "Diseño de software y resolución de problemas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TICO.1.5.2"
+            ]
+        },
+        {
+            "referencia": "TICO.1.E.2.1.",
+            "descripcion": "Enfoque Top-Down.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.E.2.2.",
+            "descripcion": "Fragmentación de problemas.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.E.2.3.",
+            "descripcion": "Patrones.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.E.2.4.",
+            "descripcion": "Algoritmos.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.E.2.5.",
+            "descripcion": "Pseudocódigo y diagramas de flujo",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.1.E.2.6.",
+            "descripcion": "Depuración.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        }
+    ]
+}

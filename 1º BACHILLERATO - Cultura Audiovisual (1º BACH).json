@@ -1,0 +1,436 @@
+{
+    "titulo": "1º BACHILLERATO - Cultura Audiovisual (1º BACH)",
+    "referencia": "CULA.1",
+    "competencias_especificas": [
+        {
+            "codigo": "CULA.1.1",
+            "descripcion": "Analizar imágenes fotográficas fijas y producciones audiovisuales de distintos estilos, formatos, géneros y culturas, reconociendo sus cualidades plásticas, formales y semánticas y reflexionando sobre la historia de ambos medios, para desarrollar el criterio estético, valorar el patrimonio, ampliar las posibilidades de disfrute y enriquecer el imaginario propio."
+        },
+        {
+            "codigo": "CULA.1.2",
+            "descripcion": "Elaborar producciones audiovisuales individuales o colectivas, empleando la propia presencia en la imagen y la banda de sonido y evaluando el rigor ético y formal de los procedimientos, para expresar y comunicar ideas, opiniones y sentimientos y construir una personalidad creativa abierta, amplia y diversa."
+        },
+        {
+            "codigo": "CULA.1.3",
+            "descripcion": "Seleccionar y utilizar las técnicas, herramientas y convenciones del lenguaje y la producción audiovisual, teniendo en cuenta todos sus aspectos (guion, planificación, interpretación, grabación, edición, etc.), para realizar creaciones audiovisuales de forma colectiva y aprender a desenvolverse en circunstancias diversas."
+        },
+        {
+            "codigo": "CULA.1.4",
+            "descripcion": "Determinar el público destinatario de una producción audiovisual, analizando sus características y atendiendo al propósito de la obra, para adoptar el lenguaje, el formato y los medios técnicos más adecuados y seleccionar las vías de difusión más oportunas."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "CULA.1.1.1",
+            "descripcion": "Explicar los aspectos esenciales de la evolución del lenguaje fotográfico y audiovisual, valorando los cambios que se han producido a lo largo de la historia del medio.",
+            "saberes_relacionados": [
+                "CULA.1.A.1.",
+                "CULA.1.A.2."
+            ]
+        },
+        {
+            "referencia": "CULA.1.1.2",
+            "descripcion": "Analizar las cualidades plásticas, formales y semánticas de producciones fotográficas y audiovisuales de distintos estilos, formatos, géneros y culturas, determinando las reglas y códigos por las que se rigen y valorando la flexibilidad de esas normas.",
+            "saberes_relacionados": [
+                "CULA.1.A.1.",
+                "CULA.1.A.2.",
+                "CULA.1.A.4."
+            ]
+        },
+        {
+            "referencia": "CULA.1.1.3",
+            "descripcion": "Proponer interpretaciones personales del patrimonio fotográfico y audiovisual, argumentando desde un criterio estético propio.",
+            "saberes_relacionados": [
+                "CULA.1.A.2.",
+                "CULA.1.B.1.",
+                "CULA.1.B.2.",
+                "CULA.1.B.3.",
+                "CULA.1.B.4.",
+                "CULA.1.B.5.",
+                "CULA.1.B.6.",
+                "CULA.1.B.7."
+            ]
+        },
+        {
+            "referencia": "CULA.1.2.1",
+            "descripcion": "Diseñar producciones audiovisuales creativas que representen las ideas, opiniones y sentimientos propios a partir de un tema o motivo previos, incorporando las experiencias personales y el acercamiento a otros medios de expresión.",
+            "saberes_relacionados": [
+                "CULA.1.A.3.",
+                "CULA.1.B.1.",
+                "CULA.1.B.2.",
+                "CULA.1.B.3.",
+                "CULA.1.B.4.",
+                "CULA.1.B.5.",
+                "CULA.1.B.6.",
+                "CULA.1.B.7."
+            ]
+        },
+        {
+            "referencia": "CULA.1.2.2",
+            "descripcion": "Evaluar el rigor ético y formal con el que se usan las herramientas de creación audiovisual, analizando diversas producciones, distinguiendo críticamente los modos de presentar las informaciones y los mensajes, identificando su posible manipulación y reflexionando sobre la necesidad de respeto de la propiedad intelectual y los derechos de autor.",
+            "saberes_relacionados": [
+                "CULA.1.A.3.1.",
+                "CULA.1.A.3.2.",
+                "CULA.1.A.3.3.",
+                "CULA.1.A.4."
+            ]
+        },
+        {
+            "referencia": "CULA.1.2.3",
+            "descripcion": "Realizar producciones audiovisuales creativas que representen las ideas, opiniones y sentimientos propios a partir de un tema o motivo previos, utilizando la propia presencia en la imagen y la banda de sonido y empleando el lenguaje y los medios de producción con rigor ético y formal.",
+            "saberes_relacionados": [
+                "CULA.1.C.1.",
+                "CULA.1.C.2.",
+                "CULA.1.C.3.",
+                "CULA.1.C.4.",
+                "CULA.1.C.5.",
+                "CULA.1.C.6."
+            ]
+        },
+        {
+            "referencia": "CULA.1.3.1",
+            "descripcion": "Confeccionar adecuadamente los equipos de trabajo para producciones audiovisuales colectivas, identificando las diferentes habilidades requeridas y repartiendo las tareas con criterio.",
+            "saberes_relacionados": [
+                "CULA.1.D.1.",
+                "CULA.1.D.2."
+            ]
+        },
+        {
+            "referencia": "CULA.1.3.2",
+            "descripcion": "Planificar producciones audiovisuales, determinando los medios y habilidades necesarios, teniendo en cuenta todos sus aspectos: guion, planificación, interpretación, grabación, edición u otros, justificando razonadamente su elección y considerando los posibles imprevistos y la manera de resolverlos.",
+            "saberes_relacionados": [
+                "CULA.1.D.1.",
+                "CULA.1.D.2.",
+                "CULA.1.D.3.",
+                "CULA.1.D.5."
+            ]
+        },
+        {
+            "referencia": "CULA.1.3.3",
+            "descripcion": "Demostrar flexibilidad y habilidad para resolver los imprevistos propios de las producciones audiovisuales, teniéndolos en cuenta en su planificación y considerando de manera abierta las diferentes posibilidades para resolver un problema sobrevenido.",
+            "saberes_relacionados": [
+                "CULA.1.D.1.",
+                "CULA.1.D.2."
+            ]
+        },
+        {
+            "referencia": "CULA.1.3.4",
+            "descripcion": "Realizar producciones audiovisuales de manera creativa, utilizando correctamente las técnicas, herramientas y convenciones del lenguaje necesarias, valorando el trabajo colaborativo e intentando conseguir un resultado final ajustado al proyecto preparado previamente.",
+            "saberes_relacionados": [
+                "CULA.1.D.3.",
+                "CULA.1.D.5.",
+                "CULA.1.D.6.",
+                "CULA.1.D.8."
+            ]
+        },
+        {
+            "referencia": "CULA.1.4.1",
+            "descripcion": "Justificar la elección del lenguaje, el formato y los medios técnicos en producciones audiovisuales, considerando previamente el tipo de público al que se quieren dirigir.",
+            "saberes_relacionados": [
+                "CULA.1.D.4.",
+                "CULA.1.D.5.",
+                "CULA.1.D.6."
+            ]
+        },
+        {
+            "referencia": "CULA.1.4.2",
+            "descripcion": "Seleccionar las vías de difusión más adecuadas para producciones audiovisuales, teniendo en cuenta su propósito, valorando de manera crítica e informada las posibilidades existentes, utilizando entornos seguros y respetando la propiedad intelectual y los derechos de autor.",
+            "saberes_relacionados": [
+                "CULA.1.D.7.",
+                "CULA.1.D.8."
+            ]
+        },
+        {
+            "referencia": "CULA.1.4.3",
+            "descripcion": "Analizar de manera abierta y respetuosa la recepción de las producciones audiovisuales presentadas, comprobando la adecuación del lenguaje, el formato y los medios técnicos de la obra, así como de las vías de difusión, y extrayendo de ello un aprendizaje para el crecimiento creativo.",
+            "saberes_relacionados": [
+                "CULA.1.D.7.",
+                "CULA.1.D.8."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Hitos y contemporaneidad de la fotografía y el audiovisual. Formatos audiovisuales.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CULA.1.A.1.",
+            "descripcion": "Creación y evolución de la fotografía y el lenguaje audiovisual. Principales corrientes en fotografía y cine. Mujeres pioneras en el mundo de la fotografía.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.1.1",
+                "CULA.1.1.2"
+            ]
+        },
+        {
+            "referencia": "CULA.1.A.1.1.",
+            "descripcion": "Cine: Orígenes: Nacimiento y creación de un nuevo lenguaje. Desarrollo: el expresionismo alemán, el surrealismo, Hollywood clásico. Corrientes de renovación: Neorrealismo italiano, Nouvelle Vague, Free Cinema. Nuevo Hollywood. Cine de autor. Actualidad: Dogma 95. Cine posmoderno. Cine “indi” y nuevas tendencias. Andalucía: Alberto Rodríguez, Benito Zambrano, Celia Rico, Macarena Astorga, etc. Ejemplos de autores, géneros y obras más relevantes.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CULA.1.A.1.2.",
+            "descripcion": "Fotografía: Orígenes: Nacimiento y Pictorialismo. Desarrollo: Fotografía directa, F64, Vanguardias y Surrealismo. Contemporáneo: Humanismo, Magnum, nuevo documentalismo, Fotografía conceptual y Grupo de Boston. Actualidad: Escuela de Düsseldorf, escuela de Helsinki y Postfotografía. Andalucía: Del grupo Afal al éxito del fotolibro. La obra gráfica de Henry Peach Robinson, Julia Margaret Cameron, Oscar G. Rejlander, Joan Vilatobá, Dr. Hugh Welch Diamond, Nadar, Agencia Magnum, Dorothea Langue, Walker Evans, Brassaï, Ansel Adams, Francesc Catalá-Roca, Diane Arbus, Cecil Beaton, Chema Madoz, Anne Leibovitz, Cristina García Rodero, Ouka Leele, Oliviero Toscani, Richard Avedon, Mario Testino, John Heartfield, Josep Renau, Man Ray, entre otros.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CULA.1.A.2.",
+            "descripcion": "La diversidad en las manifestaciones fotográficas y audiovisuales contemporáneas y del pasado. Lectura y análisis comparativo, considerando su contexto histórico. Medios de comunicación convencionales e internet. El mundo audiovisual como representación del mundo real. Evolución de la construcción de imágenes: de los orígenes al new media art. Tipología y características de los medios audiovisuales convencionales y de los new media y su influencia social en las audiencias. Cambio de paradigma de la publicidad en los medios convencionales e internet.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.1.1",
+                "CULA.1.1.2",
+                "CULA.1.1.3"
+            ]
+        },
+        {
+            "referencia": "CULA.1.A.3.",
+            "descripcion": "Géneros fotográficos y nuevos lenguajes de la imagen.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.2.1"
+            ]
+        },
+        {
+            "referencia": "CULA.1.A.3.1.",
+            "descripcion": "Fotografía en la era de internet y la telefonía móvil: Postfotografía.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CULA.1.2.2"
+            ]
+        },
+        {
+            "referencia": "CULA.1.A.3.2.",
+            "descripcion": "Nuevos espacios de la imagen. Fotografía vernácula y fotograficidad.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CULA.1.2.2"
+            ]
+        },
+        {
+            "referencia": "CULA.1.A.3.3.",
+            "descripcion": "El fotolibro como formato destacado en la fotografía actual.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CULA.1.2.2"
+            ]
+        },
+        {
+            "referencia": "CULA.1.A.4.",
+            "descripcion": "Principales formatos audiovisuales: corto, medio y largometraje de ficción, corto, medio y largometraje documental, serie, ensayo fílmico, formatos televisivos, videoclip, fashion film, spot, vídeo educativo, video corporativo/institucional, formatos asociados a las redes sociales, etc. Aspectos formales más destacados. Los grandes realizadores españoles de televisión: Chicho Ibáñez Serrador, Félix Rodríguez de la Fuente, Valerio Lazarov, Fernando Navarrete, Antonio Mercero, Lolo Rico, Hugo Stuven. Análisis de sus aspectos formales más destacados. Los showrunners o autores-productores de series: Alex Pina, Daniel Écija, Matthew Weiner, Shonda Rhimes, Matt Groening, Vince Gilligan, etc. Aspectos formales y narrativos de las series nacionales e internacionales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.1.2",
+                "CULA.1.2.2"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Elementos formales y capacidad expresiva de la imagen fotográfica y el lenguaje audiovisual.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CULA.1.B.1.",
+            "descripcion": "Plano (escala: valor expresivo, descriptivo y narrativo) y toma, angulaciones y movimientos de cámara. El uso de la gramática en los planos: el raccord, la planificación y sucesión en el tamaño de los planos, el salto de eje, la ley de la mirada, la dirección del movimiento y las salidas y entradas de cuadro.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.1.3",
+                "CULA.1.2.1"
+            ]
+        },
+        {
+            "referencia": "CULA.1.B.2.",
+            "descripcion": "Exposición, profundidad de campo, enfoque, encuadre, campo y fuera de campo, la elipsis narrativa. El centro de interés, las líneas en la composición, el ritmo visual, regla de los tercios, la regla del horizonte, la proporción áurea, espacios positivos y espacios negativos, enfoque total y selectivo, textura, volumen, perspectiva, iluminación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.1.3",
+                "CULA.1.2.1"
+            ]
+        },
+        {
+            "referencia": "CULA.1.B.3.",
+            "descripcion": "Conceptos básicos sobre iluminación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.1.3",
+                "CULA.1.2.1"
+            ]
+        },
+        {
+            "referencia": "CULA.1.B.4.",
+            "descripcion": "Composición para imagen fija y para imagen en movimiento.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.1.3",
+                "CULA.1.2.1"
+            ]
+        },
+        {
+            "referencia": "CULA.1.B.5.",
+            "descripcion": "Simbología y psicología del color. Ejemplos de aplicación en grandes obras del cine y la fotografía. La elección del tono, saturación, luminosidad y su intencionalidad expresiva y narrativa en los medios audiovisuales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.1.3",
+                "CULA.1.2.1"
+            ]
+        },
+        {
+            "referencia": "CULA.1.B.6.",
+            "descripcion": "El retoque digital. Análisis de posibilidades. Morphing, creación de imágenes por ordenador (CGI), captura de movimiento (MOCAP), Bullet time, Deep Fake, etalonaje digital.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.1.3",
+                "CULA.1.2.1"
+            ]
+        },
+        {
+            "referencia": "CULA.1.B.7.",
+            "descripcion": "Funciones de la imagen audiovisual.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.1.3",
+                "CULA.1.2.1"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Expresión y narrativa audiovisual.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CULA.1.C.1.",
+            "descripcion": "El guion literario. Fases de elaboración. Escena y secuencia dramática. La escaleta. Literatura y guion cinematográfico: adaptaciones novelísticas y de obras teatrales al lenguaje cinematográfico. La teoría del guion en Syd Field y Robert McKee. Protagonistas, antagonistas, secundarios. Los arquetipos y las tramas universales. Los personajes en los guiones cinematográficos: personalidad, dilemas y el arco del personaje. El MacGuffin.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.2.3"
+            ]
+        },
+        {
+            "referencia": "CULA.1.C.2.",
+            "descripcion": "El guion técnico y el storyboard.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.2.3"
+            ]
+        },
+        {
+            "referencia": "CULA.1.C.3.",
+            "descripcion": "La puesta en escena: localizaciones, decorados (volumétricos y virtuales), caracterización, interpretación, iluminación, movimiento. Los decorados de Gil Parrondo. Los diseñadores de vestuario: Edith Head, Yvonne Blake, Collen Atwood y la alta costura en el cine.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.2.3"
+            ]
+        },
+        {
+            "referencia": "CULA.1.C.4.",
+            "descripcion": "La banda de sonido: perspectiva sonora y posibilidades expresivas. La relación perceptiva entre imagen y sonido: el sonido diegético y no diegético, diálogos, monólogo interior, voz en off. Va del sonido y el silencio en relación con la imagen. Funciones de la música en las producciones audiovisuales. El leitmotiv.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.2.3"
+            ]
+        },
+        {
+            "referencia": "CULA.1.C.5.",
+            "descripcion": "El montaje y la postproducción. Evolución y gramática. El uso del montaje en las relaciones espacio temporales: flash forward, flas back, acciones paralelas, elipsis, simultaneidad. El efecto Kuleshov.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.2.3"
+            ]
+        },
+        {
+            "referencia": "CULA.1.C.6.",
+            "descripcion": "Los lenguajes de la televisión y la publicidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.2.3"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "La producción audiovisual. Técnicas y procedimientos.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CULA.1.D.1.",
+            "descripcion": "Equipos humanos de trabajo en la producción audiovisual: dirección, producción, cámara/fotografía, sonido, arte, postproducción. Montador, compositor musical, director de fotografía, sonidista, atrezzista, Script.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.3.1",
+                "CULA.1.3.2",
+                "CULA.1.3.3"
+            ]
+        },
+        {
+            "referencia": "CULA.1.D.2.",
+            "descripcion": "La distribución de tareas en la producción audiovisual: criterios de selección a partir de las habilidades requeridas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.3.1",
+                "CULA.1.3.2",
+                "CULA.1.3.3"
+            ]
+        },
+        {
+            "referencia": "CULA.1.D.3.",
+            "descripcion": "Fases de trabajo: reproducción, rodaje y postproducción. Guiones originales. Adaptaciones. Castings. El plan de rodaje. Distribución y exhibición.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.3.2",
+                "CULA.1.3.4"
+            ]
+        },
+        {
+            "referencia": "CULA.1.D.4.",
+            "descripcion": "Estrategias de selección de técnicas, herramientas y convenciones audiovisuales. Medios técnicos de realización: cámara y accesorios, microfonía, equipo de iluminación: grúa, trávelin, cabeza caliente, steadycam, estabilizadores volantes; jirafas y perchas; tipología de micrófonos según dirección; luminarias de luz difusa y de luz puntual; viseras, pantallas reflectoras, paraguas; soportes de aparatos de iluminación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.4.1"
+            ]
+        },
+        {
+            "referencia": "CULA.1.D.5.",
+            "descripcion": "Grabación del sonido. Sincrónico y recreado. Efectos foley y efectos especiales de sonido.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.3.2",
+                "CULA.1.3.4",
+                "CULA.1.4.1"
+            ]
+        },
+        {
+            "referencia": "CULA.1.D.6.",
+            "descripcion": "Introducción a los softwares de edición no lineal. Diferencias entre la edición lineal y no lineal. Principales editores de vídeo no lineales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.3.4",
+                "CULA.1.4.1"
+            ]
+        },
+        {
+            "referencia": "CULA.1.D.7.",
+            "descripcion": "Difusión de contenidos audiovisuales: redes sociales, salas comerciales, espacios de exhibición alternativos, festivales cinematográficos en línea y presenciales, etc. Los portales de internet y las redes sociales. Uso responsable. Los nuevos canales de promoción artística. Premios Óscar, Festival de Cine de Venecia, Premios Goya, Festival de Cine de San Sebastián, etc. El podcast (características y géneros). Protección de datos, propiedad intelectual y derechos de autoría.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.4.2",
+                "CULA.1.4.3"
+            ]
+        },
+        {
+            "referencia": "CULA.1.D.8.",
+            "descripcion": "Técnicas y estrategias de evaluación de las producciones audiovisuales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CULA.1.3.4",
+                "CULA.1.4.2",
+                "CULA.1.4.3"
+            ]
+        }
+    ]
+}

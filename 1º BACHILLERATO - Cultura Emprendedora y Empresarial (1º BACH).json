@@ -1,0 +1,397 @@
+{
+    "titulo": "1º BACHILLERATO - Cultura Emprendedora y Empresarial (1º BACH)",
+    "referencia": "CEE.1",
+    "competencias_especificas": [
+        {
+            "codigo": "CEE.1.1",
+            "descripcion": "Comprender el sentido y la relevancia de la cultura emprendedora, realizando investigaciones que permitan estudiar e identificar en diferentes tipos de textos y otros soportes rasgos propios de las personas emprendedoras con el fin de valorar la relevancia del autoconocimiento y de la identificación de las habilidades emprendedoras propias y de otros para emplearlas en la creación de valor tanto en la gestión de la vida académica y profesional como en la mejora del entorno económico y social."
+        },
+        {
+            "codigo": "CEE.1.2",
+            "descripcion": "Explorar y detectar las necesidades de un mercado o de un grupo social concreto, utilizando la creatividad y el pensamiento divergente para realizar propuestas innovadoras sobre bienes o servicios, con el fin de valorar la importancia de los procesos de investigación, desarrollo e innovación en los proyectos de emprendimiento."
+        },
+        {
+            "codigo": "CEE.1.3",
+            "descripcion": "Identificar las áreas funcionales de las empresas y de otras organizaciones, aplicando correctamente técnicas específicas relacionadas con la organización y la gestión de cada una de ellas, para comprender la relevancia de la formación científica en el ámbito económico financiero y de la administración de empresas en el desarrollo de proyectos emprendedores y en el logro de sus objetivos."
+        },
+        {
+            "codigo": "CEE.1.4",
+            "descripcion": "Implementar técnicas para el diseño y el análisis de la viabilidad económica y financiera de proyectos, la aplicación de legislación mercantil, laboral, tributaria y sobre asociaciones, el estudio del impacto de la iniciativa emprendedora sobre el entorno, así como sobre la difusión de proyectos, gestionando sus trámites para la puesta su puesta en marcha."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "CEE.1.1.1",
+            "descripcion": "Identificar y conocer las características de las personas emprendedoras.",
+            "saberes_relacionados": [
+                "CEE.1.A.1.",
+                "CEE.1.A.2."
+            ]
+        },
+        {
+            "referencia": "CEE.1.1.2",
+            "descripcion": "Realizar procesos reflexivos para identificar las características propias, mejorar el autoconocimiento y la autoestima.",
+            "saberes_relacionados": [
+                "CEE.1.A.3."
+            ]
+        },
+        {
+            "referencia": "CEE.1.1.3",
+            "descripcion": "Detectar los intereses propios, las aptitudes necesarias para diferentes perfiles profesionales y diseñar un itinerario académico profesional coherente con ellas y con los objetivos personales.",
+            "saberes_relacionados": [
+                "CEE.1.A.3."
+            ]
+        },
+        {
+            "referencia": "CEE.1.1.4",
+            "descripcion": "Conocer técnicas actuales de búsqueda activa de empleo valorando la importancia del autoempleo como vía de inserción laboral y comprendiendo las ventajas e inconvenientes a los que se enfrentan los emprendedores empresariales.",
+            "saberes_relacionados": [
+                "CEE.1.A.4."
+            ]
+        },
+        {
+            "referencia": "CEE.1.1.5",
+            "descripcion": "Determinar las características de los líderes, sus atributos y su papel en la dirección de organizaciones.",
+            "saberes_relacionados": [
+                "CEE.1.A.5."
+            ]
+        },
+        {
+            "referencia": "CEE.1.1.6",
+            "descripcion": "Diferenciar creatividad de investigación, innovación y desarrollo, valorando la importancia de las actividades relacionadas con ellas en el diseño e implementación de propuestas de valor.",
+            "saberes_relacionados": [
+                "CEE.1.A.6."
+            ]
+        },
+        {
+            "referencia": "CEE.1.2.1",
+            "descripcion": "Aplicar técnicas de investigación de mercados e investigación social para detectar las necesidades de productos y atención social de personas y organizaciones del entorno.",
+            "saberes_relacionados": [
+                "CEE.1.B.1."
+            ]
+        },
+        {
+            "referencia": "CEE.1.2.2",
+            "descripcion": "Diseñar y llevar a cabo con autonomía las fases de un proyecto emprendedor, aplicando técnicas específicas de gestión del liderazgo, planificación de tareas, definición de objetivos, organización del trabajo cooperativo, resolución de conflictos y comunicación.",
+            "saberes_relacionados": [
+                "CEE.1.B.2."
+            ]
+        },
+        {
+            "referencia": "CEE.1.2.3",
+            "descripcion": "Describir las dimensiones de la responsabilidad social de proyectos emprendedores y el papel de los grupos de interés o stakeholders en su desarrollo.",
+            "saberes_relacionados": [
+                "CEE.1.B.3."
+            ]
+        },
+        {
+            "referencia": "CEE.1.2.4",
+            "descripcion": "Investigar y analizar los clientes o usuarios potenciales relacionados con un proyecto emprendedor detallando las estrategias de segmentación empleadas.",
+            "saberes_relacionados": [
+                "CEE.1.B.4."
+            ]
+        },
+        {
+            "referencia": "CEE.1.2.5",
+            "descripcion": "Fomentar y valorar la creación de valor mediante el empleo de productos o servicios innovadores que aporten nuevas utilidades o aporten soluciones colaborativas originales.",
+            "saberes_relacionados": [
+                "CEE.1.B.5."
+            ]
+        },
+        {
+            "referencia": "CEE.1.2.6",
+            "descripcion": "Utilizar métodos y estrategias de visualización y presentación de proyectos para comunicar sus principales aspectos.",
+            "saberes_relacionados": [
+                "CEE.1.B.6."
+            ]
+        },
+        {
+            "referencia": "CEE.1.3.1",
+            "descripcion": "Identificar las áreas funcionales de las organizaciones y sus tareas principales.",
+            "saberes_relacionados": [
+                "CEE.1.C.1.",
+                "CEE.1.C.5."
+            ]
+        },
+        {
+            "referencia": "CEE.1.3.2",
+            "descripcion": "Aplicar técnicas económico-financieras y de administración de empresas específicas de cada una de las áreas funcionales que contribuyan al logro de los objetivos de un proyecto emprendedor.",
+            "saberes_relacionados": [
+                "CEE.1.C.2.",
+                "CEE.1.C.6."
+            ]
+        },
+        {
+            "referencia": "CEE.1.3.3",
+            "descripcion": "Analizar y determinar las fuentes de ingresos y costes de un proyecto emprendedor, comprendiendo la relevancia de su análisis para establecer su viabilidad.",
+            "saberes_relacionados": [
+                "CEE.1.C.3.",
+                "CEE.1.C.4."
+            ]
+        },
+        {
+            "referencia": "CEE.1.3.4",
+            "descripcion": "Estudiar fuentes de financiación propia y ajena determinando la estructura financiera óptima que permite implementar un proyecto emprendedor.",
+            "saberes_relacionados": [
+                "CEE.1.C.7.",
+                "CEE.1.C.8."
+            ]
+        },
+        {
+            "referencia": "CEE.1.4.1",
+            "descripcion": "Determinar, mediante distintos métodos, la viabilidad económica y financiera de proyectos personales y de organizaciones.",
+            "saberes_relacionados": [
+                "CEE.1.D.1."
+            ]
+        },
+        {
+            "referencia": "CEE.1.4.2",
+            "descripcion": "Redactar y adaptar a un proyecto emprendedor concreto modelos de estatutos sociales de empresas o de asociaciones.",
+            "saberes_relacionados": [
+                "CEE.1.D.2."
+            ]
+        },
+        {
+            "referencia": "CEE.1.4.3",
+            "descripcion": "Conocer los trámites tributarios, laborales y administrativos que son necesarios para poner en marcha un proyecto emprendedor.",
+            "saberes_relacionados": [
+                "CEE.1.D.3."
+            ]
+        },
+        {
+            "referencia": "CEE.1.4.4",
+            "descripcion": "Utilizar diferentes soportes digitales y las redes sociales para difundir un proyecto personal o emprendedor.",
+            "saberes_relacionados": [
+                "CEE.1.D.4.",
+                "CEE.1.D.5."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Autonomía personal, liderazgo e innovación.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CEE.1.A.1.",
+            "descripcion": "Las personas emprendedoras.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.1.1"
+            ]
+        },
+        {
+            "referencia": "CEE.1.A.2.",
+            "descripcion": "Proyectos emprendedores empresariales y sociales que transformaron su entorno.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.1.1"
+            ]
+        },
+        {
+            "referencia": "CEE.1.A.3.",
+            "descripcion": "Autonomía y autoconocimiento.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.1.2",
+                "CEE.1.1.3"
+            ]
+        },
+        {
+            "referencia": "CEE.1.A.4.",
+            "descripcion": "Técnicas de búsqueda de empleo. Autoempleo y emprendimiento.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.1.4"
+            ]
+        },
+        {
+            "referencia": "CEE.1.A.5.",
+            "descripcion": "Liderazgo personal y organizacional.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.1.5"
+            ]
+        },
+        {
+            "referencia": "CEE.1.A.6.",
+            "descripcion": "Innovación personal, empresarial y social.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.1.6"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Exploración y planificación.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CEE.1.B.1.",
+            "descripcion": "Estudio del entorno y detección de necesidades.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.2.1"
+            ]
+        },
+        {
+            "referencia": "CEE.1.B.2.",
+            "descripcion": "Una visión de conjunto: las fases del proyecto, objetivos y sus tareas principales. Cronogramas y otros recursos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.2.2"
+            ]
+        },
+        {
+            "referencia": "CEE.1.B.3.",
+            "descripcion": "Las dimensiones empresariales y sociales del proyecto.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.2.3"
+            ]
+        },
+        {
+            "referencia": "CEE.1.B.4.",
+            "descripcion": "Análisis de los clientes o usuarios potenciales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.2.4"
+            ]
+        },
+        {
+            "referencia": "CEE.1.B.5.",
+            "descripcion": "Productos y servicios innovadores para crear valor.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.2.5"
+            ]
+        },
+        {
+            "referencia": "CEE.1.B.6.",
+            "descripcion": "Técnicas de visualización del proyecto.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.2.6"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Organización y gestión.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CEE.1.C.1.",
+            "descripcion": "Las áreas funcionales de la empresa y de las organizaciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.3.1"
+            ]
+        },
+        {
+            "referencia": "CEE.1.C.2.",
+            "descripcion": "Diseño de productos innovadores y prototipado. Paneles de consumidores y usuarios.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.3.2"
+            ]
+        },
+        {
+            "referencia": "CEE.1.C.3.",
+            "descripcion": "Estimación de necesidades de recursos, ingresos y costes.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.3.3"
+            ]
+        },
+        {
+            "referencia": "CEE.1.C.4.",
+            "descripcion": "Diseño de la propuesta de valor: marketing empresarial, social y digital.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.3.3"
+            ]
+        },
+        {
+            "referencia": "CEE.1.C.5.",
+            "descripcion": "Departamentalización: reparto de tareas y coordinación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.3.1"
+            ]
+        },
+        {
+            "referencia": "CEE.1.C.6.",
+            "descripcion": "Perfiles profesionales y gestión de recursos humanos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.3.2"
+            ]
+        },
+        {
+            "referencia": "CEE.1.C.7.",
+            "descripcion": "Fuentes de financiación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.3.4"
+            ]
+        },
+        {
+            "referencia": "CEE.1.C.8.",
+            "descripcion": "El patrimonio empresarial. Nociones de contabilidad básica.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.3.4"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Evaluación de proyectos.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CEE.1.D.1.",
+            "descripcion": "Viabilidad económica-financiera.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.4.1"
+            ]
+        },
+        {
+            "referencia": "CEE.1.D.2.",
+            "descripcion": "Los estatutos sociales de la empresa o asociación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.4.2"
+            ]
+        },
+        {
+            "referencia": "CEE.1.D.3.",
+            "descripcion": "Tributos y otros trámites con la administración pública.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.4.3"
+            ]
+        },
+        {
+            "referencia": "CEE.1.D.4.",
+            "descripcion": "Análisis del impacto en el entorno: diseño y aplicación de matrices de responsabilidad social.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.4.4"
+            ]
+        },
+        {
+            "referencia": "CEE.1.D.5.",
+            "descripcion": "Difusión del proyecto: páginas web y redes sociales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CEE.1.4.4"
+            ]
+        }
+    ]
+}

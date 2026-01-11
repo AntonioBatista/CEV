@@ -1,0 +1,638 @@
+{
+    "titulo": "1º BACHILLERATO - Matemáticas Generales (1º BACH)",
+    "referencia": "MATG.1",
+    "competencias_especificas": [
+        {
+            "codigo": "MATG.1.1",
+            "descripcion": "Modelizar y resolver problemas de la vida cotidiana y de diversos ámbitos aplicando diferentes estrategias y formas de razonamiento, con ayuda de herramientas tecnológicas, para obtener posibles soluciones."
+        },
+        {
+            "codigo": "MATG.1.2",
+            "descripcion": "Verificar la validez de las posibles soluciones de un problema empleando el razonamiento y la argumentación para contrastar su idoneidad."
+        },
+        {
+            "codigo": "MATG.1.3",
+            "descripcion": "Generar preguntas de tipo matemático aplicando saberes y estrategias conocidas para dar respuesta a situaciones problemáticas de la vida cotidiana."
+        },
+        {
+            "codigo": "MATG.1.4",
+            "descripcion": "Utilizar el pensamiento computacional de forma eficaz, modificando y creando algoritmos que resuelvan problemas mediante el uso de las matemáticas, para modelizar y resolver situaciones de la vida cotidiana y de diversos ámbitos."
+        },
+        {
+            "codigo": "MATG.1.5",
+            "descripcion": "Establecer, investigar y utilizar conexiones entre las diferentes ideas matemáticas, estableciendo vínculos entre conceptos, procedimientos, argumentos y modelos para dar significado y estructurar el aprendizaje matemático."
+        },
+        {
+            "codigo": "MATG.1.6",
+            "descripcion": "Descubrir los vínculos de las matemáticas con otras áreas de conocimiento y profundizar en sus conexiones, interrelacionando conceptos y procedimientos, para modelizar, resolver problemas y desarrollar la capacidad crítica, creativa e innovadora en situaciones diversas."
+        },
+        {
+            "codigo": "MATG.1.7",
+            "descripcion": "Representar conceptos, procedimientos e información matemáticos, seleccionando diferentes tecnologías, para visualizar ideas y estructurar razonamientos matemáticos."
+        },
+        {
+            "codigo": "MATG.1.8",
+            "descripcion": "Comunicar las ideas matemáticas, de forma individual y colectiva, empleando el soporte, la terminología y el rigor apropiados, para organizar y consolidar el pensamiento matemático."
+        },
+        {
+            "codigo": "MATG.1.9",
+            "descripcion": "Utilizar destrezas personales y sociales, identificando y gestionando las propias emociones y respetando las de las y los demás y organizando activamente el trabajo en equipos heterogéneos, aprendiendo del error como parte del proceso de aprendizaje y afrontando situaciones de incertidumbre, para perseverar en la consecución de objetivos en el aprendizaje de las matemáticas."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "MATG.1.1.1",
+            "descripcion": "Emplear diferentes estrategias y herramientas, incluidas las digitales, que resuelvan problemas de la vida cotidiana y de ámbitos diversos, seleccionando la más adecuada en cada caso.",
+            "saberes_relacionados": [
+                "MATG.1.A.1.",
+                "MATG.1.A.2.2.",
+                "MATG.1.A.3.1.",
+                "MATG.1.A.4.",
+                "MATG.1.D.2.2.",
+                "MATG.1.E.1.5."
+            ]
+        },
+        {
+            "referencia": "MATG.1.1.2",
+            "descripcion": "Obtener todas las posibles soluciones matemáticas de problemas de la vida cotidiana y de ámbitos diversos, utilizando la estrategia de resolución más apropiada y describiendo el procedimiento realizado.",
+            "saberes_relacionados": [
+                "MATG.1.A.1.",
+                "MATG.1.A.3.1.",
+                "MATG.1.D.3."
+            ]
+        },
+        {
+            "referencia": "MATG.1.2.1",
+            "descripcion": "Comprobar la validez matemática de las posibles soluciones de un problema e interpretarlas, utilizando el razonamiento, la argumentación y las herramientas digitales.",
+            "saberes_relacionados": [
+                "MATG.1.A.1.",
+                "MATG.1.A.2.2.",
+                "MATG.1.D.3."
+            ]
+        },
+        {
+            "referencia": "MATG.1.2.2",
+            "descripcion": "Seleccionar la solución más adecuada de un problema en función del contexto (sostenibilidad, consumo responsable, equidad, etc.), usando el razonamiento y la argumentación.",
+            "saberes_relacionados": [
+                "MATG.1.A.3.1.",
+                "MATG.1.D.5."
+            ]
+        },
+        {
+            "referencia": "MATG.1.3.1",
+            "descripcion": "Adquirir nuevo conocimiento matemático mediante la formulación de preguntas de naturaleza matemática de forma autónoma, bien sea creando nuevos problemas para explorar una determinada situación, o bien para la reformulación del mismo.",
+            "saberes_relacionados": [
+                "MATG.1.B.1.",
+                "MATG.1.D.1.1."
+            ]
+        },
+        {
+            "referencia": "MATG.1.3.2",
+            "descripcion": "Emplear herramientas tecnológicas adecuadas en la formulación o investigación de preguntas o problemas.",
+            "saberes_relacionados": [
+                "MATG.1.D.1.1.",
+                "MATG.1.D.5.",
+                "MATG.1.E.1.5.",
+                "MATG.1.E.4.1."
+            ]
+        },
+        {
+            "referencia": "MATG.1.4.1",
+            "descripcion": "Interpretar, modelizar y resolver situaciones problematizadas de ámbitos diversos, utilizando el pensamiento computacional, modificando o creando algoritmos, y, en su caso, implementándolo en un sistema informático.",
+            "saberes_relacionados": [
+                "MATG.1.A.2.1.",
+                "MATG.1.C.1.",
+                "MATG.1.C.2.",
+                "MATG.1.D.1.1.",
+                "MATG.1.D.5.",
+                "MATG.1.F.2.1."
+            ]
+        },
+        {
+            "referencia": "MATG.1.5.1",
+            "descripcion": "Manifestar una visión matemática integrada, investigando y conectando las diferentes ideas matemáticas, usando enfoques diferentes en la resolución de un mismo problema.",
+            "saberes_relacionados": [
+                "MATG.1.B.2.1.",
+                "MATG.1.B.2.2.",
+                "MATG.1.D.4."
+            ]
+        },
+        {
+            "referencia": "MATG.1.5.2",
+            "descripcion": "Resolver problemas, estableciendo y aplicando conexiones entre las diferentes ideas matemáticas.",
+            "saberes_relacionados": [
+                "MATG.1.B.2.1.",
+                "MATG.1.B.2.2."
+            ]
+        },
+        {
+            "referencia": "MATG.1.6.1",
+            "descripcion": "Resolver problemas en situaciones diversas, utilizando procesos matemáticos, estableciendo y aplicando conexiones entre el mundo real, otras áreas de conocimiento y las matemáticas.",
+            "saberes_relacionados": [
+                "MATG.1.A.3.2.",
+                "MATG.1.A.4.",
+                "MATG.1.C.1.",
+                "MATG.1.C.2.",
+                "MATG.1.C.3.",
+                "MATG.1.D.1.2.",
+                "MATG.1.D.2.2.",
+                "MATG.1.E.2."
+            ]
+        },
+        {
+            "referencia": "MATG.1.6.2",
+            "descripcion": "Analizar la aportación de las matemáticas al progreso de la humanidad, reflexionando sobre su contribución en la propuesta de soluciones a situaciones complejas y a los retos que se plantean en la sociedad.",
+            "saberes_relacionados": [
+                "MATG.1.A.3.2.",
+                "MATG.1.B.2.2.",
+                "MATG.1.C.1.",
+                "MATG.1.C.2.",
+                "MATG.1.C.3.",
+                "MATG.1.D.1.2.",
+                "MATG.1.E.3.",
+                "MATG.1.F.3.2."
+            ]
+        },
+        {
+            "referencia": "MATG.1.7.1",
+            "descripcion": "Representar ideas matemáticas, estructurando diferentes razonamientos matemáticos y seleccionando las tecnologías más adecuadas.",
+            "saberes_relacionados": [
+                "MATG.1.B.1.",
+                "MATG.1.D.2.1.",
+                "MATG.1.D.4.",
+                "MATG.1.E.1.5."
+            ]
+        },
+        {
+            "referencia": "MATG.1.7.2",
+            "descripcion": "Seleccionar y utilizar diversas formas de representación, valorando su utilidad para compartir información.",
+            "saberes_relacionados": [
+                "MATG.1.A.2.1.",
+                "MATG.1.D.2.1.",
+                "MATG.1.E.1.1.",
+                "MATG.1.E.1.2.",
+                "MATG.1.E.1.3.",
+                "MATG.1.E.1.4."
+            ]
+        },
+        {
+            "referencia": "MATG.1.8.1",
+            "descripcion": "Mostrar organización al comunicar las ideas matemáticas, empleando el soporte, la terminología y el rigor apropiados.",
+            "saberes_relacionados": [
+                "MATG.1.B.1.",
+                "MATG.1.E.1.1.",
+                "MATG.1.E.1.2.",
+                "MATG.1.E.1.3.",
+                "MATG.1.E.1.4.",
+                "MATG.1.E.4.1.",
+                "MATG.1.E.4.2.",
+                "MATG.1.F.3.1."
+            ]
+        },
+        {
+            "referencia": "MATG.1.8.2",
+            "descripcion": "Reconocer y emplear el lenguaje matemático en diferentes contextos, comunicando la información de forma oral y escrita, analítica y gráficamente, con precisión y rigor.",
+            "saberes_relacionados": [
+                "MATG.1.A.2.1.",
+                "MATG.1.E.2.",
+                "MATG.1.E.3."
+            ]
+        },
+        {
+            "referencia": "MATG.1.9.1",
+            "descripcion": "Afrontar las situaciones de incertidumbre y tomar decisiones, evaluando distintas opciones, identificando y gestionando emociones y aceptando y aprendiendo del error como parte del proceso de aprendizaje de las matemáticas.",
+            "saberes_relacionados": [
+                "MATG.1.F.1.1.",
+                "MATG.1.F.1.2."
+            ]
+        },
+        {
+            "referencia": "MATG.1.9.2",
+            "descripcion": "Mostrar una actitud positiva y perseverante, aceptando y aprendiendo de la crítica razonada, al hacer frente a las diferentes situaciones de aprendizaje de las matemáticas.",
+            "saberes_relacionados": [
+                "MATG.1.F.2.1.",
+                "MATG.1.F.3.1."
+            ]
+        },
+        {
+            "referencia": "MATG.1.9.3",
+            "descripcion": "Participar en tareas matemáticas de forma activa en equipos heterogéneos, respetando las emociones y experiencias de las demás personas, escuchando su razonamiento, identificando las habilidades sociales más propicias y fomentando el bienestar del equipo y las relaciones saludables.",
+            "saberes_relacionados": [
+                "MATG.1.F.1.2.",
+                "MATG.1.F.2.2.",
+                "MATG.1.F.3.1."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Sentido numérico.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MATG.1.A.1.",
+            "descripcion": "Conteo. Reglas y estrategias para determinar el cardinal de conjuntos finitos en problemas de la vida cotidiana: uso de los principios de comparación, adición, multiplicación y división, del palomar y de inclusiónexclusión.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "MATG.1.1.1",
+                "MATG.1.1.2",
+                "MATG.1.2.1"
+            ]
+        },
+        {
+            "referencia": "MATG.1.A.2.",
+            "descripcion": "Sentido de las operaciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MATG.1.A.2.1.",
+            "descripcion": "Interpretación de la información numérica en documentos de la vida cotidiana: tablas, diagramas, documentos financieros, facturas, nóminas, noticias, etc.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MATG.1.4.1",
+                "MATG.1.7.2",
+                "MATG.1.8.2"
+            ]
+        },
+        {
+            "referencia": "MATG.1.A.2.2.",
+            "descripcion": "Herramientas tecnológicas y digitales en la resolución de problemas numéricos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MATG.1.1.1",
+                "MATG.1.2.1"
+            ]
+        },
+        {
+            "referencia": "MATG.1.A.3.",
+            "descripcion": "Relaciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MATG.1.A.3.1.",
+            "descripcion": "Razones, proporciones, porcentajes y tasas: comprensión, relación y aplicación en problemas en contextos diversos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MATG.1.1.1",
+                "MATG.1.1.2",
+                "MATG.1.2.2"
+            ]
+        },
+        {
+            "referencia": "MATG.1.A.3.2.",
+            "descripcion": "La proporción áurea. Presencia en el patrimonio cultural y artístico de Andalucía.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MATG.1.6.1",
+                "MATG.1.6.2"
+            ]
+        },
+        {
+            "referencia": "MATG.1.A.4.",
+            "descripcion": "Educación financiera. Razonamiento proporcional en la resolución de problemas financieros: medios de pago con cobro de intereses, cuotas, comisiones, cambios de divisas y otras situaciones. Resolución de problemas de aritmética financiera con la ayuda de herramientas tecnológicas: tasas, números índice, interés simple y compuesto, anualidades de capitalización y de amortización.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "MATG.1.1.1",
+                "MATG.1.6.1"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Sentido de la medida.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MATG.1.B.1.",
+            "descripcion": "Medición. La probabilidad como medida de la incertidumbre asociada a fenómenos aleatorios.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "MATG.1.3.1",
+                "MATG.1.7.1",
+                "MATG.1.8.1"
+            ]
+        },
+        {
+            "referencia": "MATG.1.B.2.",
+            "descripcion": "Cambio.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MATG.1.B.2.1.",
+            "descripcion": "Estudio de la variación absoluta y de la variación media.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MATG.1.5.1",
+                "MATG.1.5.2"
+            ]
+        },
+        {
+            "referencia": "MATG.1.B.2.2.",
+            "descripcion": "Concepto de derivada: definición a partir del estudio del cambio en diferentes contextos. Análisis e interpretación con medios tecnológicos. Derivación de funciones polinómicas y racionales sencillas. Concepto y aplicación de la Regla de la cadena a funciones sencillas. Planteamiento y resolución de problemas de optimización de funciones que simulen situaciones económicas o procesos de la vida real. Representación de funciones. Dominio y asíntotas. Interpretación del crecimiento de una función. Teorema de Bolzano. Estimación de ceros de una función. Problemas y aplicaciones.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MATG.1.5.1",
+                "MATG.1.5.2",
+                "MATG.1.6.2"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Sentido espacial. Visualización, razonamiento y modelización geométrica.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MATG.1.C.1.",
+            "descripcion": "Grafos: representación de situaciones de la vida cotidiana mediante diferentes tipos de grafos (dirigidos, planos, ponderados, árboles, etc.). Fórmula de Euler.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "MATG.1.4.1",
+                "MATG.1.6.1",
+                "MATG.1.6.2"
+            ]
+        },
+        {
+            "referencia": "MATG.1.C.2.",
+            "descripcion": "Grafos eulerianos y hamiltonianos: resolución de problemas de caminos y circuitos. Coloración de grafos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "MATG.1.4.1",
+                "MATG.1.6.1",
+                "MATG.1.6.2"
+            ]
+        },
+        {
+            "referencia": "MATG.1.C.3.",
+            "descripcion": "Resolución del problema del camino mínimo en diferentes contextos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "MATG.1.6.1",
+                "MATG.1.6.2"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Sentido algebraico y pensamiento computacional.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MATG.1.D.1.",
+            "descripcion": "Patrones.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MATG.1.D.1.1.",
+            "descripcion": "Generalización de patrones en situaciones sencillas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MATG.1.3.1",
+                "MATG.1.3.2",
+                "MATG.1.4.1"
+            ]
+        },
+        {
+            "referencia": "MATG.1.D.1.2.",
+            "descripcion": "Frisos y mosaicos, su presencia en el patrimonio andaluz.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MATG.1.6.1",
+                "MATG.1.6.2"
+            ]
+        },
+        {
+            "referencia": "MATG.1.D.2.",
+            "descripcion": "Modelo matemático.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MATG.1.D.2.1.",
+            "descripcion": "Funciones lineales, cuadráticas, racionales sencillas, exponenciales, logarítmicas, a trozos y periódicas: modelización con herramientas digitales de situaciones del mundo real.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MATG.1.7.1",
+                "MATG.1.7.2"
+            ]
+        },
+        {
+            "referencia": "MATG.1.D.2.2.",
+            "descripcion": "Programación lineal: modelización de problemas reales y resolución mediante herramientas digitales. Determinación gráfica de la región factible y cálculo analítico de los vértices de la misma, así como de la solución óptima.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MATG.1.1.1",
+                "MATG.1.6.1"
+            ]
+        },
+        {
+            "referencia": "MATG.1.D.3.",
+            "descripcion": "Igualdad y desigualdad. Resolución de sistemas de ecuaciones e inecuaciones en diferentes contextos mediante herramientas digitales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "MATG.1.1.2",
+                "MATG.1.2.1"
+            ]
+        },
+        {
+            "referencia": "MATG.1.D.4.",
+            "descripcion": "Relaciones y funciones. Propiedades de las clases de funciones, incluyendo lineales, cuadráticas, racionales sencillas, exponenciales y logarítmicas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "MATG.1.5.1",
+                "MATG.1.7.1"
+            ]
+        },
+        {
+            "referencia": "MATG.1.D.5.",
+            "descripcion": "Pensamiento computacional. Formulación, resolución, análisis, representación e interpretación de relaciones y problemas de la vida cotidiana y de distintos ámbitos utilizando algoritmos, programas y herramientas tecnológicas adecuados.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "MATG.1.2.2",
+                "MATG.1.3.2",
+                "MATG.1.4.1"
+            ]
+        },
+        {
+            "referencia": "E.",
+            "descripcion": "Sentido estocástico.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MATG.1.E.1.",
+            "descripcion": "Organización y análisis de datos.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MATG.1.E.1.1.",
+            "descripcion": "Interpretación y análisis de información estadística en diversos contextos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MATG.1.7.2",
+                "MATG.1.8.1"
+            ]
+        },
+        {
+            "referencia": "MATG.1.E.1.2.",
+            "descripcion": "Organización de los datos procedente de variables bidimensionales: distribución conjunta y distribuciones marginales y condicionadas. Análisis de la dependencia estadística.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MATG.1.7.2",
+                "MATG.1.8.1"
+            ]
+        },
+        {
+            "referencia": "MATG.1.E.1.3.",
+            "descripcion": "Estudio de la relación entre dos variables mediante la regresión lineal o cuadrática: valoración gráfica de la pertinencia del ajuste. Diferencia entre correlación y causalidad.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MATG.1.7.2",
+                "MATG.1.8.1"
+            ]
+        },
+        {
+            "referencia": "MATG.1.E.1.4.",
+            "descripcion": "Coeficientes de correlación lineal y de determinación: cuantificación de la relación lineal, predicción y valoración de su fiabilidad en contextos científicos, económicos, sociales, etc.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MATG.1.7.2",
+                "MATG.1.8.1"
+            ]
+        },
+        {
+            "referencia": "MATG.1.E.1.5.",
+            "descripcion": "Calculadora, hoja de cálculo o software específico en el análisis de datos estadísticos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MATG.1.1.1",
+                "MATG.1.3.2",
+                "MATG.1.7.1"
+            ]
+        },
+        {
+            "referencia": "MATG.1.E.2.",
+            "descripcion": "Incertidumbre. Experimentos aleatorios. Revisión del concepto de espacio muestral y del álgebra de sucesos (suceso complementario, unión e intersección de dos sucesos, leyes de Morgan). Cálculo de probabilidades en experimentos simples y compuestos en problemas de la vida cotidiana. Probabilidad condicionada e independencia de sucesos aleatorios. Diagramas de árbol y tablas de contingencia. Teorema de la probabilidad total. Planteamiento y resolución de problemas que requieran del manejo de los axiomas de la probabilidad de Kolmogorov o del dibujo de diagramas de Venn. Planteamiento y resolución de problemas que requieran del empleo de los teoremas de la probabilidad total y de Bayes o del dibujo de diagramas de árbol.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "MATG.1.6.1",
+                "MATG.1.8.2"
+            ]
+        },
+        {
+            "referencia": "MATG.1.E.3.",
+            "descripcion": "Distribuciones de probabilidad. Distribuciones de probabilidad uniforme: discreta y continua, binomial y normal. Cálculo de probabilidades asociadas mediante herramientas tecnológicas: aplicación a la resolución de problemas. Distribución de Bernoulli. Relación con la distribución binomial. Estimación del parámetro p por método de máxima verosimilitud. Aproximación de una Binomial por una Normal.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "MATG.1.6.2",
+                "MATG.1.8.2"
+            ]
+        },
+        {
+            "referencia": "MATG.1.E.4.",
+            "descripcion": "Inferencia.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MATG.1.E.4.1.",
+            "descripcion": "Diseño de estudios estadísticos relacionados con diversos contextos utilizando herramientas digitales. Representatividad de una muestra.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MATG.1.3.2",
+                "MATG.1.8.1"
+            ]
+        },
+        {
+            "referencia": "MATG.1.E.4.2.",
+            "descripcion": "Selección de muestras representativas. Técnicas sencillas de muestreo. Discusión de la validez de una estimación en función de la representatividad de la muestra. Relación entre confianza, error y tamaño muestral. Lectura y comprensión de la ficha de una encuesta o sondeo.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MATG.1.8.1"
+            ]
+        },
+        {
+            "referencia": "F.",
+            "descripcion": "Sentido socioafectivo.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MATG.1.F.1.",
+            "descripcion": "Creencias, actitudes y emociones.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MATG.1.F.1.1.",
+            "descripcion": "Destrezas de autoconciencia encaminadas a reconocer emociones propias, afrontando eventuales situaciones de estrés y ansiedad en el aprendizaje de las matemáticas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MATG.1.9.1"
+            ]
+        },
+        {
+            "referencia": "MATG.1.F.1.2.",
+            "descripcion": "Tratamiento del error, individual y colectivo como, elemento movilizador de saberes previos adquiridos y generador de oportunidades de aprendizaje en el aula de matemáticas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MATG.1.9.1",
+                "MATG.1.9.3"
+            ]
+        },
+        {
+            "referencia": "MATG.1.F.2.",
+            "descripcion": "Trabajo en equipo y toma de decisiones.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MATG.1.F.2.1.",
+            "descripcion": "Destrezas básicas para evaluar opciones y tomar decisiones en la resolución de problemas y tareas matemáticas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MATG.1.4.1",
+                "MATG.1.9.2"
+            ]
+        },
+        {
+            "referencia": "MATG.1.F.2.2.",
+            "descripcion": "Técnicas y estrategias de trabajo en equipo para la resolución de problemas y tareas matemáticas, en grupos heterogéneos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MATG.1.9.3"
+            ]
+        },
+        {
+            "referencia": "MATG.1.F.3.",
+            "descripcion": "Inclusión, respeto y diversidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MATG.1.F.3.1.",
+            "descripcion": "Destrezas para desarrollar una comunicación efectiva, la escucha activa, la formulación de preguntas o solicitud y la prestación de ayuda cuando sea necesario.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MATG.1.8.1",
+                "MATG.1.9.2",
+                "MATG.1.9.3"
+            ]
+        },
+        {
+            "referencia": "MATG.1.F.3.2.",
+            "descripcion": "Valoración de la contribución de las matemáticas y el papel de matemáticos y matemáticas a lo largo de la historia en el avance de la humanidad.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MATG.1.6.2"
+            ]
+        }
+    ]
+}

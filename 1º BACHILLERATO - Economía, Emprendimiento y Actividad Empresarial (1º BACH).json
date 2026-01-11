@@ -1,0 +1,466 @@
+{
+    "titulo": "1º BACHILLERATO - Economía, Emprendimiento y Actividad Empresarial (1º BACH)",
+    "referencia": "ECYE.1",
+    "competencias_especificas": [
+        {
+            "codigo": "ECYE.1.1",
+            "descripcion": "Analizar de forma crítica y reflexiva las aportaciones de la ciencia económica, valorando su interrelación con otras disciplinas, para entender la realidad desde una visión integral y actuar como ciudadanos y ciudadanas responsables, autónomos y comprometidos."
+        },
+        {
+            "codigo": "ECYE.1.2",
+            "descripcion": "Analizar, desde un enfoque interdisciplinar, el comportamiento tanto individual como colectivo en la toma de decisiones económicas al interactuar y coordinarse en diferentes tipos de mercados, evaluando el problema de la escasez y sus efectos, así como las relaciones entre eficiencia y equidad, para comprender los cambios económicos y sociales derivados de dicho problema y actuar en consecuencia."
+        },
+        {
+            "codigo": "ECYE.1.3",
+            "descripcion": "Establecer correspondencias entre los Objetivos de Desarrollo Sostenible y los aprendizajes adquiridos a través del estudio de casos reales, analizándolos con ayuda de herramientas económicas y empresariales para generar una actitud sensible y un comportamiento responsable y proactivo que contribuya a dar respuesta a los retos actuales."
+        },
+        {
+            "codigo": "ECYE.1.4",
+            "descripcion": "Identificar y valorar habilidades y competencias que caracterizan a las personas emprendedoras dentro de la realidad actual, analizando sus perfiles y su forma de afrontar los retos, para reconocer y potenciar las destrezas emprendedoras propias y aplicarlas a situaciones reales de la vida."
+        },
+        {
+            "codigo": "ECYE.1.5",
+            "descripcion": "Comprender las estrategias empresariales, analizando su evolución y distinguiendo los nuevos modelos de negocio desarrollados por entidades vinculadas a diferentes ámbitos y sectores, para identificar la filosofía de las empresas, reconocer las tendencias y poner en valor, con sentido crítico, su actividad en la sociedad andaluza y española actual."
+        },
+        {
+            "codigo": "ECYE.1.6",
+            "descripcion": "Analizar la transformación económica y social y sus consecuencias, reconociendo la importancia que tienen la innovación y la revolución digital en la actividad empresarial, para comprender las respuestas que las empresas ofrecen a los desafíos actuales y proponer alternativas y nuevas soluciones a dichos desafíos."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "ECYE.1.1.1",
+            "descripcion": "Entender la realidad partiendo del análisis crítico y reflexivo sobre las aportaciones que ofrece la ciencia económica, valorando su interrelación con otras disciplinas y adquiriendo una visión integral de la misma que favorezca la asunción de responsabilidades y compromisos.",
+            "saberes_relacionados": [
+                "ECYE.1.A.2.1.",
+                "ECYE.1.A.2.2."
+            ]
+        },
+        {
+            "referencia": "ECYE.1.1.2",
+            "descripcion": "Valorar la relevancia de los modelos económicos para comprender la realidad, diferenciando los datos objetivos y las relaciones entre variables de las propuestas de modificación de la realidad que corresponden a aspectos axiológicos.",
+            "saberes_relacionados": [
+                "ECYE.1.A.2.1.",
+                "ECYE.1.A.2.2."
+            ]
+        },
+        {
+            "referencia": "ECYE.1.2.1",
+            "descripcion": "Comprender los cambios económicos y sociales desde un análisis interdisciplinar sobre el comportamiento humano en el proceso de toma de decisiones, evaluando el problema de la escasez y sus efectos, y estimulando al alumnado a actuar en consecuencia.",
+            "saberes_relacionados": [
+                "ECYE.1.A.1.1.",
+                "ECYE.1.A.1.2.",
+                "ECYE.1.A.2.3.",
+                "ECYE.1.A.2.4."
+            ]
+        },
+        {
+            "referencia": "ECYE.1.2.2",
+            "descripcion": "Analizar las relaciones entre ingresos y costes, así como su influencia en las decisiones empresariales.",
+            "saberes_relacionados": [
+                "ECYE.1.A.1.1.",
+                "ECYE.1.A.1.2.",
+                "ECYE.1.A.2.3.",
+                "ECYE.1.A.2.4."
+            ]
+        },
+        {
+            "referencia": "ECYE.1.2.3",
+            "descripcion": "Entender las variables que influyen en los agentes para la toma de sus decisiones de intercambio y aplicar los instrumentos que facilita el análisis económico para explicar los cambios en diferentes tipos de mercados.",
+            "saberes_relacionados": [
+                "ECYE.1.A.1.1.",
+                "ECYE.1.A.1.2.",
+                "ECYE.1.A.2.3.",
+                "ECYE.1.A.2.4."
+            ]
+        },
+        {
+            "referencia": "ECYE.1.3.1",
+            "descripcion": "Mostrar actitudes sensibles y comportamientos responsables y proactivos que contribuyan a dar respuesta a los retos actuales a partir del estudio de casos reales, estableciendo correspondencias entre la realidad y los aprendizajes adquiridos.",
+            "saberes_relacionados": [
+                "ECYE.1.A.1.3.",
+                "ECYE.1.A.1.4.",
+                "ECYE.1.A.1.5.",
+                "ECYE.1.A.1.6.",
+                "ECYE.1.A.2.5."
+            ]
+        },
+        {
+            "referencia": "ECYE.1.3.2",
+            "descripcion": "Tomar conciencia de los problemas globales y locales, analizándolos a través de herramientas económicas y empresariales y aportando soluciones a los mismos.",
+            "saberes_relacionados": [
+                "ECYE.1.A.1.3.",
+                "ECYE.1.A.1.4.",
+                "ECYE.1.A.1.5.",
+                "ECYE.1.A.1.6.",
+                "ECYE.1.A.2.5."
+            ]
+        },
+        {
+            "referencia": "ECYE.1.3.3",
+            "descripcion": "Identificar los fallos microeconómicos y macroeconómicos de mercado, comprendiendo el papel del sector público para su corrección, con especial atención a las modalidades de política económica y sus efectos sobre el crecimiento, el empleo, la inflación y el bienestar social.",
+            "saberes_relacionados": [
+                "ECYE.1.A.1.3.",
+                "ECYE.1.A.1.4.",
+                "ECYE.1.A.1.5.",
+                "ECYE.1.A.1.6.",
+                "ECYE.1.A.2.5."
+            ]
+        },
+        {
+            "referencia": "ECYE.1.3.4",
+            "descripcion": "Comprender las relaciones entre consumo, ahorro e inversión, definiendo las características del sistema financiero y valorando el papel de los activos financieros y reales en la planificación de la vida personal y en la gestión de proyectos emprendedores.",
+            "saberes_relacionados": [
+                "ECYE.1.A.1.3.",
+                "ECYE.1.A.1.4.",
+                "ECYE.1.A.1.5.",
+                "ECYE.1.A.1.6.",
+                "ECYE.1.A.2.5."
+            ]
+        },
+        {
+            "referencia": "ECYE.1.4.1",
+            "descripcion": "Reconocer y potenciar las destrezas emprendedoras propias, identificando y valorando previamente las habilidades que poseen personas emprendedoras cercanas y analizando sus competencias a la hora de afrontar los retos que se les presentan.",
+            "saberes_relacionados": [
+                "ECYE.1.B.1.",
+                "ECYE.1.B.2.",
+                "ECYE.1.B.3.",
+                "ECYE.1.B.4.",
+                "ECYE.1.B.5.",
+                "ECYE.1.B.6."
+            ]
+        },
+        {
+            "referencia": "ECYE.1.4.2",
+            "descripcion": "Afrontar retos sencillos de la vida cotidiana aplicando las destrezas propias que caracterizan a una persona emprendedora.",
+            "saberes_relacionados": [
+                "ECYE.1.B.1.",
+                "ECYE.1.B.2.",
+                "ECYE.1.B.3.",
+                "ECYE.1.B.4.",
+                "ECYE.1.B.5.",
+                "ECYE.1.B.6."
+            ]
+        },
+        {
+            "referencia": "ECYE.1.5.1",
+            "descripcion": "Reconocer las tendencias e identificar la filosofía de las empresas, comprendiendo las estrategias empresariales llevadas a cabo por estas y analizando su evolución, así como los modelos de negocio desarrollados, poniendo en valor, con sentido crítico, su actividad empresarial.",
+            "saberes_relacionados": [
+                "ECYE.1.C.1.",
+                "ECYE.1.C.3.",
+                "ECYE.1.C.4.",
+                "ECYE.1.C.5.",
+                "ECYE.1.C.6.",
+                "ECYE.1.C.7."
+            ]
+        },
+        {
+            "referencia": "ECYE.1.5.2",
+            "descripcion": "Distinguir los nuevos modelos de negocio desarrollados por empresas pertenecientes a diversos sectores y ámbitos, analizando sus posibilidades y limitaciones.",
+            "saberes_relacionados": [
+                "ECYE.1.C.1.",
+                "ECYE.1.C.3.",
+                "ECYE.1.C.4.",
+                "ECYE.1.C.5.",
+                "ECYE.1.C.6.",
+                "ECYE.1.C.7."
+            ]
+        },
+        {
+            "referencia": "ECYE.1.5.3",
+            "descripcion": "Identificar las áreas funcionales de las empresas y sus principales actividades, comprendiendo la importancia de su coordinación para el desarrollo de proyectos emprendedores viables y valorando su impacto en el entorno andaluz y español.",
+            "saberes_relacionados": [
+                "ECYE.1.C.1.",
+                "ECYE.1.C.4.",
+                "ECYE.1.C.5.",
+                "ECYE.1.C.6.",
+                "ECYE.1.C.7."
+            ]
+        },
+        {
+            "referencia": "ECYE.1.6.1",
+            "descripcion": "Comprender las respuestas que ofrecen las empresas a los desafíos actuales, analizando la transformación económica y social que está experimentando la sociedad.",
+            "saberes_relacionados": [
+                "ECYE.1.C.2.",
+                "ECYE.1.C.6."
+            ]
+        },
+        {
+            "referencia": "ECYE.1.6.2",
+            "descripcion": "Proponer alternativas y nuevas soluciones a los desafíos actuales, analizando los efectos de la transformación económica y social y reconociendo la importancia que tiene la innovación y revolución digital en la actividad empresarial.",
+            "saberes_relacionados": [
+                "ECYE.1.C.2.",
+                "ECYE.1.C.6."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Economía.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ECYE.1.A.1.",
+            "descripcion": "La escasez y el problema económico.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ECYE.1.A.1.1.",
+            "descripcion": "La escasez y sus implicaciones. Tipos de necesidades. Bienes y servicios que satisfacen las necesidades. Criterios de elección: el coste de oportunidad, los incentivos, el análisis marginal y los costes irrecuperables. La escasez y la eficiencia. La paradoja del valor, el valor de uso y el valor de cambio de los bienes.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ECYE.1.2.1",
+                "ECYE.1.2.2",
+                "ECYE.1.2.3"
+            ]
+        },
+        {
+            "referencia": "ECYE.1.A.1.2.",
+            "descripcion": "La escasez y los sistemas de asignación de recursos. Tipos de costes. Relaciones entre producción, costes e ingresos. El funcionamiento del mercado. Equilibrio y variaciones. Análisis de la elasticidad. Modelos de mercados de bienes. La competencia perfecta. La competencia monopolística. El oligopolio. El monopolio. La soberanía de los consumidores y la publicidad.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ECYE.1.2.1",
+                "ECYE.1.2.2",
+                "ECYE.1.2.3"
+            ]
+        },
+        {
+            "referencia": "ECYE.1.A.1.3.",
+            "descripcion": "Los fallos del mercado y la intervención del sector público. Fallos del sector público y sus implicaciones.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ECYE.1.3.1",
+                "ECYE.1.3.2",
+                "ECYE.1.3.3",
+                "ECYE.1.3.4"
+            ]
+        },
+        {
+            "referencia": "ECYE.1.A.1.4.",
+            "descripcion": "El flujo circular de la renta. Oferta y demanda agregadas. Análisis de las interrelaciones que existen entre los diversos elementos y agregados de la realidad económica. El PIB y la Renta Nacional. El Índice de Desarrollo Humano.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ECYE.1.3.1",
+                "ECYE.1.3.2",
+                "ECYE.1.3.3",
+                "ECYE.1.3.4"
+            ]
+        },
+        {
+            "referencia": "ECYE.1.A.1.5.",
+            "descripcion": "El entorno financiero. Dinero y transacciones. La inflación. Productos financieros y de inversión. Planificación y gestión de las finanzas personales: riesgo y beneficio.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ECYE.1.3.1",
+                "ECYE.1.3.2",
+                "ECYE.1.3.3",
+                "ECYE.1.3.4"
+            ]
+        },
+        {
+            "referencia": "ECYE.1.A.1.6.",
+            "descripcion": "Los Objetivos de Desarrollo Sostenible (ODS) y los retos económicos actuales. Estudio de casos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ECYE.1.3.1",
+                "ECYE.1.3.2",
+                "ECYE.1.3.3",
+                "ECYE.1.3.4"
+            ]
+        },
+        {
+            "referencia": "ECYE.1.A.2.",
+            "descripcion": "Economía y otras disciplinas.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ECYE.1.A.2.1.",
+            "descripcion": "La economía como ciencia social. El método en economía. Principales problemas para el análisis económico: la complejidad de la realidad y la incorporación de supuestos simplificadores. Dificultades para el establecimiento de leyes generales. La diversidad del pensamiento económico. La modelización matemática como herramienta para el análisis económico: la Frontera de las Posibilidades de Producción.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ECYE.1.1.1",
+                "ECYE.1.1.2"
+            ]
+        },
+        {
+            "referencia": "ECYE.1.A.2.2.",
+            "descripcion": "El análisis económico y el individualismo metodológico. Otras alternativas de análisis de la realidad social. Perspectiva sociológica: el grupo social como unidad de análisis económico.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ECYE.1.1.1",
+                "ECYE.1.1.2"
+            ]
+        },
+        {
+            "referencia": "ECYE.1.A.2.3.",
+            "descripcion": "Los individuos y el comportamiento racional. Fallos de la racionalidad. La economía del comportamiento, la Psicología económica y la teoría de la decisión.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ECYE.1.2.1",
+                "ECYE.1.2.2",
+                "ECYE.1.2.3"
+            ]
+        },
+        {
+            "referencia": "ECYE.1.A.2.4.",
+            "descripcion": "Los agentes económicos y la maximización de su utilidad. Filosofía y economía: el utilitarismo y la felicidad. La maximización del bienestar social y el debate eficiencia versus equidad desde un punto de vista ético. El bienestar social y la calidad de vida desde una perspectiva sociológica. El bienestar en la Psicología positiva.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ECYE.1.2.1",
+                "ECYE.1.2.2",
+                "ECYE.1.2.3"
+            ]
+        },
+        {
+            "referencia": "ECYE.1.A.2.5.",
+            "descripcion": "Ciencia económica y ecología: cambio climático, el desarrollo sostenible y la economía circular.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ECYE.1.3.1",
+                "ECYE.1.3.2",
+                "ECYE.1.3.3",
+                "ECYE.1.3.4"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Emprendimiento.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ECYE.1.B.1.",
+            "descripcion": "La persona emprendedora e intraemprendedora. Competencias, cualidades y hábitos. La inteligencia emocional y la inteligencia ejecutiva.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ECYE.1.4.1",
+                "ECYE.1.4.2"
+            ]
+        },
+        {
+            "referencia": "ECYE.1.B.2.",
+            "descripcion": "El espíritu emprendedor: búsqueda de necesidades y oportunidades. Entrenamiento de la creatividad y proactividad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ECYE.1.4.1",
+                "ECYE.1.4.2"
+            ]
+        },
+        {
+            "referencia": "ECYE.1.B.3.",
+            "descripcion": "Creencias sobre emprendimiento. El miedo a emprender: la gestión del error como una oportunidad para aprender.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ECYE.1.4.1",
+                "ECYE.1.4.2"
+            ]
+        },
+        {
+            "referencia": "ECYE.1.B.4.",
+            "descripcion": "Competencias sociales. Tipos y aplicación. La gestión de grupos y la teoría de las relaciones humanas. Teoría y factores de la motivación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ECYE.1.4.1",
+                "ECYE.1.4.2"
+            ]
+        },
+        {
+            "referencia": "ECYE.1.B.5.",
+            "descripcion": "Misión y visión de la persona emprendedora. Creación y puesta en marcha de su proyecto emprendedor en el aula de Economía, Emprendimiento y Actividad Empresarial. Protección de la idea, el producto y la marca. Ventajas e inconvenientes de las patentes.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ECYE.1.4.1",
+                "ECYE.1.4.2"
+            ]
+        },
+        {
+            "referencia": "ECYE.1.B.6.",
+            "descripcion": "Autoevaluación de la persona emprendedora. Herramientas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ECYE.1.4.1",
+                "ECYE.1.4.2"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Actividad empresarial.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ECYE.1.C.1.",
+            "descripcion": "Las áreas funcionales de la empresa y sus actividades. El entorno empresarial.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ECYE.1.5.1",
+                "ECYE.1.5.2",
+                "ECYE.1.5.3"
+            ]
+        },
+        {
+            "referencia": "ECYE.1.C.2.",
+            "descripcion": "La revolución tecnológica. El poder de la tecnología. Los modelos de negocio. Importancia de las startup.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ECYE.1.6.1",
+                "ECYE.1.6.2"
+            ]
+        },
+        {
+            "referencia": "ECYE.1.C.3.",
+            "descripcion": "Mercado y clientes. Neuromarketing. Marketing digital. El marketing mix. La importancia del Big Data. Nuevos modelos de negocio.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ECYE.1.5.1",
+                "ECYE.1.5.2"
+            ]
+        },
+        {
+            "referencia": "ECYE.1.C.4.",
+            "descripcion": "Cultura empresarial y gestión del talento. El liderazgo. Diseño del perfil profesional. El papel de la mujer en la actividad empresarial.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ECYE.1.5.1",
+                "ECYE.1.5.2",
+                "ECYE.1.5.3"
+            ]
+        },
+        {
+            "referencia": "ECYE.1.C.5.",
+            "descripcion": "El lugar de trabajo. La empresa del futuro. Tendencias.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ECYE.1.5.1",
+                "ECYE.1.5.2",
+                "ECYE.1.5.3"
+            ]
+        },
+        {
+            "referencia": "ECYE.1.C.6.",
+            "descripcion": "Estrategia y gestión de la empresa. Funciones de la dirección de una empresa. Transformación digital. Innovación. Sostenibilidad. Criterios de clasificación de empresas. Tipos de empresas según su forma jurídica. Investigación, Desarrollo e Innovación (I+D+I). Crecimiento económico de una empresa y productividad. Obligaciones fiscales de las empresas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ECYE.1.5.1",
+                "ECYE.1.5.2",
+                "ECYE.1.5.3",
+                "ECYE.1.6.1",
+                "ECYE.1.6.2"
+            ]
+        },
+        {
+            "referencia": "ECYE.1.C.7.",
+            "descripcion": "Análisis de casos: análisis interno y externo. DAFO.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ECYE.1.5.1",
+                "ECYE.1.5.2",
+                "ECYE.1.5.3"
+            ]
+        }
+    ]
+}

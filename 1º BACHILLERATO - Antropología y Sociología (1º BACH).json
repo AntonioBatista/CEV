@@ -1,0 +1,491 @@
+{
+    "titulo": "1º BACHILLERATO - Antropología y Sociología (1º BACH)",
+    "referencia": "AYSO.1",
+    "competencias_especificas": [
+        {
+            "codigo": "AYSO.1.1",
+            "descripcion": "Aplicar la terminología y los conocimientos teóricos de la antropología y la sociología en la explicación de hechos, fenómenos o relaciones sobre los que investiga, con la intención de fundamentar los resultados de trabajos y valoraciones."
+        },
+        {
+            "codigo": "AYSO.1.2",
+            "descripcion": "Emplear los métodos y técnicas de trabajo de la sociología y la antropología en el estudio de las características del ser humano y en el análisis de los distintos elementos que conforman y organizan la cultura y las sociedades (sociales, políticos, económicos, simbólicos), formulando hipótesis explicativas, estableciendo comparaciones interculturales y valorando críticamente los diferentes modos de vida para dotarlas de rigor y fundamento."
+        },
+        {
+            "codigo": "AYSO.1.3",
+            "descripcion": "Afrontar los retos, tareas o proyectos asumiendo compromisos y responsabilidades, cooperando y tomando decisiones con criterio e interactuar con las personas, respetando las diferencias y estableciendo relaciones constructivas para alcanzar un desarrollo personal y profesional óptimo."
+        },
+        {
+            "codigo": "AYSO.1.4",
+            "descripcion": "Investigar sobre el fenómeno de la globalización económica y cultural, señalando sus consecuencias sobre las formas de vida de los pueblos, las sociedades y sus territorios, con la finalidad de plantear proyectos con acciones y actitudes encaminadas a mejorar la convivencia y el bienestar general de las personas, tomando como referencia la Declaración Universal de los Derechos Humanos."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "AYSO.1.1.1",
+            "descripcion": "Adquirir y usar la terminología propia de la materia demostrando capacidad de aplicación de las estrategias de trabajo específicas de la antropología y la sociología.",
+            "saberes_relacionados": [
+                "AYSO.1.A.1.",
+                "AYSO.1.A.2.",
+                "AYSO.1.A.4."
+            ]
+        },
+        {
+            "referencia": "AYSO.1.1.2",
+            "descripcion": "Analizar y comunicar las distintas formas de vida, grados de desarrollo, transformaciones, problemáticas y rasgos culturales de sociedades determinadas, tanto del pasado como de la actualidad.",
+            "saberes_relacionados": [
+                "AYSO.1.A.5.",
+                "AYSO.1.A.6.",
+                "AYSO.1.A.7."
+            ]
+        },
+        {
+            "referencia": "AYSO.1.1.3",
+            "descripcion": "Interiorizar y exponer los rasgos distintivos de las diferentes culturas y de las relaciones existentes entre sociedad, política, religión, lenguaje y conocimiento.",
+            "saberes_relacionados": [
+                "AYSO.1.A.8.",
+                "AYSO.1.A.9."
+            ]
+        },
+        {
+            "referencia": "AYSO.1.1.4",
+            "descripcion": "Adquirir conciencia de la repercusión de las propias opiniones en la lucha contra las desigualdades, especialmente entre mujeres y hombres, en las diferentes culturas y grupos sociales, y las consecuencias de que estas pervivan en la actualidad.",
+            "saberes_relacionados": [
+                "AYSO.1.A.3.",
+                "AYSO.1.A.10."
+            ]
+        },
+        {
+            "referencia": "AYSO.1.1.5",
+            "descripcion": "Identificar aportaciones y argumentos de autoridad de figuras destacadas de la antropología o sociología.",
+            "saberes_relacionados": [
+                "AYSO.1.A.11.",
+                "AYSO.1.A.12."
+            ]
+        },
+        {
+            "referencia": "AYSO.1.2.1",
+            "descripcion": "Diseñar y elaborar proyectos de investigación social.",
+            "saberes_relacionados": [
+                "AYSO.1.B.1.",
+                "AYSO.1.B.2."
+            ]
+        },
+        {
+            "referencia": "AYSO.1.2.2",
+            "descripcion": "Emplear las estrategias propias de la metodología científica antropológica y sociológica para identificar rasgos sociales y culturales.",
+            "saberes_relacionados": [
+                "AYSO.1.A.8.",
+                "AYSO.1.A.9.",
+                "AYSO.1.B.3.",
+                "AYSO.1.B.5."
+            ]
+        },
+        {
+            "referencia": "AYSO.1.2.3",
+            "descripcion": "Utilizar técnicas de investigación científica.",
+            "saberes_relacionados": [
+                "AYSO.1.B.6.",
+                "AYSO.1.B.7."
+            ]
+        },
+        {
+            "referencia": "AYSO.1.2.4",
+            "descripcion": "Alcanzar una actitud crítica y respetuosa ante las formas y manifestaciones de vida sobre las que investiga.",
+            "saberes_relacionados": [
+                "AYSO.1.B.4.",
+                "AYSO.1.B.8."
+            ]
+        },
+        {
+            "referencia": "AYSO.1.2.5",
+            "descripcion": "Buscar, seleccionar e interpretar de forma crítica información procedente de fuentes diversas para redactar conclusiones que se presentarán en público.",
+            "saberes_relacionados": [
+                "AYSO.1.B.9.",
+                "AYSO.1.B.10."
+            ]
+        },
+        {
+            "referencia": "AYSO.1.3.1",
+            "descripcion": "Adquirir y valorar las habilidades de planificación, organización y de liderazgo para el cumplimiento de objetivos.",
+            "saberes_relacionados": [
+                "AYSO.1.C.1.",
+                "AYSO.1.C.2.",
+                "AYSO.1.C.3."
+            ]
+        },
+        {
+            "referencia": "AYSO.1.3.2",
+            "descripcion": "Desarrollar habilidades personales, sociales y comunicativas y los valores necesarios en el trabajo de equipo y en las interacciones entre iguales.",
+            "saberes_relacionados": [
+                "AYSO.1.C.4.",
+                "AYSO.1.C.6."
+            ]
+        },
+        {
+            "referencia": "AYSO.1.3.3",
+            "descripcion": "Utilizar con maestría las técnicas de realización de debates y puesta en común de conclusiones, participando en estos con rigor y respeto.",
+            "saberes_relacionados": [
+                "AYSO.1.C.5.",
+                "AYSO.1.C.7."
+            ]
+        },
+        {
+            "referencia": "AYSO.1.4.1",
+            "descripcion": "Analizar el impacto de la globalización económica y cultural en las personas, colectivos, pueblos indígenas o sociedades.",
+            "saberes_relacionados": [
+                "AYSO.1.D.1.",
+                "AYSO.1.D.2.",
+                "AYSO.1.A.8."
+            ]
+        },
+        {
+            "referencia": "AYSO.1.4.2",
+            "descripcion": "Aplicar la terminología de la antropología y sociología en el análisis y descripción de hechos, relaciones y fenómenos culturales y sociales en el mundo actual.",
+            "saberes_relacionados": [
+                "AYSO.1.D.3.",
+                "AYSO.1.D.4."
+            ]
+        },
+        {
+            "referencia": "AYSO.1.4.3",
+            "descripcion": "Identificar los factores que provocan el reparto desigual de las riquezas, tomando conciencia de sus repercusiones sociales.",
+            "saberes_relacionados": [
+                "AYSO.1.D.5.",
+                "AYSO.1.D.6."
+            ]
+        },
+        {
+            "referencia": "AYSO.1.4.4",
+            "descripcion": "Utilizar la Declaración Universal de los Derechos Humanos como referente ético y legal para analizar y argumentar desde un punto de vista crítico y práctico hechos, relaciones o fenómenos culturales y sociales analizados que generen desigualdades, así como proponer y diseñar proyectos para dar respuestas que aminoren los efectos de las mismas.",
+            "saberes_relacionados": [
+                "AYSO.1.D.7.",
+                "AYSO.1.D.8."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Antropología social y sociología.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "AYSO.1.A.1.",
+            "descripcion": "La diversidad humana y etnocentrismo. El emic-etic.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.1.1"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.A.2.",
+            "descripcion": "Cultura y culturas, intercambio cultural, multiculturalidad, interculturalidad, aculturación, endoculturación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.1.1"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.A.3.",
+            "descripcion": "El principio de igualdad. Consideración del binomio sexo-género desde diferentes culturas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.1.4"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.A.4.",
+            "descripcion": "Dimensión social del ser humano: la socialización.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.1.1"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.A.5.",
+            "descripcion": "Cambios sociales y modernización.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.1.2"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.A.6.",
+            "descripcion": "La estratificación en las sociedades actuales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.1.2"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.A.7.",
+            "descripcion": "Cambios demográficos y conflicto social.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.1.2"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.A.8.",
+            "descripcion": "Los rasgos distintivos y características principales que definen una cultura: tradición e historia, política, economía, sociedad, religión, lenguaje, producción artística y conocimiento. Historia del pueblo gitano en Andalucía.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.1.3",
+                "AYSO.1.2.2",
+                "AYSO.1.4.1"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.A.9.",
+            "descripcion": "Evolución social y cultural de Andalucía y su reflejo en las producciones culturales, artísticas, religiosas, políticas, sociales y económicas de la comunidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.1.3",
+                "AYSO.1.2.2"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.A.10.",
+            "descripcion": "Roles de género y escenarios de sociabilidad de las mujeres en las distintas culturas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.1.4"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.A.11.",
+            "descripcion": "Claude Lévi-Strauss y la antropología social.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.1.5"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.A.12.",
+            "descripcion": "Las aportaciones principales de Saint Simon y Augusto Comte como precursores y padres de la sociología moderna.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.1.5"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Destrezas y actitudes de investigación.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "AYSO.1.B.1.",
+            "descripcion": "El método científico aplicado a las ciencias sociales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.2.1"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.B.2.",
+            "descripcion": "Diferencias entre el modelo deductivo e inductivo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.2.1"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.B.3.",
+            "descripcion": "Técnicas de recogida de datos: la observación, participación, entrevistas, encuestas, categorización.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.2.2"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.B.4.",
+            "descripcion": "Búsqueda de información veraz y contrastada.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.2.4"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.B.5.",
+            "descripcion": "Análisis de datos cuantitativos y cualitativos. Instrumentos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.2.2"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.B.6.",
+            "descripcion": "Las principales técnicas de investigación científicas en las Ciencias Sociales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.2.3"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.B.7.",
+            "descripcion": "Formulación de hipótesis explicativas y comparaciones. La argumentación contrastada.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.2.3"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.B.8.",
+            "descripcion": "La objetividad y subjetividad en las Ciencias Sociales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.2.4"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.B.9.",
+            "descripcion": "Las fuentes de información. Estudio crítico de las mismas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.2.5"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.B.10.",
+            "descripcion": "Obtención de conclusiones y emisión de informes técnicos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.2.5"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Habilidades sociales, personales y comunicativas.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "AYSO.1.C.1.",
+            "descripcion": "Funciones ejecutivas del ser humano: la planificación, la organización y el estudio.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.3.1"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.C.2.",
+            "descripcion": "Habilidades personales: la perseverancia y la motivación. El liderazgo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.3.1"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.C.3.",
+            "descripcion": "Diseño, elaboración y ejecución de proyectos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.3.1"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.C.4.",
+            "descripcion": "Habilidades sociales: empatía, colaboración, cooperación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.3.2"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.C.5.",
+            "descripcion": "La comunicación eficaz: habilidades comunicativas, escucha activa, barreras del lenguaje.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.3.3"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.C.6.",
+            "descripcion": "Valores universales: respeto, tolerancia, solidaridad y compasión.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.3.2"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.C.7.",
+            "descripcion": "La técnica del debate.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.3.3"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Globalización económica y cultural.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "AYSO.1.D.1.",
+            "descripcion": "La globalización: concepto, clases, evolución y consecuencias.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.4.1"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.D.2.",
+            "descripcion": "Globalización y Agenda 2030.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.4.1"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.D.3.",
+            "descripcion": "El análisis y estudio de hechos, relaciones y fenómenos culturales y sociales en el mundo actual desde la perspectiva de la antropología y la sociología.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.4.2"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.D.4.",
+            "descripcion": "Estilo de vida del mundo desarrollado: consumismo, sobreexplotación de recursos, deslocalización de la producción, aculturación, etc.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.4.2"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.D.5.",
+            "descripcion": "La desigual distribución de las riquezas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.4.3"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.D.6.",
+            "descripcion": "Globalización, Tercer Mundo y solidaridad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.4.3"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.D.7.",
+            "descripcion": "La Declaración Universal de los Derechos Humanos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.4.4"
+            ]
+        },
+        {
+            "referencia": "AYSO.1.D.8.",
+            "descripcion": "Acciones de cooperación, asociacionismo y voluntariado.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AYSO.1.4.4"
+            ]
+        }
+    ]
+}

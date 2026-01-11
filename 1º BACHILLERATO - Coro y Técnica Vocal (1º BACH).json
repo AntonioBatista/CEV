@@ -1,0 +1,301 @@
+{
+    "titulo": "1º BACHILLERATO - Coro y Técnica Vocal (1º BACH)",
+    "referencia": "CORO.1",
+    "competencias_especificas": [
+        {
+            "codigo": "CORO.1.1",
+            "descripcion": "Escuchar y visionar de forma activa piezas vocales de distintos estilos, géneros y culturas, analizando los rasgos de estilo y las características de la interpretación, para desarrollar el criterio estético, estimular el hábito de escucha activa y ampliar las posibilidades de disfrute de la música."
+        },
+        {
+            "codigo": "CORO.1.2",
+            "descripcion": "Expresarse vocal y corporalmente, de forma individual y colectiva, a través de la aplicación de diferentes técnicas y la realización de actividades de improvisación, para reforzar la autoestima y la autoconfianza y desarrollar la voz y el cuerpo como instrumentos de comunicación."
+        },
+        {
+            "codigo": "CORO.1.3",
+            "descripcion": "Interpretar piezas de diferentes estilos y géneros musicales, participando en distintas formaciones vocales, para potenciar una comunicación artística rica y el desarrollo de valores colectivos."
+        },
+        {
+            "codigo": "CORO.1.4",
+            "descripcion": "Participar en proyectos escénicos, realizando actuaciones y asumiendo tareas propias de la producción, para favorecer el crecimiento artístico personal, enriquecer el entorno cultural e identificar oportunidades de desarrollo personal, social, académico o profesional."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "CORO.1.1.1",
+            "descripcion": "Analizar piezas vocales explicando de manera razonada las cualidades que las hacen afines a un estilo, a un género o a una cultura, así como otras características de la interpretación y de la puesta en escena.",
+            "saberes_relacionados": [
+                "CORO.1.A.1.",
+                "CORO.1.A.4.",
+                "CORO.1.A.5."
+            ]
+        },
+        {
+            "referencia": "CORO.1.1.2",
+            "descripcion": "Valorar la influencia e importancia de la música vocal a lo largo de la historia y en la actualidad, analizando críticamente su relación con la cultura y la sociedad, prestando especial atención al de la comunidad andaluza.",
+            "saberes_relacionados": [
+                "CORO.1.A.2.",
+                "CORO.1.A.3.",
+                "CORO.1.A.4.",
+                "CORO.1.C.7."
+            ]
+        },
+        {
+            "referencia": "CORO.1.2.1",
+            "descripcion": "Realizar ejercicios e improvisaciones sencillas para el desarrollo de la escucha activa y de la capacidad vocal, aplicando técnicas vocales y corporales sanas, y reforzando la autoestima y la autoconfianza.",
+            "saberes_relacionados": [
+                "CORO.1.B.1.",
+                "CORO.1.B.2.",
+                "CORO.1.B.5.",
+                "CORO.1.B.6.",
+                "CORO.1.C.2."
+            ]
+        },
+        {
+            "referencia": "CORO.1.2.2",
+            "descripcion": "Reconocer las intencionalidades de la práctica coral y el canto, tanto en la música de nuestra tradición occidental, en especial en la andaluza, como en la de otras culturas, distinguiendo y valorando las características de sus lenguajes.",
+            "saberes_relacionados": [
+                "CORO.1.B.3.",
+                "CORO.1.B.4.",
+                "CORO.1.B.7.",
+                "CORO.1.C.7."
+            ]
+        },
+        {
+            "referencia": "CORO.1.3.1",
+            "descripcion": "Participar como intérprete de coro, demostrando eficacia, escucha activa y una expresión vocal y corporal adecuada al servicio del conjunto y a las directrices de la dirección.",
+            "saberes_relacionados": [
+                "CORO.1.B.3.",
+                "CORO.1.B.4.",
+                "CORO.1.C.1.",
+                "CORO.1.C.2.",
+                "CORO.1.C.3.",
+                "CORO.1.C.6."
+            ]
+        },
+        {
+            "referencia": "CORO.1.3.2",
+            "descripcion": "Conocer las diferentes técnicas interpretativas y utilizarlas en las creaciones individuales y grupales.",
+            "saberes_relacionados": [
+                "CORO.1.B.5.",
+                "CORO.1.C.2.",
+                "CORO.1.C.4."
+            ]
+        },
+        {
+            "referencia": "CORO.1.4.1",
+            "descripcion": "Mostrar, en la actuación, una actitud escénica adecuada y respeto por el público.",
+            "saberes_relacionados": [
+                "CORO.1.C.7.",
+                "CORO.1.C.8.",
+                "CORO.1.C.9."
+            ]
+        },
+        {
+            "referencia": "CORO.1.4.2",
+            "descripcion": "Participar creativa y activamente en el montaje de proyectos escénicos con responsabilidad y conciencia de grupo.",
+            "saberes_relacionados": [
+                "CORO.1.C.5.",
+                "CORO.1.C.8.",
+                "CORO.1.C.9."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Análisis.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CORO.1.A.1.",
+            "descripcion": "Vocabulario específico para el análisis de obras corales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CORO.1.1.1"
+            ]
+        },
+        {
+            "referencia": "CORO.1.A.2.",
+            "descripcion": "Estrategias de escucha activa de obras de diferentes estilos y géneros, incluyendo obras propias del patrimonio musical andaluz.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CORO.1.1.2"
+            ]
+        },
+        {
+            "referencia": "CORO.1.A.3.",
+            "descripcion": "Identificación auditiva de las características básicas de los estilos, géneros y culturas musicales seleccionados.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CORO.1.1.2"
+            ]
+        },
+        {
+            "referencia": "CORO.1.A.4.",
+            "descripcion": "Análisis de audiciones o visionados del repertorio coral de diferentes épocas y estilos de la música culta occidental, así como de otros ámbitos culturales, prestando especial interés al repertorio andaluz, tanto culto como popular.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CORO.1.1.1",
+                "CORO.1.1.2"
+            ]
+        },
+        {
+            "referencia": "CORO.1.A.5.",
+            "descripcion": "La relación texto-música. El texto a través del análisis fonético.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CORO.1.1.1"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Técnica vocal.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CORO.1.B.1.",
+            "descripcion": "Práctica de la relajación y la concentración.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CORO.1.2.1"
+            ]
+        },
+        {
+            "referencia": "CORO.1.B.2.",
+            "descripcion": "Técnicas para el cuidado de la voz y la postura del cuerpo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CORO.1.2.1"
+            ]
+        },
+        {
+            "referencia": "CORO.1.B.3.",
+            "descripcion": "Elementos de la producción vocal. El aparato de fonación: relajación, respiración, vocalización, dicción, articulación, emisión y control del sonido. Impostación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CORO.1.2.2",
+                "CORO.1.3.1"
+            ]
+        },
+        {
+            "referencia": "CORO.1.B.4.",
+            "descripcion": "Técnicas de expresión corporal. Relación de la emisión vocal y el movimiento.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CORO.1.2.2",
+                "CORO.1.3.1"
+            ]
+        },
+        {
+            "referencia": "CORO.1.B.5.",
+            "descripcion": "Práctica de ejercicios y vocalizaciones. Improvisaciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CORO.1.2.1",
+                "CORO.1.3.2"
+            ]
+        },
+        {
+            "referencia": "CORO.1.B.6.",
+            "descripcion": "El oído armónico y la afinación: entonación de intervalos melódicos y armónicos sencillos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CORO.1.2.1"
+            ]
+        },
+        {
+            "referencia": "CORO.1.B.7.",
+            "descripcion": "Valoración del silencio para una buena escucha e interpretación musical.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CORO.1.2.2"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Práctica de conjunto.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CORO.1.C.1.",
+            "descripcion": "El sonido de conjunto: respiración, ataque, afinación, articulación, ritmo, fraseo y dinámica. Equilibrio entre voces y planos sonoros.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CORO.1.3.1"
+            ]
+        },
+        {
+            "referencia": "CORO.1.C.2.",
+            "descripcion": "La improvisación vocal y corporal en el conjunto.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CORO.1.2.1",
+                "CORO.1.3.1",
+                "CORO.1.3.2"
+            ]
+        },
+        {
+            "referencia": "CORO.1.C.3.",
+            "descripcion": "La percusión corporal y otros diseños coreográficos, como acompañamiento de la práctica coral.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CORO.1.3.1"
+            ]
+        },
+        {
+            "referencia": "CORO.1.C.4.",
+            "descripcion": "La memoria musical en la interpretación coral.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CORO.1.3.2"
+            ]
+        },
+        {
+            "referencia": "CORO.1.C.5.",
+            "descripcion": "Los ensayos: finalidades y organización en la práctica coral.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CORO.1.4.2"
+            ]
+        },
+        {
+            "referencia": "CORO.1.C.6.",
+            "descripcion": "Indicaciones y gestos de la dirección coral.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CORO.1.3.1"
+            ]
+        },
+        {
+            "referencia": "CORO.1.C.7.",
+            "descripcion": "Repertorio de coro de diferentes épocas y estilos del ámbito occidental, así como de otros ámbitos culturales, de nivel básico, con o sin acompañamiento instrumental y dando relevancia al de nuestra comunidad autónoma.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CORO.1.1.2",
+                "CORO.1.2.2",
+                "CORO.1.4.1"
+            ]
+        },
+        {
+            "referencia": "CORO.1.C.8.",
+            "descripcion": "Actitud escénica y relación con el público.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CORO.1.4.1",
+                "CORO.1.4.2"
+            ]
+        },
+        {
+            "referencia": "CORO.1.C.9.",
+            "descripcion": "Utilización de medios audiovisuales e informáticos para favorecer la interpretación y la escucha de las producciones propias.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CORO.1.4.1",
+                "CORO.1.4.2"
+            ]
+        }
+    ]
+}

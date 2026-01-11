@@ -1,0 +1,296 @@
+{
+    "titulo": "1º BACHILLERATO - Creación Digital y Pensamiento Computacional (1º BACH)",
+    "referencia": "CDPC.1",
+    "competencias_especificas": [
+        {
+            "codigo": "CDPC.1.1",
+            "descripcion": "Desarrollar el pensamiento computacional y cultivar la creatividad algorítmica y la interdisciplinaridad, así como desarrollar proyectos de construcción de software que cubran el ciclo de vida de desarrollo, integrándose en un equipo de trabajo fomentando habilidades sociales dirigidas a la resolución de conflictos y a la capacidad de llegar a acuerdos."
+        },
+        {
+            "codigo": "CDPC.1.2",
+            "descripcion": "Comprender el impacto de las ciencias de la computación en nuestra sociedad y convertirse en ciudadanos con un alto nivel de alfabetización digital, que sepan emplear software específico para simulación de procesos y aplicar los principios de la Inteligencia Artificial en la creación de un agente inteligente, basado en técnicas de aprendizaje automático siendo conscientes y críticos con las implicaciones en la cesión del uso de los datos, la opacidad y el sesgo inherentes a aplicaciones basadas en las Ciencias de datos, la Simulación y la Inteligencia Artificial."
+        },
+        {
+            "codigo": "CDPC.1.3",
+            "descripcion": "Entender el hacking ético como un conjunto de técnicas encaminadas a mejorar la seguridad de los sistemas informáticos para aplicarlas según sus fundamentos en base a las buenas prácticas establecidas."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "CDPC.1.1.1",
+            "descripcion": "Conocer las estructuras básicas empleadas en la creación de programas informáticos.",
+            "saberes_relacionados": [
+                "CDPC.1.A.1.",
+                "CDPC.1.A.2.",
+                "CDPC.1.A.3."
+            ]
+        },
+        {
+            "referencia": "CDPC.1.1.2",
+            "descripcion": "Construir programas informáticos aplicados al procesamiento de datos multimedia.",
+            "saberes_relacionados": [
+                "CDPC.1.A.4.",
+                "CDPC.1.A.5."
+            ]
+        },
+        {
+            "referencia": "CDPC.1.1.3",
+            "descripcion": "Desarrollar la creatividad computacional mediante el espíritu emprendedor.",
+            "saberes_relacionados": [
+                "CDPC.1.A.5.",
+                "CDPC.1.A.6."
+            ]
+        },
+        {
+            "referencia": "CDPC.1.1.4",
+            "descripcion": "Ser capaz de trabajar en equipo en las diferentes fases del proyecto de construcción de una aplicación multimedia sencilla, colaborando y comunicándose de forma adecuada.",
+            "saberes_relacionados": [
+                "CDPC.1.A.7.",
+                "CDPC.1.A.8.",
+                "CDPC.1.A.9.",
+                "CDPC.1.A.10."
+            ]
+        },
+        {
+            "referencia": "CDPC.1.2.1",
+            "descripcion": "Conocer los aspectos fundamentales de la Ciencia de datos.",
+            "saberes_relacionados": [
+                "CDPC.1.B.1.",
+                "CDPC.1.B.3."
+            ]
+        },
+        {
+            "referencia": "CDPC.1.2.2",
+            "descripcion": "Utilizar una variedad de datos para simular fenómenos naturales y sociales.",
+            "saberes_relacionados": [
+                "CDPC.1.B.2."
+            ]
+        },
+        {
+            "referencia": "CDPC.1.2.3",
+            "descripcion": "Comprender los principios básicos de funcionamiento de la Inteligencia Artificial y su impacto en nuestra sociedad.",
+            "saberes_relacionados": [
+                "CDPC.1.B.3.",
+                "CDPC.1.B.4."
+            ]
+        },
+        {
+            "referencia": "CDPC.1.2.4",
+            "descripcion": "Ser capaz de construir un agente inteligente que emplee técnicas de aprendizaje automático.",
+            "saberes_relacionados": [
+                "CDPC.1.B.4.",
+                "CDPC.1.B.5."
+            ]
+        },
+        {
+            "referencia": "CDPC.1.3.1",
+            "descripcion": "Conocer los fundamentos de seguridad de los sistemas informáticos.",
+            "saberes_relacionados": [
+                "CDPC.1.C.1.",
+                "CDPC.1.C.2.",
+                "CDPC.1.C.3."
+            ]
+        },
+        {
+            "referencia": "CDPC.1.3.2",
+            "descripcion": "Aplicar distintas técnicas para analizar sistemas.",
+            "saberes_relacionados": [
+                "CDPC.1.C.2.",
+                "CDPC.1.C.4."
+            ]
+        },
+        {
+            "referencia": "CDPC.1.3.3",
+            "descripcion": "Documentar los resultados de los análisis.",
+            "saberes_relacionados": [
+                "CDPC.1.C.4.",
+                "CDPC.1.C.5."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Programación Gráfica Multimedia.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CDPC.1.A.1.",
+            "descripcion": "Fundamentos de Programación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CDPC.1.1.1"
+            ]
+        },
+        {
+            "referencia": "CDPC.1.A.2.",
+            "descripcion": "Conceptos de instrucción y secuenciación, algoritmo vs. código.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CDPC.1.1.1"
+            ]
+        },
+        {
+            "referencia": "CDPC.1.A.3.",
+            "descripcion": "Estructuras de control selectivas e iterativas, finitas e infinitas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CDPC.1.1.1"
+            ]
+        },
+        {
+            "referencia": "CDPC.1.A.4.",
+            "descripcion": "Funciones. Introducción al uso de funciones gráficas: punto, línea, triángulo, cuadrado, rectángulo, círculo, elipse, sectores y arcos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CDPC.1.1.2"
+            ]
+        },
+        {
+            "referencia": "CDPC.1.A.5.",
+            "descripcion": "Procesamiento de imágenes. Gráficos vectoriales. Diseño digital generativo basado en algoritmos. Eventos: ratón y teclado. Uso de la línea y el punto para dibujar líneas a mano alzada. Operaciones en el espacio: translaciones, escalados, rotaciones, etc. Diseño de patrones.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CDPC.1.1.2",
+                "CDPC.1.1.3"
+            ]
+        },
+        {
+            "referencia": "CDPC.1.A.6.",
+            "descripcion": "Arte generativo en la naturaleza: Fibonacci y fractales. Imagen de mapa de bits. Aplicación de filtros. Procesamiento de imágenes píxel a píxel.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CDPC.1.1.3"
+            ]
+        },
+        {
+            "referencia": "CDPC.1.A.7.",
+            "descripcion": "Modelado 3D. Herramientas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CDPC.1.1.4"
+            ]
+        },
+        {
+            "referencia": "CDPC.1.A.8.",
+            "descripcion": "Procesamiento de vídeo, audio y animaciones. Tratamiento de vídeo como vector de fotogramas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CDPC.1.1.4"
+            ]
+        },
+        {
+            "referencia": "CDPC.1.A.9.",
+            "descripcion": "Tratamiento del sonido. Diseño de mini-juegos e instalaciones artísticas generativas e interactivas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CDPC.1.1.4"
+            ]
+        },
+        {
+            "referencia": "CDPC.1.A.10.",
+            "descripcion": "Habilidades y herramientas para el trabajo colaborativo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CDPC.1.1.4"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Ciencia de datos, Simulación e Inteligencia Artificial.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CDPC.1.B.1.",
+            "descripcion": "Big data. Características. Volumen de datos. Visualización, transporte y almacenaje de los datos. Recogida, análisis y generación de datos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CDPC.1.2.1"
+            ]
+        },
+        {
+            "referencia": "CDPC.1.B.2.",
+            "descripcion": "Simulación de fenómenos naturales y sociales. Descripción del modelo. Identificación de agentes. Implementación del modelo mediante un software específico, o mediante programación. Técnicas de predicción de datos como sistemas de apoyo a la decisión.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CDPC.1.2.2"
+            ]
+        },
+        {
+            "referencia": "CDPC.1.B.3.",
+            "descripcion": "Inteligencia Artificial. Definición. Historia. El test de Turing. Aplicaciones. Impacto. Ética y responsabilidad social: transparencia y discriminación algorítmica. Beneficios y posibles riesgos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CDPC.1.2.1",
+                "CDPC.1.2.3"
+            ]
+        },
+        {
+            "referencia": "CDPC.1.B.4.",
+            "descripcion": "Agentes inteligentes simples. Análisis y clasificación supervisada basada en técnicas de aprendizaje automático: reconocimiento de habla; reconocimiento de imágenes; y reconocimiento de texto.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CDPC.1.2.3",
+                "CDPC.1.2.4"
+            ]
+        },
+        {
+            "referencia": "CDPC.1.B.5.",
+            "descripcion": "Generación de imágenes y/o música basado en técnicas de aprendizaje automático: mezcla inteligente de dos imágenes; generación de música; traducción y realidad aumentada.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CDPC.1.2.4"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Ciberseguridad.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CDPC.1.C.1.",
+            "descripcion": "Fundamentos de Ciberseguridad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CDPC.1.3.1"
+            ]
+        },
+        {
+            "referencia": "CDPC.1.C.2.",
+            "descripcion": "Introducción a la criptografía. Concepto de criptografía, criptología, criptoanálisis y criptosistema. Elementos de un criptosistema. Cifrado CÉSAR. Cifrado físico. Criptografía avanzada. Esteganografía Estegoanálisis. Cifrado de clave simétrica y asimétrica.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CDPC.1.3.1",
+                "CDPC.1.3.2"
+            ]
+        },
+        {
+            "referencia": "CDPC.1.C.3.",
+            "descripcion": "Diferencia entre hacking y hacking ético. Fases. Tipos de hackers.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CDPC.1.3.1"
+            ]
+        },
+        {
+            "referencia": "CDPC.1.C.4.",
+            "descripcion": "Técnicas de búsqueda de información: Information gathering. Escaneo: pruebas de PenTesting.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CDPC.1.3.2",
+                "CDPC.1.3.3"
+            ]
+        },
+        {
+            "referencia": "CDPC.1.C.5.",
+            "descripcion": "Vulnerabilidades en sistemas. Análisis forense. Repercusiones legales. Ciberdelitos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CDPC.1.3.3"
+            ]
+        }
+    ]
+}

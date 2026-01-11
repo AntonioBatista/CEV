@@ -1,0 +1,283 @@
+{
+    "titulo": "1º BACHILLERATO - Análisis Musical (1º BACH)",
+    "referencia": "AMUS.1",
+    "competencias_especificas": [
+        {
+            "codigo": "AMUS.1.1",
+            "descripcion": "Analizar los elementos musicales de diferentes obras, utilizando la escucha activa y el estudio de partituras, para describir sus características y establecer comparaciones."
+        },
+        {
+            "codigo": "AMUS.1.2",
+            "descripcion": "Establecer relaciones entre los elementos musicales de una composición, a través del análisis de los mismos, de su estructura y de los procedimientos compositivos utilizados, para asociar la obra con un género, un estilo y un contexto de creación."
+        },
+        {
+            "codigo": "AMUS.1.3",
+            "descripcion": "Elaborar comentarios y críticas musicales sobre las obras analizadas, utilizando una terminología adecuada y consultando distintas fuentes de información, para expresar juicios personales fundamentados y contribuir a la difusión del patrimonio musical a través de los medios disponibles, priorizando producciones del repertorio andaluz."
+        },
+        {
+            "codigo": "AMUS.1.4",
+            "descripcion": "Utilizar los procedimientos compositivos fundamentales y las tecnologías digitales, empleando los elementos y las estructuras musicales más adecuadas, para crear obras sencillas y realizar improvisaciones."
+        },
+        {
+            "codigo": "AMUS.1.5",
+            "descripcion": "Investigar sobre los usos de la música y su combinación con otras formas de expresión artística, utilizando diferentes fuentes de información y analizando las características musicales de las obras, para entender de qué forma inciden determinados rasgos musicales en la salud y en las emociones."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "AMUS.1.1.1",
+            "descripcion": "Identificar los elementos que constituyen una obra musical y su función dentro de la composición a través de la escucha activa y con apoyo de la partitura.",
+            "saberes_relacionados": [
+                "AMUS.1.A.1.",
+                "AMUS.1.A.2."
+            ]
+        },
+        {
+            "referencia": "AMUS.1.1.2",
+            "descripcion": "Describir las características musicales básicas de una obra a partir de la escucha activa y el estudio de partituras, analizando sus elementos constitutivos.",
+            "saberes_relacionados": [
+                "AMUS.1.A.2.",
+                "AMUS.1.A.3.",
+                "AMUS.1.B.1.",
+                "AMUS.1.B.2."
+            ]
+        },
+        {
+            "referencia": "AMUS.1.1.3",
+            "descripcion": "Establecer comparaciones entre diferentes composiciones musicales pertenecientes a diferentes contextos, géneros y estilos, incluyendo el patrimonio musical de Andalucía, con actitud de respeto respecto a los condicionantes sociales, históricos y culturales, reconociendo la diversidad cultural como elemento enriquecedor de la sociedad.",
+            "saberes_relacionados": [
+                "AMUS.1.A.3.",
+                "AMUS.1.A.4.",
+                "AMUS.1.A.5."
+            ]
+        },
+        {
+            "referencia": "AMUS.1.2.1",
+            "descripcion": "Analizar, de forma guiada, obras musicales, identificando estructuras formales simples y los procedimientos compositivos utilizados.",
+            "saberes_relacionados": [
+                "AMUS.1.A.4.",
+                "AMUS.1.B.1.",
+                "AMUS.1.B.2.",
+                "AMUS.1.B.3."
+            ]
+        },
+        {
+            "referencia": "AMUS.1.2.2",
+            "descripcion": "Asociar las obras analizadas con su contexto de creación, investigando sobre su compositor o compositora y su época.",
+            "saberes_relacionados": [
+                "AMUS.1.A.3.",
+                "AMUS.1.A.5.",
+                "AMUS.1.B.5."
+            ]
+        },
+        {
+            "referencia": "AMUS.1.2.3",
+            "descripcion": "Identificar los principales elementos del Flamenco como forma de expresión artística, valorando su aportación al patrimonio cultural inmaterial.",
+            "saberes_relacionados": [
+                "AMUS.1.A.3.",
+                "AMUS.1.B.4."
+            ]
+        },
+        {
+            "referencia": "AMUS.1.3.1",
+            "descripcion": "Expresar una opinión propia, informada y fundamentada, sobre las obras analizadas, utilizando un vocabulario musical adecuado.",
+            "saberes_relacionados": [
+                "AMUS.1.A.3.",
+                "AMUS.1.A.6."
+            ]
+        },
+        {
+            "referencia": "AMUS.1.3.2",
+            "descripcion": "Elaborar reseñas musicales para su difusión en medios analógicos y digitales, respetando los derechos de autor y la propiedad intelectual.",
+            "saberes_relacionados": [
+                "AMUS.1.A.6.",
+                "AMUS.1.A.7.",
+                "AMUS.1.A.8."
+            ]
+        },
+        {
+            "referencia": "AMUS.1.4.1",
+            "descripcion": "Reproducir patrones melódicos, rítmicos, armónicos y formales de obras analizadas, aplicando estrategias de memorización y utilizando la interpretación vocal, corporal o instrumental en proyectos musicales grupales.",
+            "saberes_relacionados": [
+                "AMUS.1.B.1.",
+                "AMUS.1.B.2.",
+                "AMUS.1.B.3."
+            ]
+        },
+        {
+            "referencia": "AMUS.1.4.2",
+            "descripcion": "Generar nuevas ideas musicales, combinando patrones melódicos, rítmicos, armónicos y formales previamente analizados e interiorizados.",
+            "saberes_relacionados": [
+                "AMUS.1.A.2.",
+                "AMUS.1.B.1.",
+                "AMUS.1.B.2.",
+                "AMUS.1.B.3."
+            ]
+        },
+        {
+            "referencia": "AMUS.1.4.3",
+            "descripcion": "Utilizar, de forma guiada, diferentes herramientas tecnológicas en la creación de proyectos musicales diversos.",
+            "saberes_relacionados": [
+                "AMUS.1.A.6.",
+                "AMUS.1.A.7."
+            ]
+        },
+        {
+            "referencia": "AMUS.1.5.1",
+            "descripcion": "Identificar las funciones que cumple la música cuando se asocia con otras formas de expresión, por ejemplo: cine, teatro y danza, analizando sus características y el efecto que genera en el espectador.",
+            "saberes_relacionados": [
+                "AMUS.1.A.8.",
+                "AMUS.1.B.5."
+            ]
+        },
+        {
+            "referencia": "AMUS.1.5.2",
+            "descripcion": "Desarrollar propuestas creativas que combinen la música, especialmente la de la comunidad autónoma andaluza, con inclusión del flamenco, con otras formas de expresión artística.",
+            "saberes_relacionados": [
+                "AMUS.1.B.3.",
+                "AMUS.1.B.4."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Iniciación al análisis musical.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "AMUS.1.A.1.",
+            "descripcion": "La escucha activa y el estudio de partituras como soportes para el análisis. Ritmo: percepción de pulso y acento. Imitación y/o improvisación de patrones rítmicos. Discriminación auditiva de compases. Melodía: identificación auditiva de motivo, semifrase y frase. Reconocimiento auditivo de fraseo, clímax, comienzos (técnico-anacrúsico) y finales. Identificación en partitura del ámbito y estructura interválica. El registro. Armonía: discriminación auditiva de consonancia y disonancia, de acordes compactados, arpegiados y bajo Alberti. Textura: identificación auditiva y/o en partitura de monodia, homofonía, melodía acompañada y contrapunto. Timbre: identificación auditiva de los distintos instrumentos de las familias orquestales y de las principales agrupaciones. Identificación auditiva de los distintos tipos de voces humanas y de las principales agrupaciones vocales. Dinámica, agógica y carácter: reconocimiento en partitura de los principales signos o términos relacionados con el tempo, la dinámica o el carácter. Conocimiento de su significado y percepción aproximada de audición.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.1.1.1"
+            ]
+        },
+        {
+            "referencia": "AMUS.1.A.2.",
+            "descripcion": "Elementos básicos de la música y la relación entre ellos. Ritmo: pulso y acento. Tempo: principales compases. Melodía: motivo, frase y semifrase; la melodía vocal. Armonía: consonancia y disonancia; acordes compactados, arpegiados y bajo Alberti. Textura: monodia, homofonía, melodía acompañada y contrapunto. Timbre: distintos instrumentos de las familias orquestales, así como de las principales agrupaciones; distintos tipos de voces humanas y sus principales agrupaciones. Dinámica y agógica: principales signos o términos relacionados con el tempo y la dinámica.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.1.1.1",
+                "AMUS.1.1.2",
+                "AMUS.1.4.2"
+            ]
+        },
+        {
+            "referencia": "AMUS.1.A.3.",
+            "descripcion": "Técnicas de análisis auditivo de obras de diferentes estilos y géneros, incluyendo obras propias del patrimonio musical andaluz e incidiendo de forma relevante en el repertorio flamenco.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.1.1.2",
+                "AMUS.1.1.3",
+                "AMUS.1.2.2",
+                "AMUS.1.2.3",
+                "AMUS.1.3.1"
+            ]
+        },
+        {
+            "referencia": "AMUS.1.A.4.",
+            "descripcion": "Estrategias de análisis de los elementos musicales de la partitura con apoyo de la audición.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.1.1.3",
+                "AMUS.1.2.1"
+            ]
+        },
+        {
+            "referencia": "AMUS.1.A.5.",
+            "descripcion": "El género musical. Criterios de clasificación. Identificación de sus tipos. Diferencias con el estilo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.1.1.3",
+                "AMUS.1.2.2"
+            ]
+        },
+        {
+            "referencia": "AMUS.1.A.6.",
+            "descripcion": "Procedimientos para la elaboración de reseñas musicales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.1.3.1",
+                "AMUS.1.3.2",
+                "AMUS.1.4.3"
+            ]
+        },
+        {
+            "referencia": "AMUS.1.A.7.",
+            "descripcion": "Recursos digitales para la investigación, la composición y la difusión musical. El registro musical como base de la audición: evolución de la grabación sonora desde sus orígenes hasta nuestros días con la era digital.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.1.3.2",
+                "AMUS.1.4.3"
+            ]
+        },
+        {
+            "referencia": "AMUS.1.A.8.",
+            "descripcion": "Respeto de los derechos de autor y de la propiedad intelectual.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.1.3.2",
+                "AMUS.1.5.1"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "La forma musical.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "AMUS.1.B.1.",
+            "descripcion": "Sintaxis musical e interrelación con la morfología de los diferentes elementos musicales: célula, motivo, frase y semifrase, período, sección y movimiento. Ritmo melódico y armónico. Cadencias.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.1.1.2",
+                "AMUS.1.2.1",
+                "AMUS.1.4.1",
+                "AMUS.1.4.2"
+            ]
+        },
+        {
+            "referencia": "AMUS.1.B.2.",
+            "descripcion": "Formas simples. Formas-tipo. Representación de esquemas formales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.1.1.2",
+                "AMUS.1.2.1",
+                "AMUS.1.4.1",
+                "AMUS.1.4.2"
+            ]
+        },
+        {
+            "referencia": "AMUS.1.B.3.",
+            "descripcion": "Procedimientos compositivos fundamentales: repetición, variación, contraste y desarrollo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.1.2.1",
+                "AMUS.1.4.1",
+                "AMUS.1.4.2",
+                "AMUS.1.5.2"
+            ]
+        },
+        {
+            "referencia": "AMUS.1.B.4.",
+            "descripcion": "Iniciación al análisis del Flamenco: principales disciplinas, estructuras, armonías y compás.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.1.2.3",
+                "AMUS.1.5.2"
+            ]
+        },
+        {
+            "referencia": "AMUS.1.B.5.",
+            "descripcion": "Función de la música en combinación con otras manifestaciones artísticas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.1.2.2",
+                "AMUS.1.5.1"
+            ]
+        }
+    ]
+}

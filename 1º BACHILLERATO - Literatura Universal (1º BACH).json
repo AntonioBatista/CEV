@@ -1,0 +1,371 @@
+{
+    "titulo": "1º BACHILLERATO - Literatura Universal (1º BACH)",
+    "referencia": "LITU.1",
+    "competencias_especificas": [
+        {
+            "codigo": "LITU.1.1",
+            "descripcion": "Leer, interpretar y valorar clásicos de la literatura universal atendiendo tanto a las relaciones internas de los elementos constitutivos del género y sus funciones en las obras como a las relaciones externas de las obras con su contexto de producción y su inscripción en la tradición cultural, para ensanchar las posibilidades de disfrute de la literatura y para estimular la creatividad literaria y artística."
+        },
+        {
+            "codigo": "LITU.1.2",
+            "descripcion": "Leer de manera autónoma clásicos de la literatura universal, como fuente de placer y conocimiento y compartir experiencias de lectura, para construir la propia identidad lectora y para disfrutar de la dimensión social de la lectura."
+        },
+        {
+            "codigo": "LITU.1.3",
+            "descripcion": "Establecer vínculos entre obras de diferentes épocas, géneros y lenguajes artísticos, reconociendo semejanzas y diferencias en función de sus respectivos contextos de producción y de la interrelación entre literatura y sociedad, para constatar la existencia de universales temáticos y cauces formales recurrentes a lo largo de la historia de la cultura."
+        },
+        {
+            "codigo": "LITU.1.4",
+            "descripcion": "Consolidar un marco de referencias compartidas a partir del conocimiento de los rasgos de los principales movimientos estéticos y algunas de las obras literarias más relevantes del patrimonio universal, para conformar un mapa cultural en el que inscribir las experiencias literarias y culturales personales."
+        },
+        {
+            "codigo": "LITU.1.5",
+            "descripcion": "Participar en la construcción de un canon literario universal que integre la perspectiva de experiencia de las mujeres a través de la lectura de obras de escritoras y que supere los marcos de la cultura occidental, para desarrollar el pensamiento crítico con respecto a la construcción discursiva del mundo y sus imaginarios e identidades."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "LITU.1.1.1",
+            "descripcion": "Explicar y argumentar la interpretación de las obras leídas a partir del análisis de las relaciones internas de sus elementos constitutivos con el sentido de la obra y de las relaciones externas del texto con su contexto sociohistórico y con la tradición literaria y cultural, utilizando un metalenguaje específico e incorporando juicios de valor vinculados a la apreciación estética de las obras.",
+            "saberes_relacionados": [
+                "LITU.1.A.1.",
+                "LITU.1.A.2.",
+                "LITU.1.B.2.",
+                "LITU.1.B.6."
+            ]
+        },
+        {
+            "referencia": "LITU.1.1.2",
+            "descripcion": "Crear textos personales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos significativos de la literatura universal, de distintas épocas y contextos culturales, en los que se empleen las convenciones formales de los diversos géneros y estilos literarios.",
+            "saberes_relacionados": [
+                "LITU.1.A.1.",
+                "LITU.1.A.3.",
+                "LITU.1.B.8."
+            ]
+        },
+        {
+            "referencia": "LITU.1.2.1",
+            "descripcion": "Elaborar una interpretación personal a partir de la lectura autónoma de obras relevantes de la literatura universal, atendiendo a aspectos temáticos, de género y subgénero, elementos de la estructura y el estilo, así como valores éticos y estéticos de las obras, estableciendo vínculos argumentados con otras obras y otras experiencias artísticas y culturales.",
+            "saberes_relacionados": [
+                "LITU.1.A.1.",
+                "LITU.1.A.2.",
+                "LITU.1.B.2.",
+                "LITU.1.C.5.",
+                "LITU.1.C.6."
+            ]
+        },
+        {
+            "referencia": "LITU.1.2.2",
+            "descripcion": "Acceder de diversas formas a la cultura literaria universal en el marco de un itinerario lector personal que enriquezca, de forma consciente y sistemática, la propia identidad lectora y compartir las propias experiencias de lectura con la ayuda de un metalenguaje específico.",
+            "saberes_relacionados": [
+                "LITU.1.A.1.",
+                "LITU.1.B.7.",
+                "LITU.1.C.7."
+            ]
+        },
+        {
+            "referencia": "LITU.1.3.1",
+            "descripcion": "Comparar textos o fragmentos literarios entre sí, de diferentes épocas, contextos, géneros y formas artísticas de la cultura universal, y con otras manifestaciones artísticas, argumentando oralmente o por escrito los elementos de semejanza y contraste, tanto en lo relativo a aspectos temáticos y de contenido, como formales y expresivos, atendiendo también a sus valores éticos y estéticos.",
+            "saberes_relacionados": [
+                "LITU.1.A.1.",
+                "LITU.1.A.2.",
+                "LITU.1.B.4.",
+                "LITU.1.C.1."
+            ]
+        },
+        {
+            "referencia": "LITU.1.3.2",
+            "descripcion": "Desarrollar proyectos de investigación, con la ayuda de medios audiovisuales y de las tecnologías de la información y la comunicación, que se concreten en una exposición oral, un ensayo o una presentación multimodal y que muestren una implicación y respuesta personal, en torno a una cuestión que establezca vínculos argumentados entre los clásicos de la literatura universal objeto de lectura guiada y otros textos y manifestaciones artísticas de ayer y de hoy, en función de temas, tópicos, estructuras, lenguaje, recursos expresivos y valores éticos y estéticos.",
+            "saberes_relacionados": [
+                "LITU.1.A.3.",
+                "LITU.1.C.3."
+            ]
+        },
+        {
+            "referencia": "LITU.1.4.1",
+            "descripcion": "Elaborar de manera individual o colectiva una exposición multimodal que sitúe los textos leídos en su horizonte histórico-cultural, y que ofrezca una panorámica de conjunto sobre movimientos artísticos y obras relevantes de la literatura universal.",
+            "saberes_relacionados": [
+                "LITU.1.B.1.",
+                "LITU.1.B.3.",
+                "LITU.1.C.4.",
+                "LITU.1.B.6."
+            ]
+        },
+        {
+            "referencia": "LITU.1.4.2",
+            "descripcion": "Realizar exposiciones orales o escritas, de forma individual o en grupo, acerca de obras literarias más relevantes de la literatura universal, seleccionando información procedente de diferentes fuentes, expresando las propias opiniones sobre las mismas y examinando la huella de su legado en la actualidad.",
+            "saberes_relacionados": [
+                "LITU.1.A.1.",
+                "LITU.1.B.1."
+            ]
+        },
+        {
+            "referencia": "LITU.1.5.1",
+            "descripcion": "Realizar un proyecto de investigación sobre autoras de relevancia, obras literarias de contextos no occidentales o sobre cuestiones temáticas o formales que aporten una mirada diversa y crítica sobre la construcción de imaginarios e identidades que propone la tradición literaria.",
+            "saberes_relacionados": [
+                "LITU.1.A.3.",
+                "LITU.1.B.5.",
+                "LITU.1.C.3."
+            ]
+        },
+        {
+            "referencia": "LITU.1.5.2",
+            "descripcion": "Elaborar comentarios críticos de textos, orales o escritos, y participar en debates o mesas redondas acerca de lecturas en los que se incorpore la perspectiva de género y se ponga en cuestión la mirada etnocéntrica propia del canon occidental, así como cualquier otro discurso predominante en nuestra sociedad que suponga opresión sobre cualquier sesgo de género y ante minoría alguna.",
+            "saberes_relacionados": [
+                "LITU.1.A.1.",
+                "LITU.1.A.3.",
+                "LITU.1.A.4.",
+                "LITU.1.B.5.",
+                "LITU.1.C.2."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Construcción guiada y compartida de la interpretación de algunos clásicos de la literatura universal inscritos en itinerarios temáticos que establezcan relaciones intertextuales entre obras y fragmentos de diferentes géneros, épocas, contextos culturales y códigos artísticos, así como con sus respectivos contextos de producción, de acuerdo a los siguientes ejes y estrategias: temas y formas de la literatura universal.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITU.1.A.1.",
+            "descripcion": "Decir el yo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITU.1.1.1",
+                "LITU.1.1.2",
+                "LITU.1.2.1",
+                "LITU.1.2.2",
+                "LITU.1.3.1",
+                "LITU.1.4.2",
+                "LITU.1.5.2"
+            ]
+        },
+        {
+            "referencia": "LITU.1.A.1.1.",
+            "descripcion": "Poesía lírica. El género lírico en la Biblia: El Cantar de los Cantares y el Libro de las Lamentaciones. La lírica clásica. La lírica griega: Safo, Teognis y Anacreonte. La lírica romana: Catulo, Virgilio y Ovidio. La poesía filosófica de Píndaro y Horacio. La lírica medieval: la poesía provenzal. La canción de mujer: jarchas, cantigas y villancicos. La lírica renacentista: el dolce stil nuovo y el petrarquismo. La lírica romántica: Sturm und Drag. Friedrich von Schiller y Goethe. La poesía romántica inglesa: Wordsworth, Coleridge; los poetas satánicos: Lord Byron, Percy Bysshe Shelley y John Keats. La poesía romántica alemana: Friedrich Hölderlin y Novalis. La poesía a finales del siglo XIX. El simbolismo: Charles Baudelaire, Stéphane Mallarmé, Paul Verlaine, Arthur Rimbaud, Rainer Maria Rilke y Constantino Cavafis. La poesía norteamericana: Walt Whitman y Emily Dickinson. La poesía del siglo XX: Paul Valéry, Rainer Maria Rilke, William Butler Yeats, Constantino Cavafis y Fernando Pessoa. Las vanguardias. La poesía de la segunda mitad del siglo XX: Paul Celan, Cesare Pavese, Jacques Prévert y Sylvia Plath.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITU.1.A.1.2.",
+            "descripcion": "Literatura testimonial y biográfica: diarios, cartas, memorias, autobiografías, autoficción, etc. La novela europea del siglo XVIII. La novela epistolar del siglo XVIII: Los sufrimientos del joven Werther de Goethe; Rousseau y Julia, o la Nueva Eloísa; Choderlos de Laclos y Las amistades peligrosas. La autobiografía ficticia de Daniel Defoe en Robinson Crusoe y la autobiografía paródica de Laurence Sterne en Tristram Shandy. Metaficción en la narrativa del siglo XX: Truman Capote e Italo Calvino, Vladimir Nabokov.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITU.1.A.1.3.",
+            "descripcion": "Narrativa existencial: personajes en crisis. La novela existencialista francesa: Jean-Paul Sartre, Simone de Beauvoir y Albert Camus. La renovación de la novela, personajes en crisis: Ulises de James Joyce; En busca del tiempo perdido de Marcel Proust; La metamorfosis de Frank Kafka, Las olas de Virginia Woolf y La montaña mágica de Thomas Mann. La narrativa después de 1945, el realismo «sucio» norteamericano: Charles Bukowski, J. D. Salinger y Raymond Carver.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITU.1.A.2.",
+            "descripcion": "Dialogar con los otros.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITU.1.1.1",
+                "LITU.1.2.1",
+                "LITU.1.3.1"
+            ]
+        },
+        {
+            "referencia": "LITU.1.A.2.1.",
+            "descripcion": "Frente a la ley o el destino: la tragedia. La tragedia griega: Esquilo, Sófocles y Eurípides. El siglo XVII, el siglo del teatro. El teatro isabelino. William Shakespeare. El teatro francés: Pierre Corneille, Jean Racine y Molière.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITU.1.A.2.2.",
+            "descripcion": "Frente a las convenciones sociales: el drama. William Shakespeare: dramas históricos. La transgresión del drama romántico: Victor Hugo, Goethe y Friedrich Schiller. El teatro de finales del siglo XIX: Henrik Ibsen, Antón Chéjov, George Bernard Shaw y Oscar Wilde. El teatro del siglo XX: El teatro épico de Bertolt Brecht. El teatro crítico norteamericano: Tennessee Williams y Arthur Miller.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITU.1.A.2.3.",
+            "descripcion": "Humor crítico, humor complaciente: la comedia. La comedia en Grecia y Roma: Aristófanes y Plauto. La commedia dell’arte. Las comedias del siglo XVII: Shakespeare y Molière. El teatro del absurdo: Samuel Beckett y Eugène Ionesco.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITU.1.A.3.",
+            "descripcion": "Imaginar el mundo, observar el mundo, actuar en el mundo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITU.1.1.2",
+                "LITU.1.3.2",
+                "LITU.1.5.1",
+                "LITU.1.5.2"
+            ]
+        },
+        {
+            "referencia": "LITU.1.A.3.1.",
+            "descripcion": "Mundos imaginados: mitos y narrativa. Mitologías. Héroes y heroínas. Viajes imaginarios. Espacios y criaturas fantásticas. Utopías, distopías, ciencia ficción. Las literaturas de las primeras civilizaciones: Egipto, Mesopotamia, India y China. Poema de Gilgamesh y Panchatantra. Los mitos clásicos y la literatura épica en Grecia y Roma: La Ilíada y la Odisea de Homero. Las Metamorfosis de Ovidio. La épica medieval: Beowulf, Cantar de Roldán y el Cantar de los Nibelungos. La materia de Bretaña. Los viajes imaginarios de la Ilustración al siglo XX: Cándido de Voltaire, Los viajes de Gulliver de Jonathan Swift y Joseph Andrews de Henry Fielding. Robert Louis Stevenson, Joseph Conrad, Rudyard Kipling. Utopías, distopías y ciencia ficción en el siglo XX y su influencia en el cine: Julio Verne, H.G. Wells, Ray Bradbury y George Orwell. Anthony Burgess.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITU.1.A.3.2.",
+            "descripcion": "Mundos observados: cuento y novela. Bildungsroman o novela de formación. Espacios privados, espacios públicos: afectos íntimos y lazos sociales. Desigualdades, discriminación, violencias. Guerra y revolución. Exilio, migraciones e identidades culturales. Colonialismo y emancipación. Los cuentos medievales: Calila e Dimna, Sendebar, el Decamerón de Giovanni Boccaccio y los Cuentos de Canterbury de Geoffrey Chaucer. La novela de formación: Las aventuras de Wilhelm Meister de Goethe; Enrique de Ofterdingen de Novalis e Hiperión de Friedrich Hölderlin. Retrato del artista adolescente de James Joyce. Espacios privados y públicos: afectos íntimos y lazos sociales: la novela realista y naturalista del siglo XIX. Stendhal, Balzac, Flaubert, Zola. Charles Dickens. Fiódor Dostoievski, León Tolstoi. El cuento en el siglo XIX: Nikolái Gógol y Guy de Maupassant. Henry James y Joseph Conrad. El trascendentalismo norteamericano. La generación perdida. Desigualdades, discriminación, violencia. Guerra y revolución. Guerra y paz de León Tolstoi, la novela y la Segunda Guerra Mundial: Boris Pasternak, Irène Némirovski, Primo Levi y Günter Grass. Migraciones e identidades culturales: El mundo de ayer de Stefan Zweig y Habla, memoria de Vladimir Nabokov. Estambul de Orham Pamuk. Colonialismo y emancipación: El corazón de las tinieblas de Joseph Conrad, Kim de Rudyard Kipling y Los días de Birmania de George Orwell.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITU.1.A.3.3.",
+            "descripcion": "Mundos de evasión: relato breve y novela de género. La novela idealista. La literatura de aventuras y la novela policíaca. Literatura de terror. La novela histórica romántica y de aventuras: sir Walter Scott, Victor Hugo, Alejandro Dumas.– La novela sentimental, la novela de terror y la novela gótica: Orgullo y prejuicio de Jane Austen. Frankenstein de Mary Shelley. Otras tradiciones: El extraño caso del Dr. Jekyll y Mr. Hyde de R. L. Stevenson y El retrato de Dorian Gray de Oscar Wilde. El relato fantástico: Los hermanos Grimm, E.T.A. Hoffmann, Edgar Allan Poe. La novela de aventuras de fin de siglo (R. L. Stevenson, Emilio Salgari, Julio Verne y Rudyard Kipling). La novela policíaca: Agatha Christie y Arthur Conan Doyle. La novela policíaca norteamericana: Dashiell Hammett y Raymond Chandler.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITU.1.A.3.4.",
+            "descripcion": "El arte como compromiso: el ensayo. La literatura de ideas: Essais de Michel de Montaigne. El ensayo en el siglo XVIII: Montesquieu, Voltaire y Rousseau.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITU.1.A.4.",
+            "descripcion": "El ser humano, los animales y la naturaleza. Admiración, sobrecogimiento, denuncia. Poesía, narrativa y ensayo. La fábula. La creación del mundo: la Biblia y El Poema de Gilgamesh. La naturaleza en Grecia y Roma: los Idilios de Teócrito, las Églogas de Virgilio. El «locus amoenus» en el Renacimiento: La Arcadia de Jacopo Sannazaro. La naturaleza en la Ilustración: Emilio de Rousseau y el sometimiento de la naturaleza en Robinson Crusoe de Daniel Defoe. El panteísmo romántico: William Blake, William Wordsworth, Friedrich Hölderlin y Samuel Taylor Coleridge. Oda a un ruiseñor de Keats. Moby Dick de Herman Melville o la imposibilidad de dominar la naturaleza. La América rural de Mark Twain. La exaltación de la naturaleza en Walt Whitman y en Rainer María Rilke. Los animales: Rebelión en la granja de George Orwell. El amor a los animales: Mi familia y otros animales de Gerald Durrell. La animalización del ser humano como recurso en el teatro del absurdo: Esperando a Godot de Samuel Beckett y Rinoceronte de Eugène Ionesco.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITU.1.5.2"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Estrategias de análisis, interpretación, recreación y valoración crítica para la lectura compartida.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITU.1.B.1.",
+            "descripcion": "Construcción compartida de la interpretación de las obras a través de discusiones o conversaciones literarias.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITU.1.4.1",
+                "LITU.1.4.2"
+            ]
+        },
+        {
+            "referencia": "LITU.1.B.2.",
+            "descripcion": "Análisis de los elementos constitutivos del género literario y su relación con el sentido de la obra. Efectos en la recepción de sus recursos expresivos. Armonía o desequilibrio entre fondo y forma.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITU.1.1.1",
+                "LITU.1.2.1"
+            ]
+        },
+        {
+            "referencia": "LITU.1.B.3.",
+            "descripcion": "Utilización de la información sociohistórica, cultural y artística necesaria para interpretar las obras y comprender su lugar en la tradición literaria.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITU.1.4.1"
+            ]
+        },
+        {
+            "referencia": "LITU.1.B.4.",
+            "descripcion": "Establecimiento de vínculos intertextuales entre obras y otras manifestaciones artísticas (música, danza, pintura, escultura, cine, fotografía, etc.) en función de temas, tópicos, estructuras y lenguajes. Elementos de continuidad y ruptura.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITU.1.3.1"
+            ]
+        },
+        {
+            "referencia": "LITU.1.B.5.",
+            "descripcion": "Indagación en torno al funcionamiento de la literatura como artefacto ideológico determinante en la construcción de los imaginarios sociales, haciendo especial hincapié en la perspectiva de género. La censura.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITU.1.5.1",
+                "LITU.1.5.2"
+            ]
+        },
+        {
+            "referencia": "LITU.1.B.6.",
+            "descripcion": "Expresión argumentada de la interpretación de los textos, integrando los diferentes aspectos analizados y atendiendo a sus valores culturales, éticos y estéticos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITU.1.1.1",
+                "LITU.1.4.1"
+            ]
+        },
+        {
+            "referencia": "LITU.1.B.7.",
+            "descripcion": "Lectura expresiva, dramatización y recitación de los textos atendiendo a los procesos de comprensión y de oralización implicados.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITU.1.2.2"
+            ]
+        },
+        {
+            "referencia": "LITU.1.B.8.",
+            "descripcion": "Creación de textos de intención literaria a partir de las obras leídas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITU.1.1.2"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Lectura autónoma de obras relevantes del patrimonio universal.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITU.1.C.1.",
+            "descripcion": "Selección de las obras de manera autónoma y con la ayuda de recomendaciones especializadas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITU.1.3.1"
+            ]
+        },
+        {
+            "referencia": "LITU.1.C.2.",
+            "descripcion": "Participación en conversaciones literarias y en intercambios de recomendaciones lectoras en contextos presencial y digital (bibliotuber, booktrailer, booktuber, etc.).",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITU.1.5.2"
+            ]
+        },
+        {
+            "referencia": "LITU.1.C.3.",
+            "descripcion": "Utilización autónoma y frecuente de bibliotecas, con especial atención a las bibliotecas y repositorios digitales. Acceso a otras experiencias culturales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITU.1.3.2",
+                "LITU.1.5.1"
+            ]
+        },
+        {
+            "referencia": "LITU.1.C.4.",
+            "descripcion": "Expresión argumentada de los gustos lectores personales. Diversificación del corpus leído.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITU.1.4.1"
+            ]
+        },
+        {
+            "referencia": "LITU.1.C.5.",
+            "descripcion": "Expresión de la experiencia lectora utilizando un metalenguaje específico y atendiendo a aspectos temáticos, género literario y subgénero, elementos de la estructura y el estilo, y valores éticos y estéticos de las obras.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITU.1.2.1"
+            ]
+        },
+        {
+            "referencia": "LITU.1.C.6.",
+            "descripcion": "Movilización de la experiencia personal, lectora y cultural para establecer vínculos entre la obra leída y aspectos de la actualidad y otras manifestaciones literarias o artísticas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITU.1.2.1"
+            ]
+        },
+        {
+            "referencia": "LITU.1.C.7.",
+            "descripcion": "Recomendación de las lecturas en soportes variados atendiendo a aspectos temáticos, formales e intertextuales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITU.1.2.2"
+            ]
+        }
+    ]
+}
