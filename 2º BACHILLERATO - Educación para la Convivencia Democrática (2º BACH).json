@@ -1,0 +1,281 @@
+{
+    "titulo": "2º BACHILLERATO - Educación para la Convivencia Democrática (2º BACH)",
+    "referencia": "EPCD.2",
+    "competencias_especificas": [
+        {
+            "codigo": "EPCD.2.1",
+            "descripcion": "Entender el diálogo como un ejercicio de rigor, espíritu crítico, tolerancia y empatía, a través de la resolución de cuestiones de manera dialógica y respetuosa con las opiniones contrarias de las cuestiones que atañen a la vida en común y a los problemas derivados de esta para la práctica de una ciudadanía activa y democrática."
+        },
+        {
+            "codigo": "EPCD.2.2",
+            "descripcion": "Comprender la necesidad de las normas, así como distinguir, en el ejercicio del poder del Estado, las acciones que garanticen y promuevan la consecución de los valores de libertad, igualdad y justicia, partiendo de su vida escolar y trascendiendo al resto de contextos vitales, para guiar nuestra acción ética y política de manera responsable, crítica y comprometida con la convivencia pacífica y con el bien común."
+        },
+        {
+            "codigo": "EPCD.2.3",
+            "descripcion": "Analizar problemas éticos y políticos fundamentales, derivados de cuestiones de actualidad como la manipulación y el control a través de los medios de comunicación e internet, la igualdad de género y el papel del ser humano en la destrucción del medioambiente y la pandemia, mediante la exposición crítica y dialéctica de distintas posiciones filosóficas pertinentes en la interpretación y resolución de los mismos, para desarrollar el juicio propio y la autonomía moral."
+        },
+        {
+            "codigo": "EPCD.2.4",
+            "descripcion": "Adquirir una perspectiva global, sistémica y transdisciplinar en el planteamiento de cuestiones fundamentales y de actualidad, integrando información e ideas de distintos ámbitos disciplinares a través de la perspectiva que otorga el conocimiento de los conceptos y corrientes filosóficas en juego, para tratar problemas complejos de modo crítico, creativo y transformador."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "EPCD.2.1.1",
+            "descripcion": "Entender el diálogo de manera rigurosa, racional, respetuosa, abierta, constructiva y comprometida con la verdad, abordando el debate y participando en foros de opinión sobre los temas que se le plantean en forma de cuestión relevante para la vida en común y la consecución de valores como libertad, igualdad y justicia.",
+            "saberes_relacionados": [
+                "EPCD.2.A.1.3.",
+                "EPCD.2.A.3.1.",
+                "EPCD.2.A.3.2."
+            ]
+        },
+        {
+            "referencia": "EPCD.2.1.2",
+            "descripcion": "Producir y evaluar discursos orales acerca de cuestiones éticas y políticas, usando la argumentación de manera correcta, así como detectando y evitando modos dogmáticos y sesgados de sostener opiniones e hipótesis, interactuando empáticamente con los otros alcanzando consensos o respetando las discrepancias.",
+            "saberes_relacionados": [
+                "EPCD.2.A.1.",
+                "EPCD.2.A.2.",
+                "EPCD.2.A.3.",
+                "EPCD.2.B.1.",
+                "EPCD.2.B.2.",
+                "EPCD.2.B.3."
+            ]
+        },
+        {
+            "referencia": "EPCD.2.2.1",
+            "descripcion": "Comprender críticamente desde el análisis riguroso de datos y la metodología científica los conceptos de ley, poder, justicia, Estado, democracia, igualdad económica, así como igualdad ante la ley y de oportunidades, violencia y desobediencia a la ley, a través del análisis en que se integren los datos y explicaciones científicas y la toma razonada y dialogante de posición en torno a cuestiones éticas y políticas de actualidad que atañen al papel del Estado ante asuntos relativos a la igualdad, las libertades y los derechos.",
+            "saberes_relacionados": [
+                "EPCD.2.A.1.",
+                "EPCD.2.A.3."
+            ]
+        },
+        {
+            "referencia": "EPCD.2.2.2",
+            "descripcion": "Generar un compromiso activo con el bien común, tomando conciencia de su papel relevante frente a problemas éticos presentes en la convivencia social, partiendo de su vida escolar y trascendiendo al resto de contextos vitales, adoptando una postura social proactiva a la vez que beligerante ante posibles amenazas a la comunidad.",
+            "saberes_relacionados": [
+                "EPCD.2.A.2."
+            ]
+        },
+        {
+            "referencia": "EPCD.2.3.1",
+            "descripcion": "Contrastar las distintas posiciones con las propias tesis a través de la argumentación y el diálogo en el análisis de problemas éticos y políticos fundamentales y de actualidad, como los derivados de las nuevas tecnologías de la comunicación o de nuestra relación con el medio ambiente.",
+            "saberes_relacionados": [
+                "EPCD.2.B.3."
+            ]
+        },
+        {
+            "referencia": "EPCD.2.3.2",
+            "descripcion": "Tomar consciencia de la lucha por una efectiva igualdad de género, a través del análisis de las teorías en torno a la cuestión del género como una creación social, y de la comprensión de los conceptos más importantes del feminismo, proponiendo y desarrollando actuaciones posibles para la consecución de una igualdad real entre géneros.",
+            "saberes_relacionados": [
+                "EPCD.2.B.1.",
+                "EPCD.2.B.2."
+            ]
+        },
+        {
+            "referencia": "EPCD.2.4.1",
+            "descripcion": "Utilizar conceptos, datos y métodos de análisis provenientes de distintos campos del saber, desde concepciones filosóficas a explicaciones científicas, afrontando temas complejos como el ejercicio del poder, el uso y recepción de las nuevas tecnologías de la información, las relaciones de género o el papel del ser humano ante catástrofes medioambientales o sociales, analizándolos desde una perspectiva global, sistémica y transdisciplinaria.",
+            "saberes_relacionados": [
+                "EPCD.2.B.1.",
+                "EPCD.2.B.2.",
+                "EPCD.2.B.3."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "El poder. Relación con la libertad, igualdad y justicia.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.2.A.1.",
+            "descripcion": "El concepto de poder y su relación con la libertad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPCD.2.1.2",
+                "EPCD.2.2.1"
+            ]
+        },
+        {
+            "referencia": "EPCD.2.A.1.1.",
+            "descripcion": "El imperio de la ley como garantía frente al poder arbitrario. El pensamiento político de la ilustración frente al absolutismo.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.2.A.1.2.",
+            "descripcion": "La dialéctica entre seguridad y libertad en los distintos modelos de Estado.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.2.A.1.3.",
+            "descripcion": "El poder disciplinario y las sociedades disciplinarias. Las sociedades de control (Michel Foucault y Gilles Deleuze). El materialismo: Marx Engels y Gustavo Bueno.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "EPCD.2.1.1"
+            ]
+        },
+        {
+            "referencia": "EPCD.2.A.1.4.",
+            "descripcion": "Las organizaciones supranacionales y su papel en un mundo globalizado: organismos militares, económicos, religiosos y políticos.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.2.A.2.",
+            "descripcion": "Igualdad. Aspiración social.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPCD.2.1.2",
+                "EPCD.2.2.2"
+            ]
+        },
+        {
+            "referencia": "EPCD.2.A.2.1.",
+            "descripcion": "La educación y otras instituciones del Estado como garantes de la igualdad de oportunidades.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.2.A.2.2.",
+            "descripcion": "La educación en Andalucía como motor de igualdad social y de oportunidades. El “Estatuto de Andalucía”.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.2.A.2.3.",
+            "descripcion": "Derechos civiles. Derechos Económicos. Fiscalidad. Empresas. Otras organizaciones importantes para el Estado (bolsas, bancos, notarías, registros...)",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.2.A.3.",
+            "descripcion": "Justicia social.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPCD.2.1.2",
+                "EPCD.2.2.1"
+            ]
+        },
+        {
+            "referencia": "EPCD.2.A.3.1.",
+            "descripcion": "El terrorismo de ETA. La transición española desde 1975 a 1978.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "EPCD.2.1.1"
+            ]
+        },
+        {
+            "referencia": "EPCD.2.A.3.2.",
+            "descripcion": "La ley como contrato social. De la Constitución de 1812 a la Constitución de 1978. Los valores y principios constitucionales. Ordenamiento normativo autonómico, constitucional y supranacional como garante del desarrollo de derechos y libertades para el ejercicio de la ciudadanía.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "EPCD.2.1.1"
+            ]
+        },
+        {
+            "referencia": "EPCD.2.A.3.3.",
+            "descripcion": "La ética de la compasión frente a la violencia estructural. Chantal Maillard.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.2.A.3.4.",
+            "descripcion": "Participación activa de la ciudadanía en el ejercicio y defensa de sus derechos y libertades.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Retos y problemas de la actualidad.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.2.B.1.",
+            "descripcion": "Tecnologías de la información y medios de comunicación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPCD.2.1.2",
+                "EPCD.2.3.2",
+                "EPCD.2.4.1"
+            ]
+        },
+        {
+            "referencia": "EPCD.2.B.1.1.",
+            "descripcion": "El uso público de la razón en Kant. La función de la opinión pública.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.2.B.1.2.",
+            "descripcion": "El poder de los medios de comunicación. La escuela de Frankfurt y la industria cultural. Noam Chomsky y las estrategias de manipulación.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.2.B.1.3.",
+            "descripcion": "Las teorías de la verdad. La pos-verdad y los medios de comunicación. Fake news, redes sociales e influencers y su papel en la política. El poder del algoritmo.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.2.B.2.",
+            "descripcion": "Cuestiones de género.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPCD.2.1.2",
+                "EPCD.2.3.2",
+                "EPCD.2.4.1"
+            ]
+        },
+        {
+            "referencia": "EPCD.2.B.2.1.",
+            "descripcion": "Distintas manifestaciones del sexismo: la desigualdad en las tareas domésticas, en las relaciones y condiciones laborales, en la educación y transmisión de costumbres. En el lenguaje y los medios de comunicación.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.2.B.2.2.",
+            "descripcion": "La violencia de género y los factores sociales que la provocan. Teoría del ciclo de la violencia. Mitos y falsas creencias sobre la violencia de género.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.2.B.3.",
+            "descripcion": "Reflexión filosófica acerca de la historia, problemas medioambientales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPCD.2.1.2",
+                "EPCD.2.3.1",
+                "EPCD.2.4.1"
+            ]
+        },
+        {
+            "referencia": "EPCD.2.B.3.1.",
+            "descripcion": "Éticas de la felicidad ante la catástrofe: la recuperación del estoicismo y el hedonismo.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.2.B.3.2.",
+            "descripcion": "Conceptos políticos en juego a partir de la pandemia. La polémica entre nuevo capitalismo (Byung Chul Han) y nuevo comunismo (Slavoj Zizek). Otras polémicas y reflexiones filosóficas.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.2.B.3.3.",
+            "descripcion": "Guerra y paz: doctrinas filosóficas sobre la guerra y las intervenciones militares. El derecho de guerra y la guerra justa.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPCD.2.B.3.4.",
+            "descripcion": "Organizaciones, asociaciones y colectivos implicados en la mejora de la sociedad: reducción de las desigualdades, atención a los refugiados, atención alimentaria y sanitaria, universalización de la educación, entre otras actuaciones.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        }
+    ]
+}

@@ -1,0 +1,641 @@
+{
+    "titulo": "1º DIVERSIFICACIÓN - Ámbito Lingüístico y Social (1º DIVER)",
+    "referencia": "ALS.1",
+    "competencias_especificas": [
+        {
+            "codigo": "ALS.1.1",
+            "descripcion": "Describir y apreciar la diversidad lingüística, cultural y artística del mundo a partir del reconocimiento y puesta en valor del patrimonio material e inmaterial que compartimos, como las lenguas maternas del alumnado y la realidad plurilingüe y pluricultural de España, así como de la lengua extranjera, analizando el origen y desarrollo sociohistórico de las mismas y valorando las variedades dialectales como el andaluz, para favorecer la reflexión lingüística, valorar la diversidad y actuar de forma empática, respetuosa y solidaria en situaciones interculturales favoreciendo la convivencia."
+        },
+        {
+            "codigo": "ALS.1.2",
+            "descripcion": "Comprender e interpretar textos orales y multimodales en lengua materna y lengua extranjera, expresados de forma clara, identificando el punto de vista y la intención del emisor, buscando fuentes fiables para responder a necesidades comunicativas concretas, construir conocimiento y formarse opinión."
+        },
+        {
+            "codigo": "ALS.1.3",
+            "descripcion": "Producir textos orales y multimodales en lengua materna y lengua extranjera con creciente autonomía, fluidez y corrección, respondiendo a los propósitos comunicativos y siendo respetuosos con las normas de cortesía, tanto para construir conocimiento como para intervenir de manera activa e informada en diferentes contextos sociales."
+        },
+        {
+            "codigo": "ALS.1.4",
+            "descripcion": "Comprender, interpretar y valorar, con sentido crítico, textos escritos sobre temas relevantes del presente y del pasado, en lengua castellana y en lengua extranjera, reconociendo el sentido global y las ideas principales y secundarias, identificando la intención del emisor y haciendo uso de las estrategias adecuadas de comprensión para construir conocimiento, formarse opinión y dar respuesta a necesidades e intereses comunicativos diversos."
+        },
+        {
+            "codigo": "ALS.1.5",
+            "descripcion": "Producir textos escritos y multimodales coherentes, cohesionados, adecuados y correctos en lengua castellana y textos de extensión media, sencillos y con una organización clara en lengua extranjera, usando estrategias tales como la planificación, la compensación o la autorreparación para construir conocimiento y dar respuesta a demandas y propósitos comunicativos concretos y para desarrollar un pensamiento crítico que contribuya a la construcción de la propia identidad y a promover la participación ciudadana y la cohesión social."
+        },
+        {
+            "codigo": "ALS.1.6",
+            "descripcion": "Buscar, seleccionar, contrastar y organizar información procedente de diferentes fuentes de manera progresivamente autónoma, sobre temas del presente y del pasado, geográficos, históricos, literarios, sociales y culturales que resulten relevantes en la actualidad; usando críticamente las fuentes y evaluando su fiabilidad para transformar la información en conocimiento y para desarrollar un pensamiento crítico que contribuya a la construcción de la propia identidad y de la cohesión social."
+        },
+        {
+            "codigo": "ALS.1.7",
+            "descripcion": "Conocer, valorar y saber interpretar el patrimonio cultural, nacional y universal, que conforman la realidad multicultural en la que vivimos, para establecer vínculos entre las semejanzas y diferencias de lenguas, manifestaciones artísticas y culturas, configurando un itinerario lector para construir la propia identidad lectora, con el fin de actuar de forma empática y respetuosa en situaciones interculturales para fomentar la convivencia y la cooperación."
+        },
+        {
+            "codigo": "ALS.1.8",
+            "descripcion": "Utilizar el conocimiento sobre las lenguas, reflexionar sobre su funcionamiento, con la terminología adecuada, para mejorar la respuesta a necesidades comunicativas concretas, de forma oral y escrita, en lengua castellana y en lengua extranjera."
+        },
+        {
+            "codigo": "ALS.1.9",
+            "descripcion": "Analizar la construcción de los sistemas democráticos y los principios constitucionales, para ponerlos en práctica en situaciones cotidianas de convivencia junto con estrategias de resolución de conflictos, de igualdad de derechos y de un uso no discriminatorio de las lenguas."
+        },
+        {
+            "codigo": "ALS.1.10",
+            "descripcion": "Identificar y analizar de forma crítica los elementos del paisaje y su articulación en sistemas complejos, incluyendo los ciclos demográficos, así como su evolución, para promover alternativas saludables, sostenibles, enriquecedoras y respetuosas con la dignidad humana y el compromiso con la sociedad y el entorno."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "ALS.1.1.1",
+            "descripcion": "Reconocer las lenguas de España y alguna de las variedades dialectales, especialmente la modalidad lingüística andaluza, contrastando sus diferencias y actuando de forma empática y respetuosa hacia los hablantes de cualquier lengua extranjera, en situaciones interculturales, tendiendo vínculos interculturales, eliminando los prejuicios y fomentando la convivencia.",
+            "saberes_relacionados": [
+                "ALS.1.A.1.",
+                "ALS.1.A.2.",
+                "ALS.1.A.3.",
+                "ALS.1.A.4."
+            ]
+        },
+        {
+            "referencia": "ALS.1.1.2",
+            "descripcion": "Utilizar la lengua propia y la extranjera para desarrollar una actitud de respeto, aceptando la diversidad lingüística como fuente de cultura y enriquecimiento personal, aplicando, a través de su uso, estrategias para comprender la diversidad lingüística como instrumento de intercambio cultural, respetando los principios de justicia, equidad e igualdad.",
+            "saberes_relacionados": [
+                "ALS.1.A.1.",
+                "ALS.1.A.2.",
+                "ALS.1.A.3.",
+                "ALS.1.A.4."
+            ]
+        },
+        {
+            "referencia": "ALS.1.2.1",
+            "descripcion": "Comprender el sentido global del texto en función de las necesidades comunicativas y la intención del emisor en textos orales, escritos y multimodales sobre temas frecuentes y de la vida cotidiana, en lengua castellana y en lengua extranjera, así como en soportes analógicos y digitales, interpretando elementos no verbales y avanzando progresivamente hacia destrezas de comprensión e interpretación más complejas en lengua castellana.",
+            "saberes_relacionados": [
+                "ALS.1.B.1.",
+                "ALS.1.B.2.",
+                "ALS.1.B.3.1.",
+                "ALS.1.B.3.2.",
+                "ALS.1.B.3.7."
+            ]
+        },
+        {
+            "referencia": "ALS.1.2.2",
+            "descripcion": "Interpretar y valorar el contenido de los textos orales, escritos y multimodales de manera progresivamente autónoma tanto en lengua castellana como en lengua extranjera, relacionándolos con temas de relevancia social, relaciones interpersonales y de los medios de comunicación, valorando en lengua castellana la idoneidad del canal y los procedimientos para evitar la manipulación y la desinformación.",
+            "saberes_relacionados": [
+                "ALS.1.B.1.",
+                "ALS.1.B.2.",
+                "ALS.1.B.3.1.",
+                "ALS.1.B.3.2.",
+                "ALS.1.B.3.7."
+            ]
+        },
+        {
+            "referencia": "ALS.1.3.1",
+            "descripcion": "Realizar narraciones y exposiciones sencillas en lengua castellana, así como pequeños textos orales, escritos y multimodales en lengua extranjera, atendiendo a los diversos géneros discursivos, con coherencia y corrección, usando elementos verbales y no verbales y diferentes soportes, atendiendo a la situación comunicativa.",
+            "saberes_relacionados": [
+                "ALS.1.A.5.",
+                "ALS.1.A.6.",
+                "ALS.1.A.7.",
+                "ALS.1.A.8.",
+                "ALS.1.B.3.3."
+            ]
+        },
+        {
+            "referencia": "ALS.1.3.2",
+            "descripcion": "Planificar y participar de manera activa en interacciones orales sencillas tanto en lengua castellana como en lengua extranjera, de forma individual y grupal, atendiendo a la escucha activa y a la cooperación conversacional, apoyándose en recursos tales como la repetición, el ritmo o el lenguaje no verbal, aumentando progresivamente la dificultad y desarrollando destrezas que permitan hacer comparaciones, resúmenes y finalizar la comunicación de forma correcta.",
+            "saberes_relacionados": [
+                "ALS.1.A.5.",
+                "ALS.1.A.6.",
+                "ALS.1.A.7.",
+                "ALS.1.A.8.",
+                "ALS.1.B.3.3."
+            ]
+        },
+        {
+            "referencia": "ALS.1.4.1",
+            "descripcion": "Comprender el sentido global, la estructura, la información más relevante y la intención del emisor de textos escritos y multimodales sencillos de diferentes ámbitos en lengua castellana, así como comprender progresivamente textos breves y sencillos en lengua extranjera sobre temas frecuentes y cotidianos, de relevancia personal y próximos a su experiencia, propios de los ámbitos de las relaciones interpersonales, del aprendizaje, de los medios de comunicación y de la ficción expresados de forma clara y en la lengua estándar.",
+            "saberes_relacionados": [
+                "ALS.1.B.3.4."
+            ]
+        },
+        {
+            "referencia": "ALS.1.4.2",
+            "descripcion": "Valorar de manera progresivamente autónoma la forma y el contenido de textos escritos y multimodales sencillos en lengua castellana y en lengua extranjera evaluando su calidad, fiabilidad e idoneidad del canal utilizado, así como la eficacia de los procedimientos comunicativos empleados y aplicar las estrategias y conocimientos más adecuados en situaciones comunicativas cotidianas para comprender el sentido general, la información esencial.",
+            "saberes_relacionados": [
+                "ALS.1.B.3.4."
+            ]
+        },
+        {
+            "referencia": "ALS.1.5.1",
+            "descripcion": "Planificar la redacción de textos escritos y multimodales sencillos en lengua castellana, atendiendo a la situación comunicativa y destinatario; redactar borradores y revisarlos con ayuda del diálogo entre iguales e instrumentos de consulta; y presentar un texto final progresivamente coherente, cohesionado y con el registro adecuado; así como en lengua extranjera, de manera cada vez más autónoma, organizar y redactar textos breves, sencillos y comprensibles adecuados a la situación comunicativa propuesta, sobre asuntos cotidianos y frecuentes de relevancia para el alumnado y próximos a su experiencia.",
+            "saberes_relacionados": [
+                "ALS.1.B.3.5."
+            ]
+        },
+        {
+            "referencia": "ALS.1.5.2",
+            "descripcion": "Organizar e incorporar procedimientos básicos para planificar, producir y revisar textos escritos en lengua castellana, atendiendo a aspectos discursivos, lingüísticos y de estilo, con precisión léxica y corrección ortográfica y gramatical de manera que sean comprensibles, coherentes y adecuados a las intenciones comunicativas, las características contextuales y la tipología textual, usando con ayuda los recursos físicos o digitales más adecuados en función de la tarea y las necesidades de cada momento e incorporando y utilizando adecuadamente términos, conceptos y acontecimientos relacionados con geografía, la historia y otras disciplinas de las ciencias sociales.",
+            "saberes_relacionados": [
+                "ALS.1.B.3.5."
+            ]
+        },
+        {
+            "referencia": "ALS.1.6.1",
+            "descripcion": "Buscar y seleccionar información mediante la consulta de diferentes fuentes, desarrollando progresivamente estrategias de búsqueda, selección y tratamiento de información relativas a procesos y acontecimientos relevantes del presente y del pasado; así como identificar, valorar y mostrar interés por los principales problemas que afectan a la sociedad, adoptando una posición crítica hacia los mismos.",
+            "saberes_relacionados": [
+                "ALS.1.B.3.6."
+            ]
+        },
+        {
+            "referencia": "ALS.1.6.2",
+            "descripcion": "Organizar progresivamente la información de diferentes fuentes relativas a procesos y acontecimientos relevantes del presente y del pasado y reelaborarla en diferentes tipos de textos integrando y presentando contenidos propios en forma de esquemas, tablas informativas y otros tipos de formatos mediante el desarrollo de estrategias de búsqueda, selección y tratamiento de información y elaborando trabajos de investigación de manera dirigida en diferentes soportes sobre diversos temas de interés académico, personal o social a partir de la información seleccionada.",
+            "saberes_relacionados": [
+                "ALS.1.B.3.6."
+            ]
+        },
+        {
+            "referencia": "ALS.1.7.1",
+            "descripcion": "Conocer, valorar y saber interpretar obras de distintas manifestaciones artísticas, tanto nacionales como universales, configurando de forma progresiva un itinerario lector, para fomentar la empatía y el respeto en situaciones interculturales.",
+            "saberes_relacionados": [
+                "ALS.1.C.1.",
+                "ALS.1.C.2.",
+                "ALS.1.C.3.",
+                "ALS.1.C.4."
+            ]
+        },
+        {
+            "referencia": "ALS.1.7.2",
+            "descripcion": "Reflexionar sobre las semejanzas y diferencias entre lenguas, manifestaciones artísticas y culturales, con el fin de mejorar situaciones comunicativas orales y escritas, y fomentar la convivencia y la cooperación.",
+            "saberes_relacionados": [
+                "ALS.1.C.1.",
+                "ALS.1.C.4.",
+                "ALS.1.G.1.",
+                "ALS.1.G.2."
+            ]
+        },
+        {
+            "referencia": "ALS.1.7.3",
+            "descripcion": "Identificar e interpretar la conexión de España y Andalucía con los grandes procesos históricos, de las épocas Antigua, Medieval y Moderna.",
+            "saberes_relacionados": [
+                "ALS.1.C.1.",
+                "ALS.1.F.4.",
+                "ALS.1.F.6."
+            ]
+        },
+        {
+            "referencia": "ALS.1.8.1",
+            "descripcion": "Revisar los propios textos, orales y escritos, en lengua castellana y en lengua extranjera, reflexionando sobre su funcionamiento, con el fin de mejorar las situaciones comunicativas cotidianas.",
+            "saberes_relacionados": [
+                "ALS.1.A.5.",
+                "ALS.1.B.2.",
+                "ALS.1.B.3.7."
+            ]
+        },
+        {
+            "referencia": "ALS.1.8.2",
+            "descripcion": "Utilizar un metalenguaje específico, en lengua castellana y en lengua extranjera, para explicar la interrelación entre el propósito comunicativo y las elecciones lingüísticas en situaciones comunicativas cotidianas, consultando diccionarios, manuales y gramáticas.",
+            "saberes_relacionados": [
+                "ALS.1.D.1.",
+                "ALS.1.D.2.",
+                "ALS.1.D.3.",
+                "ALS.1.D.4."
+            ]
+        },
+        {
+            "referencia": "ALS.1.8.3",
+            "descripcion": "Identificar y registrar los progresos y dificultades de aprendizaje, a nivel oral y escrito, en lengua castellana y en lengua extranjera, realizando actividades de autoevaluación y coevaluación como las propuestas en el Portfolio Europeo de las Lenguas (PLE), en un soporte analógico o digital.",
+            "saberes_relacionados": [
+                "ALS.1.A.5.",
+                "ALS.1.D.4."
+            ]
+        },
+        {
+            "referencia": "ALS.1.9.1",
+            "descripcion": "Identificar e interpretar los mecanismos que han regulado la convivencia y la vida en común a lo largo de la historia, destacando las actitudes pacíficas y tolerantes que favorecen la convivencia democrática.",
+            "saberes_relacionados": [
+                "ALS.1.F.1.",
+                "ALS.1.F.2.",
+                "ALS.1.F.3.",
+                "ALS.1.F.4.",
+                "ALS.1.G.4."
+            ]
+        },
+        {
+            "referencia": "ALS.1.9.2",
+            "descripcion": "Conocer e iniciar la aplicación de estrategias comunicativas variadas que ayuden a facilitar la comprensión, explicación y producción de mensajes que respeten los derechos humanos, la igualdad y un uso no discriminatorio de las lenguas, en el ámbito educativo.",
+            "saberes_relacionados": [
+                "ALS.1.G.1.",
+                "ALS.1.G.2.",
+                "ALS.1.G.3."
+            ]
+        },
+        {
+            "referencia": "ALS.1.10.1",
+            "descripcion": "Identificar y analizar el entorno desde una perspectiva sistémica e integradora, a través del concepto de paisaje y sus elementos, y de la evolución de los ciclos demográficos.",
+            "saberes_relacionados": [
+                "ALS.1.E.1.",
+                "ALS.1.E.3.",
+                "ALS.1.F.5."
+            ]
+        },
+        {
+            "referencia": "ALS.1.10.2",
+            "descripcion": "Conocer y promover actitudes de defensa, protección, conservación y mejora del entorno, fomentando alternativas saludables, sostenibles, enriquecedoras y respetuosas.",
+            "saberes_relacionados": [
+                "ALS.1.E.2.",
+                "ALS.1.E.3.",
+                "ALS.1.E.4.",
+                "ALS.1.G.3."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Las lenguas y sus hablantes, interculturalidad y plurilingüismo.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ALS.1.A.1.",
+            "descripcion": "Las familias lingüísticas y las lenguas del mundo. Aproximación a la lengua de signos. Reflexión de la propia biografía lingüística. Reconocimiento de la lengua extranjera como medio de comunicación interpersonal y fuente de enriquecimiento. Interés en la realización de intercambios comunicativos con hablantes de lengua extranjera.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.1.1",
+                "ALS.1.1.2"
+            ]
+        },
+        {
+            "referencia": "ALS.1.A.2.",
+            "descripcion": "Reconocimiento de la diversidad lingüística de España. Diferencias entre plurilingüismo y diversidad dialectal; identificación de prejuicios y estereotipos lingüísticos y formas de evitarlos. El papel de la religión en la organización social y formación de identidades: formación de las grandes religiones. Patrones culturales básicos de la lengua extranjera, así como aspectos básicos relativos a la vida cotidiana y relaciones interpersonales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.1.1",
+                "ALS.1.1.2"
+            ]
+        },
+        {
+            "referencia": "ALS.1.A.3.",
+            "descripcion": "Comparación de los rasgos de las principales variedades dialectales del español, con especial referencia a la modalidad andaluza. La influencia islámica y su presencia en Andalucía. Las convenciones sociales básicas; el lenguaje no verbal, la cortesía lingüística y la valoración de las lenguas como fuente de cultura.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.1.1",
+                "ALS.1.1.2"
+            ]
+        },
+        {
+            "referencia": "ALS.1.A.4.",
+            "descripcion": "Iniciación a la reflexión interlingüística. Estrategias básicas para apreciar la diversidad lingüística, así como la detección y actuación ante usos discriminatorios del lenguaje verbal y no verbal por motivo de género u origen.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.1.1",
+                "ALS.1.1.2"
+            ]
+        },
+        {
+            "referencia": "ALS.1.A.5.",
+            "descripcion": "La autoconfianza. El error como instrumento de mejora. Estrategias y herramientas básicas de autoevaluación y coevaluación, analógicas y digitales, individuales y cooperativas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.3.1",
+                "ALS.1.3.2",
+                "ALS.1.8.1",
+                "ALS.1.8.3"
+            ]
+        },
+        {
+            "referencia": "ALS.1.A.6.",
+            "descripcion": "Funciones comunicativas básicas adecuadas al ámbito y contexto comunicativo en ambas lenguas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.3.1",
+                "ALS.1.3.2"
+            ]
+        },
+        {
+            "referencia": "ALS.1.A.7.",
+            "descripcion": "Unidades lingüísticas básicas y significados asociados a dichas unidades tales como expresión de la entidad y sus propiedades, cantidad y cualidad, el espacio, el tiempo, la afirmación, negación, interrogación, y exclamación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.3.1",
+                "ALS.1.3.2"
+            ]
+        },
+        {
+            "referencia": "ALS.1.A.8.",
+            "descripcion": "Patrones sonoros, acentuales, rítmicos y de entonación básicos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.3.1",
+                "ALS.1.3.2"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Comunicación.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ALS.1.B.1.",
+            "descripcion": "El contexto. Componentes del hecho comunicativo: grado de formalidad, carácter público o privado, distancia social, intención comunicativa, canal y elementos no verbales. Su importancia en ambas lenguas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.2.1",
+                "ALS.1.2.2"
+            ]
+        },
+        {
+            "referencia": "ALS.1.B.2.",
+            "descripcion": "Los géneros discursivos en ambas lenguas. Secuencias básicas (narración, descripción, diálogo y exposición). Propiedades textuales: cohesión, coherencia y adecuación. Léxico de uso común en lengua extranjera y de interés para el alumnado relativo a identificación personal y relaciones interpersonales, lugares cercanos, tiempo libre, vida cotidiana, salud y actividad física, vivienda y hogar, clima y tecnologías de la información y comunicación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.2.1",
+                "ALS.1.2.2",
+                "ALS.1.8.1"
+            ]
+        },
+        {
+            "referencia": "ALS.1.B.3.",
+            "descripcion": "Procesos comunicativos.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ALS.1.B.3.1.",
+            "descripcion": "Interacción oral y escrita de carácter informal en ambas lenguas. Turno de palabra, cooperación conversacional, escucha activa y resolución dialogada de conflictos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ALS.1.2.1",
+                "ALS.1.2.2"
+            ]
+        },
+        {
+            "referencia": "ALS.1.B.3.2.",
+            "descripcion": "Comprensión oral en ambas lenguas. Sentido global del texto y relación entre sus partes, retención de la información relevante. Detección de usos discriminatorios del lenguaje verbal y no verbal.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ALS.1.2.1",
+                "ALS.1.2.2"
+            ]
+        },
+        {
+            "referencia": "ALS.1.B.3.3.",
+            "descripcion": "Producción oral formal en ambas lenguas. Planificación y búsqueda de información. Adecuación a la audiencia y a los tiempos de exposición. Elementos no verbales. Rasgos discursivos y lingüísticos de la oralidad formal. Identificación de la autoría y veracidad de las fuentes consultadas y los contenidos utilizados.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ALS.1.3.1",
+                "ALS.1.3.2"
+            ]
+        },
+        {
+            "referencia": "ALS.1.B.3.4.",
+            "descripcion": "Comprensión lectora en ambas lenguas. Sentido global de textos y relación entre sus partes. La intención del emisor. Estrategias básicas del ámbito lingüístico y social: análisis de textos, interpretación de mapas, esquemas, síntesis y gráficos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ALS.1.4.1",
+                "ALS.1.4.2"
+            ]
+        },
+        {
+            "referencia": "ALS.1.B.3.5.",
+            "descripcion": "Producción escrita en ambas lenguas. Planificación, redacción, revisión y edición en diferentes soportes. Corrección gramatical y ortográfica. Propiedad léxica. Usos de la escritura para la organización del pensamiento: toma de notas, esquemas, mapas conceptuales, definiciones, resúmenes, etc.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ALS.1.5.1",
+                "ALS.1.5.2"
+            ]
+        },
+        {
+            "referencia": "ALS.1.B.3.6.",
+            "descripcion": "Alfabetización informacional: búsqueda y selección de información y elaboración del conocimiento. Utilización de plataformas virtuales para la realización de proyectos escolares. Estrategias básicas de búsqueda de información tales como diccionarios, libros de consulta, bibliotecas y recursos digitales e informáticos. Uso de herramientas analógicas y digitales básicas para la comprensión, producción y coproducción oral, escrita y multimodal. Lectura crítica de la información.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ALS.1.6.1",
+                "ALS.1.6.2"
+            ]
+        },
+        {
+            "referencia": "ALS.1.B.3.7.",
+            "descripcion": "Reconocimiento y uso discursivo de los elementos lingüísticos en las lenguas: Implicación del emisor: deixis y modalización. Adecuación del registro a la situación. Mecanismos de cohesión. Coherencia en las formas verbales. Corrección lingüística, ortográfica y gramatical. Uso de diccionarios, manuales y correctores ortográficos. Los signos básicos de puntuación.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "ALS.1.2.1",
+                "ALS.1.2.2",
+                "ALS.1.8.1"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Patrimonio cultural y literario.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ALS.1.C.1.",
+            "descripcion": "Las raíces clásicas de la cultura occidental. Significado y función de las expresiones artísticas y culturales en las distintas civilizaciones. Diversidad y riqueza cultural. Respeto y conservación del patrimonio material e inmaterial.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.7.1",
+                "ALS.1.7.2",
+                "ALS.1.7.3"
+            ]
+        },
+        {
+            "referencia": "ALS.1.C.2.",
+            "descripcion": "Estrategias básicas para entender y apreciar la diversidad cultural y artística. Conservación y defensa del patrimonio histórico, artístico y cultural. El patrimonio andaluz.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.7.1"
+            ]
+        },
+        {
+            "referencia": "ALS.1.C.3.",
+            "descripcion": "Lectura guiada de obras o fragmentos relevantes de la literatura juvenil contemporánea y del patrimonio literario andaluz, nacional y universal, inscritas en itinerarios temáticos o de género, que incluyan la presencia de autoras y autores.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.7.1"
+            ]
+        },
+        {
+            "referencia": "ALS.1.C.4.",
+            "descripcion": "Relación y comparación de los textos leídos con otros textos, con otras manifestaciones artísticas y culturales, como el Flamenco, y con las nuevas formas de ficción en función de temas, tópicos, estructuras y lenguajes.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.7.1",
+                "ALS.1.7.2"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Reflexión sobre la lengua.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ALS.1.D.1.",
+            "descripcion": "Reconocimiento de la lengua como sistema y de sus unidades básicas según los diferentes niveles: el sonido y sistema de escritura, las palabras (forma y significado) y su organización en el discurso (orden de las palabras, componentes de las oraciones o conexiones entre los significados), a partir de la comparación entre la lengua castellana y la lengua extranjera.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.8.2"
+            ]
+        },
+        {
+            "referencia": "ALS.1.D.2.",
+            "descripcion": "Aproximación a los cambios de significado de las palabras, sus relaciones semánticas y sus valores denotativos y connotativos. Procedimientos de adquisición y formación de palabras.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.8.2"
+            ]
+        },
+        {
+            "referencia": "ALS.1.D.3.",
+            "descripcion": "Relación entre los esquemas semántico y sintáctico de la oración simple.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.8.2"
+            ]
+        },
+        {
+            "referencia": "ALS.1.D.4.",
+            "descripcion": "Estrategias de uso progresivamente autónomo de diccionarios y manuales de gramática para obtener una terminología gramatical básica en lengua castellana y lengua extranjera.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.8.2",
+                "ALS.1.8.3"
+            ]
+        },
+        {
+            "referencia": "E.",
+            "descripcion": "Retos del mundo actual.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ALS.1.E.1.",
+            "descripcion": "Ubicación espacial: representación del espacio, orientación y escalas. Utilización de recursos digitales e interpretación y elaboración de mapas, esquemas, imágenes y representaciones gráficas. Tecnologías de la Información Geográfica (TIG).",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.10.1"
+            ]
+        },
+        {
+            "referencia": "ALS.1.E.2.",
+            "descripcion": "Emergencia climática: impacto y soluciones. Biodiversidad. Dinámicas y amenazas de los ecosistemas planetarios. Características generales del medio físico andaluz, español, europeo y mundial. La influencia humana en la alteración de los ecosistemas en el pasado y la actualidad. Conservación y mejora del entorno local y global.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.10.2"
+            ]
+        },
+        {
+            "referencia": "ALS.1.E.3.",
+            "descripcion": "Tecnologías de la información. Manejo y utilización de dispositivos, aplicaciones informáticas y plataformas digitales. Búsqueda, tratamiento de la información y elaboración de conocimiento. Uso seguro de las redes de comunicación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.10.1",
+                "ALS.1.10.2"
+            ]
+        },
+        {
+            "referencia": "ALS.1.E.4.",
+            "descripcion": "Objetivos de Desarrollo Sostenible. La visión de los dilemas del mundo actual, punto de partida para el pensamiento crítico y el desarrollo de juicios propios.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.10.2"
+            ]
+        },
+        {
+            "referencia": "F.",
+            "descripcion": "Sociedades y territorios.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ALS.1.F.1.",
+            "descripcion": "Análisis multidisciplinar del origen del ser humano y del nacimiento de la sociedad. Grandes migraciones humanas y el nacimiento de las primeras culturas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.9.1"
+            ]
+        },
+        {
+            "referencia": "ALS.1.F.2.",
+            "descripcion": "Las fuentes históricas y arqueológicas como base para la construcción del conocimiento histórico. Objetos y artefactos como fuente para la historia. El significado de los archivos, bibliotecas y museos y del legado histórico y cultural como patrimonio colectivo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.9.1"
+            ]
+        },
+        {
+            "referencia": "ALS.1.F.3.",
+            "descripcion": "Condicionantes geográficos e interpretaciones históricas del surgimiento de las civilizaciones. Las grandes rutas comerciales y las estrategias por el control de los recursos. El Mediterráneo como espacio geopolítico y de comunicación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.9.1"
+            ]
+        },
+        {
+            "referencia": "ALS.1.F.4.",
+            "descripcion": "La organización política del ser humano y las formulaciones estatales en el mundo Antiguo, Medieval y Moderno: democracias, repúblicas, imperios y reinos. Evolución de la teoría del poder.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.7.3",
+                "ALS.1.9.1"
+            ]
+        },
+        {
+            "referencia": "ALS.1.F.5.",
+            "descripcion": "Interpretación del territorio y del paisaje. La ciudad y el mundo rural a lo largo de la historia: polis, urbes, ciudades, villas y aldeas. La huella humana y la protección del patrimonio ambiental, histórico, artístico y cultural.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.10.1"
+            ]
+        },
+        {
+            "referencia": "ALS.1.F.6.",
+            "descripcion": "España y Andalucía en el tiempo y su conexión con los grandes procesos de la historia de la humanidad. El legado histórico y el acervo cultural en la formación de las identidades colectivas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.7.3"
+            ]
+        },
+        {
+            "referencia": "G.",
+            "descripcion": "Compromiso cívico.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ALS.1.G.1.",
+            "descripcion": "Dignidad humana y derechos universales. Alteridad: respeto y aceptación «del otro». Comportamientos no discriminatorios y contrarios a cualquier actitud diferenciadora y segregadora. Igualdad de género. Manifestaciones y conductas no sexistas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.7.2",
+                "ALS.1.9.2"
+            ]
+        },
+        {
+            "referencia": "ALS.1.G.2.",
+            "descripcion": "Convivencia cívica y cultura democrática. Incorporación e implicación en la sociedad civil en procesos democráticos. Participación en proyectos comunitarios. Solidaridad, empatía y acciones de apoyo a colectivos en situaciones de pobreza, vulnerabilidad y exclusión social. Líneas de acción para un reparto justo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.7.2",
+                "ALS.1.9.2"
+            ]
+        },
+        {
+            "referencia": "ALS.1.G.3.",
+            "descripcion": "Identificación y gestión de las emociones y su repercusión en comportamientos individuales y colectivos. Ciclos vitales, uso del tiempo libre y hábitos de consumo: diferencias y cambios en las formas de vida en sociedades actuales y del pasado. Seguridad vial y movilidad sostenible.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.9.2",
+                "ALS.1.10.2"
+            ]
+        },
+        {
+            "referencia": "ALS.1.G.4.",
+            "descripcion": "Ciudadanía europea. Ideas y actitudes en el proyecto de construcción de una identidad común. La seguridad y la cooperación internacional.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ALS.1.9.1"
+            ]
+        }
+    ]
+}

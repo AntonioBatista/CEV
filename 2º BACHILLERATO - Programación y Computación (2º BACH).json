@@ -1,0 +1,416 @@
+{
+    "titulo": "2º BACHILLERATO - Programación y Computación (2º BACH)",
+    "referencia": "PRYC.2",
+    "competencias_especificas": [
+        {
+            "codigo": "PRYC.2.1",
+            "descripcion": "Desarrollar la capacidad de abstracción, producir programas informáticos funcionales e integrarse en un equipo de desarrollo de software que sea capaz de afrontar proyectos acordes al nivel de desarrollo del alumnado, fomentando sus habilidades sociales y aplicando la creatividad."
+        },
+        {
+            "codigo": "PRYC.2.2",
+            "descripcion": "Recopilar y procesar datos que ayuden en la resolución de un problema, analizando cómo su almacenamiento, transmisión y presentación se benefician de la manipulación computacional."
+        },
+        {
+            "codigo": "PRYC.2.3",
+            "descripcion": "Desarrollar aplicaciones web sencillas con acceso a una base de datos utilizando html, css y un lenguaje de script, elaborando páginas web con el fin de programar de manera accesible."
+        },
+        {
+            "codigo": "PRYC.2.4",
+            "descripcion": "Explorar la computación física, construyendo un sistema hardware y software que interactúe con el medio físico, detectando y respondiendo a cambios en el mundo real, para comprender las diferencias entre los mundos digital y analógico."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "PRYC.2.1.1",
+            "descripcion": "Transformar ideas en aplicaciones de forma creativa, descomponiendo problemas complejos en otros más simples e ideando modelos abstractos de los mismos y algoritmos que permitan implementar una solución computacional.",
+            "saberes_relacionados": [
+                "PRYC.2.A.3.1.",
+                "PRYC.2.A.3.2.",
+                "PRYC.2.A.3.3.",
+                "PRYC.2.A.3.4."
+            ]
+        },
+        {
+            "referencia": "PRYC.2.1.2",
+            "descripcion": "Escribir programas, convenientemente estructurados y comentados, que recogen y procesan la información procedente de diferentes fuentes y generan la correspondiente salida.",
+            "saberes_relacionados": [
+                "PRYC.2.A.1.1.",
+                "PRYC.2.A.1.2.",
+                "PRYC.2.A.1.3.",
+                "PRYC.2.A.2.1.",
+                "PRYC.2.A.2.2."
+            ]
+        },
+        {
+            "referencia": "PRYC.2.1.3",
+            "descripcion": "Identificar y aplicar los principales pasos del ciclo de vida de una aplicación, y trabajar de forma colaborativa en equipos de desarrollo, utilizando IDE’s, depuradores y herramientas de control de versiones de código.",
+            "saberes_relacionados": [
+                "PRYC.2.A.3.5.",
+                "PRYC.2.A.3.6.",
+                "PRYC.2.A.3.7.",
+                "PRYC.2.A.3.8."
+            ]
+        },
+        {
+            "referencia": "PRYC.2.2.1",
+            "descripcion": "Explotar las posibilidades de las bases de datos para la recogida y procesamiento de grandes cantidades de datos en la búsqueda de patrones y conexiones que faciliten la resolución de problemas computacionales.",
+            "saberes_relacionados": [
+                "PRYC.2.B.1.1.",
+                "PRYC.2.B.1.2.",
+                "PRYC.2.B.1.3.",
+                "PRYC.2.B.2.1.",
+                "PRYC.2.B.2.2."
+            ]
+        },
+        {
+            "referencia": "PRYC.2.3.1",
+            "descripcion": "Utilizar los lenguajes de marcado y estilos para la creación de páginas web, teniendo en cuenta aspectos relativos al diseño adaptativo.",
+            "saberes_relacionados": [
+                "PRYC.2.C.1.1.",
+                "PRYC.2.C.1.2.",
+                "PRYC.2.C.1.3.",
+                "PRYC.2.C.1.4."
+            ]
+        },
+        {
+            "referencia": "PRYC.2.3.2",
+            "descripcion": "Diseñar, programar y probar una aplicación web sencilla con acceso a una base de datos, utilizando un lenguaje de script.",
+            "saberes_relacionados": [
+                "PRYC.2.C.2.1.",
+                "PRYC.2.C.2.2.",
+                "PRYC.2.C.2.3.",
+                "PRYC.2.C.2.4."
+            ]
+        },
+        {
+            "referencia": "PRYC.2.4.1",
+            "descripcion": "Diseñar, programar y probar una aplicación que lea datos de un sensor, los procese, y como resultado, ejecute un actuador.",
+            "saberes_relacionados": [
+                "PRYC.2.D.1.1.",
+                "PRYC.2.D.1.2.",
+                "PRYC.2.D.1.3.",
+                "PRYC.2.D.2.1."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Programación",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "PRYC.2.A.1.",
+            "descripcion": "Lenguajes de programación.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "PRYC.2.A.1.1.",
+            "descripcion": "Tipos de lenguajes. Estructura de un programa informático y elementos básicos del lenguaje. Tipos básicos de datos. Constantes y variables. Operadores y expresiones. Comentarios.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.1.2"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.A.1.2.",
+            "descripcion": "Estructuras de control condicionales e iterativas. Estructuras de datos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.1.2"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.A.1.3.",
+            "descripcion": "Funciones y reutilización de código. Manipulación de archivos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.1.2"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.A.2.",
+            "descripcion": "Orientación a objetos.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "PRYC.2.A.2.1.",
+            "descripcion": "Clases, objetos y constructores. Sobrecarga, encapsulamiento y ocultación.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.1.2"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.A.2.2.",
+            "descripcion": "Herencia. Subclases y superclases. Interfaces. Polimorfismo.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.1.2"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.A.3.",
+            "descripcion": "Ciclo de vida del software.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "PRYC.2.A.3.1.",
+            "descripcion": "Metodologías de desarrollo de software.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.1.1"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.A.3.2.",
+            "descripcion": "Enfoque Top-Down, fragmentación de problemas y algoritmos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.1.1"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.A.3.3.",
+            "descripcion": "Pseudocódigo y diagramas de flujo.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.1.1"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.A.3.4.",
+            "descripcion": "Desarrollo iterativo.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.1.1"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.A.3.5.",
+            "descripcion": "Entornos de desarrollo integrado.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.1.3"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.A.3.6.",
+            "descripcion": "Análisis, Diseño, Programación y Pruebas. Depuración.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.1.3"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.A.3.7.",
+            "descripcion": "Control de versiones.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.1.3"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.A.3.8.",
+            "descripcion": "Trabajo en equipo.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.1.3"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Datos e Información.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "PRYC.2.B.1.",
+            "descripcion": "Bases de datos relacionales.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "PRYC.2.B.1.1.",
+            "descripcion": "Sistemas gestores de bases de datos. Ventajas con respecto a los archivos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.2.1"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.B.1.2.",
+            "descripcion": "Diseño de bases de datos relacionales. Diagramas entidad-relación, esquema relacional y normalización.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.2.1"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.B.1.3.",
+            "descripcion": "Creación y manipulación de bases de datos relacionales. Comandos básicos de SQL: create, insert, delete, select, update.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.2.1"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.B.2.",
+            "descripcion": "Big data.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "PRYC.2.B.2.1.",
+            "descripcion": "Volumen y variedad de datos. Datos estructurados, no estructurados y semiestructurados.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.2.1"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.B.2.2.",
+            "descripcion": "Introducción a las bases de datos NoSQL.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.2.1"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Desarrollo web.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "PRYC.2.C.1.",
+            "descripcion": "Lenguajes descriptivos.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "PRYC.2.C.1.1.",
+            "descripcion": "Lenguaje de marcas de hipertexto (HTML), documentos, etiquetas, estructura, elementos, y atributos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.3.1"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.C.1.2.",
+            "descripcion": "Títulos, texto, listas, tablas, formularios y multimedia.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.3.1"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.C.1.3.",
+            "descripcion": "Hojas de estilo en cascada (CSS). Reglas de estilo. Selectores. Declaraciones. Propiedades y Valores.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.3.1"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.C.1.4.",
+            "descripcion": "El modelo de cajas. Diseño adaptativo.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.3.1"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.C.2.",
+            "descripcion": "Lenguajes de programación.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "PRYC.2.C.2.1.",
+            "descripcion": "Visión general de los lenguajes de scripts.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.3.2"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.C.2.2.",
+            "descripcion": "Programación en entorno cliente.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.3.2"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.C.2.3.",
+            "descripcion": "Introducción a la programación en entorno servidor.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.3.2"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.C.2.4.",
+            "descripcion": "Acceso a bases de datos. Interfaz de programación de aplicaciones con servicios web (REST APIs).",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.3.2"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Computación física y robótica.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "PRYC.2.D.1.",
+            "descripcion": "Robótica.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "PRYC.2.D.1.1.",
+            "descripcion": "Características principales de los robots: cuerpo, control y comportamiento.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.4.1"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.D.1.2.",
+            "descripcion": "Microcontroladores, entrada/salida, sensores y actuadores.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.4.1"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.D.1.3.",
+            "descripcion": "Programación de dispositivos inteligentes.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.4.1"
+            ]
+        },
+        {
+            "referencia": "PRYC.2.D.2.",
+            "descripcion": "El Internet de las Cosas.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "PRYC.2.D.2.1.",
+            "descripcion": "Aplicaciones. Smart Cities.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "PRYC.2.4.1"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,550 @@
+{
+    "titulo": "1º ESO - Computación y Robótica (1º ESO)",
+    "referencia": "CYR.1",
+    "competencias_especificas": [
+        {
+            "codigo": "CYR.1.1",
+            "descripcion": "Comprender el impacto que la computación y la robótica tienen en nuestra sociedad y desarrollar el pensamiento computacional para realizar proyectos de construcción de sistemas digitales de forma sostenible."
+        },
+        {
+            "codigo": "CYR.1.2",
+            "descripcion": "Producir programas informáticos, colaborando en un equipo de trabajo y creando aplicaciones sencillas, mediante lenguaje de bloques, utilizando las principales estructuras de un lenguaje de programación para solventar un problema determinado o exhibir un comportamiento deseado."
+        },
+        {
+            "codigo": "CYR.1.3",
+            "descripcion": "Diseñar y construir sistemas de computación físicos o robóticos sencillos, aplicando los conocimientos necesarios para desarrollar soluciones automatizadas a problemas planteados."
+        },
+        {
+            "codigo": "CYR.1.4",
+            "descripcion": "Recopilar, almacenar y procesar datos, identificando patrones y descubriendo conexiones para resolver problemas mediante la Inteligencia Artificial entendiendo cómo nos ayuda a mejorar nuestra comprensión del mundo."
+        },
+        {
+            "codigo": "CYR.1.5",
+            "descripcion": "Utilizar y crear aplicaciones informáticas y web sencillas, entendiendo su funcionamiento interno, de forma segura, responsable y respetuosa, protegiendo la identidad online y la privacidad."
+        },
+        {
+            "codigo": "CYR.1.6",
+            "descripcion": "Conocer y aplicar los principios de la ciberseguridad, adoptando hábitos y conductas de seguridad, para permitir la protección del individuo en su interacción en la red."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "CYR.1.1.1",
+            "descripcion": "Comprender el funcionamiento global de los sistemas de computación física, sus componentes y principales características.",
+            "saberes_relacionados": [
+                "CYR.1.C.1.",
+                "CYR.1.B.1.",
+                "CYR.1.B.2.",
+                "CYR.1.B.3."
+            ]
+        },
+        {
+            "referencia": "CYR.1.1.2",
+            "descripcion": "Reconocer el papel de la robótica en nuestra sociedad, indicando el marco elemental de trabajo de los mismos.",
+            "saberes_relacionados": [
+                "CYR.1.C.2."
+            ]
+        },
+        {
+            "referencia": "CYR.1.1.3",
+            "descripcion": "Entender la estructura básica de un programa informático.",
+            "saberes_relacionados": [
+                "CYR.1.A.1.",
+                "CYR.1.A.3.",
+                "CYR.1.A.4."
+            ]
+        },
+        {
+            "referencia": "CYR.1.1.4",
+            "descripcion": "Comprender los principios básicos de ingeniería en los que se basan los robots.",
+            "saberes_relacionados": [
+                "CYR.1.C.3.",
+                "CYR.1.C.4.",
+                "CYR.1.C.5."
+            ]
+        },
+        {
+            "referencia": "CYR.1.2.1",
+            "descripcion": "Conocer y resolver la variedad de problemas posibles, desarrollando un programa informático y generalizando las soluciones, tanto de forma individual como trabajando en equipo, colaborando y comunicándose de forma adecuada.",
+            "saberes_relacionados": [
+                "CYR.1.A.1.",
+                "CYR.1.A.2.",
+                "CYR.1.A.3.",
+                "CYR.1.A.4.",
+                "CYR.1.A.5."
+            ]
+        },
+        {
+            "referencia": "CYR.1.2.2",
+            "descripcion": "Conocer y resolver la variedad de problemas posibles desarrollando una aplicación móvil, particularizando las soluciones.",
+            "saberes_relacionados": [
+                "CYR.1.D.1.",
+                "CYR.1.D.2.",
+                "CYR.1.D.4.",
+                "CYR.1.D.5.",
+                "CYR.1.B.4."
+            ]
+        },
+        {
+            "referencia": "CYR.1.3.1",
+            "descripcion": "Ser capaz de construir un sistema de computación o robótico, promoviendo la interacción con el mundo físico en el contexto de un problema del mundo real, de forma sostenible.",
+            "saberes_relacionados": [
+                "CYR.1.F.1.",
+                "CYR.1.F.2.",
+                "CYR.1.F.3.",
+                "CYR.1.F.4."
+            ]
+        },
+        {
+            "referencia": "CYR.1.4.1",
+            "descripcion": "Conocer la naturaleza de los distintos tipos de datos generados hoy en día, siendo capaces de analizarlos, visualizarlos y compararlos, empleando a su vez un espíritu crítico y científico.",
+            "saberes_relacionados": [
+                "CYR.1.G.1.",
+                "CYR.1.G.2.",
+                "CYR.1.G.3.",
+                "CYR.1.G.4."
+            ]
+        },
+        {
+            "referencia": "CYR.1.4.2",
+            "descripcion": "Comprender los principios básicos de funcionamiento de los agentes inteligentes y de las técnicas de aprendizaje automático, con objeto de aplicarlos para la resolución de situaciones mediante la Inteligencia Artificial de forma ética y responsable.",
+            "saberes_relacionados": [
+                "CYR.1.H.1.",
+                "CYR.1.H.2.",
+                "CYR.1.H.3.",
+                "CYR.1.H.4.",
+                "CYR.1.H.5."
+            ]
+        },
+        {
+            "referencia": "CYR.1.5.1",
+            "descripcion": "Conocer la construcción de aplicaciones informáticas y web, entendiendo su funcionamiento interno, de forma segura, responsable y respetuosa.",
+            "saberes_relacionados": [
+                "CYR.1.E.1.",
+                "CYR.1.E.2."
+            ]
+        },
+        {
+            "referencia": "CYR.1.5.2",
+            "descripcion": "Conocer y resolver la variedad de problemas potencialmente presentes en el desarrollo de una aplicación web, tratando de generalizar posibles soluciones.",
+            "saberes_relacionados": [
+                "CYR.1.E.3.",
+                "CYR.1.E.4."
+            ]
+        },
+        {
+            "referencia": "CYR.1.6.1",
+            "descripcion": "Adoptar conductas y hábitos que permitan la protección del individuo en su interacción en la red.",
+            "saberes_relacionados": [
+                "CYR.1.I.2."
+            ]
+        },
+        {
+            "referencia": "CYR.1.6.2",
+            "descripcion": "Acceder a servicios de intercambio y publicación de información digital aplicando criterios básicos de seguridad y uso responsable.",
+            "saberes_relacionados": [
+                "CYR.1.I.4."
+            ]
+        },
+        {
+            "referencia": "CYR.1.6.3",
+            "descripcion": "Reconocer y comprender los derechos de los materiales alojados en la web.",
+            "saberes_relacionados": [
+                "CYR.1.I.5."
+            ]
+        },
+        {
+            "referencia": "CYR.1.6.4",
+            "descripcion": "Adoptar conductas de seguridad activa y pasiva en la protección de datos y en el intercambio de información.",
+            "saberes_relacionados": [
+                "CYR.1.I.1.",
+                "CYR.1.I.3."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Introducción a la Programación.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CYR.1.A.1.",
+            "descripcion": "Introducción a los lenguajes de programación visuales. Tipos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.1.3",
+                "CYR.1.2.1"
+            ]
+        },
+        {
+            "referencia": "CYR.1.A.2.",
+            "descripcion": "Introducción a los Lenguajes de bloques.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.2.1"
+            ]
+        },
+        {
+            "referencia": "CYR.1.A.3.",
+            "descripcion": "Secuencia básica de instrucciones. Concepto de algoritmo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.1.3",
+                "CYR.1.2.1"
+            ]
+        },
+        {
+            "referencia": "CYR.1.A.4.",
+            "descripcion": "Reconocimiento de tareas repetitivas y condicionales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.1.3",
+                "CYR.1.2.1"
+            ]
+        },
+        {
+            "referencia": "CYR.1.A.5.",
+            "descripcion": "Determinación de los elementos para la interacción con el usuario.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.2.1"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Internet de las cosas.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CYR.1.B.1.",
+            "descripcion": "Definición y componentes IoT.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.1.1"
+            ]
+        },
+        {
+            "referencia": "CYR.1.B.2.",
+            "descripcion": "Funcionamiento de IoT.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.1.1"
+            ]
+        },
+        {
+            "referencia": "CYR.1.B.3.",
+            "descripcion": "Tipos de Comunicaciones de dispositivos IoT.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.1.1"
+            ]
+        },
+        {
+            "referencia": "CYR.1.B.4.",
+            "descripcion": "Aplicaciones de IoT.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.2.2"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Robótica.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CYR.1.C.1.",
+            "descripcion": "Definición de robot.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.1.1"
+            ]
+        },
+        {
+            "referencia": "CYR.1.C.2.",
+            "descripcion": "Leyes de la robótica.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.1.2"
+            ]
+        },
+        {
+            "referencia": "CYR.1.C.3.",
+            "descripcion": "Aproximación a los componentes de un robot: sensores, efectores y actuadores.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.1.4"
+            ]
+        },
+        {
+            "referencia": "CYR.1.C.4.",
+            "descripcion": "Mecanismos de locomoción y manipulación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.1.4"
+            ]
+        },
+        {
+            "referencia": "CYR.1.C.5.",
+            "descripcion": "Introducción a la programación de robots.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.1.4"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Desarrollo móvil.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CYR.1.D.1.",
+            "descripcion": "Introducción a los IDEs de lenguajes de bloques para móviles.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.2.2"
+            ]
+        },
+        {
+            "referencia": "CYR.1.D.2.",
+            "descripcion": "Introducción a la programación orientada a eventos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.2.2"
+            ]
+        },
+        {
+            "referencia": "CYR.1.D.3.",
+            "descripcion": "Definición de eventos.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CYR.1.D.4.",
+            "descripcion": "Generadores de eventos: los sensores.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.2.2"
+            ]
+        },
+        {
+            "referencia": "CYR.1.D.5.",
+            "descripcion": "Introducción a las E/S: captura de eventos y su respuesta.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.2.2"
+            ]
+        },
+        {
+            "referencia": "E.",
+            "descripcion": "Desarrollo web.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CYR.1.E.1.",
+            "descripcion": "Introducción a las páginas web.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.5.1"
+            ]
+        },
+        {
+            "referencia": "CYR.1.E.2.",
+            "descripcion": "Introducción a los servidores web.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.5.1"
+            ]
+        },
+        {
+            "referencia": "CYR.1.E.3.",
+            "descripcion": "Tipos de lenguajes para la edición de páginas web.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.5.2"
+            ]
+        },
+        {
+            "referencia": "CYR.1.E.4.",
+            "descripcion": "Introducción a la animación web.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.5.2"
+            ]
+        },
+        {
+            "referencia": "F.",
+            "descripcion": "Fundamentos de la computación física.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CYR.1.F.1.",
+            "descripcion": "Introducción a los sistemas de computación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.3.1"
+            ]
+        },
+        {
+            "referencia": "CYR.1.F.2.",
+            "descripcion": "Concepto de microcontroladores.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.3.1"
+            ]
+        },
+        {
+            "referencia": "CYR.1.F.3.",
+            "descripcion": "Introducción al Hardware y Software.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.3.1"
+            ]
+        },
+        {
+            "referencia": "CYR.1.F.4.",
+            "descripcion": "Introducción a la seguridad eléctrica.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.3.1"
+            ]
+        },
+        {
+            "referencia": "G.",
+            "descripcion": "Datos masivos.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CYR.1.G.1.",
+            "descripcion": "Introducción al Big data.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.4.1"
+            ]
+        },
+        {
+            "referencia": "CYR.1.G.2.",
+            "descripcion": "Visualización, transporte y almacenaje de datos generados.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.4.1"
+            ]
+        },
+        {
+            "referencia": "CYR.1.G.3.",
+            "descripcion": "Entrada y Salida de datos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.4.1"
+            ]
+        },
+        {
+            "referencia": "CYR.1.G.4.",
+            "descripcion": "Introducción a los metadatos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.4.1"
+            ]
+        },
+        {
+            "referencia": "H.",
+            "descripcion": "Inteligencia Artificial.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CYR.1.H.1.",
+            "descripcion": "Definición de la Inteligencia Artificial.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.4.2"
+            ]
+        },
+        {
+            "referencia": "CYR.1.H.2.",
+            "descripcion": "Introducción a la ética y responsabilidad social en el uso de IA.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.4.2"
+            ]
+        },
+        {
+            "referencia": "CYR.1.H.3.",
+            "descripcion": "Agentes inteligentes simples.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.4.2"
+            ]
+        },
+        {
+            "referencia": "CYR.1.H.4.",
+            "descripcion": "Aprendizaje automático.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.4.2"
+            ]
+        },
+        {
+            "referencia": "CYR.1.H.5.",
+            "descripcion": "Tipos de aprendizaje.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.4.2"
+            ]
+        },
+        {
+            "referencia": "I.",
+            "descripcion": "Ciberseguridad.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CYR.1.I.1.",
+            "descripcion": "Seguridad activa y pasiva.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.6.4"
+            ]
+        },
+        {
+            "referencia": "CYR.1.I.2.",
+            "descripcion": "Exposición de los usuarios.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.6.1"
+            ]
+        },
+        {
+            "referencia": "CYR.1.I.3.",
+            "descripcion": "Peligros en Internet.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.6.4"
+            ]
+        },
+        {
+            "referencia": "CYR.1.I.4.",
+            "descripcion": "Interacción básica de plataformas virtuales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.6.2"
+            ]
+        },
+        {
+            "referencia": "CYR.1.I.5.",
+            "descripcion": "Introducción al concepto de propiedad intelectual.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CYR.1.6.3"
+            ]
+        }
+    ]
+}

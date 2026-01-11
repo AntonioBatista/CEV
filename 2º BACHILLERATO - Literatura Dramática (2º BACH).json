@@ -1,0 +1,456 @@
+{
+    "titulo": "2º BACHILLERATO - Literatura Dramática (2º BACH)",
+    "referencia": "LITD.2",
+    "competencias_especificas": [
+        {
+            "codigo": "LITD.2.1",
+            "descripcion": "Leer obras de la literatura dramática o ver su puesta en escena, atendiendo tanto a las relaciones internas de los elementos constitutivos del género y sus funciones en las obras como a las relaciones externas de las obras con su contexto de producción y su inscripción en la tradición cultural, para ensanchar las posibilidades de disfrute de la literatura dramática y para estimular la expresión artística."
+        },
+        {
+            "codigo": "LITD.2.2",
+            "descripcion": "Leer o ver en escena de manera autónoma obras relevantes de la literatura dramática como fuente de placer y conocimiento, seleccionar de manera orientada aquellas que mejor se ajustan a los gustos, intereses y necesidades personales, diversificar formas de acceso al hecho teatral, y compartir experiencias de recepción, para forjar un criterio propio y para disfrutar de su dimensión social."
+        },
+        {
+            "codigo": "LITD.2.3",
+            "descripcion": "Establecer vínculos entre obras dramáticas de diferentes épocas, contextos y lenguajes artísticos para constatar la existencia de universales temáticos, tipologías de personajes y cauces formales recurrentes a lo largo de la historia de la literatura dramática, y para reconocer semejanzas y diferencias en función de sus respectivos contextos de producción y de la interrelación entre literatura y sociedad."
+        },
+        {
+            "codigo": "LITD.2.4",
+            "descripcion": "Emplear las capacidades expresivas y creativas necesarias para la recreación o creación de textos dramáticos, utilizando los elementos que configuran el género, así como diferentes técnicas, para componer la acción dramática, el diseño de personajes y la configuración de situaciones y escenas."
+        },
+        {
+            "codigo": "LITD.2.5",
+            "descripcion": "Participar en la construcción de un canon literario dramático universal que integre la perspectiva de experiencia de las mujeres a través de la lectura, el visionado o la asistencia a obras teatrales de escritoras o de personajes femeninos esenciales y que supere los marcos de la cultura occidental, para establecer contrapuntos de interés, respeto y sensibilidad hacia otras voces y para desarrollar el pensamiento crítico con respecto a la construcción discursiva del mundo y sus imaginarios e identidades."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "LITD.2.1.1",
+            "descripcion": "Explicar y argumentar la interpretación y valoración de las obras teatrales leídas o vistas, a partir del análisis de las relaciones internas de sus elementos constitutivos con el sentido de la obra y de las relaciones externas del texto con su contexto sociohistórico y cultural, atendiendo a su relación con otras manifestaciones artísticas como pintura, escultura, música, danza, fotografía y cine, y con la tradición literaria, utilizando un metalenguaje específico e incorporando juicios de valor vinculados a la apreciación estética de las obras.",
+            "saberes_relacionados": [
+                "LITD.2.A.1.",
+                "LITD.2.A.2.",
+                "LITD.2.A.3.",
+                "LITD.2.A.4.",
+                "LITD.2.C.6."
+            ]
+        },
+        {
+            "referencia": "LITD.2.1.2",
+            "descripcion": "Leer en voz alta y colectivamente fragmentos y obras teatrales, con inclusión de obras teatrales andaluzas, prestando especial atención a la configuración de situaciones y escenas, enfatizando las emociones, la intensidad de las palabras y los elementos prosódicos, así como demostrando motivación, interés y capacidad para la implicación en tareas colectivas.",
+            "saberes_relacionados": [
+                "LITD.2.B.1.",
+                "LITD.2.B.2.",
+                "LITD.2.B.3.",
+                "LITD.2.B.4."
+            ]
+        },
+        {
+            "referencia": "LITD.2.2.1",
+            "descripcion": "Elaborar una interpretación personal a partir de la lectura, el visionado o la asistencia a representaciones de obras relevantes de la literatura dramática, incluyendo obras andaluzas, que atienda a aspectos temáticos, de género y subgénero, elementos de la estructura y el estilo y valores éticos y estéticos de las obras, estableciendo vínculos argumentados con otras obras y otras experiencias artísticas y culturales.",
+            "saberes_relacionados": [
+                "LITD.2.D.3.",
+                "LITD.2.D.4."
+            ]
+        },
+        {
+            "referencia": "LITD.2.2.2",
+            "descripcion": "Acceder de diversas formas a la cultura literaria dramática en el marco de un itinerario lector personal que enriquezca, de forma consciente y sistemática, la propia identidad lectora y como público teatral.",
+            "saberes_relacionados": [
+                "LITD.2.C.2.",
+                "LITD.2.C.7.",
+                "LITD.2.D.3.",
+                "LITD.2.D.4."
+            ]
+        },
+        {
+            "referencia": "LITD.2.2.3",
+            "descripcion": "Participar en conversaciones literarias de manera que se compartan las propias experiencias de lectura, de visionado o de asistencia teatral con la ayuda de un metalenguaje específico.",
+            "saberes_relacionados": [
+                "LITD.2.C.1.",
+                "LITD.2.D.3.",
+                "LITD.2.D.4.",
+                "LITD.2.D.6."
+            ]
+        },
+        {
+            "referencia": "LITD.2.3.1",
+            "descripcion": "Comparar textos o fragmentos teatrales, de diferentes épocas y contextos, entre sí o con su puesta en escena, adaptación cinematográfica u otras representaciones artísticas relacionadas, argumentando oralmente o por escrito los elementos de semejanza y contraste tanto en lo relativo a aspectos temáticos y de contenido como formales y expresivos y con atención a los valores éticos y estéticos de las obras.",
+            "saberes_relacionados": [
+                "LITD.2.C.2.",
+                "LITD.2.D.1.",
+                "LITD.2.D.2."
+            ]
+        },
+        {
+            "referencia": "LITD.2.3.2",
+            "descripcion": "Desarrollar proyectos de investigación, con la ayuda de medios audiovisuales y de las tecnologías de la información y la comunicación, que den lugar a una exposición oral, un ensayo o una presentación multimodal en torno a una cuestión que establezca vínculos argumentados entre obras de la literatura dramática objeto de lectura guiada y sus puestas en escena u otros textos y manifestaciones artísticas de ayer y de hoy, en función de temas, tópicos, estructuras, personajes, lenguaje, recursos expresivos y valores éticos y estéticos, y que muestren la implicación y la respuesta personal del lector en la lectura.",
+            "saberes_relacionados": [
+                "LITD.2.C.3.",
+                "LITD.2.C.4."
+            ]
+        },
+        {
+            "referencia": "LITD.2.3.3",
+            "descripcion": "Elaborar de manera individual o colectiva una exposición multimodal que sitúe los textos teatrales leídos o vistos en su horizonte histórico-cultural y que ofrezca una panorámica de conjunto sobre géneros, estilos y obras relevantes de la literatura dramática universal.",
+            "saberes_relacionados": [
+                "LITD.2.C.2.",
+                "LITD.2.C.3."
+            ]
+        },
+        {
+            "referencia": "LITD.2.4.1",
+            "descripcion": "Crear textos teatrales personales o colectivos con intención literaria y conciencia de estilo, en distintos soportes y con ayuda de otros lenguajes artísticos y audiovisuales, a partir de la lectura de obras o fragmentos teatrales significativos en los que se empleen las convenciones formales del género, atendiendo especialmente a sus dos secuencias textuales básicas: diálogo y acotaciones y al reflejo de los elementos de significación: espacio y objetos escénicos, iluminación y sonido, diseño de personajes o códigos interpretativos en el texto escrito.",
+            "saberes_relacionados": [
+                "LITD.2.C.2.",
+                "LITD.2.C.8."
+            ]
+        },
+        {
+            "referencia": "LITD.2.5.1",
+            "descripcion": "Realizar un proyecto de investigación sobre autoras de relevancia, personajes femeninos esenciales, obras teatrales de contextos no occidentales o sobre cuestiones temáticas o formales que aporten una mirada diversa y crítica sobre la construcción de imaginarios e identidades que propone la tradición literaria.",
+            "saberes_relacionados": [
+                "LITD.2.C.3.",
+                "LITD.2.C.4.",
+                "LITD.2.C.5."
+            ]
+        },
+        {
+            "referencia": "LITD.2.5.2",
+            "descripcion": "Elaborar comentarios críticos o reseñas de textos teatrales, ya sean orales o escritos, participar en debates o mesas redondas acerca de lecturas, visionados o asistencias teatrales en los que se incorpore la perspectiva de género, se ponga en cuestión la mirada etnocéntrica propia del canon occidental, así como cualquier otro discurso predominante en nuestra sociedad que suponga opresión sobre cualquier sesgo de género y ante minoría alguna.",
+            "saberes_relacionados": [
+                "LITD.2.C.2.",
+                "LITD.2.D.2.",
+                "LITD.2.D.5."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Construcción guiada y compartida de la interpretación de algunos textos relevantes de la literatura dramática inscritos en itinerarios temáticos que establezcan relaciones intertextuales entre obras y fragmentos de diferentes géneros, épocas, contextos culturales y códigos artísticos, así como con sus respectivos contextos de producción, de acuerdo a los siguientes ejes y estrategias: el arte teatral.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITD.2.A.1.",
+            "descripcion": "El texto teatral: Definición y elementos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITD.2.1.1"
+            ]
+        },
+        {
+            "referencia": "LITD.2.A.1.1.",
+            "descripcion": "Definición de género teatral. Génesis y función social.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITD.2.A.1.2.",
+            "descripcion": "El libreto: Actos, cuadros y escenas; diálogo, monólogo y aparte; didascalias y acotaciones; drammatis personnae. Literatura dramática y representación. Autor y director.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITD.2.A.1.3.",
+            "descripcion": "Estructura interna de la acción: conflicto, situación y personajes; construcción dramática y posdramática; lenguaje y estilo. Formas de expresión. La convención teatral.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITD.2.A.2.",
+            "descripcion": "El personaje teatral.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITD.2.1.1"
+            ]
+        },
+        {
+            "referencia": "LITD.2.A.2.1.",
+            "descripcion": "Caracterización del personaje dramático: planos, funciones, personaje y acción, jerarquía, significado.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITD.2.A.2.2.",
+            "descripcion": "Modelos, tipologías y evolución del personaje teatral desde sus orígenes hasta la crisis del personaje en el teatro moderno.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITD.2.A.3.",
+            "descripcion": "La realización escénica y el sistema estilístico.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITD.2.1.1"
+            ]
+        },
+        {
+            "referencia": "LITD.2.A.3.1.",
+            "descripcion": "Espacio escénico-escenográfico y objeto escénico. Accesorios y decorado.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITD.2.A.3.2.",
+            "descripcion": "Diseño de personaje: vestuario, máscara, peinado y maquillaje.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITD.2.A.3.3.",
+            "descripcion": "Espacio sonoro, diseño de iluminación y recursos audiovisuales.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITD.2.A.3.4.",
+            "descripcion": "Trabajo actoral y códigos interpretativos. Palabra, tono, mímica, gesto y movimiento. Decoro. Lenguaje icónico y referencial.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITD.2.A.4.",
+            "descripcion": "La recepción teatral. La relación con el público. Catarsis, extrañamiento y participación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITD.2.1.1"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Temas y formas de la literatura dramática.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITD.2.B.1.",
+            "descripcion": "El teatro del Yo: los personajes como modelos vitales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITD.2.1.2"
+            ]
+        },
+        {
+            "referencia": "LITD.2.B.1.1.",
+            "descripcion": "Teatro biográfico: La construcción del sujeto teatral y la indagación en los grandes interrogantes de la condición humana: identidad, amor, dolor, muerte, etc.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITD.2.B.1.2.",
+            "descripcion": "Teatro autobiográfico: intimidad, testimonio y autorreferencialidad.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITD.2.B.2.",
+            "descripcion": "Vivir con otros: el teatro como modelo de interpretación de las relaciones humanas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITD.2.1.2"
+            ]
+        },
+        {
+            "referencia": "LITD.2.B.2.1.",
+            "descripcion": "La Tragedia: el ser humano, el destino y la ética.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITD.2.B.2.2.",
+            "descripcion": "Drama: libertad individual y convenciones sociales.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITD.2.B.2.3.",
+            "descripcion": "Comedia: humor complaciente, humor crítico.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITD.2.B.2.4.",
+            "descripcion": "Formas menores del género dramático: loa, paso, jácara, baile, mojiganga, auto sacramental, farsa, melodrama, sainete, vodevil, esperpento.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITD.2.B.3.",
+            "descripcion": "Vivir en el mundo: función y sentido del teatro.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITD.2.1.2"
+            ]
+        },
+        {
+            "referencia": "LITD.2.B.3.1.",
+            "descripcion": "Mitologías y cosmogonías: teatro mítico y religioso de distintas tradiciones.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITD.2.B.3.2.",
+            "descripcion": "Reproducir el mundo: los realismos, el teatro como escuela o crítica de costumbres.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITD.2.B.3.3.",
+            "descripcion": "Teatro comprometido: teatro político, teatro documento, teatro épico, teatro del absurdo, etc.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITD.2.B.3.4.",
+            "descripcion": "Imaginar el mundo: comedia de magia, simbolismo, vanguardias, teatro posdramático, teatro experimental, etc. Teatro lírico.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITD.2.B.4.",
+            "descripcion": "El teatro habla del teatro. La metaficción teatral.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITD.2.1.2"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Estrategias de análisis, interpretación, y creación de textos teatrales.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITD.2.C.1.",
+            "descripcion": "Participación en la construcción compartida de la interpretación de las obras dramáticas a través de discusiones o conversaciones literarias.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITD.2.2.3"
+            ]
+        },
+        {
+            "referencia": "LITD.2.C.2.",
+            "descripcion": "Relación entre los elementos constitutivos del género dramático y la construcción del sentido de la obra. Efectos en la recepción de sus recursos expresivos. La interacción con el público.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITD.2.2.2",
+                "LITD.2.3.1",
+                "LITD.2.3.3",
+                "LITD.2.4.1",
+                "LITD.2.5.2"
+            ]
+        },
+        {
+            "referencia": "LITD.2.C.3.",
+            "descripcion": "Utilización de información sociohistórica, cultural y artística para construir la interpretación de las obras y comprender el lugar que ocupan en la tradición literaria.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITD.2.3.2",
+                "LITD.2.3.3",
+                "LITD.2.5.1"
+            ]
+        },
+        {
+            "referencia": "LITD.2.C.4.",
+            "descripcion": "Establecimiento de vínculos intertextuales entre obras y otras manifestaciones artísticas en función de temas, tópicos, estructuras y lenguajes. Elementos de continuidad y ruptura.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITD.2.3.2",
+                "LITD.2.5.1"
+            ]
+        },
+        {
+            "referencia": "LITD.2.C.5.",
+            "descripcion": "Indagación en torno al funcionamiento del teatro como artefacto ideológico determinante en la construcción de los imaginarios sociales, haciendo especial hincapié en la perspectiva de género.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITD.2.5.1"
+            ]
+        },
+        {
+            "referencia": "LITD.2.C.6.",
+            "descripcion": "Expresión argumentada de la interpretación de obras y fragmentos dramáticos, integrando los diferentes aspectos analizados y atendiendo a sus valores culturales, éticos y estéticos. La reseña teatral.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITD.2.1.1"
+            ]
+        },
+        {
+            "referencia": "LITD.2.C.7.",
+            "descripcion": "Lectura expresiva y dramatización de los textos, atendiendo a los procesos de comprensión y de oralización implicados, así como a los rasgos esenciales de la interpretación teatral.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITD.2.2.2"
+            ]
+        },
+        {
+            "referencia": "LITD.2.C.8.",
+            "descripcion": "Creación de textos teatrales a partir de la apropiación de las convenciones del lenguaje literario y en referencia a modelos dados (imitación, transformación, continuación, etc.).",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITD.2.4.1"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Recepción autónoma de obras relevantes de la literatura dramática y participación en conversaciones literarias y en intercambios de recomendaciones.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "LITD.2.D.1.",
+            "descripcion": "Selección de las obras de manera autónoma y con la ayuda de recomendaciones especializadas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITD.2.3.1"
+            ]
+        },
+        {
+            "referencia": "LITD.2.D.2.",
+            "descripcion": "Participación activa en el circuito literario, lector y teatral en contexto presencial y digital.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITD.2.3.1",
+                "LITD.2.5.2"
+            ]
+        },
+        {
+            "referencia": "LITD.2.D.3.",
+            "descripcion": "Definición de los gustos dramáticos personales, diversificando el corpus leído o visto en tanto que espectador o espectadora, atendiendo a los circuitos culturales del teatro.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITD.2.2.1",
+                "LITD.2.2.2",
+                "LITD.2.2.3"
+            ]
+        },
+        {
+            "referencia": "LITD.2.D.4.",
+            "descripcion": "Expresión de la experiencia lectora o como público utilizando un metalenguaje específico y elaboración de una interpretación personal que atienda a aspectos temáticos y estructurales, de realización escénica y de sistema estilístico.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITD.2.2.1",
+                "LITD.2.2.2",
+                "LITD.2.2.3"
+            ]
+        },
+        {
+            "referencia": "LITD.2.D.5.",
+            "descripcion": "Movilización de la propia experiencia personal, lectora y teatral para establecer vínculos de manera argumentada entre la obra leída u observada y aspectos de la actualidad, así como con otros textos y manifestaciones artísticas, incluidas prácticas culturales emergentes.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITD.2.5.2"
+            ]
+        },
+        {
+            "referencia": "LITD.2.D.6.",
+            "descripcion": "Recomendación de las lecturas y puestas en escena en soportes variados, atendiendo a aspectos temáticos, formales e intertextuales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "LITD.2.2.3"
+            ]
+        }
+    ]
+}

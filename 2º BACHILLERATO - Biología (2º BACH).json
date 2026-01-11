@@ -1,0 +1,900 @@
+{
+    "titulo": "2º BACHILLERATO - Biología (2º BACH)",
+    "referencia": "BIOL.2",
+    "competencias_especificas": [
+        {
+            "codigo": "BIOL.2.1",
+            "descripcion": "Interpretar y transmitir información y datos a partir de trabajos científicos y argumentar sobre estos con precisión, utilizando diferentes formatos para analizar conceptos, procesos, métodos, experimentos o resultados de las ciencias biológicas."
+        },
+        {
+            "codigo": "BIOL.2.2",
+            "descripcion": "Localizar y utilizar fuentes fiables, identificando, seleccionando y organizando la información, evaluándola críticamente y contrastando su veracidad, para resolver preguntas planteadas de forma autónoma y crear contenidos relacionados con las ciencias biológicas."
+        },
+        {
+            "codigo": "BIOL.2.3",
+            "descripcion": "Analizar trabajos de investigación o divulgación relacionados con las ciencias biológicas, comprobando con sentido crítico su veracidad o si han seguido los pasos de los métodos científicos, para evaluar la fiabilidad de sus conclusiones."
+        },
+        {
+            "codigo": "BIOL.2.4",
+            "descripcion": "Plantear y resolver problemas, buscando y utilizando las estrategias adecuadas, analizando críticamente las soluciones y reformulando el procedimiento, si fuera necesario, para explicar fenómenos relacionados con las ciencias biológicas."
+        },
+        {
+            "codigo": "BIOL.2.5",
+            "descripcion": "Analizar críticamente determinadas acciones relacionadas con la sostenibilidad y la salud, basándose en los fundamentos de la Biología molecular, para argumentar acerca de la importancia de adoptar estilos de vida sostenibles y saludables."
+        },
+        {
+            "codigo": "BIOL.2.6",
+            "descripcion": "Analizar la función de las principales biomoléculas, bioelementos y sus estructuras e interacciones bioquímicas, argumentando sobre su importancia en los organismos vivos para explicar las características macroscópicas de estos a partir de las moleculares."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "BIOL.2.1.1",
+            "descripcion": "Analizar críticamente conceptos y procesos biológicos, seleccionando e interpretando información en diferentes formatos (modelos, gráficos, tablas, diagramas, fórmulas, esquemas u otros).",
+            "saberes_relacionados": [
+                "BIOL.2.A.1.1.",
+                "BIOL.2.A.2.1.",
+                "BIOL.2.A.3.1.",
+                "BIOL.2.A.4.1.",
+                "BIOL.2.B.2.1.",
+                "BIOL.2.F.1.1.",
+                "BIOL.2.F.1.2.",
+                "BIOL.2.F.1.3."
+            ]
+        },
+        {
+            "referencia": "BIOL.2.1.2",
+            "descripcion": "Comunicar informaciones u opiniones razonadas relacionadas con los saberes de la materia, transmitiéndolas de forma clara y rigurosa, utilizando la terminología y el formato adecuados (modelos, gráficos, tablas, vídeos, informes, diagramas, fórmulas, esquemas, símbolos o contenidos digitales, entre otros) y respondiendo de manera fundamentada y precisa a las cuestiones que puedan surgir durante el proceso.",
+            "saberes_relacionados": [
+                "BIOL.2.B.2.2.",
+                "BIOL.2.B.6.2.",
+                "BIOL.2.B.6.3.",
+                "BIOL.2.C.1.1.",
+                "BIOL.2.C.1.2.",
+                "BIOL.2.C.3.2.",
+                "BIOL.2.C.3.3."
+            ]
+        },
+        {
+            "referencia": "BIOL.2.1.3",
+            "descripcion": "Argumentar sobre aspectos relacionados con los saberes de la materia, considerando los puntos fuertes y débiles de diferentes posturas de forma razonada y con una actitud abierta, flexible, receptiva y respetuosa ante la opinión de los demás.",
+            "saberes_relacionados": [
+                "BIOL.2.C.4.2.",
+                "BIOL.2.C.6.1.",
+                "BIOL.2.C.6.2.",
+                "BIOL.2.C.6.3.",
+                "BIOL.2.C.7.1.",
+                "BIOL.2.C.7.2."
+            ]
+        },
+        {
+            "referencia": "BIOL.2.2.1",
+            "descripcion": "Plantear y resolver cuestiones y crear contenidos relacionados con los saberes de la materia, localizando y citando fuentes de forma adecuada; seleccionando, organizando y analizando críticamente la información.",
+            "saberes_relacionados": [
+                "BIOL.2.A.3.2.",
+                "BIOL.2.A.3.3.",
+                "BIOL.2.A.3.4.",
+                "BIOL.2.B.3.1.",
+                "BIOL.2.B.5.2.",
+                "BIOL.2.B.6.1.",
+                "BIOL.2.E.1.1.",
+                "BIOL.2.F.4.1."
+            ]
+        },
+        {
+            "referencia": "BIOL.2.2.2",
+            "descripcion": "Contrastar y justificar la veracidad de información relacionada con la materia, utilizando fuentes fiables, aportando datos y adoptando una actitud crítica y escéptica ante informaciones sin una base científica como pseudociencias, teorías conspiratorias, creencias infundadas o bulos.",
+            "saberes_relacionados": [
+                "BIOL.2.D.3.3.",
+                "BIOL.2.D.4.",
+                "BIOL.2.F.3.1.",
+                "BIOL.2.F.3.2.",
+                "BIOL.2.F.4.2."
+            ]
+        },
+        {
+            "referencia": "BIOL.2.3.1",
+            "descripcion": "Evaluar la fiabilidad de las conclusiones de un trabajo de investigación o divulgación científica relacionado con los saberes de la materia de acuerdo a la interpretación de los resultados obtenidos.",
+            "saberes_relacionados": [
+                "BIOL.2.A.1.2.",
+                "BIOL.2.A.4.2.",
+                "BIOL.2.B.1.1.",
+                "BIOL.2.B.4.1.",
+                "BIOL.2.E.2.1."
+            ]
+        },
+        {
+            "referencia": "BIOL.2.3.2",
+            "descripcion": "Argumentar, utilizando ejemplos concretos, sobre la contribución de la ciencia a la sociedad y la labor de las personas dedicadas a ella, destacando el papel de la mujer y entendiendo la investigación como una labor colectiva e interdisciplinar en constante evolución influida por el contexto político y social y por los recursos económicos propios de Andalucía.",
+            "saberes_relacionados": [
+                "BIOL.2.C.7.3.",
+                "BIOL.2.E.2.2.",
+                "BIOL.2.E.2.3.",
+                "BIOL.2.F.4.3."
+            ]
+        },
+        {
+            "referencia": "BIOL.2.4.1",
+            "descripcion": "Explicar fenómenos biológicos, a través del planteamiento y resolución de problemas, buscando y utilizando las estrategias y recursos adecuados.",
+            "saberes_relacionados": [
+                "BIOL.2.A.3.5.",
+                "BIOL.2.B.3.2.",
+                "BIOL.2.B.5.1.",
+                "BIOL.2.D.1.2.",
+                "BIOL.2.D.1.3.",
+                "BIOL.2.E.1.1.",
+                "BIOL.2.F.2.2."
+            ]
+        },
+        {
+            "referencia": "BIOL.2.4.2",
+            "descripcion": "Analizar críticamente la solución a un problema utilizando los saberes de la materia de Biología y reformular los procedimientos utilizados o conclusiones si dicha solución no fuese viable o ante nuevos datos aportados o encontrados con posterioridad.",
+            "saberes_relacionados": [
+                "BIOL.2.A.1.2.",
+                "BIOL.2.A.3.5.",
+                "BIOL.2.B.5.1.",
+                "BIOL.2.B.5.2.",
+                "BIOL.2.B.5.3.",
+                "BIOL.2.F.2.1."
+            ]
+        },
+        {
+            "referencia": "BIOL.2.5.1",
+            "descripcion": "Argumentar sobre la importancia de adoptar estilos de vida saludables, propios y de los miembros de la comunidad educativa, y compatibles con el desarrollo sostenible, basándose en los principios de la Biología molecular y relacionándolos con los procesos macroscópicos, proponiendo medidas para el cambio positivo hacia un modo de vida más saludable y sostenible.",
+            "saberes_relacionados": [
+                "BIOL.2.A.4.2.",
+                "BIOL.2.E.1.3.",
+                "BIOL.2.B.6.3."
+            ]
+        },
+        {
+            "referencia": "BIOL.2.6.1",
+            "descripcion": "Explicar las características y procesos vitales de los seres vivos mediante el análisis de sus biomoléculas, de las interacciones bioquímicas entre ellas y de sus reacciones metabólicas.",
+            "saberes_relacionados": [
+                "BIOL.2.D.1.1.",
+                "BIOL.2.D.1.4.",
+                "BIOL.2.D.2.1.",
+                "BIOL.2.D.2.2.",
+                "BIOL.2.D.3.1.",
+                "BIOL.2.D.3.2.",
+                "BIOL.2.C.4.1.",
+                "BIOL.2.C.5."
+            ]
+        },
+        {
+            "referencia": "BIOL.2.6.2",
+            "descripcion": "Aplicar metodologías analíticas en el laboratorio utilizando los materiales adecuados con precisión.",
+            "saberes_relacionados": [
+                "BIOL.2.B.1.2.",
+                "BIOL.2.C.2.1.",
+                "BIOL.2.C.2.2.",
+                "BIOL.2.C.3.1.",
+                "BIOL.2.C.6.4.",
+                "BIOL.2.E.1.2."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Las biomoléculas.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.A.1.",
+            "descripcion": "Las biomoléculas orgánicas e inorgánicas.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.A.1.1.",
+            "descripcion": "Reconocimiento de las características generales y diferencias entre las biomoléculas orgánicas e inorgánicas. Comprensión de los enlaces químicos y su importancia biológica.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.1.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.A.1.2.",
+            "descripcion": "Elaboración de modelos y representaciones que faciliten la identificación de los principales grupos funcionales y la comprensión de la naturaleza de los componentes moleculares de la célula, tanto orgánicos como inorgánicos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.3.1",
+                "BIOL.2.4.2"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.A.2.",
+            "descripcion": "Las moléculas y los iones inorgánicos: agua y sales minerales.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.A.2.1.",
+            "descripcion": "Desarrollar destrezas que relacionen las características químicas y funciones biológicas del agua y las sales minerales.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.1.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.A.3.",
+            "descripcion": "Las moléculas orgánicas: Glúcidos, lípidos, prótidos y ácidos nucleicos.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.A.3.1.",
+            "descripcion": "Comprensión de las características químicas, isomerías, enlaces y funciones de los monosacáridos (pentosas, hexosas en sus formas lineales y cíclicas, isomerías, enlaces y funciones), disacáridos y polisacáridos con mayor relevancia biológica.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.1.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.A.3.2.",
+            "descripcion": "Diferenciación de los lípidos saponificables y no saponificables: comprensión de sus características químicas, tipos, diferencias y funciones biológicas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.2.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.A.3.3.",
+            "descripcion": "Identificación de las proteínas: comprensión de sus características químicas, estructura, función biológica, papel biocatalizador.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.2.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.A.3.4.",
+            "descripcion": "Reconocimiento de los ácidos nucleicos: diferenciación de tipos, características químicas, estructura y función biológica.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.2.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.A.3.5.",
+            "descripcion": "Aplicación de metodología práctica en laboratorio para identificar las distintas moléculas orgánicas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.4.1",
+                "BIOL.2.4.2"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.A.4.",
+            "descripcion": "Las vitaminas y sales.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.A.4.1.",
+            "descripcion": "Comprensión de su función biológica como cofactores enzimáticos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.1.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.A.4.2.",
+            "descripcion": "La relación entre los bioelementos y biomoléculas y la salud. Estilos de vida saludables. Estrategias de compresión para valorar la importancia de su incorporación en la dieta, poniendo en valor las características de la dieta mediterránea.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.3.1",
+                "BIOL.2.5.1"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Genética molecular.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.B.1.",
+            "descripcion": "El ADN.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.B.1.1.",
+            "descripcion": "Comprensión del concepto de ADN y su modelo estructural. Compresión de concepto de gen.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.3.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.B.1.2.",
+            "descripcion": "Desarrollo de experiencias en laboratorio.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.6.2"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.B.2.",
+            "descripcion": "Los genomas procariota y eucariota.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.B.2.1.",
+            "descripcion": "Identificación de los genomas procariota y eucariota.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.1.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.B.2.2.",
+            "descripcion": "Comprensión de las características generales y diferencias entre ellos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.1.2"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.B.3.",
+            "descripcion": "Mecanismo de replicación del ADN",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.B.3.1.",
+            "descripcion": "Reconocimiento de las etapas de la replicación.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.2.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.B.3.2.",
+            "descripcion": "Manejo de las diferencias entre el modelo eucariota y el modelo procariota.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.4.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.B.4.",
+            "descripcion": "El ARN.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.B.4.1.",
+            "descripcion": "Reconocimiento de tipos y funciones.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.3.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.B.5.",
+            "descripcion": "La expresión génica.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.B.5.1.",
+            "descripcion": "La expresión génica: reconocimiento modelo procariota y modelo eucariota.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.4.1",
+                "BIOL.2.4.2"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.B.5.2.",
+            "descripcion": "El código genético: reconocimiento de sus características y resolución de problemas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.2.1",
+                "BIOL.2.4.2"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.B.5.3.",
+            "descripcion": "Regulación de la expresión génica: reconocimiento de su importancia en la diferenciación celular.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.4.2"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.B.6.",
+            "descripcion": "Las mutaciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.B.6.1.",
+            "descripcion": "Reconocimiento del concepto de mutación.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.2.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.B.6.2.",
+            "descripcion": "Compresión de su relación con la replicación del ADN, la evolución y la biodiversidad.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.1.2"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.B.6.3.",
+            "descripcion": "Valoración de la biodiversidad en Andalucía.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.1.2",
+                "BIOL.2.5.1"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Biología celular.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.C.1.",
+            "descripcion": "La teoría celular.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.C.1.1.",
+            "descripcion": "Identificación de la teoría celular.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.1.2"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.C.1.2.",
+            "descripcion": "Desarrollo de destrezas para analizar sus implicaciones biológicas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.1.2"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.C.2.",
+            "descripcion": "La microscopía óptica y electrónica.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.C.2.1.",
+            "descripcion": "Diferenciación entre microscopia óptica y electrónica.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.6.2"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.C.2.2.",
+            "descripcion": "Desarrollo de estrategias de análisis de imágenes, poder de resolución y técnicas de preparación de muestras.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.6.2"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.C.3.",
+            "descripcion": "La membrana plasmática.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.C.3.1.",
+            "descripcion": "La membrana plasmática: identificación de la ultraestructura y propiedades.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.6.2"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.C.3.2.",
+            "descripcion": "El proceso osmótico: desarrollo de estrategias de análisis de su repercusión sobre la célula eucariota animal, vegetal y procariota.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.1.2"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.C.3.3.",
+            "descripcion": "El transporte a través de la membrana plasmática: identificación de mecanismos (difusión simple y facilitada, transporte activo, endocitosis y exocitosis) y tipos de moléculas transportadas con cada uno de ellos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.1.2"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.C.4.",
+            "descripcion": "Los orgánulos celulares eucariotas y procariotas.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.C.4.1.",
+            "descripcion": "Reconocimiento de estructura y función básica de los orgánulos celulares eucariotas y procariotas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.6.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.C.4.2.",
+            "descripcion": "Identificación de modelos de organización en eucariotas y procariotas. Células animales y vegetales.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.1.3"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.C.5.",
+            "descripcion": "El ciclo celular. Identificación de fases y mecanismos de regulación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "BIOL.2.6.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.C.6.",
+            "descripcion": "La mitosis y la meiosis.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.C.6.1.",
+            "descripcion": "Identificación y reconocimiento de fases y función biológica.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.1.3"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.C.6.2.",
+            "descripcion": "Necesidad biológica de la meiosis en reproducción sexual.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.1.3"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.C.6.3.",
+            "descripcion": "Valoración de la importancia de la meiosis en la evolución de los seres vivos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.1.3"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.C.6.4.",
+            "descripcion": "Desarrollo de experiencias de laboratorio para identificación de fases de mitosis y meiosis en células.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.6.2"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.C.7.",
+            "descripcion": "El cáncer.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.C.7.1.",
+            "descripcion": "Comprensión de la relación con las mutaciones y la alteración del ciclo celular.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.1.3"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.C.7.2.",
+            "descripcion": "Identificación de los avances biomédicos frente al cáncer en Andalucía.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.1.3"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.C.7.3.",
+            "descripcion": "Sensibilización frente a medidas a tomar para la prevención del cáncer. Correlación entre el cáncer y determinados hábitos perjudiciales. La importancia de los estilos de vida saludables.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.3.2"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Metabolismo.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.D.1.",
+            "descripcion": "Concepto de metabolismo.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.D.1.1.",
+            "descripcion": "Comprensión de conceptos de anabolismo y catabolismo: Identificación de las diferencias.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.6.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.D.1.2.",
+            "descripcion": "Estrategias de interpretación de reacciones metabólicas: metabolismo aeróbico y anaeróbico.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.4.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.D.1.3.",
+            "descripcion": "Desarrollo de destrezas para el cálculo comparativo de sus rendimientos energéticos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.4.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.D.1.4.",
+            "descripcion": "Reconocimiento de procesos de regulación del metabolismo.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.6.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.D.2.",
+            "descripcion": "Procesos implicados en la respiración celular anaeróbica.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.D.2.1.",
+            "descripcion": "Reconocimiento de procesos implicados en la respiración celular anaeróbica (glucólisis y fermentación).",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.6.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.D.2.2.",
+            "descripcion": "Reconocimiento de procesos implicados en la respiración celular aeróbica (β-oxidación de los ácidos grasos, ciclo de Krebs, cadena de transporte de electrones y fosforilación oxidativa).",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.6.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.D.3.",
+            "descripcion": "Principales rutas de anabolismo heterótrofo y autótrofo.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.D.3.1.",
+            "descripcion": "Principales rutas de anabolismo heterótrofo: síntesis de aminoácidos, proteínas y ácidos grasos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.6.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.D.3.2.",
+            "descripcion": "Principales rutas de anabolismo autótrofo: fotosíntesis y quimiosíntesis.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.6.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.D.3.3.",
+            "descripcion": "Reconocimiento de su importancia biológica.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.2.2"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.D.4.",
+            "descripcion": "Aplicaciones industriales del proceso de fermentación. Valoración de las fermentaciones en numerosos procesos industriales, reconociendo sus aplicaciones en Andalucía y su relación con la mejora de la sostenibilidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "BIOL.2.2.2"
+            ]
+        },
+        {
+            "referencia": "E.",
+            "descripcion": "Ingeniería genética y biotecnología.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.E.1.",
+            "descripcion": "Técnicas de ingeniería genética y sus aplicaciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.E.1.1.",
+            "descripcion": "Reconocimiento e identificación de técnicas de ingeniería genética: PCR, enzimas de restricción, clonación molecular, CRISPR-CAS9, etc.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.2.1",
+                "BIOL.2.4.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.E.1.2.",
+            "descripcion": "Reproducción de modelos de técnicas de ingeniería genética.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.6.2"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.E.1.3.",
+            "descripcion": "Valoración de la importancia de estas técnicas para el avance en biomedicina.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.5.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.E.2.",
+            "descripcion": "Importancia de la biotecnología.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.E.2.1.",
+            "descripcion": "Reconocimiento y comprobación de la importancia de la biotecnología: aplicaciones en salud, agricultura, medio ambiente, nuevos materiales, industria alimentaria, etc.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.3.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.E.2.2.",
+            "descripcion": "Valoración del papel destacado de los microorganismos en aplicaciones biotecnológicas, obtención de productos farmacéuticos, en medicina y en mejora del medio ambiente.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.3.2"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.E.2.3.",
+            "descripcion": "Reconocimiento y valoración del desarrollo de la biotecnología en Andalucía.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.3.2"
+            ]
+        },
+        {
+            "referencia": "F.",
+            "descripcion": "Inmunología.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.F.1.",
+            "descripcion": "La Inmunidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.F.1.1.",
+            "descripcion": "Análisis del concepto de inmunidad.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.1.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.F.1.2.",
+            "descripcion": "Identificación de las barreras externas y su importancia al dificultar la entrada de patógenos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.1.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.F.1.3.",
+            "descripcion": "Diferenciación entre inmunidad innata y específica.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.1.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.F.2.",
+            "descripcion": "Inmunidad específica.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.F.2.1.",
+            "descripcion": "Comparación entre los mecanismos de acción de inmunidad humoral y celular y la identificación de las células responsables.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.4.2"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.F.2.2.",
+            "descripcion": "Análisis de la estructura de los anticuerpos e identificación de los tipos de mecanismos de reacción antígeno-anticuerpo.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.4.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.F.3.",
+            "descripcion": "Inmunidad natural y artificial o adquirida.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.F.3.1.",
+            "descripcion": "Comparación de los mecanismos de acción de inmunidad artificial y natural, pasiva y activa.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.2.2"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.F.3.2.",
+            "descripcion": "Comprensión de los conceptos de vacunas y sueros.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.2.2"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.F.4.",
+            "descripcion": "Enfermedades y patologías del sistema inmunitario.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "BIOL.2.F.4.1.",
+            "descripcion": "Análisis de las fases de las enfermedades infecciosas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.2.1"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.F.4.2.",
+            "descripcion": "Identificación de las causas de las principales patologías del sistema inmunitario: relevancia clínica de las mismas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.2.2"
+            ]
+        },
+        {
+            "referencia": "BIOL.2.F.4.3.",
+            "descripcion": "Reflexión de la importancia de investigación en inmunología para la mejora de la salud de las personas y la situación de esta investigación en Andalucía.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "BIOL.2.3.2"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,441 @@
+{
+    "titulo": "2º BACHILLERATO - Psicología (2º BACH)",
+    "referencia": "PSIC.2",
+    "competencias_especificas": [
+        {
+            "codigo": "PSIC.2.1",
+            "descripcion": "Buscar, seleccionar y analizar de manera segura y fiable, información proveniente de diversas fuentes, partiendo de las aportaciones de las principales corrientes o modelos teóricos en Psicología, para valorar con sentido crítico las soluciones propuestas a los problemas esenciales en el estudio del ser humano."
+        },
+        {
+            "codigo": "PSIC.2.2",
+            "descripcion": "Comprender las bases de la conducta humana, identificando los condicionantes relativos a factores genéticos y endocrinos, así como de los procesos cognitivos básicos y superiores, para apreciar y comprender su influencia en la misma y adquirir conciencia de la complejidad del comportamiento humano."
+        },
+        {
+            "codigo": "PSIC.2.3",
+            "descripcion": "Identificar y mejorar las destrezas y habilidades metacognitivas relacionadas con aprender a aprender y los procesos cognitivos, valorando la importancia del autoconocimiento y la gestión emocional en su desarrollo personal e interpersonal, analizando las implicaciones en su conducta, potenciando las cualidades personales que le ayuden a desenvolverse con autonomía y afrontar de forma proactiva los desafíos de la vida, ya sean privados, profesionales o sociales."
+        },
+        {
+            "codigo": "PSIC.2.4",
+            "descripcion": "Analizar con sentido crítico y desde una perspectiva ética los procesos sociales más relevantes de nuestro tiempo, identificando sus elementos básicos o problemáticos, para desarrollar alternativas de carácter local y global que vayan a la raíz de los problemas planteados y que estén encaminadas a ofrecer propuestas que contribuyan a la recuperación del equilibrio del medio natural, social y humano."
+        },
+        {
+            "codigo": "PSIC.2.5",
+            "descripcion": "Diseñar y emprender un proyecto de intervención, explorando los recursos disponibles y seleccionando las técnicas y procedimientos más adecuados de acuerdo a su objeto, a las necesidades detectadas, a las fortalezas, oportunidades, amenazas y debilidades del entorno, con criterios éticos y una orientación creativa en la búsqueda de soluciones y alternativas, con sujeción al método científico."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "PSIC.2.1.1",
+            "descripcion": "Buscar y seleccionar información relativa a las aportaciones de las diferentes corrientes de la Psicología, de manera sistematizada, realizando previamente su planificación, incluyendo una variedad de fuentes y soportes documentales, audiovisuales, revistas científicas, recursos online, etc. y cuidando su seguridad en la red, para posteriormente organizar, analizar y realizar conclusiones, estableciendo relaciones y comunicando, con claridad y de manera atractiva, los resultados.",
+            "saberes_relacionados": [
+                "PSIC.2.A.1.",
+                "PSIC.2.C.3."
+            ]
+        },
+        {
+            "referencia": "PSIC.2.1.2",
+            "descripcion": "Identificar la dimensión teórica y práctica de la Psicología, sus objetivos, características, ramas y técnicas de investigación, relacionándolas, como ciencia multidisciplinar, con otras ciencias cuyo fin es la comprensión de los fenómenos humanos, como la Filosofía, Biología, Antropología, Economía, etc.",
+            "saberes_relacionados": [
+                "PSIC.2.A.2.",
+                "PSIC.2.A.3."
+            ]
+        },
+        {
+            "referencia": "PSIC.2.1.3",
+            "descripcion": "Reconocer y expresar las aportaciones más importantes de la Psicología, desde sus inicios hasta la actualidad, identificando los principales problemas planteados y las soluciones aportadas por las diferentes corrientes psicológicas contemporáneas.",
+            "saberes_relacionados": [
+                "PSIC.2.A.1.",
+                "PSIC.2.A.4."
+            ]
+        },
+        {
+            "referencia": "PSIC.2.2.1",
+            "descripcion": "Explicar la evolución del cerebro humano desde un enfoque antropológico, identificando sus características en relación con el de otras especies.",
+            "saberes_relacionados": [
+                "PSIC.2.B.1.",
+                "PSIC.2.B.2.",
+                "PSIC.2.C.7."
+            ]
+        },
+        {
+            "referencia": "PSIC.2.2.2",
+            "descripcion": "Analizar y apreciar la importancia de la organización del sistema nervioso central, distinguiendo las diferentes áreas y funciones.",
+            "saberes_relacionados": [
+                "PSIC.2.B.1.",
+                "PSIC.2.B.2.",
+                "PSIC.2.C.7."
+            ]
+        },
+        {
+            "referencia": "PSIC.2.2.3",
+            "descripcion": "Comprender e identificar las bases genéticas del sistema endocrino, los procesos cognitivos básicos y superiores, así como su relación con la conducta humana, destacando de manera argumentada el origen de algunas enfermedades o trastornos.",
+            "saberes_relacionados": [
+                "PSIC.2.B.2.",
+                "PSIC.2.C.1.",
+                "PSIC.2.C.2.",
+                "PSIC.2.C.7."
+            ]
+        },
+        {
+            "referencia": "PSIC.2.2.4",
+            "descripcion": "Identificar fortalezas y debilidades propias y del grupo en relación con los procesos básicos (percepción, atención y memoria) y superiores (aprendizaje, inteligencia y pensamiento), comprendiendo la percepción como un proceso constructivo y subjetivo, y valorando la importancia de la inteligencia emocional.",
+            "saberes_relacionados": [
+                "PSIC.2.C.3.",
+                "PSIC.2.C.4.",
+                "PSIC.2.C.5.",
+                "PSIC.2.C.6.",
+                "PSIC.2.C.7."
+            ]
+        },
+        {
+            "referencia": "PSIC.2.3.1",
+            "descripcion": "Aprender a identificar las características fundamentales de la propia conducta, así como los rasgos de la personalidad, aplicando estrategias de desarrollo personal para la adquisición de nuevas destrezas emocionales y sociales.",
+            "saberes_relacionados": [
+                "PSIC.2.D.1.",
+                "PSIC.2.D.2.",
+                "PSIC.2.D.6."
+            ]
+        },
+        {
+            "referencia": "PSIC.2.3.2",
+            "descripcion": "Conocer los procesos implicados en el desarrollo de las emociones, identificando la relación existente entre emoción, cognición y comportamiento y desarrollando estrategias exitosas de afrontamiento.",
+            "saberes_relacionados": [
+                "PSIC.2.D.3.",
+                "PSIC.2.D.4.",
+                "PSIC.2.D.6."
+            ]
+        },
+        {
+            "referencia": "PSIC.2.3.3",
+            "descripcion": "Aplicar el conocimiento de la propia personalidad y conducta al análisis de los problemas cotidianos, transformando las dificultades en oportunidades de aprendizaje, para adoptar comportamientos responsables frente a las situaciones de la vida cotidiana, personal y profesional.",
+            "saberes_relacionados": [
+                "PSIC.2.C.7.",
+                "PSIC.2.D.5.",
+                "PSIC.2.D.6."
+            ]
+        },
+        {
+            "referencia": "PSIC.2.4.1",
+            "descripcion": "Analizar problemas de naturaleza comunitaria o social, identificando y reflexionando sobre los patrones de comportamiento, los roles o el liderazgo, o la necesidad de aceptación y pertenencia, para comprender la influencia de los grupos en el pensamiento y la conducta de los individuos.",
+            "saberes_relacionados": [
+                "PSIC.2.E.1.",
+                "PSIC.2.E.4.",
+                "PSIC.2.D.6."
+            ]
+        },
+        {
+            "referencia": "PSIC.2.4.2",
+            "descripcion": "Relacionar los fenómenos o procesos sociales de masas con variables estructurales, ideológicas, políticas, religiosas o históricas, generando conexiones entre variables sociales e individuales para generar una conciencia global y dinámica de la realidad.",
+            "saberes_relacionados": [
+                "PSIC.2.E.2.",
+                "PSIC.2.E.3."
+            ]
+        },
+        {
+            "referencia": "PSIC.2.4.3",
+            "descripcion": "Discriminar los factores relacionados con el liderazgo, analizando las estrategias y recursos de resolución de conflictos, para contribuir a desarrollar una conciencia crítica respecto de los posibles usos de la Psicología y sus técnicas como formas de manipulación y control social.",
+            "saberes_relacionados": [
+                "PSIC.2.E.3.",
+                "PSIC.2.E.4.",
+                "PSIC.2.D.6."
+            ]
+        },
+        {
+            "referencia": "PSIC.2.5.1",
+            "descripcion": "Articular las etapas de un proyecto de intervención, participando con coherencia y de forma eficiente en la organización, gestión y planificación de las tareas, en función del propósito y su viabilidad, desarrollando los procedimientos e instrumentos más adecuados para llevarlo a cabo.",
+            "saberes_relacionados": [
+                "PSIC.2.D.6.",
+                "PSIC.2.E.6."
+            ]
+        },
+        {
+            "referencia": "PSIC.2.5.2",
+            "descripcion": "Proponer procedimientos e instrumentos de diagnóstico adecuados a las situaciones o problemas planteados a través de estudios de caso, role-playing o simulaciones, que permitan evaluar las dimensiones y procesos cognitivos, personales, emocionales, afectivos o sociales.",
+            "saberes_relacionados": [
+                "PSIC.2.A.4.",
+                "PSIC.2.C.7.",
+                "PSIC.2.E.6."
+            ]
+        },
+        {
+            "referencia": "PSIC.2.5.3",
+            "descripcion": "Identificar estrategias de ayuda o acompañamiento psicosocial apropiados a la naturaleza y ámbito del problema o estudio de caso planteado, de manera ordenada y fundamentada, con criterios éticos y técnicos.",
+            "saberes_relacionados": [
+                "PSIC.2.E.4.",
+                "PSIC.2.E.6."
+            ]
+        },
+        {
+            "referencia": "PSIC.2.5.4",
+            "descripcion": "Mostrar iniciativa, creatividad, interés y una actitud colaborativa a lo largo de todo el proyecto de intervención.",
+            "saberes_relacionados": [
+                "PSIC.2.E.5.",
+                "PSIC.2.E.6."
+            ]
+        },
+        {
+            "referencia": "PSIC.2.5.5",
+            "descripcion": "Afrontar las dificultades y los obstáculos, con una actitud inclusiva, valorando las aportaciones y la participación del resto de los miembros.",
+            "saberes_relacionados": [
+                "PSIC.2.E.5.",
+                "PSIC.2.E.6."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "La Psicología como ciencia.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "PSIC.2.A.1.",
+            "descripcion": "Corrientes de la Psicología a lo largo de su historia: el estructuralismo, el funcionalismo, el constructivismo, el psicoanálisis y psicodinámica, conductismo, Gestalt, humanismo y la Psicología cognitiva.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.1.1",
+                "PSIC.2.1.3"
+            ]
+        },
+        {
+            "referencia": "PSIC.2.A.2.",
+            "descripcion": "Campos de la Psicología actual. Psicología experimental, evolutiva, educativa, fisiológica y neuropsicológica, clínica, comunitaria, del trabajo, social, o de las organizaciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.1.2"
+            ]
+        },
+        {
+            "referencia": "PSIC.2.A.3.",
+            "descripcion": "Métodos de investigación en Psicología.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.1.2"
+            ]
+        },
+        {
+            "referencia": "PSIC.2.A.4.",
+            "descripcion": "La Psicología en su aplicación terapéutica: escuelas y técnicas psicoterapéuticas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.1.3",
+                "PSIC.2.5.2"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Fundamentos biológicos de la conducta.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "PSIC.2.B.1.",
+            "descripcion": "Estructura y funcionamiento del Sistema Nervioso Central (SNC).",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.2.1",
+                "PSIC.2.2.2"
+            ]
+        },
+        {
+            "referencia": "PSIC.2.B.2.",
+            "descripcion": "Implicación de la genética y el sistema endocrino en el comportamiento humano. Trastornos y enfermedades mentales relevantes asociados al SNC.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.2.1",
+                "PSIC.2.2.2",
+                "PSIC.2.2.3"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Procesos cognitivos en el ser humano.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "PSIC.2.C.1.",
+            "descripcion": "Los procesos cognitivos básicos: percepción, atención y memoria.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.2.3"
+            ]
+        },
+        {
+            "referencia": "PSIC.2.C.2.",
+            "descripcion": "Procesos cognitivos superiores: aprendizaje, inteligencia y pensamiento.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.2.3"
+            ]
+        },
+        {
+            "referencia": "PSIC.2.C.3.",
+            "descripcion": "Teorías del aprendizaje más relevantes.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.1.1",
+                "PSIC.2.2.4"
+            ]
+        },
+        {
+            "referencia": "PSIC.2.C.4.",
+            "descripcion": "La inteligencia emocional.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.2.4"
+            ]
+        },
+        {
+            "referencia": "PSIC.2.C.5.",
+            "descripcion": "El pensamiento creativo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.2.4"
+            ]
+        },
+        {
+            "referencia": "PSIC.2.C.6.",
+            "descripcion": "El razonamiento, la solución de problemas y la toma de decisiones.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.2.4"
+            ]
+        },
+        {
+            "referencia": "PSIC.2.C.7.",
+            "descripcion": "Procedimientos e instrumentos individuales y grupales para identificar necesidades y fortalezas en el ámbito del aprendizaje.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.2.1",
+                "PSIC.2.2.2",
+                "PSIC.2.2.3",
+                "PSIC.2.2.4",
+                "PSIC.2.3.3",
+                "PSIC.2.5.2"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "La construcción del ser humano. Motivación, personalidad y afectividad.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "PSIC.2.D.1.",
+            "descripcion": "Determinantes individuales y situacionales de la conducta.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.3.1"
+            ]
+        },
+        {
+            "referencia": "PSIC.2.D.2.",
+            "descripcion": "La personalidad. Algunos trastornos de personalidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.3.1"
+            ]
+        },
+        {
+            "referencia": "PSIC.2.D.3.",
+            "descripcion": "La motivación: motivos y deseos. Principales teorías de la motivación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.3.2"
+            ]
+        },
+        {
+            "referencia": "PSIC.2.D.4.",
+            "descripcion": "Emociones y afectividad. Principales trastornos emocionales de la conducta: fobias, ansiedad, estrés, depresión, trastornos de la alimentación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.3.2"
+            ]
+        },
+        {
+            "referencia": "PSIC.2.D.5.",
+            "descripcion": "La sexualidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.3.3"
+            ]
+        },
+        {
+            "referencia": "PSIC.2.D.6.",
+            "descripcion": "Procedimientos e instrumentos individuales y grupales para identificar necesidades y fortalezas en el ámbito de la motivación, la personalidad y la afectividad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.3.1",
+                "PSIC.2.3.2",
+                "PSIC.2.3.3",
+                "PSIC.2.4.1",
+                "PSIC.2.4.3",
+                "PSIC.2.5.1"
+            ]
+        },
+        {
+            "referencia": "E.",
+            "descripcion": "Psicología social y de las organizaciones.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "PSIC.2.E.1.",
+            "descripcion": "Procesos de socialización. La interiorización de normas y valores. Las actitudes, normas y valores en la vida social.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.4.1"
+            ]
+        },
+        {
+            "referencia": "PSIC.2.E.2.",
+            "descripcion": "Los procesos psicológicos de las masas y los pueblos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.4.2"
+            ]
+        },
+        {
+            "referencia": "PSIC.2.E.3.",
+            "descripcion": "La influencia de la cultura en el comportamiento social, en los procesos cognitivos y en la personalidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.4.2",
+                "PSIC.2.4.3"
+            ]
+        },
+        {
+            "referencia": "PSIC.2.E.4.",
+            "descripcion": "La Psicología de las organizaciones: liderazgo, cultura emprendedora y relaciones intergrupales dentro de las organizaciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.4.1",
+                "PSIC.2.4.3",
+                "PSIC.2.5.3"
+            ]
+        },
+        {
+            "referencia": "PSIC.2.E.5.",
+            "descripcion": "Organización del trabajo y gestión de conflictos dentro de las organizaciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.5.4",
+                "PSIC.2.5.5"
+            ]
+        },
+        {
+            "referencia": "PSIC.2.E.6.",
+            "descripcion": "Procedimientos e instrumentos individuales y grupales para identificar necesidades y fortalezas en el ámbito de la Psicología social y de las organizaciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "PSIC.2.5.1",
+                "PSIC.2.5.2",
+                "PSIC.2.5.3",
+                "PSIC.2.5.4",
+                "PSIC.2.5.5"
+            ]
+        }
+    ]
+}

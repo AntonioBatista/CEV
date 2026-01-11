@@ -1,0 +1,416 @@
+{
+    "titulo": "2º BACHILLERATO - Finanzas y Economía (2º BACH)",
+    "referencia": "FYEC.2",
+    "competencias_especificas": [
+        {
+            "codigo": "FYEC.2.1",
+            "descripcion": "Tomar conciencia de la importancia del análisis personal, empresarial o social antes de la toma de decisiones financieras o de inversión, llevando a cabo la resolución de problemas financieros en el caso de rentas, préstamos y empréstitos comerciales, para planificar adecuadamente los aspectos financieros de la vida personal y de las organizaciones."
+        },
+        {
+            "codigo": "FYEC.2.2",
+            "descripcion": "Identificar las características, ventajas e inconvenientes de los principales productos y mercados financieros y aplicar técnicas sencillas para conocer la viabilidad de proyectos financieros, combinando diferentes fuentes de financiación."
+        },
+        {
+            "codigo": "FYEC.2.3",
+            "descripcion": "Comprender las características básicas de las diferentes metodologías de investigación y experimentación económicas, aplicándolas a la realización de indagaciones sencillas que permitan abordar de un modo científico la comprensión de la realidad y el análisis de las consecuencias y la viabilidad de las intervenciones de los diferentes agentes, para profundizar en la comprensión de los problemas sociales y valorar la relevancia de la evaluación del impacto social de la actividad empresarial, de las conductas de los consumidores y de las políticas públicas."
+        },
+        {
+            "codigo": "FYEC.2.4",
+            "descripcion": "Implementar técnicas de emprendimiento personal como la gestión de la inteligencia emocional, así como valorar la importancia del emprendimiento empresarial y social para crear renta y empleo y mejorar el bienestar social, diseñando, con sentido ético y solidario, estrategias de emprendimiento innovadoras y sostenibles que den respuesta a las necesidades locales, andaluzas, españolas y globales detectadas."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "FYEC.2.1.1",
+            "descripcion": "Identificar las variables relevantes para tomar decisiones de financiación y de inversión en contextos personales, empresariales y sociales, comprendiendo las diferencias entre activos reales y financieros.",
+            "saberes_relacionados": [
+                "FYEC.2.A.1.",
+                "FYEC.2.A.2.",
+                "FYEC.2.A.3.",
+                "FYEC.2.A.4."
+            ]
+        },
+        {
+            "referencia": "FYEC.2.1.2",
+            "descripcion": "Aplicar las leyes de capitalización simple y compuesta a la resolución de problemas.",
+            "saberes_relacionados": [
+                "FYEC.2.A.1.",
+                "FYEC.2.A.2.",
+                "FYEC.2.A.3.",
+                "FYEC.2.A.4."
+            ]
+        },
+        {
+            "referencia": "FYEC.2.1.3",
+            "descripcion": "Calcular operaciones de intercambio de capitales con vencimientos distintos.",
+            "saberes_relacionados": [
+                "FYEC.2.A.1.",
+                "FYEC.2.A.2.",
+                "FYEC.2.A.3.",
+                "FYEC.2.A.4."
+            ]
+        },
+        {
+            "referencia": "FYEC.2.1.4",
+            "descripcion": "Valorar la importancia de comprender las operaciones financieras para planificar las decisiones financieras de las personas y de las organizaciones a lo largo de las diferentes etapas de su vida.",
+            "saberes_relacionados": [
+                "FYEC.2.A.1.",
+                "FYEC.2.A.2.",
+                "FYEC.2.A.3.",
+                "FYEC.2.A.4."
+            ]
+        },
+        {
+            "referencia": "FYEC.2.2.1",
+            "descripcion": "Describir, tipificar y calcular el valor financiero en problemas de rentas.",
+            "saberes_relacionados": [
+                "FYEC.2.B.1.",
+                "FYEC.2.B.2.",
+                "FYEC.2.B.3."
+            ]
+        },
+        {
+            "referencia": "FYEC.2.2.2",
+            "descripcion": "Conocer los elementos y garantías del proceso financiero de la amortización de préstamos.",
+            "saberes_relacionados": [
+                "FYEC.2.B.1.",
+                "FYEC.2.B.2.",
+                "FYEC.2.B.3."
+            ]
+        },
+        {
+            "referencia": "FYEC.2.2.3",
+            "descripcion": "Confeccionar e interpretar tablas descriptivas de operaciones de préstamos empleando los métodos más habituales de amortización.",
+            "saberes_relacionados": [
+                "FYEC.2.B.1.",
+                "FYEC.2.B.2.",
+                "FYEC.2.B.3."
+            ]
+        },
+        {
+            "referencia": "FYEC.2.2.4",
+            "descripcion": "Identificar los rasgos básicos de operaciones de empréstitos comerciales interpretando documentos relacionados con ellos.",
+            "saberes_relacionados": [
+                "FYEC.2.B.1.",
+                "FYEC.2.B.2.",
+                "FYEC.2.B.3."
+            ]
+        },
+        {
+            "referencia": "FYEC.2.3.1",
+            "descripcion": "Describir las características de los principales productos financieros que oferta el mercado financiero, comprendiendo su relevancia para la planificación de las actividades de las personas y las organizaciones y valorando las implicaciones éticas de las decisiones financieras.",
+            "saberes_relacionados": [
+                "FYEC.2.C.1.",
+                "FYEC.2.C.2.",
+                "FYEC.2.C.3.",
+                "FYEC.2.C.4.",
+                "FYEC.2.C.5.",
+                "FYEC.2.C.6.",
+                "FYEC.2.C.7."
+            ]
+        },
+        {
+            "referencia": "FYEC.2.3.2",
+            "descripcion": "Describir las principales características del mercado primario y del mercado de negociación, simulando operaciones en carteras de diferente composición (renta fija, renta variable y mixta) y comprendiendo las relaciones entre rentabilidad, riesgo, plazo y liquidez.",
+            "saberes_relacionados": [
+                "FYEC.2.C.1.",
+                "FYEC.2.C.2.",
+                "FYEC.2.C.3.",
+                "FYEC.2.C.4.",
+                "FYEC.2.C.5.",
+                "FYEC.2.C.6.",
+                "FYEC.2.C.7."
+            ]
+        },
+        {
+            "referencia": "FYEC.2.3.3",
+            "descripcion": "Analizar, mediante distintos métodos, la viabilidad de proyectos financieros personales y de organizaciones.",
+            "saberes_relacionados": [
+                "FYEC.2.C.1.",
+                "FYEC.2.C.2.",
+                "FYEC.2.C.3.",
+                "FYEC.2.C.4.",
+                "FYEC.2.C.5.",
+                "FYEC.2.C.6.",
+                "FYEC.2.C.7."
+            ]
+        },
+        {
+            "referencia": "FYEC.2.3.4",
+            "descripcion": "Comprender las dinámicas de los procesos de especulación, valorando sus repercusiones sobre las condiciones de vida de las personas y de las sociedades.",
+            "saberes_relacionados": [
+                "FYEC.2.C.1.",
+                "FYEC.2.C.2.",
+                "FYEC.2.C.3.",
+                "FYEC.2.C.4.",
+                "FYEC.2.C.5.",
+                "FYEC.2.C.6.",
+                "FYEC.2.C.7."
+            ]
+        },
+        {
+            "referencia": "FYEC.2.4.1",
+            "descripcion": "Diferenciar las características de las principales modalidades de investigación económica.",
+            "saberes_relacionados": [
+                "FYEC.2.D.1.",
+                "FYEC.2.D.2.",
+                "FYEC.2.D.3.",
+                "FYEC.2.D.4."
+            ]
+        },
+        {
+            "referencia": "FYEC.2.4.2",
+            "descripcion": "Diseñar, llevar a cabo y exponer los resultados de una investigación sobre un problema económico o social que emplee datos, analice algún caso relevante relacionado con asuntos empresariales o financieros o lleve a cabo un experimento ilustrativo de principios económicos.",
+            "saberes_relacionados": [
+                "FYEC.2.D.1.",
+                "FYEC.2.D.2.",
+                "FYEC.2.D.3.",
+                "FYEC.2.D.4."
+            ]
+        },
+        {
+            "referencia": "FYEC.2.4.3",
+            "descripcion": "Reconocer el valor del trabajo en equipo.",
+            "saberes_relacionados": [
+                "FYEC.2.D.1.",
+                "FYEC.2.D.2.",
+                "FYEC.2.D.3.",
+                "FYEC.2.D.4."
+            ]
+        },
+        {
+            "referencia": "FYEC.2.4.4",
+            "descripcion": "Valorar la relevancia de la investigación económica en la comprensión de la realidad local, regional, estatal y global, en la validación científica de modelos, en la evaluación de políticas públicas y en el estudio de la viabilidad de propuestas de soluciones a los problemas sociales.",
+            "saberes_relacionados": [
+                "FYEC.2.D.1.",
+                "FYEC.2.D.2.",
+                "FYEC.2.D.3.",
+                "FYEC.2.D.4."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Decisiones financieras básicas.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "FYEC.2.A.1.",
+            "descripcion": "Planificación y decisiones financieras.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYEC.2.1.1",
+                "FYEC.2.1.2",
+                "FYEC.2.1.3",
+                "FYEC.2.1.4"
+            ]
+        },
+        {
+            "referencia": "FYEC.2.A.2.",
+            "descripcion": "Capitalización simple y compuesta.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYEC.2.1.1",
+                "FYEC.2.1.2",
+                "FYEC.2.1.3",
+                "FYEC.2.1.4"
+            ]
+        },
+        {
+            "referencia": "FYEC.2.A.3.",
+            "descripcion": "Equivalencia financiera.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYEC.2.1.1",
+                "FYEC.2.1.2",
+                "FYEC.2.1.3",
+                "FYEC.2.1.4"
+            ]
+        },
+        {
+            "referencia": "FYEC.2.A.4.",
+            "descripcion": "Gestión de cuentas corrientes.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYEC.2.1.1",
+                "FYEC.2.1.2",
+                "FYEC.2.1.3",
+                "FYEC.2.1.4"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Otras operaciones financieras.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "FYEC.2.B.1.",
+            "descripcion": "Rentas y resolución de problemas financieros.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYEC.2.2.1",
+                "FYEC.2.2.2",
+                "FYEC.2.2.3",
+                "FYEC.2.2.4"
+            ]
+        },
+        {
+            "referencia": "FYEC.2.B.2.",
+            "descripcion": "Métodos de amortización de préstamos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYEC.2.2.1",
+                "FYEC.2.2.2",
+                "FYEC.2.2.3",
+                "FYEC.2.2.4"
+            ]
+        },
+        {
+            "referencia": "FYEC.2.B.3.",
+            "descripcion": "Empréstitos comerciales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYEC.2.2.1",
+                "FYEC.2.2.2",
+                "FYEC.2.2.3",
+                "FYEC.2.2.4"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Mercados financieros.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "FYEC.2.C.1.",
+            "descripcion": "Productos financieros.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYEC.2.3.1",
+                "FYEC.2.3.2",
+                "FYEC.2.3.3",
+                "FYEC.2.3.4"
+            ]
+        },
+        {
+            "referencia": "FYEC.2.C.2.",
+            "descripcion": "El mercado primario.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYEC.2.3.1",
+                "FYEC.2.3.2",
+                "FYEC.2.3.3",
+                "FYEC.2.3.4"
+            ]
+        },
+        {
+            "referencia": "FYEC.2.C.3.",
+            "descripcion": "El mercado secundario: la renta fija, variable y mixta.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYEC.2.3.1",
+                "FYEC.2.3.2",
+                "FYEC.2.3.3",
+                "FYEC.2.3.4"
+            ]
+        },
+        {
+            "referencia": "FYEC.2.C.4.",
+            "descripcion": "Fondos de inversión, planes de pensiones y seguros.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYEC.2.3.1",
+                "FYEC.2.3.2",
+                "FYEC.2.3.3",
+                "FYEC.2.3.4"
+            ]
+        },
+        {
+            "referencia": "FYEC.2.C.5.",
+            "descripcion": "Proyectos de viabilidad financiera.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYEC.2.3.1",
+                "FYEC.2.3.2",
+                "FYEC.2.3.3",
+                "FYEC.2.3.4"
+            ]
+        },
+        {
+            "referencia": "FYEC.2.C.6.",
+            "descripcion": "Burbujas financieras y crisis económicas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYEC.2.3.1",
+                "FYEC.2.3.2",
+                "FYEC.2.3.3",
+                "FYEC.2.3.4"
+            ]
+        },
+        {
+            "referencia": "FYEC.2.C.7.",
+            "descripcion": "Finanzas éticas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYEC.2.3.1",
+                "FYEC.2.3.2",
+                "FYEC.2.3.3",
+                "FYEC.2.3.4"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Economía aplicada.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "FYEC.2.D.1.",
+            "descripcion": "Tratamiento de datos e investigaciones cuantitativas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYEC.2.4.1",
+                "FYEC.2.4.2",
+                "FYEC.2.4.3",
+                "FYEC.2.4.4"
+            ]
+        },
+        {
+            "referencia": "FYEC.2.D.2.",
+            "descripcion": "Análisis de casos y otros métodos cualitativos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYEC.2.4.1",
+                "FYEC.2.4.2",
+                "FYEC.2.4.3",
+                "FYEC.2.4.4"
+            ]
+        },
+        {
+            "referencia": "FYEC.2.D.3.",
+            "descripcion": "Experimentos económicos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYEC.2.4.1",
+                "FYEC.2.4.2",
+                "FYEC.2.4.3",
+                "FYEC.2.4.4"
+            ]
+        },
+        {
+            "referencia": "FYEC.2.D.4.",
+            "descripcion": "Proyecto de investigación sobre temas económicos y empresariales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "FYEC.2.4.1",
+                "FYEC.2.4.2",
+                "FYEC.2.4.3",
+                "FYEC.2.4.4"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,336 @@
+{
+    "titulo": "2º BACHILLERATO - Imagen y Sonido (2º BACH)",
+    "referencia": "IMYS.2",
+    "competencias_especificas": [
+        {
+            "codigo": "IMYS.2.1",
+            "descripcion": "Conocer y utilizar diversos recursos expresivos para realizar productos audiovisuales y multimedia con criterio estético y sensibilidad artística."
+        },
+        {
+            "codigo": "IMYS.2.2",
+            "descripcion": "Conocer y aplicar técnicas y elementos del lenguaje audiovisual utilizado el guion audiovisual como eje para elaborar guiones literario-técnicos o gráficos o storyboards."
+        },
+        {
+            "codigo": "IMYS.2.3",
+            "descripcion": "Conocer y aplicar las técnicas de captación de fotografía y vídeos, eligiendo los elementos más adecuados de captación de imágenes para su posterior edición digital."
+        },
+        {
+            "codigo": "IMYS.2.4",
+            "descripcion": "Editar digitalmente piezas visuales, integrar sonido al producto audiovisual y reconocer las prestaciones técnicas de los equipos que se usan, insertando transiciones y sincronizando los distintos datos sonoros para el tratamiento digital de las imágenes, así como para la postproducción de las secuencias visuales."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "IMYS.2.1.1",
+            "descripcion": "Conocer y analizar los recursos expresivos utilizados en las producciones audiovisuales, relacionando las características funcionales y topológicas con la consecución de los objetivos comunicativos.",
+            "saberes_relacionados": [
+                "IMYS.2.A.1.",
+                "IMYS.2.A.2."
+            ]
+        },
+        {
+            "referencia": "IMYS.2.1.2",
+            "descripcion": "Analizar situaciones audiovisuales extraídas de productos cinematográficos de diversos géneros, aplicando las técnicas de lenguaje audiovisual.",
+            "saberes_relacionados": [
+                "IMYS.2.A.1.",
+                "IMYS.2.A.2."
+            ]
+        },
+        {
+            "referencia": "IMYS.2.2.1",
+            "descripcion": "Elaborar guiones audiovisuales aplicando una estructura narrativa coherente con las posibilidades expresivas de la imagen, sonido y la música.",
+            "saberes_relacionados": [
+                "IMYS.2.A.2.",
+                "IMYS.2.B.1.",
+                "IMYS.2.B.2."
+            ]
+        },
+        {
+            "referencia": "IMYS.2.3.1",
+            "descripcion": "Grabar piezas audiovisuales aplicando técnicas de captación de imágenes fotográficas y de vídeo, y reforzando su expresividad mediante los recursos y medios técnicos del lenguaje audiovisual.",
+            "saberes_relacionados": [
+                "IMYS.2.A.2.",
+                "IMYS.2.C.1.",
+                "IMYS.2.C.2.",
+                "IMYS.2.C.3."
+            ]
+        },
+        {
+            "referencia": "IMYS.2.3.2",
+            "descripcion": "Realizar el tratamiento digital de imágenes, valorando características de color, formatos y contraste y empleando técnicas de generación, procesamiento y retoque de imagen fija.",
+            "saberes_relacionados": [
+                "IMYS.2.C.1.",
+                "IMYS.2.C.2.",
+                "IMYS.2.C.3."
+            ]
+        },
+        {
+            "referencia": "IMYS.2.4.1",
+            "descripcion": "Integrar el sonido e imagen en un producto multimedia, audiovisual o programa de radio, aplicando los recursos expresivos del lenguaje sonoro y relacionando sus posibilidades de articulación y combinación según los tipos de destinatarios.",
+            "saberes_relacionados": [
+                "IMYS.2.B.2.",
+                "IMYS.2.D.1."
+            ]
+        },
+        {
+            "referencia": "IMYS.2.4.2",
+            "descripcion": "Reconocer las cualidades técnicas del equipamiento de sonido idóneo en programas de radio, grabaciones musicales y proyectos audiovisuales, justificando sus características funcionales y operativas.",
+            "saberes_relacionados": [
+                "IMYS.2.D.1.",
+                "IMYS.2.D.2.",
+                "IMYS.2.D.3.",
+                "IMYS.2.D.4.",
+                "IMYS.2.E.1.",
+                "IMYS.2.E.3."
+            ]
+        },
+        {
+            "referencia": "IMYS.2.4.3",
+            "descripcion": "Identificar las prestaciones del equipamiento técnico en proyectos multimedia, identificando sus especificaciones y justificando sus aptitudes en relación con los requerimientos del medio y las necesidades de los proyectos.",
+            "saberes_relacionados": [
+                "IMYS.2.D.1.",
+                "IMYS.2.D.2.",
+                "IMYS.2.D.3.",
+                "IMYS.2.E.1.",
+                "IMYS.2.E.2.",
+                "IMYS.2.E.3."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Recursos expresivos y análisis de situaciones en producciones audiovisuales.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "IMYS.2.A.1.",
+            "descripcion": "Recursos expresivos. Características funcionales, tipológicas y consecución de objetivos comunicativos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "IMYS.2.1.1",
+                "IMYS.2.1.2"
+            ]
+        },
+        {
+            "referencia": "IMYS.2.A.1.1.",
+            "descripcion": "Elementos morfológicos; punto, línea, mancha, forma.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "IMYS.2.A.1.2.",
+            "descripcion": "Elementos sintácticos: espacio y lugar: formato, y composición.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "IMYS.2.A.1.3.",
+            "descripcion": "La luz y el color.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "IMYS.2.A.2.",
+            "descripcion": "Técnicas y elementos del lenguaje audiovisual.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "IMYS.2.1.1",
+                "IMYS.2.1.2",
+                "IMYS.2.2.1",
+                "IMYS.2.3.1"
+            ]
+        },
+        {
+            "referencia": "IMYS.2.A.2.1.",
+            "descripcion": "El espacio cinematográfico: plano, escena, secuencia, plano secuencia.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "IMYS.2.A.2.2.",
+            "descripcion": "Noción encuadre cinematográfico: campo, fuera de campo, profundidad de campo.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "IMYS.2.A.2.3.",
+            "descripcion": "Puntos de vista y movimientos de cámara.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "IMYS.2.A.2.4.",
+            "descripcion": "El tiempo cinematográfico; cronométrico y dramático.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "IMYS.2.A.2.5.",
+            "descripcion": "El montaje.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "IMYS.2.A.2.6.",
+            "descripcion": "La elipsis narrativa.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Elaboración de guiones audiovisuales.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "IMYS.2.B.1.",
+            "descripcion": "El guion literario. Fases de elaboración. Escena y secuencia dramática. La escaleta.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "IMYS.2.2.1"
+            ]
+        },
+        {
+            "referencia": "IMYS.2.B.2.",
+            "descripcion": "El guion técnico y el storyboard.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "IMYS.2.2.1",
+                "IMYS.2.4.1"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Captación de imágenes fotográficas y de video.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "IMYS.2.C.1.",
+            "descripcion": "Técnicas de captación. Ajustes técnicos y de identificación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "IMYS.2.3.1",
+                "IMYS.2.3.2"
+            ]
+        },
+        {
+            "referencia": "IMYS.2.C.2.",
+            "descripcion": "De la cámara estenopeica a la cámara digital: captura de la imagen, valor de exposición, escalas, objetivos y sensibilidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "IMYS.2.3.1",
+                "IMYS.2.3.2"
+            ]
+        },
+        {
+            "referencia": "IMYS.2.C.3.",
+            "descripcion": "El ojo humano y los sistemas de captación y reproducción. Soportes de registro analógico y digital. Niveles e histograma de la imagen.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "IMYS.2.3.1",
+                "IMYS.2.3.2"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Diseño de bandas sonoras.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "IMYS.2.D.1.",
+            "descripcion": "El lenguaje sonoro en el cine y en la radio.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "IMYS.2.4.1",
+                "IMYS.2.4.2",
+                "IMYS.2.4.3"
+            ]
+        },
+        {
+            "referencia": "IMYS.2.D.1.1.",
+            "descripcion": "Voz.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "IMYS.2.D.1.2.",
+            "descripcion": "Música.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "IMYS.2.D.1.3.",
+            "descripcion": "Efectos sonoros.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "IMYS.2.D.1.4.",
+            "descripcion": "Silencio.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "IMYS.2.D.2.",
+            "descripcion": "Programas de edición de sonido.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "IMYS.2.4.2",
+                "IMYS.2.4.3"
+            ]
+        },
+        {
+            "referencia": "IMYS.2.D.3.",
+            "descripcion": "Formatos de audio.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "IMYS.2.4.2",
+                "IMYS.2.4.3"
+            ]
+        },
+        {
+            "referencia": "IMYS.2.D.4.",
+            "descripcion": "Audiodescripción y subtitulación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "IMYS.2.4.2"
+            ]
+        },
+        {
+            "referencia": "E.",
+            "descripcion": "Equipamiento técnico en proyectos multimedia.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "IMYS.2.E.1.",
+            "descripcion": "Equipamiento de sonido en diferentes entornos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "IMYS.2.4.2",
+                "IMYS.2.4.3"
+            ]
+        },
+        {
+            "referencia": "IMYS.2.E.2.",
+            "descripcion": "Equipos informáticos multimedia: prestaciones técnicas y operativas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "IMYS.2.4.3"
+            ]
+        },
+        {
+            "referencia": "IMYS.2.E.3.",
+            "descripcion": "Formatos de imagen, audio y vídeo. Soportes y difusión.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "IMYS.2.4.2",
+                "IMYS.2.4.3"
+            ]
+        }
+    ]
+}

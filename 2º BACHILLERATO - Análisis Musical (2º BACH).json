@@ -1,0 +1,251 @@
+{
+    "titulo": "2º BACHILLERATO - Análisis Musical (2º BACH)",
+    "referencia": "AMUS.2",
+    "competencias_especificas": [
+        {
+            "codigo": "AMUS.2.1",
+            "descripcion": "Analizar los elementos musicales de diferentes obras, utilizando la escucha activa y el estudio de partituras, para describir sus características y establecer comparaciones."
+        },
+        {
+            "codigo": "AMUS.2.2",
+            "descripcion": "Establecer relaciones entre los elementos musicales de una composición, a través del análisis de los mismos, de su estructura y de los procedimientos compositivos utilizados, para asociar la obra con un género, un estilo y un contexto de creación."
+        },
+        {
+            "codigo": "AMUS.2.3",
+            "descripcion": "Elaborar comentarios y críticas musicales sobre las obras analizadas, utilizando una terminología adecuada y consultando distintas fuentes de información, para expresar juicios personales fundamentados y contribuir a la difusión del patrimonio musical a través de los medios disponibles, priorizando producciones del repertorio andaluz."
+        },
+        {
+            "codigo": "AMUS.2.4",
+            "descripcion": "Utilizar los procedimientos compositivos fundamentales y las tecnologías digitales, empleando los elementos y las estructuras musicales más adecuadas, para crear obras sencillas y realizar improvisaciones."
+        },
+        {
+            "codigo": "AMUS.2.5",
+            "descripcion": "Investigar sobre los usos de la música y su combinación con otras formas de expresión artística, utilizando diferentes fuentes de información y analizando las características musicales de las obras, para entender de qué forma inciden determinados rasgos musicales en la salud y en las emociones."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "AMUS.2.1.1",
+            "descripcion": "Describir las características musicales de una obra a partir de la escucha activa y el estudio de partituras, analizando sus elementos constitutivos y la función que estos cumplen dentro de la composición.",
+            "saberes_relacionados": [
+                "AMUS.2.A.1.",
+                "AMUS.2.A.2.",
+                "AMUS.2.B.1."
+            ]
+        },
+        {
+            "referencia": "AMUS.2.1.2",
+            "descripcion": "Comparar los elementos constitutivos y las características musicales de diferentes obras, estableciendo analogías y diferencias entre ellas, a partir de la escucha activa y del estudio de partituras, favoreciendo el respeto hacia las distintas convenciones formales y considerando la diversidad como valor democrático esencial.",
+            "saberes_relacionados": [
+                "AMUS.2.A.1.",
+                "AMUS.2.A.3.",
+                "AMUS.2.B.1.",
+                "AMUS.2.B.2."
+            ]
+        },
+        {
+            "referencia": "AMUS.2.2.1",
+            "descripcion": "Distinguir los principales géneros y estilos musicales que se desarrollan en la historia, analizando los factores que inciden en la evolución de las formas musicales.",
+            "saberes_relacionados": [
+                "AMUS.2.B.1.",
+                "AMUS.2.B.2."
+            ]
+        },
+        {
+            "referencia": "AMUS.2.2.2",
+            "descripcion": "Asociar las obras analizadas con un género, un estilo y un contexto de creación determinados, identificando, de forma autónoma, la estructura formal y los procedimientos compositivos utilizados.",
+            "saberes_relacionados": [
+                "AMUS.2.B.2.",
+                "AMUS.2.B.3."
+            ]
+        },
+        {
+            "referencia": "AMUS.2.2.3",
+            "descripcion": "Analizar las características del patrimonio musical andaluz, incidiendo en el flamenco y en sus códigos creativos, reconociendo la pluralidad artística y cultural para ayudar a superar cualquier tipo de discriminación.",
+            "saberes_relacionados": [
+                "AMUS.2.A.2.",
+                "AMUS.2.A.3.",
+                "AMUS.2.B.4."
+            ]
+        },
+        {
+            "referencia": "AMUS.2.3.1",
+            "descripcion": "Expresar juicios personales sobre las obras analizadas, argumentando la opinión propia y utilizando una terminología musical adecuada.",
+            "saberes_relacionados": [
+                "AMUS.2.A.2.",
+                "AMUS.2.A.4."
+            ]
+        },
+        {
+            "referencia": "AMUS.2.3.2",
+            "descripcion": "Justificar la opinión propia sobre las obras analizadas, investigando y seleccionando la información más pertinente a partir de medios analógicos y digitales.",
+            "saberes_relacionados": [
+                "AMUS.2.A.4.",
+                "AMUS.2.A.5."
+            ]
+        },
+        {
+            "referencia": "AMUS.2.3.3",
+            "descripcion": "Elaborar críticas musicales y comentarios propios para su difusión en medios analógicos y digitales, respetando los derechos de autor y la propiedad intelectual.",
+            "saberes_relacionados": [
+                "AMUS.2.A.4.",
+                "AMUS.2.A.5.",
+                "AMUS.2.A.6."
+            ]
+        },
+        {
+            "referencia": "AMUS.2.4.1",
+            "descripcion": "Realizar improvisaciones sencillas o pequeñas composiciones, en proyectos musicales grupales, utilizando los procedimientos compositivos fundamentales y aplicando patrones melódicos, rítmicos, armónicos y formales previamente analizados e interiorizados.",
+            "saberes_relacionados": [
+                "AMUS.2.B.2.",
+                "AMUS.2.B.3.",
+                "AMUS.2.B.4."
+            ]
+        },
+        {
+            "referencia": "AMUS.2.4.2",
+            "descripcion": "Utilizar diferentes herramientas tecnológicas en la creación de proyectos musicales diversos.",
+            "saberes_relacionados": [
+                "AMUS.2.A.5."
+            ]
+        },
+        {
+            "referencia": "AMUS.2.5.1",
+            "descripcion": "Analizar los diferentes usos de la música y cómo inciden determinados rasgos musicales en la salud y las emociones, a partir de la información obtenida en fuentes de información fiables.",
+            "saberes_relacionados": [
+                "AMUS.2.A.1.",
+                "AMUS.2.A.6.",
+                "AMUS.2.B.5."
+            ]
+        },
+        {
+            "referencia": "AMUS.2.5.2",
+            "descripcion": "Describir las características de la música que se utiliza con fines terapéuticos, analizando ejemplos de obras y relacionando sus rasgos con posibles efectos en el oyente.",
+            "saberes_relacionados": [
+                "AMUS.2.A.1.",
+                "AMUS.2.B.5."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Técnicas de análisis musical.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "AMUS.2.A.1.",
+            "descripcion": "Técnicas de análisis de audición y de partituras: escucha activa, observación y comparación guiada.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.2.1.1",
+                "AMUS.2.1.2",
+                "AMUS.2.5.1",
+                "AMUS.2.5.2"
+            ]
+        },
+        {
+            "referencia": "AMUS.2.A.2.",
+            "descripcion": "Técnicas para el análisis del contexto histórico-estético de la creación y la interpretación de la obra. Evolución de la interpretación de una obra a lo largo del tiempo. Comparación entre interpretaciones. La comparación como técnica analítica.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.2.1.1",
+                "AMUS.2.2.3",
+                "AMUS.2.3.1"
+            ]
+        },
+        {
+            "referencia": "AMUS.2.A.3.",
+            "descripcion": "El texto y su relación con la forma musical.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.2.1.2",
+                "AMUS.2.2.3"
+            ]
+        },
+        {
+            "referencia": "AMUS.2.A.4.",
+            "descripcion": "Procedimientos para la elaboración de comentarios y críticas musicales. Puesta en común o debate de estos en el aula.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.2.3.1",
+                "AMUS.2.3.2",
+                "AMUS.2.3.3"
+            ]
+        },
+        {
+            "referencia": "AMUS.2.A.5.",
+            "descripcion": "Recursos digitales para la investigación, la composición y la difusión musical. Internet como herramienta para la investigación musical. Utilización básica de software libre de composición musical y plataformas de difusión de audio.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.2.3.2",
+                "AMUS.2.3.3",
+                "AMUS.2.4.2"
+            ]
+        },
+        {
+            "referencia": "AMUS.2.A.6.",
+            "descripcion": "Respeto de los derechos de autor y de la propiedad intelectual.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.2.3.3",
+                "AMUS.2.5.1"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Géneros musicales.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "AMUS.2.B.1.",
+            "descripcion": "Las características sonoras y estilísticas de la música desde la Edad Media hasta la actualidad. Evolución organológica de las principales familias instrumentales y de la orquesta. Apreciación en audición y/o partitura de los siguientes elementos y deducción del estilo musical correspondiente: género, textura, texto, tonalidad/modalidad, relación música-texto, idioma, número de partes o movimientos, dinámicas, ornamentación, agrupaciones tímbricas...",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.2.1.1",
+                "AMUS.2.1.2",
+                "AMUS.2.2.1"
+            ]
+        },
+        {
+            "referencia": "AMUS.2.B.2.",
+            "descripcion": "Las formas y los géneros de la música culta desde la Edad Media hasta la actualidad. Según la instrumentación: vocal/instrumental. Según la temática: religiosa (litúrgica o no litúrgica)/profana. Según el público: culta/popular (folklórica o urbana). Según la manera de exponer el contenido: descriptiva, programática, pura, dramática (representada o no). Según su función: escénica, cinematográfica, ceremonial, publicitaria, militar...",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.2.1.2",
+                "AMUS.2.2.1",
+                "AMUS.2.2.2",
+                "AMUS.2.4.1"
+            ]
+        },
+        {
+            "referencia": "AMUS.2.B.3.",
+            "descripcion": "Rasgos técnico-estilísticos característicos de las músicas populares urbanas del siglo XX y XXI.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.2.2.2",
+                "AMUS.2.4.1"
+            ]
+        },
+        {
+            "referencia": "AMUS.2.B.4.",
+            "descripcion": "El Flamenco: elementos formales del cante, del baile y del toque. Impacto de la letra en las formas flamencas. Estilos personales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.2.2.3",
+                "AMUS.2.4.1"
+            ]
+        },
+        {
+            "referencia": "AMUS.2.B.5.",
+            "descripcion": "Diferentes usos y funciones de la música. Uso de la música con fines terapéuticos: la literatura desde la Edad Antigua hasta la Edad Moderna, bases científicas de las terapias con sonido, evolución de la musicoterapia, patologías frecuentes tratadas con música, técnicas aplicadas en musicoterapia (cantos, danza, cuencos tibetanos, improvisación...).",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "AMUS.2.5.1",
+                "AMUS.2.5.2"
+            ]
+        }
+    ]
+}

@@ -1,0 +1,534 @@
+{
+    "titulo": "2º BACHILLERATO - Ciencias Generales (2º BACH)",
+    "referencia": "CCGG.2",
+    "competencias_especificas": [
+        {
+            "codigo": "CCGG.2.1",
+            "descripcion": "Aplicar las metodologías propias de la ciencia, utilizando con precisión, procedimientos, materiales e instrumentos adecuados, para responder a cuestiones sobre procesos físicos, químicos, biológicos y geológicos."
+        },
+        {
+            "codigo": "CCGG.2.2",
+            "descripcion": "Comprender y explicar los procesos del entorno, utilizando los principios, leyes y teorías científicos adecuados, para adquirir una visión holística del funcionamiento del medio natural."
+        },
+        {
+            "codigo": "CCGG.2.3",
+            "descripcion": "Argumentar sobre la importancia de los estilos de vida sostenibles y saludables, basándose en fundamentos científicos, para adoptarlos y promoverlos en su entorno."
+        },
+        {
+            "codigo": "CCGG.2.4",
+            "descripcion": "Aplicar el pensamiento científico y los razonamientos lógico-matemáticos, mediante la búsqueda y selección de estrategias y herramientas apropiadas, para resolver problemas relacionados con las ciencias experimentales."
+        },
+        {
+            "codigo": "CCGG.2.5",
+            "descripcion": "Analizar la contribución de la ciencia y de las personas que se dedican a ella, con perspectiva de género y entendiendo la ciencia como un proceso colectivo e interdisciplinar en continua construcción, para valorar su papel esencial en el progreso de la sociedad."
+        },
+        {
+            "codigo": "CCGG.2.6",
+            "descripcion": "Utilizar recursos variados, con sentido crítico y ético, para buscar y seleccionar información contrastada, estableciendo colaboraciones."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "CCGG.2.1.1",
+            "descripcion": "Plantear y responder cuestiones acerca de procesos observados en el entorno, siguiendo las pautas de las metodologías científicas.",
+            "saberes_relacionados": [
+                "CCGG.2.A.1.1.",
+                "CCGG.2.A.1.3."
+            ]
+        },
+        {
+            "referencia": "CCGG.2.1.2",
+            "descripcion": "Contrastar hipótesis, realizando experimentos en laboratorios o en entornos virtuales siguiendo las normas de seguridad correspondientes.",
+            "saberes_relacionados": [
+                "CCGG.2.A.1.2.",
+                "CCGG.2.D.1.1."
+            ]
+        },
+        {
+            "referencia": "CCGG.2.1.3",
+            "descripcion": "Comunicar los resultados de un experimento o trabajo científico, utilizando los recursos adecuados y de acuerdo a los principios éticos básicos.",
+            "saberes_relacionados": [
+                "CCGG.2.A.2.1.",
+                "CCGG.2.A.2.2."
+            ]
+        },
+        {
+            "referencia": "CCGG.2.1.4",
+            "descripcion": "Valorar la aportación de la comunidad científica en el avance y mejora de la sociedad.",
+            "saberes_relacionados": [
+                "CCGG.2.A.2.1.",
+                "CCGG.2.A.2.2."
+            ]
+        },
+        {
+            "referencia": "CCGG.2.2.1",
+            "descripcion": "Analizar y explicar fenómenos del entorno, representándolos mediante expresiones, tablas, gráficas, modelos, simulaciones, diagramas u otros formatos.",
+            "saberes_relacionados": [
+                "CCGG.2.B.1.1.",
+                "CCGG.2.B.1.2.",
+                "CCGG.2.B.1.3.",
+                "CCGG.2.B.1.4."
+            ]
+        },
+        {
+            "referencia": "CCGG.2.2.2",
+            "descripcion": "Explicar fenómenos que ocurren en el entorno, utilizando principios, leyes y teorías de las ciencias de la naturaleza.",
+            "saberes_relacionados": [
+                "CCGG.2.B.1.5.",
+                "CCGG.2.B.2.1."
+            ]
+        },
+        {
+            "referencia": "CCGG.2.2.3",
+            "descripcion": "Reconocer y analizar los fenómenos fisicoquímicos más relevantes, explicándolos a través de las principales leyes o teorías científicas.",
+            "saberes_relacionados": [
+                "CCGG.2.B.1.5.",
+                "CCGG.2.B.2.1."
+            ]
+        },
+        {
+            "referencia": "CCGG.2.2.4",
+            "descripcion": "Explicar, utilizando los fundamentos científicos adecuados, los elementos y procesos básicos de la biosfera y la geosfera.",
+            "saberes_relacionados": [
+                "CCGG.2.C.2.1.",
+                "CCGG.2.C.2.2.",
+                "CCGG.2.C.2.3.",
+                "CCGG.2.C.2.4."
+            ]
+        },
+        {
+            "referencia": "CCGG.2.3.1",
+            "descripcion": "Adoptar y promover hábitos compatibles con un modelo de desarrollo sostenible y valorar su importancia utilizando fundamentos científicos.",
+            "saberes_relacionados": [
+                "CCGG.2.B.2.2.",
+                "CCGG.2.B.2.3.",
+                "CCGG.2.C.3.1.",
+                "CCGG.2.C.3.2.",
+                "CCGG.2.C.3.3."
+            ]
+        },
+        {
+            "referencia": "CCGG.2.3.2",
+            "descripcion": "Adoptar y promover hábitos saludables (dieta equilibrada, higiene, vacunación, uso adecuado de antibióticos, rechazo al consumo de drogas legales e ilegales, ejercicio físico, higiene del sueño, posturas adecuadas…) valorar su importancia, utilizando los fundamentos de la fisiología humana.",
+            "saberes_relacionados": [
+                "CCGG.2.C.3.4.",
+                "CCGG.2.C.3.5."
+            ]
+        },
+        {
+            "referencia": "CCGG.2.4.1",
+            "descripcion": "Resolver problemas relacionados con fenómenos y procesos físicos, químicos, biológicos y geológicos utilizando el pensamiento científico y el razonamiento lógico-matemático y buscando estrategias alternativas de resolución cuando sea necesario.",
+            "saberes_relacionados": [
+                "CCGG.2.B.2.2.",
+                "CCGG.2.C.2.4.",
+                "CCGG.2.D.2.1."
+            ]
+        },
+        {
+            "referencia": "CCGG.2.4.2",
+            "descripcion": "Analizar críticamente la solución de un problema relacionado con fenómenos y procesos físicos, químicos, biológicos y geológicos, modificando las conclusiones o las estrategias utilizadas si la solución no es viable, o ante nuevos datos aportados.",
+            "saberes_relacionados": [
+                "CCGG.2.A.1.3.",
+                "CCGG.2.E.1.",
+                "CCGG.2.E.2.",
+                "CCGG.2.E.3."
+            ]
+        },
+        {
+            "referencia": "CCGG.2.5.1",
+            "descripcion": "Reconocer la ciencia como un área de conocimiento global, analizando la interrelación e interdependencia entre cada una de las disciplinas que la forman.",
+            "saberes_relacionados": [
+                "CCGG.2.A.2.1.",
+                "CCGG.2.B.1.4.",
+                "CCGG.2.C.1.1."
+            ]
+        },
+        {
+            "referencia": "CCGG.2.5.2",
+            "descripcion": "Reconocer la relevancia de la ciencia en el progreso de la sociedad, valorando el importante papel que juegan las personas en el desempeño de la investigación científica.",
+            "saberes_relacionados": [
+                "CCGG.2.A.2.2.",
+                "CCGG.2.C.1.2.",
+                "CCGG.2.D.2.2.",
+                "CCGG.2.D.2.3."
+            ]
+        },
+        {
+            "referencia": "CCGG.2.6.1",
+            "descripcion": "Buscar, contrastar y seleccionar información sobre fenómenos y procesos físicos, químicos, biológicos o geológicos en diferentes formatos, utilizando los recursos necesarios, tecnológicos o de otro tipo.",
+            "saberes_relacionados": [
+                "CCGG.2.A.2.1.",
+                "CCGG.2.C.1.2.",
+                "CCGG.2.D.1.2."
+            ]
+        },
+        {
+            "referencia": "CCGG.2.6.2",
+            "descripcion": "Establecer colaboraciones, utilizando los recursos necesarios en las diferentes etapas del proyecto científico, en la realización de actividades o en la resolución de problemas.",
+            "saberes_relacionados": [
+                "CCGG.2.A.2.2.",
+                "CCGG.2.C.3.1.",
+                "CCGG.2.C.3.5.",
+                "CCGG.2.D.2.3."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Construyendo ciencia.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCGG.2.A.1.",
+            "descripcion": "El método científico.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCGG.2.A.1.1.",
+            "descripcion": "Desarrollo de metodologías propias de la investigación científica para la identificación y formulación de cuestiones, la elaboración de hipótesis y la comprobación experimental de las mismas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.1.1"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.A.1.2.",
+            "descripcion": "Realización de experimentos y proyectos de investigación mediante el uso de instrumental adecuado, ejecución de controles experimentales y aplicación del razonamiento lógico-matemático.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.1.2"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.A.1.3.",
+            "descripcion": "Estrategias de comprensión de los métodos de análisis de los resultados obtenidos en la resolución de problemas y cuestiones científicos relacionados con el entorno que permitan el desarrollo de un criterio propio basado en la evidencia y el razonamiento. Tipos de variables: correlación y casualidad. Clasificación, interpretación y comparación de resultados. Información cuantitativa y cualitativa. Fundamentos de estadística para el tratamiento de datos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.1.1",
+                "CCGG.2.4.2"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.A.2.",
+            "descripcion": "El saber científico.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCGG.2.A.2.1.",
+            "descripcion": "Fuentes de información científica veraces y medios de colaboración: búsqueda de información científica en diferentes formatos y con herramientas adecuadas y posterior interpretación y producción de informes, emitidos con un lenguaje adecuado. Técnicas y herramientas de apoyo para la exposición y defensa en público de trabajos e investigaciones.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.1.3",
+                "CCGG.2.1.4",
+                "CCGG.2.5.1",
+                "CCGG.2.6.1"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.A.2.2.",
+            "descripcion": "Valoración de la contribución de los científicos y las científicas a los principales hitos de la ciencia para el avance y la mejora de la sociedad.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.1.3",
+                "CCGG.2.1.4",
+                "CCGG.2.5.2",
+                "CCGG.2.6.2"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Un universo de materia y energía.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCGG.2.B.1.",
+            "descripcion": "Sistemas materiales.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCGG.2.B.1.1.",
+            "descripcion": "Estrategias de comprensión de los sistemas materiales macroscópicos mediante el uso de modelos microscópicos para el análisis de sus propiedades y de sus estados de agregación, estableciendo relaciones con los procesos físicos y químicos de cambio. Modelo cinético-molecular de la materia.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.2.1"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.B.1.2.",
+            "descripcion": "Destrezas para la clasificación de los sistemas materiales en función de su composición, permitiendo su aplicación a la descripción de los sistemas naturales y a la resolución de problemas relacionados.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.2.1"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.B.1.3.",
+            "descripcion": "Estrategias de comprensión de la estructura interna de la materia y su relación con las regularidades que se producen en la tabla periódica, reconociendo su importancia histórica y actual. Evolución histórica de la tabla periódica hasta la actualidad. Estructura atómica de la materia. Números atómicos. Isótopos. Números cuánticos. Configuración electrónica y sistema periódico. Propiedades periódicas: radio atómico, radio iónico, energía de la ionización, afinidad electrónica, electronegatividad.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.2.1"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.B.1.4.",
+            "descripcion": "Estrategias de comprensión de formación de compuestos químicos usando la nomenclatura como base de una alfabetización científica básica que permita establecer una comunicación eficiente con toda la comunidad científica. El enlace químico. El enlace covalente: estructura de Lewis y modelo de teoría de repulsión de pares electrónicos de la capa de valencia (RPECV). Geometría molecular. Enlaces intermoleculares. Sustancias covalentes moleculares y cristalinas. Propiedades de las sustancias covalentes. El enlace iónico. Cristales iónicos. Propiedades de los compuestos iónicos. El enlace metálico. Propiedades de las sustancias con enlace metálico. Nomenclatura de sustancias simples, iones y compuestos químicos inorgánicos mediante las reglas de la IUPAC.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.2.1",
+                "CCGG.2.5.1"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.B.1.5.",
+            "descripcion": "Estrategias de comprensión de las transformaciones químicas de los sistemas materiales y leyes que los rigen, valorando la importancia en los procesos industriales, medioambientales y sociales del mundo actual. Ajustes de reacciones químicas. Leyes ponderales. Ley general de los gases. Concepto de mol. Constante de Avogrado. Disoluciones. Cálculo de la concentración de una disolución. Cálculos estequiométricos. Importancia de la industria química en la sociedad actual.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.2.2",
+                "CCGG.2.2.3"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.B.2.",
+            "descripcion": "Energía.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCGG.2.B.2.1.",
+            "descripcion": "Estrategias de comprensión de la energía contenida en un sistema, sus propiedades y sus manifestaciones, aplicando el teorema de conservación de la energía mecánica y los procesos termodinámicos más relevantes. Energía cinética y energía potencial. Energía mecánica. Principio de conservación de la energía mecánica. Trabajo y potencia.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.2.2",
+                "CCGG.2.2.3"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.B.2.2.",
+            "descripcion": "Desarrollo de destrezas para la resolución de problemas relacionados con el consumo energético y la necesidad de un desarrollo sostenible.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.3.1",
+                "CCGG.2.4.1"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.B.2.3.",
+            "descripcion": "Elaboración fundamentada de hipótesis sobre el medioambiente y la sostenibilidad a partir de las diferencias entre fuentes de energía renovables y no renovables. Energías renovables en Andalucía.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.3.1"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "El sistema Tierra.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCGG.2.C.1.",
+            "descripcion": "Origen y evolución de la Tierra.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCGG.2.C.1.1.",
+            "descripcion": "Estrategias de comprensión de las teorías que explican el origen del universo, el origen del Sistema Solar y el origen de la Tierra, mediante el estudio y análisis de sus estructuras, estableciendo relaciones y características comunes entre cada una de ellas. Forma y movimientos de la Tierra y la Luna y sus efectos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.5.1"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.C.1.2.",
+            "descripcion": "Estrategias de comprensión del origen de la vida en la Tierra, comprendiendo las hipótesis más destacadas y planteando la posibilidad de vida en otros planetas mediante la búsqueda de información veraz y contrastada.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.5.2",
+                "CCGG.2.6.1"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.C.2.",
+            "descripcion": "Geosfera y biosfera.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCGG.2.C.2.1.",
+            "descripcion": "Estrategias de comprensión de la geosfera, desarrollando destrezas para el análisis e interpretación de su estructura, dinámica, procesos geológicos internos y externos, permitiendo una visión global de la teoría de la tectónica de placas. Riesgos geológicos. Riesgo geológicos en España y en Andalucía.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.2.4"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.C.2.2.",
+            "descripcion": "Estrategias de comprensión de las capas fluidas de la Tierra, desarrollando destrezas para el análisis e interpretación de las funciones, dinámica e interacción con la superficie terrestre de cada una de ellas y la influencia sobre los seres vivos en la edafogénesis. Riesgos geológicos. Estructura y naturaleza físico-química del interior de la Tierra. Diferentes métodos de estudio e interpretación de los datos. Manifestaciones de la dinámica litosférica: deformaciones, metamorfismo y magmatismo.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.2.4"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.C.2.3.",
+            "descripcion": "Estrategias de comprensión de los seres vivos como componentes bióticos del ecosistema, desarrollando destrezas para la clasificación de los seres vivos según sus características y las adaptaciones al medio. Concepto de ecosistema. Hábitat y nicho ecológico. Factores limitantes y adaptaciones. Límites de tolerancia. Parques nacionales en Andalucía: Doñana, Sierra Nevada y Sierra de las Nieves.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.2.4"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.C.2.4.",
+            "descripcion": "Desarrollo de destrezas para la comprensión de la dinámica de los ecosistemas mediante la resolución de problemas de flujos de energía, ciclos de la materia y relaciones tróficas entre los seres vivos. Relaciones tróficas: cadenas y redes. Sucesiones ecológicas. Los incendios forestales.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.2.4",
+                "CCGG.2.4.1"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.C.3.",
+            "descripcion": "Medio ambiente y sostenibilidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCGG.2.C.3.1.",
+            "descripcion": "Comprensión de los principales problemas medioambientales a nivel global (calentamiento global, agujero de la capa de ozono, destrucción de los espacios naturales y pérdida de la biodiversidad, contaminación de agua y aire, desertificación...) y los riesgos geológicos asociados, valorando las causas, las consecuencias a la asunción de un modelo de desarrollo sostenible, reconociendo su importancia y necesidad. La dehesa como modelo de desarrollo sostenible.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.3.1",
+                "CCGG.2.6.2"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.C.3.2.",
+            "descripcion": "Estrategias de comprensión de los recursos renovables y no renovables, reconociendo la importancia de su uso y explotación responsable, valorado la importancia del uso de las energías renovables y la gestión de residuos para el fomento de la economía circular.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.3.1"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.C.3.3.",
+            "descripcion": "Desarrollo de destrezas para la comprensión de las relaciones entre la conservación medioambiental, valorando la influencia sobre la salud humana y el desarrollo económico de la sociedad. Concepto one health (una sola salud). Sostenibilidad. Concepto de huella de carbono.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.3.1"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.C.3.4.",
+            "descripcion": "Estrategias de comprensión de las enfermedades infecciosas y no infecciosas relacionadas con el deterioro del medioambiente, analizando sus causas, formas de prevención y posibles tratamientos. Enfermedades nutricionales.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.3.2"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.C.3.5.",
+            "descripcion": "Estudio de las zoonosis y las pandemias recientes y su relación con el deterioro del medioambiente, desarrollando estrategias para la comprensión del fundamento e importancia de las vacunas y un uso adecuado de los antibióticos, valorando la importancia de un consumo responsable de medicamentos. Inmunidad natural y artificial o adquirida.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.3.2",
+                "CCGG.2.6.2"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Biología para el siglo XXI.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCGG.2.D.1.",
+            "descripcion": "Bioelementos y biomoléculas.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCGG.2.D.1.1.",
+            "descripcion": "Estrategias de comprensión de los bioelementos y principales biomoléculas (glúcidos, lípidos, proteínas y ácidos nucleicos), desarrollando destrezas para su clasificación según composición y funciones que desempeñan, analizando la estructura básica de cada una de ellas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.1.2"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.D.1.2.",
+            "descripcion": "Búsqueda de información de la importancia biológica de las biomoléculas en el desarrollo y funcionamiento de los organismos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.6.1"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.D.2.",
+            "descripcion": "Genética y su aplicación.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCGG.2.D.2.1.",
+            "descripcion": "Estrategias de comprensión de la transmisión genética de caracteres, desarrollando destrezas para la resolución de problemas, análisis de la probabilidad de herencia de alelos, manifestación de fenotipos y expresión de la información genética mediante el estudio de los procesos implicados. Teoría sintética de la evolución. Teorías actuales de la evolución.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.4.1"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.D.2.2.",
+            "descripcion": "Estrategias de comprensión de las características del código genético, analizando la relación con su función biológica, mediante el desarrollo de destrezas para la comprensión de las técnicas de ingeniería genética, interpretación de PCR, enzimas de restricción, clonación molecular y CRISPR-CAS9, valorando los posibles usos de la manipulación dirigida del ADN. Terapias genéticas. Aplicaciones a las enfermedades humanas. Organismos transgénicos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.5.2"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.D.2.3.",
+            "descripcion": "Estrategias de comprensión de las aplicaciones de la biotecnología sobre la agricultura, ganadería, medicina o recuperación medioambiental y valoración de la importancia biotecnológica de los microorganismos en el bienestar de nuestra sociedad. Organismos modificados genéticamente.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "CCGG.2.5.2",
+                "CCGG.2.6.2"
+            ]
+        },
+        {
+            "referencia": "E.",
+            "descripcion": "Las fuerzas que nos mueven.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "CCGG.2.E.1.",
+            "descripcion": "Estrategias de comprensión de las fuerzas fundamentales de la naturaleza, analizando los procesos físicos más relevantes del entorno natural, como los fenómenos electromagnéticos, el movimiento de los planetas o los procesos nucleares. Ley de Gravitación Universal. Aplicaciones en la generación de energía, el uso de satélites meteorológicos y de telecomunicaciones, la utilización de radioisótopos en medicina y las aplicaciones de los dispositivos eléctricos y electrónicos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCGG.2.4.2"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.E.2.",
+            "descripcion": "Estrategias de comprensión de las leyes de la estática, analizando las estructuras del entorno natural en relación con la Física, la Biología, la Geología o la Ingeniería. Fuerza en equilibrio. Esfuerzo en materiales técnicos y estructuras: comprensión, tracción, cortante, flexión y torsión.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCGG.2.4.2"
+            ]
+        },
+        {
+            "referencia": "CCGG.2.E.3.",
+            "descripcion": "Estrategias de comprensión de las leyes de la mecánica relacionadas con el movimiento, analizando el comportamiento de un objeto móvil y sus aplicaciones, por ejemplo, en la seguridad vial o en el desarrollo tecnológico. Variables cinemáticas: posición, desplazamiento, velocidad media e instantánea, aceleración, componentes intrínsecas de la aceleración. Carácter vectorial de las magnitudes. Estudio de los movimientos rectilíneo y uniforme, rectilíneo y uniformemente acelerado, circular uniforme y circular uniformemente variado. Principio de superposición y composición de movimientos: tiro horizontal y tiro parabólico.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "CCGG.2.4.2"
+            ]
+        }
+    ]
+}

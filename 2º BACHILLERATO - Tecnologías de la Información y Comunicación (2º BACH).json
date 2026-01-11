@@ -1,0 +1,456 @@
+{
+    "titulo": "2º BACHILLERATO - Tecnologías de la Información y Comunicación (2º BACH)",
+    "referencia": "TICO.2",
+    "competencias_especificas": [
+        {
+            "codigo": "TICO.2.1",
+            "descripcion": "Reconocer el proceso de transformación como agente de cambio, analizando aspectos positivos y negativos de dicho proceso para entender el papel principal de las tecnologías de la información y la comunicación en la sociedad actual, su impacto en los ámbitos social, económico y cultural, y su importancia en la innovación y el empleo."
+        },
+        {
+            "codigo": "TICO.2.2",
+            "descripcion": "Configurar ordenadores y equipos informáticos, utilizando de forma segura, responsable y respetuosa dichos dispositivos, para comprender el funcionamiento de los componentes hardware y software que conforman ordenadores y equipos digitales."
+        },
+        {
+            "codigo": "TICO.2.3",
+            "descripcion": "Usar, seleccionar y combinar múltiples aplicaciones informáticas, atendiendo a cuestiones de diseño, usabilidad y accesibilidad, incluyendo la creación de un proyecto web, para crear producciones digitales que cumplan unos objetivos determinados."
+        },
+        {
+            "codigo": "TICO.2.4",
+            "descripcion": "Comprender el funcionamiento de Internet y de las tecnologías de búsqueda, analizando de forma crítica los contenidos publicados y fomentando un uso compartido de la información, para permitir la producción colaborativa y la difusión de conocimiento."
+        },
+        {
+            "codigo": "TICO.2.5",
+            "descripcion": "Comprender qué es un algoritmo y cómo son implementados en forma de programa, analizando y aplicando los principios de la ingeniería del software, para desarrollar y depurar aplicaciones informáticas y resolver problemas."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "TICO.2.1.1",
+            "descripcion": "Analizar y valorar el impacto de la industria de desarrollo de software en la sociedad actual, en especial en la innovación y el empleo.",
+            "saberes_relacionados": [
+                "TICO.2.A.4."
+            ]
+        },
+        {
+            "referencia": "TICO.2.2.1",
+            "descripcion": "Emplear medidas de seguridad informática necesarias para la protección de las personas y de sus datos, comprendiendo los principios de la ciberseguridad, identificando amenazas y riesgos.",
+            "saberes_relacionados": [
+                "TICO.2.C.1."
+            ]
+        },
+        {
+            "referencia": "TICO.2.2.2",
+            "descripcion": "Proteger la privacidad en Internet y reconocer contenido, contactos o conductas inapropiadas, sabiendo informar al respecto.",
+            "saberes_relacionados": [
+                "TICO.2.C.2."
+            ]
+        },
+        {
+            "referencia": "TICO.2.3.1",
+            "descripcion": "Elaborar y publicar contenidos en la web, integrando información textual, gráfica y multimedia, teniendo en cuenta a quién va dirigida y el objetivo que se pretende conseguir, midiendo, recogiendo y analizando datos de uso.",
+            "saberes_relacionados": [
+                "TICO.2.B.1."
+            ]
+        },
+        {
+            "referencia": "TICO.2.4.1",
+            "descripcion": "Trabajar colaborativamente en la creación de contenidos digitales, usando herramientas de comunicación y productividad, comprendiendo y respetando los derechos de autor en el entorno digital.",
+            "saberes_relacionados": [
+                "TICO.2.B.2."
+            ]
+        },
+        {
+            "referencia": "TICO.2.5.1",
+            "descripcion": "Desarrollar una variedad de aplicaciones informáticas en las que se emplee una aproximación modular y diferentes estructuras de datos.",
+            "saberes_relacionados": [
+                "TICO.2.A.1."
+            ]
+        },
+        {
+            "referencia": "TICO.2.5.2",
+            "descripcion": "Aplicar los principales pasos del ciclo de vida de una aplicación, trabajando de forma colaborativa, empleando un entorno de desarrollo integrado.",
+            "saberes_relacionados": [
+                "TICO.2.A.2."
+            ]
+        },
+        {
+            "referencia": "TICO.2.5.3",
+            "descripcion": "Analizar y resolver problemas de tratamiento de la información, dividiéndolos en subproblemas, empleando mecanismos de abstracción, definiendo algoritmos que los resuelvan e identificando problemas y soluciones similares.",
+            "saberes_relacionados": [
+                "TICO.2.A.3."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Desarrollo de Software.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.1.",
+            "descripcion": "Programación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TICO.2.5.1"
+            ]
+        },
+        {
+            "referencia": "TICO.2.A.1.1.",
+            "descripcion": "Estructura de un programa informático y elementos básicos del lenguaje. Tipos de lenguajes.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.1.2.",
+            "descripcion": "Fundamentos: tipos de datos, constantes, variables, operadores y expresiones, entrada/salida y comentarios.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.1.3.",
+            "descripcion": "Estructuras de control. Condicionales e iterativas.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.1.4.",
+            "descripcion": "Estructuras de datos.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.1.5.",
+            "descripcion": "Funciones y bibliotecas de funciones. Reutilización de código.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.1.6.",
+            "descripcion": "Manipulación de archivos.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.1.7.",
+            "descripcion": "Orientación a objetos: clases, objetos y constructores. Herencia. Bibliotecas de clases.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.2.",
+            "descripcion": "Ingeniería de software.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TICO.2.5.2"
+            ]
+        },
+        {
+            "referencia": "TICO.2.A.2.1.",
+            "descripcion": "Metodologías de desarrollo.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.2.2.",
+            "descripcion": "Entornos de desarrollo integrado.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.2.3.",
+            "descripcion": "Ciclo de vida del software.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.2.4.",
+            "descripcion": "Análisis, Diseño, Programación y Pruebas.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.2.5.",
+            "descripcion": "Control de versiones.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.2.6.",
+            "descripcion": "Trabajo en equipo y mejora continua.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.3.",
+            "descripcion": "Diseño de software y resolución de problemas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TICO.2.5.3"
+            ]
+        },
+        {
+            "referencia": "TICO.2.A.3.1.",
+            "descripcion": "Enfoque Top-Down.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.3.2.",
+            "descripcion": "Fragmentación de problemas.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.3.3.",
+            "descripcion": "Patrones.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.3.4.",
+            "descripcion": "Algoritmos.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.3.5.",
+            "descripcion": "Pseudocódigo.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.3.6.",
+            "descripcion": "Depuración.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.4.",
+            "descripcion": "La Industria del desarrollo de software.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TICO.2.1.1"
+            ]
+        },
+        {
+            "referencia": "TICO.2.A.4.1.",
+            "descripcion": "Transformación digital.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.4.2.",
+            "descripcion": "Exponentes y ejemplos.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.4.3.",
+            "descripcion": "Innovación.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.4.4.",
+            "descripcion": "Emprendimiento y oportunidades de empleo.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.4.5.",
+            "descripcion": "Automatización.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.A.4.6.",
+            "descripcion": "Beneficios y riesgos del software y los algoritmos.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Publicación de contenidos.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.B.1.",
+            "descripcion": "La Web.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TICO.2.3.1"
+            ]
+        },
+        {
+            "referencia": "TICO.2.B.1.1.",
+            "descripcion": "Características, funcionamiento y ejemplos.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.B.1.2.",
+            "descripcion": "Introducción al lenguaje de marcas de hipertexto (HTML) y a las hojas de estilo en cascada (CSS).",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.B.1.3.",
+            "descripcion": "Accesibilidad y usabilidad (estándares).",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.B.1.4.",
+            "descripcion": "Herramientas de diseño y gestores de contenidos (CMS).",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.B.1.5.",
+            "descripcion": "Elaboración y difusión de contenidos web: imágenes, audio, geolocalización y vídeos.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.B.1.6.",
+            "descripcion": "Posicionamiento, analítica web y alojamiento.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.B.2.",
+            "descripcion": "Trabajo colaborativo.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TICO.2.4.1"
+            ]
+        },
+        {
+            "referencia": "TICO.2.B.2.1.",
+            "descripcion": "Herramientas de productividad. Tipos.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.B.2.2.",
+            "descripcion": "Software de comunicación.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.B.2.3.",
+            "descripcion": "Repositorios de archivos.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.B.2.4.",
+            "descripcion": "Producción de contenidos. Presentaciones, documentos. Etc.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.B.2.5.",
+            "descripcion": "Gestión de tareas y proyectos.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.B.2.6.",
+            "descripcion": "Derechos de autor.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Seguridad Informática.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.C.1.",
+            "descripcion": "Ciberseguridad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TICO.2.2.1"
+            ]
+        },
+        {
+            "referencia": "TICO.2.C.1.1.",
+            "descripcion": "Protección de la información: confidencialidad, integridad y disponibilidad.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.C.1.2.",
+            "descripcion": "Cifrado. Certificados digitales. Firma electrónica.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.C.1.3.",
+            "descripcion": "Medidas de seguridad básicas: contraseñas, actualizaciones, copias de seguridad e imágenes.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.C.1.4.",
+            "descripcion": "Vulnerabilidades.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.C.1.5.",
+            "descripcion": "Software malicioso.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.C.1.6.",
+            "descripcion": "Ataques.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.C.2.",
+            "descripcion": "Privacidad y uso responsable.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "TICO.2.2.2"
+            ]
+        },
+        {
+            "referencia": "TICO.2.C.2.1.",
+            "descripcion": "Datos personales.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.C.2.2.",
+            "descripcion": "Derechos digitales.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.C.2.3.",
+            "descripcion": "Ciberacoso.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.C.2.4.",
+            "descripcion": "Redes sociales.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "TICO.2.C.2.5.",
+            "descripcion": "Buenas prácticas.",
+            "jerarquia": 2,
+            "criterios_relacionados": []
+        }
+    ]
+}

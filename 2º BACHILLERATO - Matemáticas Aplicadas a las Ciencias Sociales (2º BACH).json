@@ -1,0 +1,618 @@
+{
+    "titulo": "2º BACHILLERATO - Matemáticas Aplicadas a las Ciencias Sociales (2º BACH)",
+    "referencia": "MACS.2",
+    "competencias_especificas": [
+        {
+            "codigo": "MACS.2.1",
+            "descripcion": "Modelizar y resolver problemas de la vida cotidiana y de las ciencias sociales aplicando diferentes estrategias y formas de razonamiento para obtener posibles soluciones."
+        },
+        {
+            "codigo": "MACS.2.2",
+            "descripcion": "Verificar la validez de las posibles soluciones de un problema empleando el razonamiento y la argumentación para contrastar su idoneidad."
+        },
+        {
+            "codigo": "MACS.2.3",
+            "descripcion": "Formular o investigar conjeturas o problemas, utilizando el razonamiento, la argumentación, la creatividad y el uso de herramientas tecnológicas, para generar nuevo conocimiento matemático."
+        },
+        {
+            "codigo": "MACS.2.4",
+            "descripcion": "Utilizar el pensamiento computacional de forma eficaz, modificando, creando y generalizando algoritmos que resuelvan problemas mediante el uso de las matemáticas, para modelizar y resolver situaciones de la vida cotidiana y del ámbito de las ciencias sociales."
+        },
+        {
+            "codigo": "MACS.2.5",
+            "descripcion": "Establecer, investigar y utilizar conexiones entre las diferentes ideas matemáticas, estableciendo vínculos entre conceptos, procedimientos, argumentos y modelos para dar significado y estructurar el aprendizaje matemático."
+        },
+        {
+            "codigo": "MACS.2.6",
+            "descripcion": "Descubrir los vínculos de las matemáticas con otras áreas de conocimiento y profundizar en sus conexiones, interrelacionando conceptos y procedimientos, para modelizar, resolver problemas y desarrollar la capacidad crítica, creativa e innovadora en situaciones diversas."
+        },
+        {
+            "codigo": "MACS.2.7",
+            "descripcion": "Representar conceptos, procedimientos e información matemáticos, seleccionando diferentes tecnologías para visualizar ideas y estructurar razonamientos matemáticos."
+        },
+        {
+            "codigo": "MACS.2.8",
+            "descripcion": "Comunicar las ideas matemáticas, de forma individual y colectiva, empleando el soporte, la terminología y el rigor apropiados, para organizar y consolidar el pensamiento matemático."
+        },
+        {
+            "codigo": "MACS.2.9",
+            "descripcion": "Utilizar destrezas personales y sociales, identificando y gestionando las propias emociones, respetando y organizando activamente el trabajo en equipos heterogéneos, aprendiendo del error como parte del proceso de aprendizaje y afrontando situaciones de incertidumbre, para perseverar en la consecución de objetivos en el aprendizaje de las matemáticas."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "MACS.2.1.1",
+            "descripcion": "Emplear diferentes estrategias y herramientas, incluidas las digitales que resuelvan problemas de la vida cotidiana y de las ciencias sociales, seleccionando la más adecuada según su eficiencia.",
+            "saberes_relacionados": [
+                "MACS.2.A.1.1.",
+                "MACS.2.A.2.",
+                "MACS.2.B.1.2.",
+                "MACS.2.C.2.2.",
+                "MACS.2.D.2.2."
+            ]
+        },
+        {
+            "referencia": "MACS.2.1.2",
+            "descripcion": "Obtener todas las posibles soluciones matemáticas de problemas de la vida cotidiana y de las ciencias sociales, usando la estrategia de resolución más apropiada y describiendo el procedimiento realizado.",
+            "saberes_relacionados": [
+                "MACS.2.A.1.2.",
+                "MACS.2.A.1.3.",
+                "MACS.2.C.2.3.",
+                "MACS.2.C.3.2.",
+                "MACS.2.C.5.2."
+            ]
+        },
+        {
+            "referencia": "MACS.2.2.1",
+            "descripcion": "Demostrar la validez matemática de las posibles soluciones de un problema e interpretarlas utilizando el razonamiento y la argumentación.",
+            "saberes_relacionados": [
+                "MACS.2.A.1.3.",
+                "MACS.2.B.1.2.",
+                "MACS.2.C.3.2."
+            ]
+        },
+        {
+            "referencia": "MACS.2.2.2",
+            "descripcion": "Seleccionar la solución más adecuada de un problema en función del contexto: de sostenibilidad, de consumo responsable, de equidad, etc., usando el razonamiento y la argumentación.",
+            "saberes_relacionados": [
+                "MACS.2.B.1.3.",
+                "MACS.2.C.5.1."
+            ]
+        },
+        {
+            "referencia": "MACS.2.3.1",
+            "descripcion": "Adquirir nuevo conocimiento matemático mediante la formulación, razonamiento y justificación de conjeturas y problemas de forma autónoma.",
+            "saberes_relacionados": [
+                "MACS.2.B.1.1.",
+                "MACS.2.C.1."
+            ]
+        },
+        {
+            "referencia": "MACS.2.3.2",
+            "descripcion": "Integrar el uso de herramientas tecnológicas en la formulación o investigación de conjeturas y problemas.",
+            "saberes_relacionados": [
+                "MACS.2.C.1.",
+                "MACS.2.C.3.1.",
+                "MACS.2.C.4.1.",
+                "MACS.2.C.5.1."
+            ]
+        },
+        {
+            "referencia": "MACS.2.4.1",
+            "descripcion": "Interpretar, modelizar y resolver situaciones problematizadas de la vida cotidiana y las ciencias sociales utilizando el pensamiento computacional, modificando, creando y generalizando algoritmos.",
+            "saberes_relacionados": [
+                "MACS.2.A.1.4.",
+                "MACS.2.A.2.",
+                "MACS.2.C.1.",
+                "MACS.2.C.5.1.",
+                "MACS.2.C.5.2.",
+                "MACS.2.E.2."
+            ]
+        },
+        {
+            "referencia": "MACS.2.5.1",
+            "descripcion": "Manifestar una visión matemática integrada, investigando y conectando las diferentes ideas matemáticas.",
+            "saberes_relacionados": [
+                "MACS.2.B.1.1.",
+                "MACS.2.B.2.2.",
+                "MACS.2.C.2.1.",
+                "MACS.2.C.2.3.",
+                "MACS.2.C.4.2."
+            ]
+        },
+        {
+            "referencia": "MACS.2.6.1",
+            "descripcion": "Resolver problemas en situaciones diversas, utilizando procesos matemáticos, reflexionando, estableciendo y aplicando conexiones entre el mundo real, otras áreas de conocimiento y las matemáticas.",
+            "saberes_relacionados": [
+                "MACS.2.C.2.1.",
+                "MACS.2.C.2.3.",
+                "MACS.2.C.2.4.",
+                "MACS.2.D.1.1.",
+                "MACS.2.D.1.2.",
+                "MACS.2.D.2.1.",
+                "MACS.2.D.3.1.",
+                "MACS.2.D.3.2.",
+                "MACS.2.D.3.3."
+            ]
+        },
+        {
+            "referencia": "MACS.2.6.2",
+            "descripcion": "Analizar la aportación de las matemáticas al progreso de la humanidad, valorando su contribución en la propuesta de soluciones a situaciones complejas y a los retos que se plantean en las ciencias sociales.",
+            "saberes_relacionados": [
+                "MACS.2.B.2.1.",
+                "MACS.2.D.2.2.",
+                "MACS.2.E.3.2."
+            ]
+        },
+        {
+            "referencia": "MACS.2.7.1",
+            "descripcion": "Representar y visualizar ideas matemáticas, estructurando diferentes procesos matemáticos y seleccionando las tecnologías más adecuadas.",
+            "saberes_relacionados": [
+                "MACS.2.B.1.1.",
+                "MACS.2.B.1.3.",
+                "MACS.2.C.4.2."
+            ]
+        },
+        {
+            "referencia": "MACS.2.7.2",
+            "descripcion": "Seleccionar y utilizar diversas formas de representación, valorando su utilidad para compartir información.",
+            "saberes_relacionados": [
+                "MACS.2.B.2.2.",
+                "MACS.2.C.4.1."
+            ]
+        },
+        {
+            "referencia": "MACS.2.8.1",
+            "descripcion": "Mostrar organización al comunicar las ideas matemáticas, empleando el soporte, la terminología y el rigor apropiados.",
+            "saberes_relacionados": [
+                "MACS.2.B.1.3.",
+                "MACS.2.D.1.1."
+            ]
+        },
+        {
+            "referencia": "MACS.2.8.2",
+            "descripcion": "Reconocer y emplear el lenguaje matemático en diferentes contextos, comunicando la información con precisión y rigor.",
+            "saberes_relacionados": [
+                "MACS.2.D.1.1.",
+                "MACS.2.D.1.2.",
+                "MACS.2.D.2.1.",
+                "MACS.2.D.2.2.",
+                "MACS.2.D.3.1.",
+                "MACS.2.D.3.2.",
+                "MACS.2.D.3.3.",
+                "MACS.2.D.3.4."
+            ]
+        },
+        {
+            "referencia": "MACS.2.9.1",
+            "descripcion": "Afrontar las situaciones de incertidumbre y tomar decisiones evaluando distintas opciones, identificando y gestionando emociones, y aceptando y aprendiendo del error como parte del proceso de aprendizaje de las matemáticas.",
+            "saberes_relacionados": [
+                "MACS.2.E.1.1.",
+                "MACS.2.E.1.2."
+            ]
+        },
+        {
+            "referencia": "MACS.2.9.2",
+            "descripcion": "Mostrar perseverancia y una motivación positiva, aceptando y aprendiendo de la crítica razonada, al hacer frente a las diferentes situaciones de aprendizaje de las matemáticas.",
+            "saberes_relacionados": [
+                "MACS.2.E.2.",
+                "MACS.2.E.3.1."
+            ]
+        },
+        {
+            "referencia": "MACS.2.9.3",
+            "descripcion": "Trabajar en tareas matemáticas de forma activa en equipos heterogéneos, respetando las emociones y experiencias de las y los demás y escuchando su razonamiento, aplicando las habilidades sociales más propicias y fomentando el bienestar del equipo y las relaciones saludables.",
+            "saberes_relacionados": [
+                "MACS.2.E.1.2.",
+                "MACS.2.E.3.1."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Sentido numérico.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MACS.2.A.1.",
+            "descripcion": "Sentido de las operaciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MACS.2.A.1.1.",
+            "descripcion": "Adición y producto de matrices: interpretación, comprensión y aplicación adecuada de las propiedades.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.1.1"
+            ]
+        },
+        {
+            "referencia": "MACS.2.A.1.2.",
+            "descripcion": "Aplicación de las operaciones de las matrices y de sus propiedades en la resolución de problemas en contextos reales.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.1.2"
+            ]
+        },
+        {
+            "referencia": "MACS.2.A.1.3.",
+            "descripcion": "Estrategias para operar con números reales y matrices: cálculo mental o escrito en los casos sencillos y con herramientas tecnológicas en los casos más complicados.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.1.2",
+                "MACS.2.2.1"
+            ]
+        },
+        {
+            "referencia": "MACS.2.A.1.4.",
+            "descripcion": "Cálculo de determinantes hasta de orden 3 para el cálculo del rango y la inversa de una matriz.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.4.1"
+            ]
+        },
+        {
+            "referencia": "MACS.2.A.2.",
+            "descripcion": "Relaciones. Conjuntos de matrices: estructura, comprensión y propiedades. Determinantes y matriz inversa: definición y propiedades.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "MACS.2.1.1",
+                "MACS.2.4.1"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Sentido de la medida.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MACS.2.B.1.",
+            "descripcion": "Medición.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MACS.2.B.1.1.",
+            "descripcion": "Interpretación de la integral definida como el área bajo una curva.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.3.1",
+                "MACS.2.5.1",
+                "MACS.2.7.1"
+            ]
+        },
+        {
+            "referencia": "MACS.2.B.1.2.",
+            "descripcion": "Técnicas elementales para el cálculo de primitivas. Aplicación al cálculo de áreas. Cálculo de primitivas inmediatas simples y compuestas. Regla de Barrow.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.1.1",
+                "MACS.2.2.1"
+            ]
+        },
+        {
+            "referencia": "MACS.2.B.1.3.",
+            "descripcion": "La probabilidad como medida de la incertidumbre asociada a fenómenos aleatorios: interpretaciones subjetivas, clásica y frecuentista.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.2.2",
+                "MACS.2.7.1",
+                "MACS.2.8.1"
+            ]
+        },
+        {
+            "referencia": "MACS.2.B.2.",
+            "descripcion": "Cambio.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MACS.2.B.2.1.",
+            "descripcion": "Derivadas: interpretación y aplicación al cálculo de límites. Regla de L´Hôpital. Derivación de funciones polinómicas, racionales, irracionales, exponenciales y logarítmicas. Reglas de derivación de las operaciones elementales con funciones y regla de la cadena. Estudio de la derivabilidad de una función (incluyendo funciones definidas a trozos). Relación entre derivabilidad y continuidad de una función en un punto. Derivadas laterales. Aplicaciones de las derivadas: ecuación de la recta tangente a una curva en un punto de la misma; cálculo de los coeficientes de una función para que cumpla una serie de propiedades. La derivada como razón de cambio en resolución de problemas de optimización en contextos diversos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.6.2"
+            ]
+        },
+        {
+            "referencia": "MACS.2.B.2.2.",
+            "descripcion": "Aplicación de los conceptos de límite y derivada a la representación y al estudio de situaciones susceptibles de ser modelizadas mediante funciones. Obtención de extremos relativos, puntos de inflexión, intervalos de crecimiento y decrecimiento e intervalos de concavidad y convexidad de una función. Teorema de Bolzano, Teorema del Valor Medio (caso particular es el Teorema de Rolle). Demostración del TVM.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.5.1",
+                "MACS.2.7.2"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Sentido algebraico.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MACS.2.C.1.",
+            "descripcion": "Patrones. Generalización de patrones en situaciones diversas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "MACS.2.3.1",
+                "MACS.2.3.2",
+                "MACS.2.4.1"
+            ]
+        },
+        {
+            "referencia": "MACS.2.C.2.",
+            "descripcion": "Modelo matemático.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MACS.2.C.2.1.",
+            "descripcion": "Relaciones cuantitativas en situaciones complejas: estrategias de identificación y determinación de la clase o clases de funciones que pueden modelizarlas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.5.1",
+                "MACS.2.6.1"
+            ]
+        },
+        {
+            "referencia": "MACS.2.C.2.2.",
+            "descripcion": "Sistemas de ecuaciones: modelización de situaciones en diversos contextos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.1.1"
+            ]
+        },
+        {
+            "referencia": "MACS.2.C.2.3.",
+            "descripcion": "Técnicas y uso de matrices para, al menos, modelizar situaciones en las que aparezcan sistemas de ecuaciones lineales o grafos. Utilización de las matrices para representar datos estructurados y situaciones de contexto real.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.1.2",
+                "MACS.2.5.1",
+                "MACS.2.6.1"
+            ]
+        },
+        {
+            "referencia": "MACS.2.C.2.4.",
+            "descripcion": "Programación lineal: modelización de problemas reales y resolución mediante herramientas digitales. Determinación gráfica de la región factible y cálculo analítico de los vértices de la misma, así como de la solución óptima.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.6.1"
+            ]
+        },
+        {
+            "referencia": "MACS.2.C.3.",
+            "descripcion": "Igualdad y desigualdad.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MACS.2.C.3.1.",
+            "descripcion": "Formas equivalentes de expresiones algebraicas en la resolución de sistemas de ecuaciones e inecuaciones, mediante cálculo mental, algoritmos de lápiz y papel, y con herramientas digitales. Regla de Cramer para la resolución de sistemas compatibles (determinados o indeterminados) de tres ecuaciones lineales con tres incógnitas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.3.2"
+            ]
+        },
+        {
+            "referencia": "MACS.2.C.3.2.",
+            "descripcion": "Resolución de sistemas de ecuaciones e inecuaciones en diferentes contextos. Resolución de ecuaciones matriciales mediante el uso de la matriz inversa y mediante su transformación en un sistema de ecuaciones lineales.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.1.2",
+                "MACS.2.2.1"
+            ]
+        },
+        {
+            "referencia": "MACS.2.C.4.",
+            "descripcion": "Relaciones y funciones.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MACS.2.C.4.1.",
+            "descripcion": "Representación, análisis e interpretación de funciones con herramientas digitales.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.3.2",
+                "MACS.2.7.2"
+            ]
+        },
+        {
+            "referencia": "MACS.2.C.4.2.",
+            "descripcion": "Propiedades de las distintas clases de funciones: comprensión y comparación. Estudio y representación gráfica de funciones polinómicas, racionales, exponenciales, logarítmicas y definidas a trozos sencillas a partir de sus propiedades globales y locales obtenidas empleando las herramientas del análisis (límites y derivadas).",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.5.1",
+                "MACS.2.7.1"
+            ]
+        },
+        {
+            "referencia": "MACS.2.C.5.",
+            "descripcion": "Pensamiento computacional.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MACS.2.C.5.1.",
+            "descripcion": "Formulación, resolución y análisis de problemas de la vida cotidiana y de las ciencias sociales empleando las herramientas o los programas más adecuados.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.2.2",
+                "MACS.2.3.2",
+                "MACS.2.4.1"
+            ]
+        },
+        {
+            "referencia": "MACS.2.C.5.2.",
+            "descripcion": "Análisis algorítmico de las propiedades de las operaciones con matrices y la resolución de sistemas de ecuaciones lineales.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.1.2",
+                "MACS.2.4.1"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Sentido estocástico.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MACS.2.D.1.",
+            "descripcion": "Incertidumbre.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MACS.2.D.1.1.",
+            "descripcion": "Cálculo de probabilidades en experimentos compuestos. Probabilidad condicionada e independencia de sucesos aleatorios. Diagramas de árbol y tablas de contingencia.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.6.1",
+                "MACS.2.8.1",
+                "MACS.2.8.2"
+            ]
+        },
+        {
+            "referencia": "MACS.2.D.1.2.",
+            "descripcion": "Teoremas de la probabilidad total y de Bayes: resolución de problemas e interpretación del teorema de Bayes para actualizar la probabilidad a partir de la observación y la experimentación y la toma de decisiones en condiciones de incertidumbre. Planteamiento y resolución de problemas que requieran del manejo de los axiomas de la probabilidad de Kolmogorov o del trazado de diagramas de Venn. Planteamiento y resolución de problemas de contexto real que requieran del empleo de los teoremas de la probabilidad total y de Bayes o del trazado de diagramas de árbol.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.6.1",
+                "MACS.2.8.2"
+            ]
+        },
+        {
+            "referencia": "MACS.2.D.2.",
+            "descripcion": "Distribuciones de probabilidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MACS.2.D.2.1.",
+            "descripcion": "Variables aleatorias discretas y continuas. Parámetros de la distribución. Distribuciones binomial y normal.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.6.1",
+                "MACS.2.8.2"
+            ]
+        },
+        {
+            "referencia": "MACS.2.D.2.2.",
+            "descripcion": "Modelización de fenómenos estocásticos mediante las distribuciones de probabilidad binomial y normal. Cálculo de probabilidades asociadas mediante herramientas tecnológicas. Condiciones bajo las cuales se puede aproximar la distribución binomial por la distribución normal.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.1.1",
+                "MACS.2.6.2",
+                "MACS.2.8.2"
+            ]
+        },
+        {
+            "referencia": "MACS.2.D.3.",
+            "descripcion": "Inferencia.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MACS.2.D.3.1.",
+            "descripcion": "Selección de muestras representativas. Técnicas de muestreo. Representatividad de una muestra según el proceso de selección. Estimación puntual y estimación por intervalo.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.6.1",
+                "MACS.2.8.2"
+            ]
+        },
+        {
+            "referencia": "MACS.2.D.3.2.",
+            "descripcion": "Estimación de la media, la proporción y la desviación típica. Aproximación de la distribución de la media y de la proporción muestrales por la normal.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.6.1",
+                "MACS.2.8.2"
+            ]
+        },
+        {
+            "referencia": "MACS.2.D.3.3.",
+            "descripcion": "Intervalos de confianza basados en la distribución normal: construcción, análisis y toma de decisiones en situaciones contextualizadas. Intervalo de confianza para la media de una distribución normal con desviación típica conocida. Cálculo del tamaño muestral mínimo. Relación entre confianza, error y tamaño muestral.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.6.1",
+                "MACS.2.8.2"
+            ]
+        },
+        {
+            "referencia": "MACS.2.D.3.4.",
+            "descripcion": "Herramientas digitales en la realización de estudios estadísticos. Lectura y comprensión de la ficha técnica de una encuesta. Grado de relación entre dos variables estadísticas. Regresión lineal.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.8.2"
+            ]
+        },
+        {
+            "referencia": "E.",
+            "descripcion": "Sentido socioafectivo.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MACS.2.E.1.",
+            "descripcion": "Creencias, actitudes y emociones.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MACS.2.E.1.1.",
+            "descripcion": "Destrezas de autogestión encaminadas a reconocer las emociones propias, afrontando eventuales situaciones de estrés y ansiedad en el aprendizaje de las matemáticas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.9.1"
+            ]
+        },
+        {
+            "referencia": "MACS.2.E.1.2.",
+            "descripcion": "Tratamiento y análisis del error, individual y colectivo, como elemento movilizador de saberes previos adquiridos y generador de oportunidades de aprendizaje en el aula de matemáticas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.9.1",
+                "MACS.2.9.3"
+            ]
+        },
+        {
+            "referencia": "MACS.2.E.2.",
+            "descripcion": "Toma de decisiones. Destrezas para evaluar diferentes opciones y tomar decisiones en la resolución de problemas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "MACS.2.4.1",
+                "MACS.2.9.2"
+            ]
+        },
+        {
+            "referencia": "MACS.2.E.3.",
+            "descripcion": "Inclusión, respeto y diversidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "MACS.2.E.3.1.",
+            "descripcion": "Destrezas sociales y de comunicación efectivas para el éxito en el aprendizaje de las matemáticas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.9.2",
+                "MACS.2.9.3"
+            ]
+        },
+        {
+            "referencia": "MACS.2.E.3.2.",
+            "descripcion": "Valoración de la contribución de las matemáticas y el papel de matemáticos y matemáticas a lo largo de la historia del el avance de las ciencias sociales.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "MACS.2.6.2"
+            ]
+        }
+    ]
+}

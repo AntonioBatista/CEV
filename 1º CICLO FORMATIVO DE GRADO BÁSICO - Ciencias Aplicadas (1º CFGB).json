@@ -1,0 +1,641 @@
+{
+    "titulo": "1º CICLO FORMATIVO DE GRADO BÁSICO - Ciencias Aplicadas (1º CFGB)",
+    "referencia": "ACA.1",
+    "competencias_especificas": [
+        {
+            "codigo": "ACA.1.1",
+            "descripcion": "Reconocer los motivos por los que ocurren los principales fenómenos naturales, a partir de situaciones cotidianas, y explicarlos en términos de las leyes y teorías científicas adecuadas, para poner en valor la contribución de la ciencia a la sociedad."
+        },
+        {
+            "codigo": "ACA.1.2",
+            "descripcion": "Utilizar los métodos científicos, haciendo indagaciones y llevando a cabo proyectos, para desarrollar los razonamientos propios del pensamiento científico y mejorar las destrezas en el uso de las metodologías científicas."
+        },
+        {
+            "codigo": "ACA.1.3",
+            "descripcion": "Analizar los efectos de determinadas acciones cotidianas o del entorno profesional sobre la salud, el medio natural y social, basándose en fundamentos científicos, para valorar la importancia de los hábitos que mejoran la salud individual y colectiva, evitan o minimizan los impactos medioambientales negativos y son compatibles con un desarrollo sostenible."
+        },
+        {
+            "codigo": "ACA.1.4",
+            "descripcion": "Identificar las ciencias y las matemáticas implicadas en contextos diversos, interrelacionando conceptos y procedimientos, para aplicarlos en situaciones de la vida cotidiana y del ámbito profesional correspondiente."
+        },
+        {
+            "codigo": "ACA.1.5",
+            "descripcion": "Desarrollar destrezas personales identificando y gestionando emociones, poniendo en práctica estrategias de aceptación del error como parte del proceso de aprendizaje y adaptándose ante situaciones de incertidumbre, para mejorar la perseverancia en la consecución de objetivos y la valoración del aprendizaje de las ciencias."
+        },
+        {
+            "codigo": "ACA.1.6",
+            "descripcion": "Desarrollar destrezas sociales y trabajar de forma colaborativa en equipos diversos con roles asignados que permitan potenciar el crecimiento entre iguales, valorando la importancia de romper los estereotipos de género en la investigación científica, para el emprendimiento personal y laboral."
+        },
+        {
+            "codigo": "ACA.1.7",
+            "descripcion": "Interpretar y modelizar en términos científicos problemas y situaciones de la vida cotidiana y profesional, aplicando diferentes estrategias, formas de razonamiento, herramientas tecnológicas y el pensamiento computacional para hallar y analizar soluciones comprobando su validez."
+        },
+        {
+            "codigo": "ACA.1.8",
+            "descripcion": "Interpretar y transmitir información y datos científicos, contrastando previamente su veracidad, en formato analógico y digital y utilizando lenguaje verbal o gráfico apropiado, para adquirir y afianzar conocimientos del entorno natural, social y profesional."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "ACA.1.1.1",
+            "descripcion": "Reconocer los motivos por los que ocurren los principales fenómenos naturales más relevantes, a partir de situaciones cotidianas y locales, con objeto de explicarlos en términos de principios, leyes y principios científicos adecuados, para que se establezcan relaciones constructivas entre la ciencia, el entorno profesional y la vida cotidiana, y poner en valor la contribución de la ciencia a la mejora de la calidad de vida de su entorno.",
+            "saberes_relacionados": [
+                "ACA.1.K.2.",
+                "ACA.1.K.3."
+            ]
+        },
+        {
+            "referencia": "ACA.1.1.2",
+            "descripcion": "Justificar la contribución de la ciencia a la mejora de la calidad de vida y la labor de los hombres y mujeres dedicados a su desarrollo, como los científicos españoles Isaac Peral, Severo Ochoa, Ramón y Cajal, Margarita Salas, etc., entendiendo la investigación como una labor colectiva en constante evolución fruto de la interacción entre la ciencia, la tecnología, la sociedad y el medio ambiente.",
+            "saberes_relacionados": [
+                "ACA.1.G.4.",
+                "ACA.1.I.1.",
+                "ACA.1.I.2."
+            ]
+        },
+        {
+            "referencia": "ACA.1.2.1",
+            "descripcion": "Realizar observaciones sobre el entorno cotidiano, plantear preguntas e hipótesis que puedan ser respondidas o contrastadas utilizando los métodos científicos, para alcanzar la capacidad de realizar observaciones, formular preguntas e hipótesis y comprobar la veracidad de las mismas mediante el empleo de la experimentación, el análisis de los resultados, y utilizando las herramientas y normativas que sean más convenientes en cada caso, explicando fenómenos naturales y realizando predicciones sobre estos.",
+            "saberes_relacionados": [
+                "ACA.1.G.1.",
+                "ACA.1.G.3.",
+                "ACA.1.H.1.",
+                "ACA.1.H.5."
+            ]
+        },
+        {
+            "referencia": "ACA.1.2.2",
+            "descripcion": "Diseñar y realizar experimentos y obtener datos cuantitativos y cualitativos sobre fenómenos que suceden en su entorno y en el laboratorio utilizando con corrección los instrumentos, herramientas o técnicas adecuadas a la hora de obtener resultados claros que respondan a cuestiones concretas o que contrasten la veracidad de una hipótesis, afianzando a través de la práctica el uso de la metodología científica.",
+            "saberes_relacionados": [
+                "ACA.1.H.2.",
+                "ACA.1.H.3.",
+                "ACA.1.H.4.",
+                "ACA.1.G.5.",
+                "ACA.1.G.6."
+            ]
+        },
+        {
+            "referencia": "ACA.1.2.3",
+            "descripcion": "Interpretar y reflexionar sobre los resultados obtenidos en proyectos de investigación utilizando el razonamiento y, cuando sea necesario, herramientas matemáticas y tecnológicas.",
+            "saberes_relacionados": [
+                "ACA.1.H.4.",
+                "ACA.1.H.6."
+            ]
+        },
+        {
+            "referencia": "ACA.1.3.1",
+            "descripcion": "Evaluar los efectos de determinadas acciones cotidianas y costumbres individuales sobre el organismo y el medio natural y reconocer e identificar hábitos saludables y sostenibles basados en los conocimientos científicos y la información disponible, cuyo significado les provea de las destrezas suficientes para conseguir estar sano.",
+            "saberes_relacionados": [
+                "ACA.1.J.1.",
+                "ACA.1.J.2.",
+                "ACA.1.J.3.",
+                "ACA.1.J.4."
+            ]
+        },
+        {
+            "referencia": "ACA.1.3.2",
+            "descripcion": "Relacionar la preservación de la biodiversidad, la conservación del medio ambiente, la protección de los seres vivos del entorno, el desarrollo sostenible y la calidad de vida con la importancia de los hábitos que mejoran la salud individual, evitan o minimizan los impactos medioambientales negativos en su entorno y son compatibles con un desarrollo sostenible (alimentación sana, ejercicio físico, interacción social, consumo responsable…).",
+            "saberes_relacionados": [
+                "ACA.1.K.1.",
+                "ACA.1.K.2."
+            ]
+        },
+        {
+            "referencia": "ACA.1.4.1",
+            "descripcion": "Conocer la aplicación integrada de los procedimientos propios de las ciencias físicas y las matemáticas implicadas en contextos diversos, interrelacionando conceptos y procedimientos para aplicarlos en situaciones de la vida cotidiana a la resolución de problemas del entorno personal, social y del ámbito profesional correspondiente.",
+            "saberes_relacionados": [
+                "ACA.1.C.1.",
+                "ACA.1.C.2.",
+                "ACA.1.C.3.",
+                "ACA.1.I.1.",
+                "ACA.1.I.2."
+            ]
+        },
+        {
+            "referencia": "ACA.1.5.1",
+            "descripcion": "Mostrar resiliencia ante los retos académicos, poniendo en práctica estrategias de detección, aceptación y corrección del error como parte del proceso de aprendizaje, enfrentándose a pequeños retos que contribuyan a la reflexión sobre el propio pensamiento y desarrollando un autoconcepto positivo ante las ciencias.",
+            "saberes_relacionados": [
+                "ACA.1.A.1.",
+                "ACA.1.A.2."
+            ]
+        },
+        {
+            "referencia": "ACA.1.5.2",
+            "descripcion": "Resolver pequeños retos mostrando una reflexión sobre los errores cometidos.",
+            "saberes_relacionados": [
+                "ACA.1.G.1.",
+                "ACA.1.G.2.",
+                "ACA.1.B.4.",
+                "ACA.1.C.2."
+            ]
+        },
+        {
+            "referencia": "ACA.1.6.1",
+            "descripcion": "Asumir responsablemente una función concreta dentro de un proyecto científico utilizando espacios virtuales cuando sea necesario, aportando valor, analizando críticamente las contribuciones del grupo respetando la diversidad, y favoreciendo la inclusión y la igualdad de género.",
+            "saberes_relacionados": [
+                "ACA.1.A.3.",
+                "ACA.1.A.4.",
+                "ACA.1.A.5."
+            ]
+        },
+        {
+            "referencia": "ACA.1.6.2",
+            "descripcion": "Emprender, de forma guiada y de acuerdo a la metodología adecuada, proyectos científicos colaborativos orientados a la mejora y a la creación de valor en la sociedad.",
+            "saberes_relacionados": [
+                "ACA.1.B.2.",
+                "ACA.1.B.9.",
+                "ACA.1.E.1.",
+                "ACA.1.H.1.",
+                "ACA.1.H.4.",
+                "ACA.1.K.1."
+            ]
+        },
+        {
+            "referencia": "ACA.1.7.1",
+            "descripcion": "Elaborar representaciones que ayuden en la búsqueda de estrategias de resolución de problemas y situaciones de la vida cotidiana, organizando los datos dados y comprendiendo las preguntas formuladas para aprender a elaborar mecanismos capaces de dar solución a los problemas planteados.",
+            "saberes_relacionados": [
+                "ACA.1.B.1.",
+                "ACA.1.B.2.",
+                "ACA.1.B.3."
+            ]
+        },
+        {
+            "referencia": "ACA.1.7.2",
+            "descripcion": "Hallar las soluciones de un problema utilizando los datos e información aportados, los propios conocimientos y las estrategias y herramientas apropiadas, así como algoritmos cuyo uso reiterado mejore la destreza y confianza en la resolución de problemas.",
+            "saberes_relacionados": [
+                "ACA.1.B.7.",
+                "ACA.1.B.8.",
+                "ACA.1.B.9."
+            ]
+        },
+        {
+            "referencia": "ACA.1.7.3",
+            "descripcion": "Comprobar la corrección de las soluciones de un problema y su coherencia en el contexto planteado.",
+            "saberes_relacionados": [
+                "ACA.1.B.10.",
+                "ACA.1.C.2."
+            ]
+        },
+        {
+            "referencia": "ACA.1.7.4",
+            "descripcion": "Emplear herramientas tecnológicas adecuadas en la representación, la resolución de problemas y la comprobación de las soluciones.",
+            "saberes_relacionados": [
+                "ACA.1.B.1.",
+                "ACA.1.B.3."
+            ]
+        },
+        {
+            "referencia": "ACA.1.8.1",
+            "descripcion": "Seleccionar, organizar y comunicar información científica y matemática de forma clara y rigurosa de manera verbal, gráfica, numérica, etc., utilizando el formato más adecuado.",
+            "saberes_relacionados": [
+                "ACA.1.D.1.",
+                "ACA.1.E.1."
+            ]
+        },
+        {
+            "referencia": "ACA.1.8.2",
+            "descripcion": "Analizar e interpretar información científica y matemática presente en la vida cotidiana manteniendo una actitud crítica, estableciendo relaciones entre el concepto objeto de estudio y el procedimiento aplicado en su análisis.",
+            "saberes_relacionados": [
+                "ACA.1.B.4.",
+                "ACA.1.B.5.",
+                "ACA.1.B.6."
+            ]
+        },
+        {
+            "referencia": "ACA.1.8.3",
+            "descripcion": "Emplear y citar de forma adecuada fuentes fiables seleccionando la información científica relevante en la consulta y creación de contenidos para la mejora del aprendizaje propio y colectivo.",
+            "saberes_relacionados": [
+                "ACA.1.B.10.",
+                "ACA.1.C.1.",
+                "ACA.1.C.3."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "*.",
+            "descripcion": "SABERES BÁSICOS COMUNES",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "A.",
+            "descripcion": "Sentido socioafectivo.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACA.1.A.1.",
+            "descripcion": "Estrategias para el reconocimiento de las emociones que intervienen el aprendizaje propio para incrementar la curiosidad, la iniciativa, la perseverancia y la resiliencia, así como el placer de aprender y comprender la ciencia.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.5.1"
+            ]
+        },
+        {
+            "referencia": "ACA.1.A.2.",
+            "descripcion": "Estrategias para aumentar la flexibilidad cognitiva, y la apertura a cambios cuando sea necesario, transformando el error en oportunidad de aprendizaje.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.5.1"
+            ]
+        },
+        {
+            "referencia": "ACA.1.A.3.",
+            "descripcion": "Selección de técnicas cooperativas para optimizar el trabajo en equipo, despliegue de conductas empáticas y estrategias para la gestión de conflictos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.6.1"
+            ]
+        },
+        {
+            "referencia": "ACA.1.A.4.",
+            "descripcion": "Promoción de actitudes inclusivas y de la igualdad efectiva de género, así como respeto por las minorías y aceptación de la diversidad presente en el aula y la sociedad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.6.1"
+            ]
+        },
+        {
+            "referencia": "ACA.1.A.5.",
+            "descripcion": "Estrategias de identificación y prevención de abusos, de agresiones, de situaciones de violencia o de vulneración de la integridad física, psíquica y emocional.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.6.1"
+            ]
+        },
+        {
+            "referencia": "**.",
+            "descripcion": "SABERES BÁSICOS DEL ÁMBITO DE CIENCIAS APLICADAS",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "G.",
+            "descripcion": "Destrezas científicas básicas.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACA.1.G.1.",
+            "descripcion": "Metodologías de la investigación científica: identificación y formulación de cuestiones, elaboración de hipótesis y comprobación mediante experimentación y Proyectos de investigación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.2.1",
+                "ACA.1.5.2"
+            ]
+        },
+        {
+            "referencia": "ACA.1.G.2.",
+            "descripcion": "Entornos y recursos de aprendizaje científico (como el laboratorio y los entornos virtuales): utilización adecuada que asegure la conservación de la salud propia y la comunitaria, la seguridad y el respeto al medio ambiente.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.5.2"
+            ]
+        },
+        {
+            "referencia": "ACA.1.G.3.",
+            "descripcion": "Lenguaje científico: interpretación, producción y comunicación eficaz de información de carácter científico en el contexto escolar y profesional en diferentes formatos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.2.1"
+            ]
+        },
+        {
+            "referencia": "ACA.1.G.4.",
+            "descripcion": "Valoración de la ciencia y de la actividad desarrollada por las personas que se dedican a ella y reconocimiento de su contribución a los distintos ámbitos del saber humano y en el avance y la mejora de la sociedad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.1.2"
+            ]
+        },
+        {
+            "referencia": "ACA.1.G.5.",
+            "descripcion": "La medida y la expresión numérica de las magnitudes físicas: orden de magnitud, notación científica, indicadores de precisión en las mediciones y los resultados y relevancia en las unidades de medida.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.2.2"
+            ]
+        },
+        {
+            "referencia": "ACA.1.G.6.",
+            "descripcion": "Estrategias de resolución de problemas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.2.2"
+            ]
+        },
+        {
+            "referencia": "H.",
+            "descripcion": "La materia y sus cambios.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACA.1.H.1.",
+            "descripcion": "Teoría cinético-molecular: aplicación y explicación de las propiedades más importantes de los sistemas materiales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.2.1",
+                "ACA.1.6.2"
+            ]
+        },
+        {
+            "referencia": "ACA.1.H.2.",
+            "descripcion": "Composición de la materia: descripción a partir de los conocimientos sobre la estructura de los átomos y de los compuestos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.2.2"
+            ]
+        },
+        {
+            "referencia": "ACA.1.H.3.",
+            "descripcion": "Formulación y nomenclatura de sustancias químicas de compuestos de mayor relevancia, utilidad social o relacionadas con la familia profesional correspondiente, según las normas de la IUPAC.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.2.2"
+            ]
+        },
+        {
+            "referencia": "ACA.1.H.4.",
+            "descripcion": "Cambios físicos y químicos en los sistemas materiales: análisis, causas y consecuencias.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.2.2",
+                "ACA.1.2.3",
+                "ACA.1.6.2"
+            ]
+        },
+        {
+            "referencia": "ACA.1.H.5.",
+            "descripcion": "Ecuaciones químicas sencillas: interpretación cualitativa y cuantitativa. Cálculos estequiométricos sencillos e interpretación de los factores que las afectan. Relevancia en el mundo cotidiano y profesional.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.2.1"
+            ]
+        },
+        {
+            "referencia": "ACA.1.H.6.",
+            "descripcion": "Experimentación con los sistemas materiales: conocimiento y descripción de sus propiedades, composición y clasificación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.2.3"
+            ]
+        },
+        {
+            "referencia": "I.",
+            "descripcion": "Las interacciones y la energía.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACA.1.I.1.",
+            "descripcion": "La energía: análisis y formulación de hipótesis, propiedades, transferencia y manifestaciones de la energía, relacionando la obtención y consumo de la energía con las repercusiones medioambientales que produce.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.1.2",
+                "ACA.1.4.1"
+            ]
+        },
+        {
+            "referencia": "ACA.1.I.2.",
+            "descripcion": "El calor: análisis de sus efectos sobre la materia, explicación de comportamientos en situaciones cotidianas y profesionales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.1.2",
+                "ACA.1.4.1"
+            ]
+        },
+        {
+            "referencia": "J.",
+            "descripcion": "El cuerpo humano y la salud.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACA.1.J.1.",
+            "descripcion": "La función de nutrición y su importancia. Anatomía y fisiología de los aparatos digestivo, respiratorio, circulatorio y excretor. Relación entre ellos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.3.1"
+            ]
+        },
+        {
+            "referencia": "ACA.1.J.2.",
+            "descripcion": "La función de reproducción y su relevancia biológica. El aparato reproductor: anatomía y fisiología, análisis, reflexión de la importancia de las prácticas sexuales responsables y del uso del preservativo en la prevención de enfermedades de transmisión sexual y de embarazos no deseados.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.3.1"
+            ]
+        },
+        {
+            "referencia": "ACA.1.J.3.",
+            "descripcion": "Los receptores sensoriales, centros de coordinación y órganos efectores: análisis general de la función de relación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.3.1"
+            ]
+        },
+        {
+            "referencia": "ACA.1.J.4.",
+            "descripcion": "Los hábitos saludables (postura adecuada, dieta equilibrada, uso responsable de los dispositivos tecnológicos, ejercicio físico, higiene del sueño…): argumentación fundamentada científicamente sobre su importancia destacando la prevención del consumo de drogas legales e ilegales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.3.1"
+            ]
+        },
+        {
+            "referencia": "K.",
+            "descripcion": "La Tierra como sistema y el desarrollo sostenible.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACA.1.K.1.",
+            "descripcion": "Los ecosistemas: identificación de sus elementos y las relaciones intraespecíficas e interespecíficas, argumentación sobre las causas y consecuencias del deterioro del medio ambiente e importancia de contribuir a su conservación mediante la adopción de hábitos compatibles con un modelo de desarrollo sostenible.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.3.2",
+                "ACA.1.6.2"
+            ]
+        },
+        {
+            "referencia": "ACA.1.K.2.",
+            "descripcion": "El cambio climático: análisis de los factores causales, posibles consecuencias y reflexión sobre los efectos globales de las acciones individuales y colectivas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.1.1",
+                "ACA.1.3.2"
+            ]
+        },
+        {
+            "referencia": "ACA.1.K.3.",
+            "descripcion": "Los fenómenos geológicos internos y externos: diferenciación, reconocimiento de sus manifestaciones en la superficie terrestre y argumentación sobre la dinámica global del planeta a la luz de la teoría de la tectónica de placas. Los riesgos naturales y su prevención: relación con los procesos geológicos y las actividades humanas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.1.1"
+            ]
+        },
+        {
+            "referencia": "***.",
+            "descripcion": "SABERES BÁSICOS DE MATEMÁTICAS APLICADAS",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Sentido numérico.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACA.1.B.1.",
+            "descripcion": "Números naturales, enteros, decimales, racionales e irracionales relevantes (raíces cuadradas, π,etc.): interpretación, ordenación en la recta numérica y selección y utilización en distintos contextos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.7.1",
+                "ACA.1.7.4"
+            ]
+        },
+        {
+            "referencia": "ACA.1.B.2.",
+            "descripcion": "Estrategias de conteo: adaptación del tipo de conteo al tamaño de los números y aplicación en la resolución problemas de la vida cotidiana y profesional.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.6.2",
+                "ACA.1.7.1"
+            ]
+        },
+        {
+            "referencia": "ACA.1.B.3.",
+            "descripcion": "Orden de magnitud de los números: reconocimiento y utilización de la notación científica. Uso de la calculadora en la representación de números grandes y pequeños.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.7.1",
+                "ACA.1.7.4"
+            ]
+        },
+        {
+            "referencia": "ACA.1.B.4.",
+            "descripcion": "Operaciones o combinación de operaciones con números naturales, enteros, racionales o decimales (suma, resta, multiplicación, división y potencias con exponentes enteros): identificación, propiedades, relaciones entre ellas y aplicación en la resolución de problemas. Estrategias de cálculo: mental, y con calculadora.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.5.2",
+                "ACA.1.8.2"
+            ]
+        },
+        {
+            "referencia": "ACA.1.B.5.",
+            "descripcion": "Relaciones inversas (adicción y sustracción, multiplicación y división, cuadrado y raíz cuadrada): utilización en la resolución de problemas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.8.2"
+            ]
+        },
+        {
+            "referencia": "ACA.1.B.6.",
+            "descripcion": "Divisores y múltiplos: relaciones y uso de la factorización en números primos en la resolución de problemas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.8.2"
+            ]
+        },
+        {
+            "referencia": "ACA.1.B.7.",
+            "descripcion": "Razones y proporciones: comprensión y resolución de problemas y representación de relaciones cuantitativas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.7.2"
+            ]
+        },
+        {
+            "referencia": "ACA.1.B.8.",
+            "descripcion": "Porcentajes: comprensión y utilización en la resolución de problemas de aumentos y disminuciones porcentuales en contextos cotidianos y profesionales, rebajas, descuentos, impuestos, etc.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.7.2"
+            ]
+        },
+        {
+            "referencia": "ACA.1.B.9.",
+            "descripcion": "Proporcionalidad directa e inversa: comprensión y uso en la resolución de problemas de escalas, cambios de divisas, etc.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.6.2",
+                "ACA.1.7.2"
+            ]
+        },
+        {
+            "referencia": "ACA.1.B.10.",
+            "descripcion": "Toma de decisiones: consumo responsable, relaciones calidad-precio y valor-precio en contextos cotidianos y profesionales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.7.3",
+                "ACA.1.8.3"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Sentido de la medida.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACA.1.C.1.",
+            "descripcion": "Estimación y relaciones: toma de decisión justificada del grado de precisión en situaciones de medida.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.4.1",
+                "ACA.1.8.3"
+            ]
+        },
+        {
+            "referencia": "ACA.1.C.2.",
+            "descripcion": "Estrategias de estimación o cálculo de medidas indirectas de formas planas y tridimensionales y objetos de la vida cotidiana y profesional.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.4.1",
+                "ACA.1.5.2",
+                "ACA.1.7.3"
+            ]
+        },
+        {
+            "referencia": "ACA.1.C.3.",
+            "descripcion": "Instrumentos de dibujo y herramientas digitales: utilización, realización de dibujos de objetos geométricos con medidas fijadas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.4.1",
+                "ACA.1.8.3"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Sentido espacial.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACA.1.D.1.",
+            "descripcion": "Coordenadas cartesianas: localización y descripción de relaciones espaciales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.8.1"
+            ]
+        },
+        {
+            "referencia": "E.",
+            "descripcion": "Sentido algebraico y Pensamiento Computacional.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "ACA.1.E.1.",
+            "descripcion": "Patrones. Identificación y extensión determinando la regla de formación de diversas estructuras: numéricas, espaciales, gráficas o algebraicas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "ACA.1.6.2",
+                "ACA.1.8.1"
+            ]
+        }
+    ]
+}

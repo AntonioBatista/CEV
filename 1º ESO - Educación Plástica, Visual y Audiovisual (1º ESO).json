@@ -1,0 +1,399 @@
+{
+    "titulo": "1º ESO - Educación Plástica, Visual y Audiovisual (1º ESO)",
+    "referencia": "EPV.1",
+    "competencias_especificas": [
+        {
+            "codigo": "EPV.1.1",
+            "descripcion": "Comprender la importancia que algunos ejemplos seleccionados de las distintas manifestaciones culturales y artísticas han tenido en el desarrollo del ser humano, mostrando interés por el patrimonio como parte de la propia cultura, para entender cómo se convierten en el testimonio de los valores y convicciones de cada persona y de la sociedad en su conjunto y para reconocer la necesidad de su protección y conservación, teniendo especial consideración con el patrimonio Andaluz."
+        },
+        {
+            "codigo": "EPV.1.2",
+            "descripcion": "Explicar las producciones plásticas, visuales y audiovisuales propias, comparándolas con las de sus iguales y con algunas de las que conforman el patrimonio cultural y artístico dentro y fuera de Andalucía, justificando las opiniones y teniendo en cuenta el progreso desde la intención hasta la realización, para valorar el intercambio, las experiencias compartidas y el diálogo intercultural, así como para superar estereotipos."
+        },
+        {
+            "codigo": "EPV.1.3",
+            "descripcion": "Analizar diferentes propuestas plásticas, visuales y audiovisuales, mostrando respeto y desarrollando la capacidad de observación e interiorización de la experiencia y del disfrute estético, para enriquecer la cultura artística individual y alimentar el imaginario."
+        },
+        {
+            "codigo": "EPV.1.4",
+            "descripcion": "Explorar las técnicas, los lenguajes y las intenciones de diferentes producciones culturales y artísticas, analizando, de forma abierta y respetuosa, tanto el proceso como el producto final, su recepción y su contexto, para descubrir las diversas posibilidades que ofrecen como fuente generadora de ideas y respuestas."
+        },
+        {
+            "codigo": "EPV.1.5",
+            "descripcion": "Realizar producciones artísticas individuales o colectivas con creatividad e imaginación, seleccionando y aplicando herramientas, técnicas y soportes en función de la intencionalidad, para expresar la visión del mundo, las emociones y los sentimientos propios, así como para mejorar la capacidad de comunicación y desarrollar la reflexión crítica y la autoconfianza."
+        },
+        {
+            "codigo": "EPV.1.6",
+            "descripcion": "Apropiarse de las referencias culturales y artísticas del entorno, identificando sus singularidades, para enriquecer las creaciones propias y desarrollar la identidad personal, cultural y social."
+        },
+        {
+            "codigo": "EPV.1.7",
+            "descripcion": "Aplicar las principales técnicas, recursos y convenciones de los lenguajes artísticos, incorporando, de forma creativa, las posibilidades que ofrecen las diversas tecnologías, para integrarlos y enriquecer el diseño y la realización de un proyecto artístico."
+        },
+        {
+            "codigo": "EPV.1.8",
+            "descripcion": "Compartir producciones y manifestaciones artísticas, adaptando el proyecto a la intención y a las características del público destinatario, para valorar distintas oportunidades de desarrollo personal."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "EPV.1.1.1",
+            "descripcion": "Se introduce en el reconocimiento de los factores históricos y sociales que rodean a diferentes producciones plásticas, visuales y audiovisuales, describiendo de manera simple, de forma oral, escrita o visual diferentes corrientes artísticas, con interés y respeto, incorporando además la perspectiva de género.",
+            "saberes_relacionados": [
+                "EPV.1.A.1.",
+                "EPV.1.A.2."
+            ]
+        },
+        {
+            "referencia": "EPV.1.1.2",
+            "descripcion": "Muestra interés por la conservación, preservación y difusión del patrimonio cultural y artístico, a través de iniciarse en el conocimiento y el análisis guiado de obras de arte comenzando por el que le es más cercano, utilizándolo en sus propias creaciones, en las que manifieste aspectos de su propia identidad cultural.",
+            "saberes_relacionados": [
+                "EPV.1.A.2."
+            ]
+        },
+        {
+            "referencia": "EPV.1.1.3",
+            "descripcion": "Se inicia en el análisis de la importancia de las formas geométricas básicas de su entorno, identificando los elementos plásticos del lenguaje visual en el arte y en el entorno, tomando como modelo el legado andalusí y el mosaico romano.",
+            "saberes_relacionados": [
+                "EPV.1.A.1.",
+                "EPV.1.A.2."
+            ]
+        },
+        {
+            "referencia": "EPV.1.2.1",
+            "descripcion": "Conoce y emplea el proceso creativo desde la intención hasta la realización, comprendiendo las dificultades del mismo mediante el intercambio de experiencias y el diálogo, detectando prejuicios hacia otras expresiones culturales y reflexionando sobre la discriminación y rechazo que estos provocan.",
+            "saberes_relacionados": [
+                "EPV.1.C.2."
+            ]
+        },
+        {
+            "referencia": "EPV.1.2.2",
+            "descripcion": "Se inicia en el análisis, de forma guiada, de diversas producciones artísticas, incluidas las propias y las de sus iguales, respetando las creaciones, vengan estas de donde vengan, comenzando a establecer un juicio basado en el conocimiento.",
+            "saberes_relacionados": [
+                "EPV.1.B.1.",
+                "EPV.1.B.2.",
+                "EPV.1.B.3.",
+                "EPV.1.B.4.",
+                "EPV.1.B.5."
+            ]
+        },
+        {
+            "referencia": "EPV.1.2.3",
+            "descripcion": "Analiza, valora y realiza composiciones inspiradas en la naturaleza introduciendo aspectos básicos compositivos y experimentando al menos con dos técnicas de expresión gráfico-plásticas bidimensionales.",
+            "saberes_relacionados": [
+                "EPV.1.B.1.",
+                "EPV.1.B.5.",
+                "EPV.1.C.1."
+            ]
+        },
+        {
+            "referencia": "EPV.1.3.1",
+            "descripcion": "Iniciar un acercamiento a la observación y análisis de forma respetuosa en relación con las diversas propuestas plásticas, visuales y audiovisuales como forma de configuración de la cultura artística personal.",
+            "saberes_relacionados": [
+                "EPV.1.D.1."
+            ]
+        },
+        {
+            "referencia": "EPV.1.3.2",
+            "descripcion": "Empezar a concebir el campo de las artes plásticas, visuales y audiovisuales como un elemento cultural indispensable en la sociedad contemporánea mediante el conocimiento de las obras pasadas y también contemporáneas.",
+            "saberes_relacionados": [
+                "EPV.1.A.1.",
+                "EPV.1.A.2.",
+                "EPV.1.D.1."
+            ]
+        },
+        {
+            "referencia": "EPV.1.3.3",
+            "descripcion": "Se inicia en la identificación de la importancia de la presentación de las creaciones propias a partir de técnicas audiovisuales básicas, compartiendo estas producciones con el resto del alumnado.",
+            "saberes_relacionados": [
+                "EPV.1.B.3.",
+                "EPV.1.B.4."
+            ]
+        },
+        {
+            "referencia": "EPV.1.4.1",
+            "descripcion": "Iniciar la exploración y el reconocimiento de las características propias de los diversos lenguajes y medios de expresión artística en relación con los contextos culturales, sociales y artísticos en los que han sido producidos como forma de investigación dentro del ámbito creativo.",
+            "saberes_relacionados": [
+                "EPV.1.C.1.",
+                "EPV.1.C.2.",
+                "EPV.1.D.1."
+            ]
+        },
+        {
+            "referencia": "EPV.1.4.2",
+            "descripcion": "Comenzar a aplicar en las producciones plásticas, visuales y audiovisuales propias las conclusiones extraídas mediante el reconocimiento y comprensión de las respuestas que otros creadores y creadoras han efectuado ante preguntas similares.",
+            "saberes_relacionados": [
+                "EPV.1.C.2.",
+                "EPV.1.D.2."
+            ]
+        },
+        {
+            "referencia": "EPV.1.5.1",
+            "descripcion": "Iniciar un acercamiento al proceso de comunicación que constituye la creación de obras plásticas, visuales y audiovisuales como medio de transmisión de ideas y pensamientos.",
+            "saberes_relacionados": [
+                "EPV.1.C.1.",
+                "EPV.1.C.2."
+            ]
+        },
+        {
+            "referencia": "EPV.1.5.2",
+            "descripcion": "Adquirir y desarrollar el imaginario propio a través de la implementación de un pensamiento creativo caracterizado por mensajes cuya canalización discurre a través de cauces plásticos, visuales y audiovisuales, favoreciendo el comienzo de la integración de conceptos como la racionalidad, la empatía o la sensibilidad.",
+            "saberes_relacionados": [
+                "EPV.1.B.5.",
+                "EPV.1.C.1.",
+                "EPV.1.C.2."
+            ]
+        },
+        {
+            "referencia": "EPV.1.5.3",
+            "descripcion": "Empezar a descubrir y seleccionar aquellos procedimientos y técnicas más idóneos en relación con los fines de presentación y representación perseguidos.",
+            "saberes_relacionados": [
+                "EPV.1.C.1.",
+                "EPV.1.C.2."
+            ]
+        },
+        {
+            "referencia": "EPV.1.6.1",
+            "descripcion": "Comprender su pertenencia a un contexto cultural, en este caso el Andaluz, con el descubrimiento y análisis de los aspectos formales y de los factores sociales que determinan las producciones de artistas actuales, mostrando empatía y una actitud colaborativa, abierta y respetuosa.",
+            "saberes_relacionados": [
+                "EPV.1.A.1.",
+                "EPV.1.A.2."
+            ]
+        },
+        {
+            "referencia": "EPV.1.6.2",
+            "descripcion": "Identificar la representación de las vivencias y la visión del mundo que habita el alumnado, como un medio válido para aumentar la autoestima y el conocimiento de sí mismo y de sus iguales, favoreciendo los procesos de relación interpersonales.",
+            "saberes_relacionados": [
+                "EPV.1.B.5.",
+                "EPV.1.E.1.",
+                "EPV.1.E.2."
+            ]
+        },
+        {
+            "referencia": "EPV.1.6.3",
+            "descripcion": "Entender la historia del arte y la cultura como un todo continuo e inseparable, en el cual las obras del pasado son la base sobre la que se construyen las creaciones del presente.",
+            "saberes_relacionados": [
+                "EPV.1.A.2."
+            ]
+        },
+        {
+            "referencia": "EPV.1.7.1",
+            "descripcion": "Analizar y comprender el proceso creativo de un proyecto artístico, así como diferenciar las distintas técnicas visuales o audiovisuales utilizadas para la generación de mensajes.",
+            "saberes_relacionados": [
+                "EPV.1.C.1.",
+                "EPV.1.C.2."
+            ]
+        },
+        {
+            "referencia": "EPV.1.7.2",
+            "descripcion": "Iniciar la elaboración de producciones artísticas ajustadas al objetivo propuesto, utilizando las posibilidades expresivas de los elementos formales básicos en las artes visuales y audiovisuales, esforzándose en superarse y demostrando un criterio propio.",
+            "saberes_relacionados": [
+                "EPV.1.C.2."
+            ]
+        },
+        {
+            "referencia": "EPV.1.8.1",
+            "descripcion": "Identificar rasgos básicos de distintas manifestaciones artísticas en el entorno cotidiano, exponiendo de forma individual o colectiva el significado y/o finalidad de las mismas.",
+            "saberes_relacionados": [
+                "EPV.1.B.1.",
+                "EPV.1.D.1."
+            ]
+        },
+        {
+            "referencia": "EPV.1.8.2",
+            "descripcion": "Reconocer la intención comunicativa de distintos proyectos plásticos desde las distintas funciones y recursos que tiene el lenguaje visual y audiovisual y comenzar con su aplicación dentro del desarrollo proyectual individual y colectivo.",
+            "saberes_relacionados": [
+                "EPV.1.B.1.",
+                "EPV.1.B.2.",
+                "EPV.1.B.3.",
+                "EPV.1.B.4.",
+                "EPV.1.B.5.",
+                "EPV.1.D.1."
+            ]
+        },
+        {
+            "referencia": "EPV.1.8.3",
+            "descripcion": "Iniciar un proceso de análisis y reflexión a partir de los resultados obtenidos a través de la realización de los proyectos artísticos visuales o audiovisuales llevados a cabo, desarrollados de forma individual o colectiva, incidiendo en la búsqueda de soluciones a aquellos interrogantes surgidos durante la ejecución de los mismos.",
+            "saberes_relacionados": [
+                "EPV.1.B.1.",
+                "EPV.1.B.2.",
+                "EPV.1.D.1."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "Patrimonio artístico y cultural. Patrimonio en Andalucía",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPV.1.A.1.",
+            "descripcion": "Los géneros artísticos a lo largo de la Historia del Arte.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPV.1.1.1",
+                "EPV.1.1.3",
+                "EPV.1.3.2",
+                "EPV.1.6.1"
+            ]
+        },
+        {
+            "referencia": "EPV.1.A.2.",
+            "descripcion": "El patrimonio cultural y artístico en relación con su contexto histórico y natural, conocimiento, estudio y valoración de las responsabilidades que supone su conservación, sostenibilidad y mejora. Las formas geométricas en el arte y en el entorno. El patrimonio arquitectónico.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPV.1.1.1",
+                "EPV.1.1.2",
+                "EPV.1.1.3",
+                "EPV.1.3.2",
+                "EPV.1.6.1",
+                "EPV.1.6.3"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "Elementos formales de la imagen y del lenguaje visual. La expresión gráfica.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPV.1.B.1.",
+            "descripcion": "El lenguaje visual como forma de comunicación.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPV.1.2.2",
+                "EPV.1.2.3",
+                "EPV.1.8.1",
+                "EPV.1.8.2",
+                "EPV.1.8.3"
+            ]
+        },
+        {
+            "referencia": "EPV.1.B.2.",
+            "descripcion": "Elementos básicos del lenguaje visual: el punto, la línea y el plano. Posibilidades expresivas y comunicativas. El entorno comunicativo: iconicidad y abstracción. Análisis de las imágenes: denotación y connotación. Lectura objetiva y subjetiva de una imagen.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPV.1.2.2",
+                "EPV.1.8.2",
+                "EPV.1.8.3"
+            ]
+        },
+        {
+            "referencia": "EPV.1.B.3.",
+            "descripcion": "Elementos visuales, conceptos y posibilidades expresivas: forma, color y textura. Mezcla aditiva y sustractiva. Colores complementarios. Utilización expresiva del color.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPV.1.2.2",
+                "EPV.1.3.3",
+                "EPV.1.8.2"
+            ]
+        },
+        {
+            "referencia": "EPV.1.B.4.",
+            "descripcion": "La percepción visual. Introducción a los principios perceptivos, elementos y factores.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPV.1.2.2",
+                "EPV.1.3.3",
+                "EPV.1.8.2"
+            ]
+        },
+        {
+            "referencia": "EPV.1.B.5.",
+            "descripcion": "La composición. Conceptos de equilibrio, proporción y ritmo aplicados a la organización de formas en el plano y en el espacio.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPV.1.2.2",
+                "EPV.1.2.3",
+                "EPV.1.5.2",
+                "EPV.1.6.2",
+                "EPV.1.8.2"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "Expresión artística y gráfico-plástica: técnicas y procedimientos.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPV.1.C.1.",
+            "descripcion": "El proceso creativo a través de operaciones plásticas: reproducir, aislar, transformar y asociar.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPV.1.2.3",
+                "EPV.1.4.1",
+                "EPV.1.5.1",
+                "EPV.1.5.2",
+                "EPV.1.5.3",
+                "EPV.1.7.1"
+            ]
+        },
+        {
+            "referencia": "EPV.1.C.2.",
+            "descripcion": "Técnicas básicas de expresión gráfico-plástica en dos dimensiones. Técnicas secas y húmedas. Su uso en el arte y sus características expresivas. Útiles para el dibujo técnico: empleo de la escuadra y cartabón, representación de ángulos con el juego de escuadras.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPV.1.2.1",
+                "EPV.1.4.1",
+                "EPV.1.4.2",
+                "EPV.1.5.1",
+                "EPV.1.5.2",
+                "EPV.1.5.3",
+                "EPV.1.7.1",
+                "EPV.1.7.2"
+            ]
+        },
+        {
+            "referencia": "D.",
+            "descripcion": "Imagen y comunicación visual y audiovisual.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPV.1.D.1.",
+            "descripcion": "El lenguaje y la comunicación visual. Elementos de la comunicación visual: emisor, receptor, mensaje, código. Finalidades: informativa, comunicativa, expresiva y estética. Contextos y funciones. Significación de las imágenes: significante-significado, símbolos e iconos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPV.1.3.1",
+                "EPV.1.3.2",
+                "EPV.1.4.1",
+                "EPV.1.8.1",
+                "EPV.1.8.2",
+                "EPV.1.8.3"
+            ]
+        },
+        {
+            "referencia": "EPV.1.D.2.",
+            "descripcion": "Imagen fija y en movimiento, origen y evolución. Introducción a las diferentes características del cómic, la fotografía, el cine, la animación y los formatos digitales.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPV.1.4.2"
+            ]
+        },
+        {
+            "referencia": "E.",
+            "descripcion": "Geometría, repercusión en el arte y la arquitectura.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "EPV.1.E.1.",
+            "descripcion": "Análisis y representación de formas. Formas geométricas y formas orgánicas. Formas geométricas en la arquitectura.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPV.1.6.2"
+            ]
+        },
+        {
+            "referencia": "EPV.1.E.2.",
+            "descripcion": "Introducción a la geometría plana y trazados geométricos básicos. Operaciones con segmentos: trazar un segmento igual a otro, suma y resta de segmentos. Trazado de perpendiculares y paralelas con escuadra y cartabón y con compás. Ángulos: clasificación, operaciones con ángulos. Suma, resta, divisiones. Proporcionalidad: división de un segmento mediante el Teorema de Thales. Lugares geométricos: definición y trazados. Mediatriz, bisectriz, circunferencia, esfera, rectas paralelas, planos paralelos. Resolución de trazados con rectas y curvas. Los triángulos: clasificación y trazados. El baricentro, el incentro o el circuncentro. Los cuadriláteros: clasificación y trazados. Los polígonos: tipos de polígonos, concepto de polígono regular. Construcción dado radio. Trazado de polígonos regulares inscritos en una circunferencia y conocido el lado. Tangencias entre circunferencias y rectas, construcción de óvalos, ovoides y espirales. Diseño aplicando giros y simetrías de módulos.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "EPV.1.6.2"
+            ]
+        }
+    ]
+}

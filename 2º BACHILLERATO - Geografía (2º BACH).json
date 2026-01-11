@@ -1,0 +1,501 @@
+{
+    "titulo": "2º BACHILLERATO - Geografía (2º BACH)",
+    "referencia": "GEOG.2",
+    "competencias_especificas": [
+        {
+            "codigo": "GEOG.2.1",
+            "descripcion": "Reconocer los retos ecosociales actuales y futuros de España y Andalucía, debatiendo desde la perspectiva geográfica sobre los mensajes recibidos por canales oficiales e informales y desarrollando el pensamiento crítico para transformar patrones de consumo insostenibles y adoptar estilos de vida saludables."
+        },
+        {
+            "codigo": "GEOG.2.2",
+            "descripcion": "Comprender la complejidad del espacio geográfico mediante la interpretación de fuentes de información visuales para apreciar la riqueza de los paisajes naturales y humanizados, tomar conciencia del concepto de paisaje como resultado cultural y valorar la sostenibilidad como principio de las relaciones entre los ecosistemas naturales y la acción humana."
+        },
+        {
+            "codigo": "GEOG.2.3",
+            "descripcion": "Analizar la diversidad natural de Andalucía, España y su singularidad geográfica dentro de Europa a través de la comparación de características comunes y específicas del relieve, el clima, la hidrografía y la biodiversidad para reflexionar sobre la percepción personal del espacio."
+        },
+        {
+            "codigo": "GEOG.2.4",
+            "descripcion": "Aplicar las Tecnologías de la Información Geográfica (TIG), métodos y técnicas propios o de ciencias afines, localizando fenómenos naturales y humanos, y argumentando con rigor sus límites o categorías para resolver eficientemente el problema de la escala en cualquier análisis o propuesta de actuación."
+        },
+        {
+            "codigo": "GEOG.2.5",
+            "descripcion": "Asumir la globalización como contexto que enmarca la evolución de los sistemas económicos y los comportamientos sociales recientes, investigando sus relaciones de causa y efecto, creando productos propios que demuestren la interconexión y la interdependencia a todas las escalas, para promover el respeto a la dignidad humana y al medio ambiente como base de una ciudadanía global."
+        },
+        {
+            "codigo": "GEOG.2.6",
+            "descripcion": "Explicar de forma crítica los desequilibrios territoriales de España y de su estructura sociolaboral y demográfica, reconociendo los procesos y las decisiones, locales y globales, que han contribuido a las desigualdades presentes, para reforzar la conciencia de solidaridad y el compromiso con los mecanismos de cooperación y cohesión españoles y europeos."
+        },
+        {
+            "codigo": "GEOG.2.7",
+            "descripcion": "Movilizar conocimientos previos, nuevos y de otros campos del saber al abordar situaciones del pasado, del presente o del futuro, mediante el estudio de las interacciones que configuran la relación de las actividades humanas con el espacio, reorientando eficazmente decisiones y estrategias de trabajo individual o en equipo para aportar soluciones innovadoras a contextos en transformación y fomentar el aprendizaje permanente."
+        }
+    ],
+    "criterios_evaluacion": [
+        {
+            "referencia": "GEOG.2.1.1",
+            "descripcion": "Cuestionar modos de vida insostenibles mediante el análisis geográfico de todo tipo de fuentes de información que trate los retos ecosociales presentes y futuros desde argumentos fundados en la relevancia y la necesidad de las acciones para afrontarlos.",
+            "saberes_relacionados": [
+                "GEOG.2.C.7.1.",
+                "GEOG.2.C.7.2."
+            ]
+        },
+        {
+            "referencia": "GEOG.2.1.2",
+            "descripcion": "Debatir sobre los retos naturales y sociales de España de forma comprometida y respetuosa con opiniones ajenas, utilizando estrategias orales con apoyo digital de gráficos, imágenes y cartografía y manejando datos rigurosos.",
+            "saberes_relacionados": [
+                "GEOG.2.B.4.",
+                "GEOG.2.B.5.",
+                "GEOG.2.B.6."
+            ]
+        },
+        {
+            "referencia": "GEOG.2.1.3",
+            "descripcion": "Identificar problemas económicos, sociales y ambientales, a nivel local, valorando las responsabilidades personales y proponiendo actuaciones propias y directas.",
+            "saberes_relacionados": [
+                "GEOG.2.C.7.1.",
+                "GEOG.2.C.7.2."
+            ]
+        },
+        {
+            "referencia": "GEOG.2.2.1",
+            "descripcion": "Documentar el concepto de paisaje como resultado cultural, identificando paisajes diferentes como producto de procesos culturales distintos.",
+            "saberes_relacionados": [
+                "GEOG.2.C.2.1.",
+                "GEOG.2.C.3.1."
+            ]
+        },
+        {
+            "referencia": "GEOG.2.2.2",
+            "descripcion": "Valorar todo impacto de la acción antrópica desde el principio de sostenibilidad, reconociendo la complejidad sistémica del medio natural y de las propias actividades humanas.",
+            "saberes_relacionados": [
+                "GEOG.2.B.3.2.",
+                "GEOG.2.B.5.",
+                "GEOG.2.C.2.2."
+            ]
+        },
+        {
+            "referencia": "GEOG.2.2.3",
+            "descripcion": "Extraer información de paisajes naturales y humanizados, analizando fuentes visuales, distinguiendo elementos geográficos e interpretando la influencia e interrelaciones de factores físicos y humanos.",
+            "saberes_relacionados": [
+                "GEOG.2.A.3.1.",
+                "GEOG.2.A.3.2.",
+                "GEOG.2.A.4.3."
+            ]
+        },
+        {
+            "referencia": "GEOG.2.3.1",
+            "descripcion": "Reflexionar sobre la percepción del espacio geográfico, localizando y reconociendo en mapas las principales unidades geomorfológicas, litológicas y edáficas con características comunes y específicas.",
+            "saberes_relacionados": [
+                "GEOG.2.B.1.",
+                "GEOG.2.B.2."
+            ]
+        },
+        {
+            "referencia": "GEOG.2.3.2",
+            "descripcion": "Analizar la diversidad climática en España, distinguiendo los distintos factores y elementos del clima e interpretando mapas meteorológicos junto con otros datos climatológicos proporcionados por las TIG para reconocer y analizar la variedad de tipos de tiempo atmosférico, evaluando su incidencia en la conformación de las diferentes regiones vegetales y valorando sus consecuencias sobre el territorio, la población y los recursos.",
+            "saberes_relacionados": [
+                "GEOG.2.B.3.1.",
+                "GEOG.2.B.3.2."
+            ]
+        },
+        {
+            "referencia": "GEOG.2.3.3",
+            "descripcion": "Analizar e interpretar la diversidad hídrica de la península ibérica, identificando los diversos regímenes hídricos existentes, valorando y debatiendo su importancia ecológica y el aprovechamiento que se realiza de los recursos hídricos en nuestro país.",
+            "saberes_relacionados": [
+                "GEOG.2.B.3.2.",
+                "GEOG.2.B.4."
+            ]
+        },
+        {
+            "referencia": "GEOG.2.3.4",
+            "descripcion": "Identificar la diversidad y singularidad de paisajes naturales, comparando su distribución, características y contrastes a escala autonómica, de España y de Europa, así como formas humanas de relación con esos entornos.",
+            "saberes_relacionados": [
+                "GEOG.2.B.4.",
+                "GEOG.2.B.5."
+            ]
+        },
+        {
+            "referencia": "GEOG.2.4.1",
+            "descripcion": "Emplear la escala apropiada para localizar o representar con apoyo de las TIG cualquier fenómeno físico o humano, justificando los métodos y datos elegidos y la delimitación de regiones o categorías de análisis, así como de áreas de transición.",
+            "saberes_relacionados": [
+                "GEOG.2.A.1.",
+                "GEOG.2.A.3.1."
+            ]
+        },
+        {
+            "referencia": "GEOG.2.4.2",
+            "descripcion": "Interpretar los fenómenos naturales y humanos, valorando la información que nos facilitan y ofrecen las Tecnologías de la Información Geográfica (TIG) y métodos y técnicas propios de otras ciencias afines, con la finalidad de identificar, describir, analizar e interpretar los elementos que integran el espacio geográfico, distinguiendo entre paisajes naturales y culturales.",
+            "saberes_relacionados": [
+                "GEOG.2.C.7.1.",
+                "GEOG.2.C.7.2."
+            ]
+        },
+        {
+            "referencia": "GEOG.2.4.3",
+            "descripcion": "Crear productos propios individuales o en grupo con fines explicativos comunicando diagnósticos, proponiendo hipótesis o conclusiones, y aplicando las TIG.",
+            "saberes_relacionados": [
+                "GEOG.2.C.2.2.",
+                "GEOG.2.C.7.2."
+            ]
+        },
+        {
+            "referencia": "GEOG.2.5.1",
+            "descripcion": "Valorar la globalización como contexto de evolución socioeconómica y cultural, analizando el impacto de las relaciones entre España y las grandes áreas geopolíticas y socioeconómicas mundiales a través de distintas fuentes de información, con la finalidad de valorar los aspectos más relevantes de la situación de España en el orden mundial y, más concretamente, en la Unión Europea.",
+            "saberes_relacionados": [
+                "GEOG.2.A.2.1.",
+                "GEOG.2.A.2.2.",
+                "GEOG.2.A.3.1."
+            ]
+        },
+        {
+            "referencia": "GEOG.2.5.2",
+            "descripcion": "Valorar la dignidad humana analizando críticamente las consecuencias de nuestras acciones sobre las condiciones laborales y de vida, tanto en Andalucía y España como en otros países, investigando el sistema de relaciones económicas globalizadas y los sectores económicos, y planteando soluciones razonables.",
+            "saberes_relacionados": [
+                "GEOG.2.A.3.2.",
+                "GEOG.2.A.4.3."
+            ]
+        },
+        {
+            "referencia": "GEOG.2.5.3",
+            "descripcion": "Expresar la necesidad de preservar el medio natural indagando sobre los impactos de los modos de producción, distribución y consumo a escala local y global, y proponiendo actuaciones de mejora.",
+            "saberes_relacionados": [
+                "GEOG.2.C.7.1."
+            ]
+        },
+        {
+            "referencia": "GEOG.2.6.1",
+            "descripcion": "Justificar la necesidad de mecanismos de compensación de las desigualdades individuales y territoriales, identificando los procesos pasados y recientes, así como sus causas y consecuencias sociolaborales y demográficas.",
+            "saberes_relacionados": [
+                "GEOG.2.C.3.1.",
+                "GEOG.2.C.4."
+            ]
+        },
+        {
+            "referencia": "GEOG.2.6.2",
+            "descripcion": "Argumentar sobre el origen de los desequilibrios socioeconómicos de España y Europa, analizando los factores de localización de las actividades económicas y de la población en una sociedad terciarizada.",
+            "saberes_relacionados": [
+                "GEOG.2.C.1.",
+                "GEOG.2.C.5.",
+                "GEOG.2.C.6."
+            ]
+        },
+        {
+            "referencia": "GEOG.2.6.3",
+            "descripcion": "Situar en el contexto cercano ejemplos de desequilibrios identificando su origen.",
+            "saberes_relacionados": [
+                "GEOG.2.A.3.2.",
+                "GEOG.2.A.4.3."
+            ]
+        },
+        {
+            "referencia": "GEOG.2.7.1",
+            "descripcion": "Reelaborar saberes sobre fenómenos naturales y humanos relevantes a diferentes escalas y en nuevos contextos, aplicando el pensamiento geográfico, movilizando y revisando críticamente conocimientos previos y nuevos, diagnosticando problemas y oportunidades, y razonando sobre posibles previsiones y soluciones.",
+            "saberes_relacionados": [
+                "GEOG.2.B.6.",
+                "GEOG.2.C.3.2."
+            ]
+        },
+        {
+            "referencia": "GEOG.2.7.2",
+            "descripcion": "Reflexionar sobre el conflicto generado entre espacio natural y actividad antrópica, analizando, debatiendo y exponiendo en grupo, a partir de argumentos diferentes.",
+            "saberes_relacionados": [
+                "GEOG.2.C.7.1.",
+                "GEOG.2.C.7.2."
+            ]
+        },
+        {
+            "referencia": "GEOG.2.7.3",
+            "descripcion": "Documentar la actual organización territorial del Estado Español, tomando como base la evolución histórica y la Constitución de 1978, analizando, debatiendo y exponiendo en grupo la información extraída de distintas fuentes y recursos, sobre las causas de los desequilibrios y contrastes territoriales, así como sus posibles mecanismos correctores.",
+            "saberes_relacionados": [
+                "GEOG.2.A.4.1.",
+                "GEOG.2.A.4.2."
+            ]
+        }
+    ],
+    "saberes_basicos": [
+        {
+            "referencia": "A.",
+            "descripcion": "España, Europa y la globalización.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "GEOG.2.A.1.",
+            "descripcion": "España: localización y situación geográfica en el mundo a través de mapas de relieve, bioclimáticos y políticos. Técnicas cartográficas y nuevas tecnologías de la información geográfica. Geoposicionamiento y dispositivos móviles.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEOG.2.4.1"
+            ]
+        },
+        {
+            "referencia": "GEOG.2.A.2.",
+            "descripcion": "España en el mundo.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "GEOG.2.A.2.1.",
+            "descripcion": "Mapa físico y político del mundo. Posición relativa de España en el mundo según diferentes indicadores socioeconómicos.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "GEOG.2.5.1"
+            ]
+        },
+        {
+            "referencia": "GEOG.2.A.2.2.",
+            "descripcion": "España ante la globalización: amenazas y oportunidades. Contexto geopolítico mundial y participación en organismos internacionales. Cooperación internacional y misiones en el exterior. Diagnóstico de los compromisos con los Objetivos de Desarrollo Sostenible.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "GEOG.2.5.1"
+            ]
+        },
+        {
+            "referencia": "GEOG.2.A.3.",
+            "descripcion": "España en Europa.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "GEOG.2.A.3.1.",
+            "descripcion": "Localización de países, capitales y aspectos naturales. Mapa físico y político de Europa. El proceso de construcción europeo: de la Comunidad Económica Europea a la Unión Europea. La Unión Europea en la actualidad: su influencia en situaciones cotidianas. Instituciones y políticas comunitarias.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "GEOG.2.2.3",
+                "GEOG.2.4.1",
+                "GEOG.2.5.1"
+            ]
+        },
+        {
+            "referencia": "GEOG.2.A.3.2.",
+            "descripcion": "Análisis de desequilibrios territoriales y políticas de cohesión a través del uso de mapas y de indicadores socioeconómicos. Retos futuros de España dentro del marco de la Unión Europea.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "GEOG.2.2.3",
+                "GEOG.2.5.2",
+                "GEOG.2.6.3"
+            ]
+        },
+        {
+            "referencia": "GEOG.2.A.4.",
+            "descripcion": "Organización territorial y administrativa de España.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "GEOG.2.A.4.1.",
+            "descripcion": "Factores históricos y el Estado de las Autonomías en la Constitución de 1978.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "GEOG.2.7.3"
+            ]
+        },
+        {
+            "referencia": "GEOG.2.A.4.2.",
+            "descripcion": "Gestión y ordenación del territorio: debate sobre las políticas de cohesión y desarrollo regional. El estudio de las distintas realidades territoriales nacionales y autonómicas. La complejidad territorial andaluza.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "GEOG.2.7.3"
+            ]
+        },
+        {
+            "referencia": "GEOG.2.A.4.3.",
+            "descripcion": "El estudio de los desequilibrios territoriales. Utilidad del Atlas Nacional de España y de los indicadores socioeconómicos oficiales. El futuro del estado del bienestar.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "GEOG.2.2.3",
+                "GEOG.2.5.2",
+                "GEOG.2.6.3"
+            ]
+        },
+        {
+            "referencia": "B.",
+            "descripcion": "La sostenibilidad del medio físico de España.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "GEOG.2.B.1.",
+            "descripcion": "Localización y distribución de las grandes unidades geomorfológicas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEOG.2.3.1"
+            ]
+        },
+        {
+            "referencia": "GEOG.2.B.2.",
+            "descripcion": "Factores físicos y diversidad de paisajes y ecosistemas. Análisis de los condicionantes geomorfológicos, bioclimáticos, edáficos, hídricos y relativos a las actividades humanas y prevención de los riesgos asociados para las personas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEOG.2.3.1"
+            ]
+        },
+        {
+            "referencia": "GEOG.2.B.3.",
+            "descripcion": "Diversidad climática de España.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "GEOG.2.B.3.1.",
+            "descripcion": "Factores geográficos y elementos del clima. Tipos de tiempo atmosférico: situaciones sinópticas que afectan al territorio español. Análisis comparativos de distribución y representación de climas. Climogramas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "GEOG.2.3.2"
+            ]
+        },
+        {
+            "referencia": "GEOG.2.B.3.2.",
+            "descripcion": "Emergencia climática: cambios en los patrones termopluviométricos; causas, consecuencias y medidas de mitigación y adaptación. Estrategias de interpretación del tiempo y alertas meteorológicas; webs y aplicaciones móviles.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "GEOG.2.2.2",
+                "GEOG.2.3.2",
+                "GEOG.2.3.3"
+            ]
+        },
+        {
+            "referencia": "GEOG.2.B.4.",
+            "descripcion": "Biodiversidad, suelos y red hídrica. Aguas superficiales y subterráneas. Cuencas fluviales y vertientes hidrográficas peninsulares. Humedales. Acuíferos. Factores geográficos y distribución de las formaciones vegetales en España. Variedad edáfica y características de los suelos españoles. Características por regiones naturales. Impacto de las actividades humanas y efectos sobre las mismas: pérdida de biodiversidad, de suelos y gestión del agua. Interpretación de imágenes, cartografía y datos. Riesgos generados por las personas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEOG.2.1.2",
+                "GEOG.2.3.3",
+                "GEOG.2.3.4"
+            ]
+        },
+        {
+            "referencia": "GEOG.2.B.5.",
+            "descripcion": "La red de Espacios Naturales Protegidos, Parques Nacionales y Parques y Monumentos Naturales de Andalucía, y la red Natura 2000.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEOG.2.1.2",
+                "GEOG.2.2.2",
+                "GEOG.2.3.4"
+            ]
+        },
+        {
+            "referencia": "GEOG.2.B.6.",
+            "descripcion": "Políticas ambientales en España y la Unión Europea: uso de herramientas de diagnóstico. Debate sobre los cambios del modelo de desarrollo: el principio de sostenibilidad.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEOG.2.1.2",
+                "GEOG.2.7.1"
+            ]
+        },
+        {
+            "referencia": "C.",
+            "descripcion": "La ordenación del territorio en el enfoque ecosocial.",
+            "jerarquia": 0,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "GEOG.2.C.1.",
+            "descripcion": "La población española: análisis de su estructura y desequilibrios. Interpretación causal de datos, gráficos y mapas: tendencias pasadas, presentes y proyecciones. Ventajas e inconvenientes de los movimientos migratorios; el respeto por la diversidad étnica y cultural. El reto demográfico: envejecimiento y despoblación rural. La España vaciada. El caso de Andalucía.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEOG.2.6.2"
+            ]
+        },
+        {
+            "referencia": "GEOG.2.C.2.",
+            "descripcion": "Los espacios urbanos en España.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "GEOG.2.C.2.1.",
+            "descripcion": "Las grandes concentraciones urbanas en un contexto europeo y mundial. Funciones de la ciudad y relaciones de interdependencia con el territorio. Evolución histórica del proceso de urbanización. La red urbana andaluza.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "GEOG.2.2.1"
+            ]
+        },
+        {
+            "referencia": "GEOG.2.C.2.2.",
+            "descripcion": "Estructura urbana a través de los planos: repercusiones sobre las formas de vida y los impactos medioambientales. Problemas estructurales, socioeconómicos y demográficos. Modelos de ciudades sostenibles. El uso del espacio público. La movilidad segura, saludable y sostenible. La prevención de la destrucción del legado histórico urbanístico de España.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "GEOG.2.2.2",
+                "GEOG.2.4.3"
+            ]
+        },
+        {
+            "referencia": "GEOG.2.C.3.",
+            "descripcion": "Los espacios rurales.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "GEOG.2.C.3.1.",
+            "descripcion": "El concepto de «espacio rural»: diferencias entre lo rural y lo agrario. Tipos de poblamiento, hábitat y parcelas. Condicionantes físicos del espacio agrario. La participación de las actividades agrarias en la economía española. La estructura agraria: sistemas de propiedad, aprovechamientos y técnicas. Identificación y valoración de los paisajes agrarios. Transformaciones de las actividades agropecuarias: prácticas sostenibles e insostenibles. El valor socioambiental de los productos agroalimentarios y forestales de cercanía: indagación de huellas ecológicas y de la estructura sociolaboral. Situación del sector agropecuario en Andalucía.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "GEOG.2.2.1",
+                "GEOG.2.6.1"
+            ]
+        },
+        {
+            "referencia": "GEOG.2.C.3.2.",
+            "descripcion": "Influencia de la actual Política Agraria Común en el desarrollo rural y la sostenibilidad. Estudio de casos: etiquetados diferenciados, ecológico, etc.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "GEOG.2.7.1"
+            ]
+        },
+        {
+            "referencia": "GEOG.2.C.4.",
+            "descripcion": "Los recursos marinos: pesca, acuicultura y otros aprovechamientos. Los espacios pesqueros españoles: localización y condicionantes físicos. La actividad pesquera y su participación en la economía española. Análisis de las características y de la producción pesquera en España. Sostenibilidad y Política Pesquera Común. Estudio de casos: marisqueo, pesca de bajura y altura, acuicultura, sobreexplotación de caladeros, etc. La importancia del sector en Andalucía.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEOG.2.6.1"
+            ]
+        },
+        {
+            "referencia": "GEOG.2.C.5.",
+            "descripcion": "Los espacios industriales. La actividad industrial y su aportación a la economía española. Transformaciones en las actividades industriales y los paisajes: materias primas y fuentes de energía. Evaluación de huellas ecológicas; dependencia y transición energéticas. El proceso de industrialización en España: evolución histórica y características. Estructura del tejido industrial, sociolaboral y de empleo indirecto. Impacto de la deslocalización sobre sectores de la industria española. Estudio de casos: construcción, automovilístico, agroalimentario, etc., y factores de localización. Debate sobre la influencia de las políticas de la Unión Europea. Situación del sector industrial andaluz.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEOG.2.6.2"
+            ]
+        },
+        {
+            "referencia": "GEOG.2.C.6.",
+            "descripcion": "Los espacios terciarizados y el proceso de terciarización económica: causas, rasgos y participación en la economía. El modelo de economía circular y los servicios: relaciones entre producción, distribución y venta. Las tipologías de transporte. Los espacios turísticos y la evolución del modelo turístico: del binomio «sol y playa» hacia la reconversión del sector. Repercusiones, problemática y políticas. El modelo turístico andaluz. La economía digital: impacto de la «economía colaborativa» y nuevos modelos de negocio en el contexto global y de la Unión Europea. Otras actividades terciarias: sanidad, educación, servicios públicos, servicios a empresas y finanzas. El sistema de transportes como forma de articulación territorial: características, problemática y políticas.",
+            "jerarquia": 1,
+            "criterios_relacionados": [
+                "GEOG.2.6.2"
+            ]
+        },
+        {
+            "referencia": "GEOG.2.C.7.",
+            "descripcion": "Espacio geográfico como centro de relaciones humanas y sociales.",
+            "jerarquia": 1,
+            "criterios_relacionados": []
+        },
+        {
+            "referencia": "GEOG.2.C.7.1.",
+            "descripcion": "Modos de ocupación: análisis crítico de huellas ecológicas, estructura sociolaboral, responsabilidad social corporativa y de los consumidores.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "GEOG.2.1.1",
+                "GEOG.2.1.3",
+                "GEOG.2.4.2",
+                "GEOG.2.5.3",
+                "GEOG.2.7.2"
+            ]
+        },
+        {
+            "referencia": "GEOG.2.C.7.2.",
+            "descripcion": "Estudio de casos: competitividad y desequilibrios en transporte, comercio, turismo, servicios esenciales, etc. y factores de localización. Modelos insostenibles de servicios y alternativas.",
+            "jerarquia": 2,
+            "criterios_relacionados": [
+                "GEOG.2.1.1",
+                "GEOG.2.1.3",
+                "GEOG.2.4.2",
+                "GEOG.2.4.3",
+                "GEOG.2.7.2"
+            ]
+        }
+    ]
+}
